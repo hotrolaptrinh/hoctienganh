@@ -1,0 +1,51 @@
+{
+  "labels": {
+    "vocabulary": "Từ vựng",
+    "grammar": "Ngữ pháp",
+    "reading": "Bài đọc",
+    "quiz": "Bài kiểm tra"
+  },
+  "order": ["vocabulary", "grammar", "reading", "quiz"],
+  "categories": {
+    "vocabulary": [
+      {
+        "id": "vocab-intro",
+        "title": "Từ vựng chủ đề chào hỏi",
+        "description": "Những mẫu câu và từ vựng phổ biến khi chào hỏi trong tiếng Anh.",
+        "source": "content/vocabulary/vocab-intro.json",
+        "markdown": "content/vocabulary/vocab-intro.md"
+      },
+      {
+        "id": "vocab-daily",
+        "title": "Từ vựng sinh hoạt hằng ngày",
+        "description": "Mở rộng vốn từ vựng về các hoạt động thường nhật.",
+        "source": "content/vocabulary/vocab-daily.json",
+        "markdown": "content/vocabulary/vocab-daily.md"
+      }
+    ],
+    "grammar": [
+      {
+        "id": "present-simple",
+        "title": "Thì hiện tại đơn",
+        "description": "Cách dùng, cấu trúc và lưu ý quan trọng của thì hiện tại đơn.",
+        "markdown": "content/grammar/present-simple.md"
+      }
+    ],
+    "reading": [
+      {
+        "id": "morning-routine",
+        "title": "Thói quen buổi sáng",
+        "description": "Bài đọc ngắn về các hoạt động buổi sáng của một bạn học sinh.",
+        "markdown": "content/reading/morning-routine.md"
+      }
+    ],
+    "quiz": [
+      {
+        "id": "greeting-check",
+        "title": "Quiz: Chào hỏi",
+        "description": "Kiểm tra nhanh vốn từ vựng về chủ đề chào hỏi.",
+        "source": "content/quiz/greeting-check.json"
+      }
+    ]
+  }
+}
