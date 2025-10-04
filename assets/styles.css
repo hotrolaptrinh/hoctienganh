@@ -27,7 +27,6 @@ body {
   font-family: var(--font-sans);
   background: linear-gradient(180deg, #f8fafc 0%, #e0f2fe 100%);
   color: var(--text);
-  font-size: 16px;
 }
 
 body.dark {
@@ -162,7 +161,6 @@ table.vocabulary {
   border-radius: 16px;
   overflow: hidden;
   box-shadow: var(--shadow);
-  min-width: 520px;
 }
 
 table.vocabulary th,
@@ -200,12 +198,6 @@ table.vocabulary tr:last-child td {
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 24px;
-}
-
-.table-scroll {
-  overflow-x: auto;
-  margin: 16px 0 24px;
-  border-radius: 18px;
 }
 
 .markdown {
@@ -357,104 +349,11 @@ table.vocabulary tr:last-child td {
 }
 
 @media (max-width: 720px) {
-  body {
-    font-size: 15px;
-  }
-
   .app {
     padding: 32px 16px 80px;
   }
 
-  header {
-    gap: 12px;
-  }
-
-  .card {
-    padding: 20px;
-  }
-
   table.vocabulary {
     font-size: 0.9rem;
-  }
-}
-
-@media (max-width: 540px) {
-  body {
-    font-size: 14.5px;
-  }
-
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .card {
-    padding: 18px;
-  }
-
-  .card h3 {
-    font-size: 1.15rem;
-  }
-
-  .card p {
-    font-size: 0.92rem;
-  }
-
-  .markdown {
-    font-size: 0.95rem;
-  }
-}
-
-@media (max-width: 420px) {
-  body {
-    font-size: 13.5px;
-  }
-
-  .app {
-    padding: 24px 14px 64px;
-  }
-
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  h1 {
-    font-size: clamp(1.8rem, 7vw, 2.4rem);
-  }
-
-  .layout-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 8px;
-  }
-
-  .lesson-controls {
-    flex-direction: column;
-    align-items: stretch;
-  }
-
-  .lesson-controls .button {
-    width: 100%;
-    justify-content: center;
-  }
-
-  a.button,
-  button.button {
-    padding: 10px 14px;
-    font-size: 0.9rem;
-  }
-}
-
-@media (max-width: 360px) {
-  body {
-    font-size: 13px;
-  }
-
-  .card {
-    padding: 16px;
-  }
-
-  table.vocabulary {
-    font-size: 0.85rem;
   }
 }
