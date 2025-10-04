@@ -6,29 +6,6 @@ const errorTemplate = document.getElementById('error-template');
 
 const STORAGE_KEY = 'english-learning-progress-v1';
 
-const partOfSpeechMap = {
-  noun: 'n.',
-  verb: 'v.',
-  adjective: 'adj.',
-  adverb: 'adv.',
-  pronoun: 'pron.',
-  preposition: 'prep.',
-  conjunction: 'conj.',
-  interjection: 'interj.',
-  determiner: 'det.',
-  article: 'art.',
-  phrase: 'phr.',
-  'verb phrase': 'v. phr.',
-  'phrasal verb': 'phr. v.',
-  expression: 'expr.',
-  idiom: 'idiom',
-};
-
-function formatPartOfSpeech(value = '') {
-  const key = value.trim().toLowerCase();
-  return partOfSpeechMap[key] || value;
-}
-
 const state = {
   index: null,
   flatLessons: [],
@@ -196,7 +173,7 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
       (item) => `
       <tr>
         <td>${item.word}</td>
-        <td>${formatPartOfSpeech(item.partOfSpeech)}</td>
+        <td>${item.partOfSpeech}</td>
         <td>${item.ipa}</td>
         <td>${item.meaning}</td>
         <td><button class="button secondary" data-say="${encodeURIComponent(item.word)}">Đọc</button></td>
@@ -211,27 +188,18 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
         <h2>${lesson.title}</h2>
       </div>
       <p>${lesson.description || ''}</p>
-      <div class="table-scroll">
-        <table class="vocabulary">
-          <colgroup>
-            <col class="col-word" />
-            <col class="col-pos" />
-            <col class="col-ipa" />
-            <col class="col-meaning" />
-            <col class="col-audio" />
-          </colgroup>
-          <thead>
-            <tr>
-              <th>Từ vựng</th>
-              <th>Từ loại</th>
-              <th>IPA</th>
-              <th>Nghĩa</th>
-              <th>Phát âm</th>
-            </tr>
-          </thead>
-          <tbody>${tableRows}</tbody>
-        </table>
-      </div>
+      <table class="vocabulary">
+        <thead>
+          <tr>
+            <th>Từ vựng</th>
+            <th>Từ loại</th>
+            <th>IPA</th>
+            <th>Nghĩa</th>
+            <th>Phát âm</th>
+          </tr>
+        </thead>
+        <tbody>${tableRows}</tbody>
+      </table>
       ${markdown ? `<div class="markdown">${renderMarkdown(markdown)}</div>` : ''}
       ${renderNavigation(category, lesson.id)}
     </section>
