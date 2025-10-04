@@ -21,6 +21,55 @@
         "description": "Mở rộng vốn từ vựng về các hoạt động thường nhật.",
         "source": "content/vocabulary/vocab-daily.json",
         "markdown": "content/vocabulary/vocab-daily.md"
+      },
+      {
+        "id": "toeic-day-01",
+        "title": "TOEIC Day 1 - Office Essentials",
+        "description": "25 từ vựng văn phòng cốt lõi phục vụ giao tiếp và họp hành.",
+        "source": "content/vocabulary/toeic-day-01.json",
+        "markdown": "content/vocabulary/toeic-day-01.md"
+      },
+      {
+        "id": "toeic-day-02",
+        "title": "TOEIC Day 2 - Marketing & Sales",
+        "description": "Từ khóa tiếp thị và bán hàng thường gặp trong đề TOEIC.",
+        "source": "content/vocabulary/toeic-day-02.json",
+        "markdown": "content/vocabulary/toeic-day-02.md"
+      },
+      {
+        "id": "toeic-day-03",
+        "title": "TOEIC Day 3 - Finance & Accounting",
+        "description": "Thuật ngữ tài chính, kế toán giúp hiểu báo cáo và trao đổi ngân sách.",
+        "source": "content/vocabulary/toeic-day-03.json",
+        "markdown": "content/vocabulary/toeic-day-03.md"
+      },
+      {
+        "id": "toeic-day-04",
+        "title": "TOEIC Day 4 - Operations & Production",
+        "description": "Từ vựng chuỗi cung ứng, sản xuất và kiểm soát chất lượng.",
+        "source": "content/vocabulary/toeic-day-04.json",
+        "markdown": "content/vocabulary/toeic-day-04.md"
+      },
+      {
+        "id": "toeic-day-05",
+        "title": "TOEIC Day 5 - Human Resources",
+        "description": "Các khái niệm nhân sự phục vụ phỏng vấn và chính sách công ty.",
+        "source": "content/vocabulary/toeic-day-05.json",
+        "markdown": "content/vocabulary/toeic-day-05.md"
+      },
+      {
+        "id": "toeic-day-06",
+        "title": "TOEIC Day 6 - Business Travel",
+        "description": "Tình huống đi công tác, đặt vé và dịch vụ khách sạn.",
+        "source": "content/vocabulary/toeic-day-06.json",
+        "markdown": "content/vocabulary/toeic-day-06.md"
+      },
+      {
+        "id": "toeic-day-07",
+        "title": "TOEIC Day 7 - Technology at Work",
+        "description": "Từ ngữ công nghệ văn phòng và bảo mật thông tin.",
+        "source": "content/vocabulary/toeic-day-07.json",
+        "markdown": "content/vocabulary/toeic-day-07.md"
       }
     ],
     "grammar": [

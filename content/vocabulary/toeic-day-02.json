@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 2 - Marketing & Sales",
+  "words": [
+    {"word": "advertisement", "partOfSpeech": "n.", "ipa": "/ˌædvəˈtaɪzmənt/", "meaning": "quảng cáo"},
+    {"word": "affordable", "partOfSpeech": "adj.", "ipa": "/əˈfɔːdəbl/", "meaning": "giá cả phải chăng"},
+    {"word": "analysis", "partOfSpeech": "n.", "ipa": "/əˈnæləsɪs/", "meaning": "sự phân tích"},
+    {"word": "brand", "partOfSpeech": "n.", "ipa": "/brænd/", "meaning": "thương hiệu"},
+    {"word": "campaign", "partOfSpeech": "n.", "ipa": "/kæmˈpeɪn/", "meaning": "chiến dịch"},
+    {"word": "consumer", "partOfSpeech": "n.", "ipa": "/kənˈsjuːmə/", "meaning": "người tiêu dùng"},
+    {"word": "demographic", "partOfSpeech": "n.", "ipa": "/ˌdeməˈɡræfɪk/", "meaning": "nhóm nhân khẩu học"},
+    {"word": "endorse", "partOfSpeech": "v.", "ipa": "/ɪnˈdɔːs/", "meaning": "chứng thực, ủng hộ"},
+    {"word": "feedback", "partOfSpeech": "n.", "ipa": "/ˈfiːdbæk/", "meaning": "phản hồi"},
+    {"word": "launch", "partOfSpeech": "v.", "ipa": "/lɔːntʃ/", "meaning": "ra mắt"},
+    {"word": "market share", "partOfSpeech": "n. phr.", "ipa": "/ˈmɑːkɪt ʃeə/", "meaning": "thị phần"},
+    {"word": "merchandise", "partOfSpeech": "n.", "ipa": "/ˈmɜːtʃəndaɪz/", "meaning": "hàng hóa"},
+    {"word": "outlet", "partOfSpeech": "n.", "ipa": "/ˈaʊtlet/", "meaning": "cửa hàng, đại lý"},
+    {"word": "promotion", "partOfSpeech": "n.", "ipa": "/prəˈməʊʃn/", "meaning": "khuyến mãi"},
+    {"word": "publicity", "partOfSpeech": "n.", "ipa": "/pʌbˈlɪsəti/", "meaning": "sự quảng bá"},
+    {"word": "reputation", "partOfSpeech": "n.", "ipa": "/ˌrepjuˈteɪʃn/", "meaning": "danh tiếng"},
+    {"word": "research", "partOfSpeech": "n.", "ipa": "/rɪˈsɜːtʃ/", "meaning": "nghiên cứu"},
+    {"word": "retail", "partOfSpeech": "n.", "ipa": "/ˈriːteɪl/", "meaning": "bán lẻ"},
+    {"word": "strategy", "partOfSpeech": "n.", "ipa": "/ˈstrætədʒi/", "meaning": "chiến lược"},
+    {"word": "subscription", "partOfSpeech": "n.", "ipa": "/səbˈskrɪpʃn/", "meaning": "đăng ký dài hạn"},
+    {"word": "target", "partOfSpeech": "v.", "ipa": "/ˈtɑːɡɪt/", "meaning": "nhắm tới"},
+    {"word": "trend", "partOfSpeech": "n.", "ipa": "/trend/", "meaning": "xu hướng"},
+    {"word": "vendor", "partOfSpeech": "n.", "ipa": "/ˈvendə/", "meaning": "nhà bán hàng"},
+    {"word": "wholesale", "partOfSpeech": "adj.", "ipa": "/ˈhəʊlseɪl/", "meaning": "bán sỉ"},
+    {"word": "warranty", "partOfSpeech": "n.", "ipa": "/ˈwɒrənti/", "meaning": "bảo hành"}
+  ]
+}
