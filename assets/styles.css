@@ -248,6 +248,18 @@ table.vocabulary tr:last-child td {
   margin: 0;
 }
 
+.layout-header h2 a {
+  color: inherit;
+  text-decoration: none;
+  display: inline-flex;
+  padding-bottom: 6px;
+}
+
+.layout-header h2 a:focus-visible,
+.layout-header h2 a:hover {
+  text-decoration: underline;
+}
+
 .lesson-controls {
   display: flex;
   flex-wrap: wrap;

@@ -154,10 +154,11 @@ function renderTOC() {
           `;
         })
         .join('');
+      const label = state.index.labels?.[categoryKey] || categoryKey;
       return `
         <section>
           <div class="layout-header">
-            <h2>${state.index.labels?.[categoryKey] || categoryKey}</h2>
+            <h2><a class="category-link" href="#/category/${categoryKey}">${label}</a></h2>
             <span>${lessons.length} bài học</span>
           </div>
           <div class="${gridClass}">${cards}</div>
