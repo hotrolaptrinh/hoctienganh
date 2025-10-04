@@ -29,6 +29,10 @@ function formatPartOfSpeech(value = '') {
   return partOfSpeechMap[key] || value;
 }
 
+function getLessonButtonLabel(status) {
+  return status === 'đang học' ? 'Đang học' : 'Học tiếp';
+}
+
 const state = {
   index: null,
   flatLessons: [],
@@ -82,7 +86,8 @@ function updateProgress(category, lessonId, status) {
 
 function getLessonStatus(category, lessonId) {
   const progress = getProgress();
-  return progress?.[category]?.[lessonId] || 'chưa học';
+  const status = progress?.[category]?.[lessonId] || '';
+  return status === 'chưa học' ? '' : status;
 }
 
 function buildFlatLessons() {
@@ -131,22 +136,19 @@ function renderTOC() {
     .map((categoryKey) => {
       const lessons = state.index.categories[categoryKey] || [];
       if (!lessons.length) return '';
+      const gridClass = lessons.length > 6 ? 'card-grid scrollable' : 'card-grid';
       const cards = lessons
         .map((lesson) => {
           const status = getLessonStatus(categoryKey, lesson.id);
-          const statusClass =
-            status === 'hoàn thành'
-              ? 'status complete'
-              : status === 'đang học'
-              ? 'status in-progress'
-              : 'status';
+          const badge = status === 'hoàn thành' ? '<span class="status">Hoàn thành</span>' : '';
+          const buttonLabel = getLessonButtonLabel(status);
           return `
             <article class="card">
-              <span class="${statusClass}">${status}</span>
+              ${badge ? badge : ''}
               <h3>${lesson.title}</h3>
               <p>${lesson.description || ''}</p>
               <div class="lesson-controls">
-                <a class="button" href="#/lesson/${categoryKey}/${lesson.id}">Bắt đầu</a>
+                <a class="button" href="#/lesson/${categoryKey}/${lesson.id}">${buttonLabel}</a>
               </div>
             </article>
           `;
@@ -158,7 +160,7 @@ function renderTOC() {
             <h2>${state.index.labels?.[categoryKey] || categoryKey}</h2>
             <span>${lessons.length} bài học</span>
           </div>
-          <div class="card-grid">${cards}</div>
+          <div class="${gridClass}">${cards}</div>
         </section>
       `;
     })
@@ -460,22 +462,19 @@ function renderCategoryOverview(category) {
     renderError('Không tìm thấy loại bài học.');
     return;
   }
+  const gridClass = lessons.length > 6 ? 'card-grid scrollable' : 'card-grid';
   const cards = lessons
     .map((lesson) => {
       const status = getLessonStatus(category, lesson.id);
-      const statusClass =
-        status === 'hoàn thành'
-          ? 'status complete'
-          : status === 'đang học'
-          ? 'status in-progress'
-          : 'status';
+      const badge = status === 'hoàn thành' ? '<span class="status">Hoàn thành</span>' : '';
+      const buttonLabel = getLessonButtonLabel(status);
       return `
         <article class="card">
-          <span class="${statusClass}">${status}</span>
+          ${badge ? badge : ''}
           <h3>${lesson.title}</h3>
           <p>${lesson.description || ''}</p>
           <div class="lesson-controls">
-            <a class="button" href="#/lesson/${category}/${lesson.id}">Học ngay</a>
+            <a class="button" href="#/lesson/${category}/${lesson.id}">${buttonLabel}</a>
           </div>
         </article>
       `;
@@ -489,7 +488,7 @@ function renderCategoryOverview(category) {
       { label: state.index.labels?.[category] || category },
     ])}
     <section>
-      <div class="card-grid">${cards}</div>
+      <div class="${gridClass}">${cards}</div>
     </section>
   `;
 }

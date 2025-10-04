@@ -1,16 +1,23 @@
 # Thì hiện tại đơn
 
-Thì hiện tại đơn được dùng để diễn tả thói quen, sự thật hiển nhiên hoặc lịch trình.
+Thì hiện tại đơn được dùng để diễn tả thói quen, sự thật hiển nhiên hoặc lịch trình cố định.
 
-:::callout color="green" label="Câu khẳng định" note="Sử dụng do/does khi thêm trợ động từ."
-- Chủ ngữ (I/You/We/They) + động từ nguyên mẫu.
-- Chủ ngữ (He/She/It) + động từ thêm "s/es".
+## Khi nào dùng
+- Thói quen, hành động lặp lại hằng ngày/tuần.
+- Sự thật, quy luật tự nhiên, đặc điểm không đổi.
+- Lịch trình, thời gian biểu cố định (tàu xe, lớp học).
+- Mệnh lệnh, hướng dẫn, câu chỉ dẫn trong sách nấu ăn.
 
-Ví dụ: She _goes_ to school every day.
+## Cấu trúc
+:::callout color="green" label="Câu khẳng định" note="Động từ thêm -s/-es với he/she/it."
+- Chủ ngữ (I/You/We/They) + V nguyên mẫu.
+- Chủ ngữ (He/She/It) + V + s/es.
+
+Ví dụ: She **goes** to school every day.
 :::
 
-:::callout color="yellow" label="Câu phủ định" note="Đừng quên trợ động từ do/does."
-- Chủ ngữ + do/does + not + động từ nguyên mẫu.
+:::callout color="yellow" label="Câu phủ định" note="Dùng do/does + not trước động từ."
+- Chủ ngữ + do/does + not + V nguyên mẫu.
 
 Ví dụ: He **does not** like coffee.
 :::
