@@ -29,6 +29,84 @@
         "title": "Thì hiện tại đơn",
         "description": "Cách dùng, cấu trúc và lưu ý quan trọng của thì hiện tại đơn.",
         "markdown": "content/grammar/present-simple.md"
+      },
+      {
+        "id": "present-continuous",
+        "title": "Thì hiện tại tiếp diễn",
+        "description": "Nhận biết, cấu trúc và ví dụ chi tiết của thì hiện tại tiếp diễn.",
+        "markdown": "content/grammar/present-continuous.md"
+      },
+      {
+        "id": "present-perfect",
+        "title": "Thì hiện tại hoàn thành",
+        "description": "Các trường hợp sử dụng và ví dụ của thì hiện tại hoàn thành.",
+        "markdown": "content/grammar/present-perfect.md"
+      },
+      {
+        "id": "present-perfect-continuous",
+        "title": "Thì hiện tại hoàn thành tiếp diễn",
+        "description": "Nhấn mạnh thời lượng hành động kéo dài từ quá khứ đến hiện tại.",
+        "markdown": "content/grammar/present-perfect-continuous.md"
+      },
+      {
+        "id": "past-simple",
+        "title": "Thì quá khứ đơn",
+        "description": "Cấu trúc, dấu hiệu nhận biết và ví dụ của thì quá khứ đơn.",
+        "markdown": "content/grammar/past-simple.md"
+      },
+      {
+        "id": "past-continuous",
+        "title": "Thì quá khứ tiếp diễn",
+        "description": "Hành động đang diễn ra tại thời điểm xác định trong quá khứ.",
+        "markdown": "content/grammar/past-continuous.md"
+      },
+      {
+        "id": "past-perfect",
+        "title": "Thì quá khứ hoàn thành",
+        "description": "Hành động hoàn tất trước một sự kiện khác trong quá khứ.",
+        "markdown": "content/grammar/past-perfect.md"
+      },
+      {
+        "id": "past-perfect-continuous",
+        "title": "Thì quá khứ hoàn thành tiếp diễn",
+        "description": "Nhấn mạnh thời lượng hành động kéo dài trước một mốc quá khứ.",
+        "markdown": "content/grammar/past-perfect-continuous.md"
+      },
+      {
+        "id": "future-simple",
+        "title": "Thì tương lai đơn",
+        "description": "Cách dùng will trong giao tiếp và viết.",
+        "markdown": "content/grammar/future-simple.md"
+      },
+      {
+        "id": "future-continuous",
+        "title": "Thì tương lai tiếp diễn",
+        "description": "Hành động sẽ đang diễn ra tại thời điểm xác định trong tương lai.",
+        "markdown": "content/grammar/future-continuous.md"
+      },
+      {
+        "id": "future-perfect",
+        "title": "Thì tương lai hoàn thành",
+        "description": "Hành động sẽ hoàn tất trước một mốc thời gian trong tương lai.",
+        "markdown": "content/grammar/future-perfect.md"
+      },
+      {
+        "id": "future-perfect-continuous",
+        "title": "Thì tương lai hoàn thành tiếp diễn",
+        "description": "Nhấn mạnh thời lượng hành động kéo dài đến một mốc tương lai.",
+        "markdown": "content/grammar/future-perfect-continuous.md"
+      },
+      {
+        "id": "comparatives-superlatives",
+        "title": "So sánh hơn và so sánh nhất",
+        "description": "Hệ thống hóa cấu trúc so sánh hơn/nhất và các trường hợp bất quy tắc.",
+        "markdown": "content/grammar/comparatives-superlatives.md"
+      },
+      {
+        "id": "modal-verbs",
+        "title": "Động từ khuyết thiếu",
+        "description": "Tổng hợp cách dùng can, could, may, might, must, should.",
+        "markdown": "content/grammar/modal-verbs.md"
       }
     ],
     "reading": [
