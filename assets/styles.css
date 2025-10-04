@@ -27,7 +27,6 @@ body {
   font-family: var(--font-sans);
   background: linear-gradient(180deg, #f8fafc 0%, #e0f2fe 100%);
   color: var(--text);
-  font-size: 16px;
 }
 
 body.dark {
@@ -162,7 +161,6 @@ table.vocabulary {
   border-radius: 16px;
   overflow: hidden;
   box-shadow: var(--shadow);
-  min-width: 480px;
 }
 
 table.vocabulary th,
@@ -200,12 +198,6 @@ table.vocabulary tr:last-child td {
   flex-wrap: wrap;
   gap: 10px;
   margin-top: 24px;
-}
-
-.table-scroll {
-  overflow-x: auto;
-  margin: 16px 0 24px;
-  border-radius: 18px;
 }
 
 .markdown {
@@ -357,208 +349,11 @@ table.vocabulary tr:last-child td {
 }
 
 @media (max-width: 720px) {
-  body {
-    font-size: 14.5px;
-  }
-
   .app {
-    padding: 28px 16px 72px;
-  }
-
-  header {
-    gap: 10px;
-    margin-bottom: 24px;
-  }
-
-  h1 {
-    font-size: clamp(1.9rem, 5vw, 2.5rem);
-  }
-
-  .card-grid {
-    gap: 16px;
-  }
-
-  .card {
-    padding: 18px;
-  }
-
-  .card h3 {
-    font-size: 1.2rem;
-    margin-bottom: 10px;
-  }
-
-  .card p {
-    font-size: 0.92rem;
-  }
-
-  .layout-header {
-    gap: 12px;
-  }
-
-  .lesson-controls {
-    gap: 8px;
-    margin-top: 20px;
+    padding: 32px 16px 80px;
   }
 
   table.vocabulary {
-    font-size: 0.88rem;
-  }
-
-  table.vocabulary th,
-  table.vocabulary td {
-    padding: 12px 14px;
-  }
-
-  .grammar-callout,
-  .quiz-question {
-    padding: 20px;
-  }
-
-  .markdown {
-    font-size: 0.95rem;
-  }
-
-  .markdown h2 {
-    margin-top: 28px;
-    font-size: 1.6rem;
-  }
-
-  .markdown h3 {
-    margin-top: 20px;
-    font-size: 1.15rem;
-  }
-}
-
-@media (max-width: 540px) {
-  body {
-    font-size: 13.5px;
-  }
-
-  .app {
-    padding: 24px 14px 64px;
-  }
-
-  header {
-    gap: 8px;
-  }
-
-  .card-grid {
-    grid-template-columns: 1fr;
-  }
-
-  .card {
-    padding: 16px;
-  }
-
-  .card h3 {
-    font-size: 1.1rem;
-  }
-
-  .card p {
-    font-size: 0.88rem;
-  }
-
-  .lesson-controls {
-    margin-top: 16px;
-  }
-
-  a.button,
-  button.button {
-    padding: 9px 14px;
-    font-size: 0.88rem;
-  }
-
-  .grammar-callout,
-  .quiz-question {
-    padding: 18px;
-  }
-
-  .quiz-options {
-    gap: 10px;
-  }
-
-  .markdown {
     font-size: 0.9rem;
-  }
-
-  .markdown p {
-    margin-bottom: 12px;
-  }
-
-  .markdown ul {
-    padding-left: 20px;
-  }
-}
-
-@media (max-width: 420px) {
-  body {
-    font-size: 12.8px;
-  }
-
-  .app {
-    padding: 20px 12px 56px;
-  }
-
-  header {
-    flex-direction: column;
-    align-items: flex-start;
-    margin-bottom: 20px;
-  }
-
-  h1 {
-    font-size: clamp(1.6rem, 7vw, 2.2rem);
-  }
-
-  .layout-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 6px;
-  }
-
-  .lesson-controls {
-    flex-direction: column;
-    align-items: stretch;
-    gap: 6px;
-  }
-
-  .lesson-controls .button {
-    width: 100%;
-    justify-content: center;
-  }
-
-  .grammar-callout,
-  .quiz-question {
-    padding: 16px;
-  }
-
-  .quiz-options label {
-    padding: 10px 14px;
-  }
-
-  .markdown h2 {
-    font-size: 1.4rem;
-  }
-
-  .markdown h3 {
-    font-size: 1.05rem;
-  }
-}
-
-@media (max-width: 360px) {
-  body {
-    font-size: 12.4px;
-  }
-
-  .card {
-    padding: 14px;
-  }
-
-  table.vocabulary {
-    font-size: 0.82rem;
-  }
-
-  table.vocabulary th,
-  table.vocabulary td {
-    padding: 10px 12px;
   }
 }

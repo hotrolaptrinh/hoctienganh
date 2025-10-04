@@ -188,20 +188,18 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
         <h2>${lesson.title}</h2>
       </div>
       <p>${lesson.description || ''}</p>
-      <div class="table-scroll">
-        <table class="vocabulary">
-          <thead>
-            <tr>
-              <th>Từ vựng</th>
-              <th>Từ loại</th>
-              <th>IPA</th>
-              <th>Nghĩa</th>
-              <th>Phát âm</th>
-            </tr>
-          </thead>
-          <tbody>${tableRows}</tbody>
-        </table>
-      </div>
+      <table class="vocabulary">
+        <thead>
+          <tr>
+            <th>Từ vựng</th>
+            <th>Từ loại</th>
+            <th>IPA</th>
+            <th>Nghĩa</th>
+            <th>Phát âm</th>
+          </tr>
+        </thead>
+        <tbody>${tableRows}</tbody>
+      </table>
       ${markdown ? `<div class="markdown">${renderMarkdown(markdown)}</div>` : ''}
       ${renderNavigation(category, lesson.id)}
     </section>
