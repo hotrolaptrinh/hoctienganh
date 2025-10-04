@@ -1,1 +1,34 @@
-viết cho tôi một ứng dụng đơn giản để học tiếng anh, không dùng database mà dùng json và makedown. phục vụ công việc render nội dung từ makedown ra giao diện web. chức năng như sau: có một trang mục lục chứa danh sách tất cả bài học. bài học chia ra gồm: từ vựng, ngữ pháp, bài đọc, bài kiểm tra. khi tôi chọn từng loại bài học mà có giao diện layout tương ứng, nạp dữ liệu makedown và layout đó. có chức năng ghi nhớ đã học đến đâu vào cookie hoặc localstorage. trông mỗi bài học có nút Prev/next. ở layout từ vựng khi có nút để đọc từ đó.  dữ liệu từ vựng gồm: từ vựng, từ loại, ipa, nghĩa chi tiết. layout ngữ pháp thì có nhiều màu sắc, nhắn vào mỗi phần có chú thích thêm.
+# Ứng dụng học tiếng Anh mini
+
+Ứng dụng được xây dựng bằng HTML/CSS/JavaScript thuần, sử dụng JSON và Markdown để quản lý nội dung bài học. Người dùng có thể duyệt mục lục, xem bài học theo từng loại (từ vựng, ngữ pháp, bài đọc, bài kiểm tra) và ghi nhớ tiến trình thông qua LocalStorage.
+
+## Cách chạy
+
+1. Cài đặt một máy chủ tĩnh đơn giản (ví dụ `python -m http.server`).
+2. Chạy máy chủ tại thư mục dự án:
+
+   ```bash
+   cd hoctienganh
+   python -m http.server 4173
+   ```
+
+3. Mở trình duyệt và truy cập `http://localhost:4173`.
+
+> Lưu ý: Do ứng dụng sử dụng `fetch` để lấy dữ liệu JSON/Markdown, cần chạy qua máy chủ tĩnh thay vì mở file trực tiếp.
+
+## Cấu trúc nội dung
+
+- `content/index.json`: Mục lục chính, định nghĩa danh sách bài học cho từng loại.
+- `content/vocabulary/*.json`: Dữ liệu từ vựng ở dạng JSON.
+- `content/**/*.md`: Nội dung chi tiết hiển thị bằng Markdown.
+- `content/quiz/*.json`: Bộ câu hỏi trắc nghiệm.
+
+## Tính năng nổi bật
+
+- Trang mục lục hiển thị trạng thái đã học/đang học/hoàn thành.
+- Các layout riêng cho từ vựng, ngữ pháp, bài đọc, bài kiểm tra.
+- Nút phát âm trong layout từ vựng sử dụng Web Speech API (nếu trình duyệt hỗ trợ).
+- Ghi nhớ tiến trình học trong LocalStorage.
+- Điều hướng Prev/Next giữa các bài học.
+
+Bạn có thể chỉnh sửa hoặc bổ sung thêm bài học bằng cách cập nhật các file JSON/Markdown tương ứng.
