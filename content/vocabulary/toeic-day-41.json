@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 41 - Entrepreneurship & Startups",
+  "words": [
+    {"word": "pitch deck", "partOfSpeech": "n. phr.", "ipa": "/pɪtʃ dek/", "meaning": "bộ trình bày gọi vốn"},
+    {"word": "seed funding", "partOfSpeech": "n. phr.", "ipa": "/siːd ˈfʌndɪŋ/", "meaning": "vốn hạt giống"},
+    {"word": "angel investor", "partOfSpeech": "n. phr.", "ipa": "/ˈeɪndʒl ɪnˈvestə/", "meaning": "nhà đầu tư thiên thần"},
+    {"word": "venture capital", "partOfSpeech": "n. phr.", "ipa": "/ˈventʃə ˈkæpɪtl/", "meaning": "vốn mạo hiểm"},
+    {"word": "term sheet", "partOfSpeech": "n. phr.", "ipa": "/tɜːm ʃiːt/", "meaning": "bản điều khoản"},
+    {"word": "cap table", "partOfSpeech": "n. phr.", "ipa": "/kæp ˈteɪbl/", "meaning": "bảng phân bổ cổ phần"},
+    {"word": "dilution", "partOfSpeech": "n.", "ipa": "/daɪˈluːʃn/", "meaning": "pha loãng cổ phần"},
+    {"word": "runway", "partOfSpeech": "n.", "ipa": "/ˈrʌnweɪ/", "meaning": "thời gian cạn tiền"},
+    {"word": "burn rate", "partOfSpeech": "n. phr.", "ipa": "/bɜːn reɪt/", "meaning": "tốc độ tiêu tiền"},
+    {"word": "scalability", "partOfSpeech": "n.", "ipa": "/ˌskeɪləˈbɪləti/", "meaning": "khả năng mở rộng"},
+    {"word": "pivot", "partOfSpeech": "v.", "ipa": "/ˈpɪvət/", "meaning": "xoay trục"},
+    {"word": "product-market fit", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒdʌkt ˈmɑːkɪt fɪt/", "meaning": "độ phù hợp sản phẩm-thị trường"},
+    {"word": "minimum viable product", "partOfSpeech": "n. phr.", "ipa": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/", "meaning": "sản phẩm khả dụng tối thiểu"},
+    {"word": "customer acquisition", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmə ˌækwɪˈzɪʃn/", "meaning": "thu hút khách hàng"},
+    {"word": "lifetime value", "partOfSpeech": "n. phr.", "ipa": "/ˈlaɪftaɪm ˈvæljuː/", "meaning": "giá trị vòng đời"},
+    {"word": "churn", "partOfSpeech": "n.", "ipa": "/tʃɜːn/", "meaning": "tỷ lệ rời bỏ"},
+    {"word": "accelerator", "partOfSpeech": "n.", "ipa": "/əkˈseləreɪtə/", "meaning": "vườn ươm tăng tốc"},
+    {"word": "incubator", "partOfSpeech": "n.", "ipa": "/ˈɪŋkjubeɪtə/", "meaning": "vườn ươm khởi nghiệp"},
+    {"word": "bootstrapping", "partOfSpeech": "n.", "ipa": "/ˈbuːtstræpɪŋ/", "meaning": "tự thân gây dựng"},
+    {"word": "equity", "partOfSpeech": "n.", "ipa": "/ˈekwəti/", "meaning": "vốn cổ phần"},
+    {"word": "vesting", "partOfSpeech": "n.", "ipa": "/ˈvestɪŋ/", "meaning": "trao quyền sở hữu dần"},
+    {"word": "exit strategy", "partOfSpeech": "n. phr.", "ipa": "/ˈeksɪt ˈstrætədʒi/", "meaning": "chiến lược thoái vốn"},
+    {"word": "due diligence", "partOfSpeech": "n. phr.", "ipa": "/ˌdjuː ˈdɪlɪdʒəns/", "meaning": "thẩm định chi tiết"},
+    {"word": "valuation", "partOfSpeech": "n.", "ipa": "/ˌvæljuˈeɪʃn/", "meaning": "định giá"},
+    {"word": "term sheet negotiation", "partOfSpeech": "n. phr.", "ipa": "/tɜːm ʃiːt nɪˌɡəʊʃiˈeɪʃn/", "meaning": "đàm phán điều khoản"}
+  ]
+}

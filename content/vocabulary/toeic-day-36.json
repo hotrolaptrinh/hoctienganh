@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 36 - Healthcare Administration",
+  "words": [
+    {"word": "outpatient", "partOfSpeech": "n.", "ipa": "/ˈaʊtpeɪʃnt/", "meaning": "bệnh nhân ngoại trú"},
+    {"word": "inpatient", "partOfSpeech": "n.", "ipa": "/ˈɪnpeɪʃnt/", "meaning": "bệnh nhân nội trú"},
+    {"word": "appointment", "partOfSpeech": "n.", "ipa": "/əˈpɔɪntmənt/", "meaning": "cuộc hẹn khám"},
+    {"word": "triage", "partOfSpeech": "n.", "ipa": "/ˈtriːɑːʒ/", "meaning": "phân loại bệnh nhân"},
+    {"word": "insurance verification", "partOfSpeech": "n. phr.", "ipa": "/ɪnˈʃʊərəns ˌverɪfɪˈkeɪʃn/", "meaning": "xác thực bảo hiểm"},
+    {"word": "copayment", "partOfSpeech": "n.", "ipa": "/ˈkəʊpeɪmənt/", "meaning": "đồng chi trả"},
+    {"word": "deductible", "partOfSpeech": "n.", "ipa": "/dɪˈdʌktəbl/", "meaning": "mức khấu trừ"},
+    {"word": "medical record", "partOfSpeech": "n. phr.", "ipa": "/ˈmedɪkl ˈrekɔːd/", "meaning": "hồ sơ y tế"},
+    {"word": "electronic health record", "partOfSpeech": "n. phr.", "ipa": "/ɪˌlekˈtrɒnɪk helθ ˈrekɔːd/", "meaning": "hồ sơ sức khỏe điện tử"},
+    {"word": "compliance training", "partOfSpeech": "n. phr.", "ipa": "/kəmˈplaɪəns ˈtreɪnɪŋ/", "meaning": "đào tạo tuân thủ"},
+    {"word": "patient intake", "partOfSpeech": "n. phr.", "ipa": "/ˈpeɪʃnt ˈɪnteɪk/", "meaning": "tiếp nhận bệnh nhân"},
+    {"word": "waiting list", "partOfSpeech": "n. phr.", "ipa": "/ˈweɪtɪŋ lɪst/", "meaning": "danh sách chờ"},
+    {"word": "emergency room", "partOfSpeech": "n. phr.", "ipa": "/ɪˈmɜːdʒənsi ruːm/", "meaning": "phòng cấp cứu"},
+    {"word": "primary care", "partOfSpeech": "n. phr.", "ipa": "/ˈpraɪməri keə/", "meaning": "chăm sóc ban đầu"},
+    {"word": "specialist", "partOfSpeech": "n.", "ipa": "/ˈspeʃəlɪst/", "meaning": "bác sĩ chuyên khoa"},
+    {"word": "referral", "partOfSpeech": "n.", "ipa": "/rɪˈfɜːrəl/", "meaning": "giấy giới thiệu"},
+    {"word": "credentialing", "partOfSpeech": "n.", "ipa": "/krɪˈdenʃəlɪŋ/", "meaning": "chứng nhận năng lực"},
+    {"word": "clinical pathway", "partOfSpeech": "n. phr.", "ipa": "/ˈklɪnɪkl ˈpɑːθweɪ/", "meaning": "quy trình lâm sàng"},
+    {"word": "patient satisfaction", "partOfSpeech": "n. phr.", "ipa": "/ˈpeɪʃnt ˌsætɪsˈfækʃn/", "meaning": "sự hài lòng của bệnh nhân"},
+    {"word": "quality metrics", "partOfSpeech": "n. phr.", "ipa": "/ˈkwɒləti ˈmetrɪks/", "meaning": "chỉ số chất lượng"},
+    {"word": "telemedicine", "partOfSpeech": "n.", "ipa": "/ˌteliˈmedsn/", "meaning": "y tế từ xa"},
+    {"word": "infection control", "partOfSpeech": "n. phr.", "ipa": "/ɪnˈfekʃn kənˈtrəʊl/", "meaning": "kiểm soát nhiễm khuẩn"},
+    {"word": "sterilization", "partOfSpeech": "n.", "ipa": "/ˌsterəlaɪˈzeɪʃn/", "meaning": "khử trùng"},
+    {"word": "rounds", "partOfSpeech": "n.", "ipa": "/raʊndz/", "meaning": "chuyến thăm khám"},
+    {"word": "follow-up", "partOfSpeech": "n.", "ipa": "/ˈfɒləʊ ʌp/", "meaning": "tái khám"}
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 3 - Finance & Accounting",
+  "words": [
+    {"word": "accounting", "partOfSpeech": "n.", "ipa": "/əˈkaʊntɪŋ/", "meaning": "kế toán"},
+    {"word": "asset", "partOfSpeech": "n.", "ipa": "/ˈæsɛt/", "meaning": "tài sản"},
+    {"word": "balance sheet", "partOfSpeech": "n. phr.", "ipa": "/ˈbæləns ʃiːt/", "meaning": "bảng cân đối kế toán"},
+    {"word": "budget", "partOfSpeech": "n.", "ipa": "/ˈbʌdʒɪt/", "meaning": "ngân sách"},
+    {"word": "cash flow", "partOfSpeech": "n. phr.", "ipa": "/ˈkæʃ fləʊ/", "meaning": "dòng tiền"},
+    {"word": "compensation", "partOfSpeech": "n.", "ipa": "/ˌkɒmpenˈseɪʃn/", "meaning": "tiền bồi thường, đãi ngộ"},
+    {"word": "deduct", "partOfSpeech": "v.", "ipa": "/dɪˈdʌkt/", "meaning": "khấu trừ"},
+    {"word": "deposit", "partOfSpeech": "n.", "ipa": "/dɪˈpɒzɪt/", "meaning": "tiền đặt cọc, tiền gửi"},
+    {"word": "dividend", "partOfSpeech": "n.", "ipa": "/ˈdɪvɪdend/", "meaning": "cổ tức"},
+    {"word": "expense", "partOfSpeech": "n.", "ipa": "/ɪkˈspens/", "meaning": "chi phí"},
+    {"word": "fiscal", "partOfSpeech": "adj.", "ipa": "/ˈfɪskəl/", "meaning": "thuộc tài chính"},
+    {"word": "gross", "partOfSpeech": "adj.", "ipa": "/ɡrəʊs/", "meaning": "tổng, chưa trừ"},
+    {"word": "income", "partOfSpeech": "n.", "ipa": "/ˈɪnkʌm/", "meaning": "thu nhập"},
+    {"word": "insolvent", "partOfSpeech": "adj.", "ipa": "/ɪnˈsɒlvənt/", "meaning": "mất khả năng thanh toán"},
+    {"word": "interest rate", "partOfSpeech": "n. phr.", "ipa": "/ˈɪntrəst reɪt/", "meaning": "lãi suất"},
+    {"word": "liability", "partOfSpeech": "n.", "ipa": "/ˌlaɪəˈbɪləti/", "meaning": "nợ phải trả"},
+    {"word": "loan", "partOfSpeech": "n.", "ipa": "/ləʊn/", "meaning": "khoản vay"},
+    {"word": "mortgage", "partOfSpeech": "n.", "ipa": "/ˈmɔːɡɪdʒ/", "meaning": "thế chấp"},
+    {"word": "overdue", "partOfSpeech": "adj.", "ipa": "/ˌəʊvəˈdjuː/", "meaning": "quá hạn"},
+    {"word": "payroll", "partOfSpeech": "n.", "ipa": "/ˈpeɪrəʊl/", "meaning": "bảng lương"},
+    {"word": "revenue", "partOfSpeech": "n.", "ipa": "/ˈrevənjuː/", "meaning": "doanh thu"},
+    {"word": "savings", "partOfSpeech": "n.", "ipa": "/ˈseɪvɪŋz/", "meaning": "tiền tiết kiệm"},
+    {"word": "statement", "partOfSpeech": "n.", "ipa": "/ˈsteɪtmənt/", "meaning": "sao kê"},
+    {"word": "taxable", "partOfSpeech": "adj.", "ipa": "/ˈtæksəbl/", "meaning": "chịu thuế"},
+    {"word": "valuation", "partOfSpeech": "n.", "ipa": "/ˌvæljuˈeɪʃn/", "meaning": "định giá"}
+  ]
+}
