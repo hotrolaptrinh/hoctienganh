@@ -222,6 +222,104 @@
         "description": "Thuật ngữ đánh giá hiệu suất và triển khai KPI trong doanh nghiệp.",
         "source": "content/vocabulary/toeic-day-28.json",
         "markdown": "content/vocabulary/toeic-day-28.md"
+      },
+      {
+        "id": "toeic-day-29",
+        "title": "TOEIC Day 29 - Customer Insights & Surveys",
+        "description": "Thuật ngữ nghiên cứu khách hàng, khảo sát và phân tích phản hồi.",
+        "source": "content/vocabulary/toeic-day-29.json",
+        "markdown": "content/vocabulary/toeic-day-29.md"
+      },
+      {
+        "id": "toeic-day-30",
+        "title": "TOEIC Day 30 - Corporate Communications",
+        "description": "Từ vựng truyền thông doanh nghiệp, họp báo và quản trị danh tiếng.",
+        "source": "content/vocabulary/toeic-day-30.json",
+        "markdown": "content/vocabulary/toeic-day-30.md"
+      },
+      {
+        "id": "toeic-day-31",
+        "title": "TOEIC Day 31 - Product Development Lifecycle",
+        "description": "Từ vựng quy trình phát triển sản phẩm theo mô hình agile lẫn truyền thống.",
+        "source": "content/vocabulary/toeic-day-31.json",
+        "markdown": "content/vocabulary/toeic-day-31.md"
+      },
+      {
+        "id": "toeic-day-32",
+        "title": "TOEIC Day 32 - IT Infrastructure & Security",
+        "description": "Từ khóa giao tiếp với đội hạ tầng CNTT và an ninh mạng doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-32.json",
+        "markdown": "content/vocabulary/toeic-day-32.md"
+      },
+      {
+        "id": "toeic-day-33",
+        "title": "TOEIC Day 33 - Digital Marketing Analytics",
+        "description": "Chỉ số marketing số và công cụ phân tích hiệu suất chiến dịch.",
+        "source": "content/vocabulary/toeic-day-33.json",
+        "markdown": "content/vocabulary/toeic-day-33.md"
+      },
+      {
+        "id": "toeic-day-34",
+        "title": "TOEIC Day 34 - Supply Chain Resilience",
+        "description": "Từ vựng xây dựng chuỗi cung ứng linh hoạt và kế hoạch dự phòng.",
+        "source": "content/vocabulary/toeic-day-34.json",
+        "markdown": "content/vocabulary/toeic-day-34.md"
+      },
+      {
+        "id": "toeic-day-35",
+        "title": "TOEIC Day 35 - Hospitality & Service Industry",
+        "description": "Từ vựng vận hành khách sạn, dịch vụ khách hàng và quản lý tiệc.",
+        "source": "content/vocabulary/toeic-day-35.json",
+        "markdown": "content/vocabulary/toeic-day-35.md"
+      },
+      {
+        "id": "toeic-day-36",
+        "title": "TOEIC Day 36 - Healthcare Administration",
+        "description": "Thuật ngữ quản trị bệnh viện, hồ sơ bệnh án và quy trình khám chữa.",
+        "source": "content/vocabulary/toeic-day-36.json",
+        "markdown": "content/vocabulary/toeic-day-36.md"
+      },
+      {
+        "id": "toeic-day-37",
+        "title": "TOEIC Day 37 - Real Estate & Facilities",
+        "description": "Từ vựng bất động sản thương mại và quản lý cơ sở vật chất.",
+        "source": "content/vocabulary/toeic-day-37.json",
+        "markdown": "content/vocabulary/toeic-day-37.md"
+      },
+      {
+        "id": "toeic-day-38",
+        "title": "TOEIC Day 38 - Legal & Contracts",
+        "description": "Thuật ngữ pháp lý phổ biến trong hợp đồng và giao dịch doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-38.json",
+        "markdown": "content/vocabulary/toeic-day-38.md"
+      },
+      {
+        "id": "toeic-day-39",
+        "title": "TOEIC Day 39 - Environmental Sustainability",
+        "description": "Từ vựng ESG, báo cáo bền vững và quản trị môi trường doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-39.json",
+        "markdown": "content/vocabulary/toeic-day-39.md"
+      },
+      {
+        "id": "toeic-day-40",
+        "title": "TOEIC Day 40 - Banking & Insurance",
+        "description": "Từ khóa ngân hàng, tín dụng và xử lý hồ sơ bảo hiểm.",
+        "source": "content/vocabulary/toeic-day-40.json",
+        "markdown": "content/vocabulary/toeic-day-40.md"
+      },
+      {
+        "id": "toeic-day-41",
+        "title": "TOEIC Day 41 - Entrepreneurship & Startups",
+        "description": "Thuật ngữ gọi vốn, tăng trưởng và vận hành startup.",
+        "source": "content/vocabulary/toeic-day-41.json",
+        "markdown": "content/vocabulary/toeic-day-41.md"
+      },
+      {
+        "id": "toeic-day-42",
+        "title": "TOEIC Day 42 - Cross-cultural Business",
+        "description": "Từ vựng giao tiếp kinh doanh đa văn hóa và xuyên biên giới.",
+        "source": "content/vocabulary/toeic-day-42.json",
+        "markdown": "content/vocabulary/toeic-day-42.md"
       }
     ],
     "grammar": [
