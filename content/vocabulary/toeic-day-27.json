@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 27 - International Business & Trade",
+  "words": [
+    {"word": "trade agreement", "partOfSpeech": "n. phr.", "ipa": "/treɪd əˈɡriːmənt/", "meaning": "hiệp định thương mại"},
+    {"word": "tariff", "partOfSpeech": "n.", "ipa": "/ˈtærɪf/", "meaning": "thuế quan"},
+    {"word": "customs duty", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈdjuːti/", "meaning": "thuế nhập khẩu"},
+    {"word": "import quota", "partOfSpeech": "n. phr.", "ipa": "/ˈɪmpɔːt ˈkwəʊtə/", "meaning": "hạn ngạch nhập khẩu"},
+    {"word": "export license", "partOfSpeech": "n. phr.", "ipa": "/ˈekspɔːt ˈlaɪsns/", "meaning": "giấy phép xuất khẩu"},
+    {"word": "trade compliance", "partOfSpeech": "n. phr.", "ipa": "/treɪd kəmˈplaɪəns/", "meaning": "tuân thủ thương mại"},
+    {"word": "exchange rate", "partOfSpeech": "n. phr.", "ipa": "/ɪksˈtʃeɪndʒ reɪt/", "meaning": "tỷ giá hối đoái"},
+    {"word": "currency fluctuation", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌrənsi ˌflʌktʃuˈeɪʃn/", "meaning": "biến động tiền tệ"},
+    {"word": "hedging", "partOfSpeech": "n.", "ipa": "/ˈhedʒɪŋ/", "meaning": "phòng hộ rủi ro"},
+    {"word": "letter of credit", "partOfSpeech": "n. phr.", "ipa": "/ˈletər əv ˈkredɪt/", "meaning": "thư tín dụng"},
+    {"word": "bill of lading", "partOfSpeech": "n. phr.", "ipa": "/ˈbɪl əv ˈleɪdɪŋ/", "meaning": "vận đơn"},
+    {"word": "Incoterms", "partOfSpeech": "n. pl.", "ipa": "/ˈɪŋkəʊtɜːmz/", "meaning": "điều kiện thương mại quốc tế"},
+    {"word": "free trade zone", "partOfSpeech": "n. phr.", "ipa": "/friː treɪd zəʊn/", "meaning": "khu thương mại tự do"},
+    {"word": "bonded warehouse", "partOfSpeech": "n. phr.", "ipa": "/ˈbɒndɪd ˈweəhaʊs/", "meaning": "kho ngoại quan"},
+    {"word": "freight forwarder", "partOfSpeech": "n. phr.", "ipa": "/freɪt ˈfɔːwədə/", "meaning": "đại lý giao nhận"},
+    {"word": "customs broker", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈbrəʊkə/", "meaning": "môi giới hải quan"},
+    {"word": "trade embargo", "partOfSpeech": "n. phr.", "ipa": "/treɪd ɪmˈbɑːɡəʊ/", "meaning": "lệnh cấm vận"},
+    {"word": "economic sanction", "partOfSpeech": "n. phr.", "ipa": "/ˌiːkəˈnɒmɪk ˈsæŋkʃn/", "meaning": "biện pháp trừng phạt kinh tế"},
+    {"word": "market entry strategy", "partOfSpeech": "n. phr.", "ipa": "/ˈmɑːkɪt ˈentri ˈstrætədʒi/", "meaning": "chiến lược thâm nhập thị trường"},
+    {"word": "localization", "partOfSpeech": "n.", "ipa": "/ˌləʊkəlaɪˈzeɪʃn/", "meaning": "bản địa hóa"},
+    {"word": "cultural awareness", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌltʃərəl əˈweənəs/", "meaning": "nhận thức văn hóa"},
+    {"word": "expatriate", "partOfSpeech": "n.", "ipa": "/eksˈpætriət/", "meaning": "nhân viên làm việc ở nước ngoài"},
+    {"word": "repatriation", "partOfSpeech": "n.", "ipa": "/ˌriːˌpætriˈeɪʃn/", "meaning": "hồi hương"},
+    {"word": "joint venture", "partOfSpeech": "n. phr.", "ipa": "/dʒɔɪnt ˈventʃə/", "meaning": "liên doanh"},
+    {"word": "foreign subsidiary", "partOfSpeech": "n. phr.", "ipa": "/ˈfɒrɪn səbˈsɪdiəri/", "meaning": "công ty con ở nước ngoài"}
+  ]
+}

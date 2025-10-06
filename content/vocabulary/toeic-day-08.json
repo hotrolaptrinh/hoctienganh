@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 8 - Customer Service & Support",
+  "words": [
+    {"word": "assistance", "partOfSpeech": "n.", "ipa": "/əˈsɪstəns/", "meaning": "sự hỗ trợ"},
+    {"word": "courteous", "partOfSpeech": "adj.", "ipa": "/ˈkɜːtiəs/", "meaning": "lịch sự, nhã nhặn"},
+    {"word": "complaint", "partOfSpeech": "n.", "ipa": "/kəmˈpleɪnt/", "meaning": "lời phàn nàn"},
+    {"word": "empathy", "partOfSpeech": "n.", "ipa": "/ˈempəθi/", "meaning": "sự thấu cảm"},
+    {"word": "escalate", "partOfSpeech": "v.", "ipa": "/ˈeskəleɪt/", "meaning": "chuyển lên cấp cao hơn"},
+    {"word": "follow-up", "partOfSpeech": "n.", "ipa": "/ˈfɒləʊ ʌp/", "meaning": "sự theo dõi tiếp"},
+    {"word": "hotline", "partOfSpeech": "n.", "ipa": "/ˈhɒtlaɪn/", "meaning": "đường dây nóng"},
+    {"word": "inquiry", "partOfSpeech": "n.", "ipa": "/ɪnˈkwaɪəri/", "meaning": "yêu cầu thông tin"},
+    {"word": "feedback", "partOfSpeech": "n.", "ipa": "/ˈfiːdbæk/", "meaning": "phản hồi"},
+    {"word": "guarantee", "partOfSpeech": "n.", "ipa": "/ˌɡærənˈtiː/", "meaning": "bảo chứng"},
+    {"word": "loyalty program", "partOfSpeech": "n. phr.", "ipa": "/ˈlɔɪəlti ˈprəʊɡræm/", "meaning": "chương trình khách hàng thân thiết"},
+    {"word": "malfunction", "partOfSpeech": "n.", "ipa": "/mælˈfʌŋkʃn/", "meaning": "trục trặc"},
+    {"word": "merchandise", "partOfSpeech": "n.", "ipa": "/ˈmɜːtʃəndaɪz/", "meaning": "hàng hóa"},
+    {"word": "policy", "partOfSpeech": "n.", "ipa": "/ˈpɒləsi/", "meaning": "chính sách"},
+    {"word": "refund", "partOfSpeech": "n.", "ipa": "/ˈriːfʌnd/", "meaning": "hoàn tiền"},
+    {"word": "replace", "partOfSpeech": "v.", "ipa": "/rɪˈpleɪs/", "meaning": "thay thế"},
+    {"word": "response time", "partOfSpeech": "n. phr.", "ipa": "/rɪˈspɒns taɪm/", "meaning": "thời gian phản hồi"},
+    {"word": "satisfaction", "partOfSpeech": "n.", "ipa": "/ˌsætɪsˈfækʃn/", "meaning": "sự hài lòng"},
+    {"word": "service recovery", "partOfSpeech": "n. phr.", "ipa": "/ˈsɜːvɪs rɪˈkʌvəri/", "meaning": "phục hồi dịch vụ"},
+    {"word": "ticketing system", "partOfSpeech": "n. phr.", "ipa": "/ˈtɪkɪtɪŋ ˈsɪstəm/", "meaning": "hệ thống quản lý yêu cầu"},
+    {"word": "voucher", "partOfSpeech": "n.", "ipa": "/ˈvaʊtʃə/", "meaning": "phiếu giảm giá"},
+    {"word": "warranty", "partOfSpeech": "n.", "ipa": "/ˈwɒrənti/", "meaning": "bảo hành"},
+    {"word": "apologize", "partOfSpeech": "v.", "ipa": "/əˈpɒlədʒaɪz/", "meaning": "xin lỗi"},
+    {"word": "compensation", "partOfSpeech": "n.", "ipa": "/ˌkɒmpenˈseɪʃn/", "meaning": "bồi thường"},
+    {"word": "queue", "partOfSpeech": "n.", "ipa": "/kjuː/", "meaning": "hàng chờ"}
+  ]
+}

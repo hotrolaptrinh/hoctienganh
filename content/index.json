@@ -5,7 +5,12 @@
     "reading": "Bài đọc",
     "quiz": "Bài kiểm tra"
   },
-  "order": ["vocabulary", "grammar", "reading", "quiz"],
+  "order": [
+    "vocabulary",
+    "grammar",
+    "reading",
+    "quiz"
+  ],
   "categories": {
     "vocabulary": [
       {
@@ -70,6 +75,153 @@
         "description": "Từ ngữ công nghệ văn phòng và bảo mật thông tin.",
         "source": "content/vocabulary/toeic-day-07.json",
         "markdown": "content/vocabulary/toeic-day-07.md"
+      },
+      {
+        "id": "toeic-day-08",
+        "title": "TOEIC Day 8 - Customer Service & Support",
+        "description": "Từ khóa chăm sóc khách hàng, xử lý khiếu nại và giữ chân khách.",
+        "source": "content/vocabulary/toeic-day-08.json",
+        "markdown": "content/vocabulary/toeic-day-08.md"
+      },
+      {
+        "id": "toeic-day-09",
+        "title": "TOEIC Day 9 - Supply Chain & Logistics",
+        "description": "Thuật ngữ hậu cần, vận chuyển và tối ưu chuỗi cung ứng.",
+        "source": "content/vocabulary/toeic-day-09.json",
+        "markdown": "content/vocabulary/toeic-day-09.md"
+      },
+      {
+        "id": "toeic-day-10",
+        "title": "TOEIC Day 10 - Procurement & Contracting",
+        "description": "Các khái niệm đấu thầu và quản trị hợp đồng trong doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-10.json",
+        "markdown": "content/vocabulary/toeic-day-10.md"
+      },
+      {
+        "id": "toeic-day-11",
+        "title": "TOEIC Day 11 - Project Management & Planning",
+        "description": "Bộ từ quản lý dự án giúp lập kế hoạch và theo dõi tiến độ.",
+        "source": "content/vocabulary/toeic-day-11.json",
+        "markdown": "content/vocabulary/toeic-day-11.md"
+      },
+      {
+        "id": "toeic-day-12",
+        "title": "TOEIC Day 12 - Banking & Investment",
+        "description": "Thuật ngữ ngân hàng đầu tư hỗ trợ đọc báo cáo thị trường.",
+        "source": "content/vocabulary/toeic-day-12.json",
+        "markdown": "content/vocabulary/toeic-day-12.md"
+      },
+      {
+        "id": "toeic-day-13",
+        "title": "TOEIC Day 13 - Workplace Health & Safety",
+        "description": "Từ vựng an toàn lao động để tổ chức huấn luyện và kiểm tra.",
+        "source": "content/vocabulary/toeic-day-13.json",
+        "markdown": "content/vocabulary/toeic-day-13.md"
+      },
+      {
+        "id": "toeic-day-14",
+        "title": "TOEIC Day 14 - Risk Management & Compliance",
+        "description": "Từ ngữ quản trị rủi ro và tuân thủ dành cho môi trường doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-14.json",
+        "markdown": "content/vocabulary/toeic-day-14.md"
+      },
+      {
+        "id": "toeic-day-15",
+        "title": "TOEIC Day 15 - Procurement & Purchasing",
+        "description": "Thuật ngữ thu mua và làm việc với nhà cung cấp trong doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-15.json",
+        "markdown": "content/vocabulary/toeic-day-15.md"
+      },
+      {
+        "id": "toeic-day-16",
+        "title": "TOEIC Day 16 - Manufacturing & Production",
+        "description": "Từ vựng mô tả dây chuyền sản xuất, thiết bị và công suất nhà máy.",
+        "source": "content/vocabulary/toeic-day-16.json",
+        "markdown": "content/vocabulary/toeic-day-16.md"
+      },
+      {
+        "id": "toeic-day-17",
+        "title": "TOEIC Day 17 - Quality Assurance & Control",
+        "description": "Thuật ngữ đánh giá chất lượng và xử lý sai lỗi sản phẩm.",
+        "source": "content/vocabulary/toeic-day-17.json",
+        "markdown": "content/vocabulary/toeic-day-17.md"
+      },
+      {
+        "id": "toeic-day-18",
+        "title": "TOEIC Day 18 - Accounting & Auditing",
+        "description": "Từ ngữ kế toán tài chính và quy trình kiểm toán quan trọng.",
+        "source": "content/vocabulary/toeic-day-18.json",
+        "markdown": "content/vocabulary/toeic-day-18.md"
+      },
+      {
+        "id": "toeic-day-19",
+        "title": "TOEIC Day 19 - Corporate Strategy & Planning",
+        "description": "Vốn từ để bàn về chiến lược, mục tiêu và kế hoạch doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-19.json",
+        "markdown": "content/vocabulary/toeic-day-19.md"
+      },
+      {
+        "id": "toeic-day-20",
+        "title": "TOEIC Day 20 - Training & People Development",
+        "description": "Cụm từ cho công tác đào tạo, giữ chân và phát triển nhân sự.",
+        "source": "content/vocabulary/toeic-day-20.json",
+        "markdown": "content/vocabulary/toeic-day-20.md"
+      },
+      {
+        "id": "toeic-day-21",
+        "title": "TOEIC Day 21 - Workplace Communication & Meetings",
+        "description": "Từ vựng điều hành họp và giao tiếp nội bộ hiệu quả.",
+        "source": "content/vocabulary/toeic-day-21.json",
+        "markdown": "content/vocabulary/toeic-day-21.md"
+      },
+      {
+        "id": "toeic-day-22",
+        "title": "TOEIC Day 22 - Sales Strategy & Negotiation",
+        "description": "Thuật ngữ chiến lược bán hàng và thương lượng với khách hàng doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-22.json",
+        "markdown": "content/vocabulary/toeic-day-22.md"
+      },
+      {
+        "id": "toeic-day-23",
+        "title": "TOEIC Day 23 - Product Development & Innovation",
+        "description": "Vốn từ dành cho đội ngũ phát triển sản phẩm và đổi mới sáng tạo.",
+        "source": "content/vocabulary/toeic-day-23.json",
+        "markdown": "content/vocabulary/toeic-day-23.md"
+      },
+      {
+        "id": "toeic-day-24",
+        "title": "TOEIC Day 24 - Market Research & Analytics",
+        "description": "Các khái niệm phân tích dữ liệu thị trường và đo lường chiến dịch.",
+        "source": "content/vocabulary/toeic-day-24.json",
+        "markdown": "content/vocabulary/toeic-day-24.md"
+      },
+      {
+        "id": "toeic-day-25",
+        "title": "TOEIC Day 25 - Supply Chain Risk & Continuity",
+        "description": "Từ vựng quản trị rủi ro chuỗi cung ứng và duy trì hoạt động.",
+        "source": "content/vocabulary/toeic-day-25.json",
+        "markdown": "content/vocabulary/toeic-day-25.md"
+      },
+      {
+        "id": "toeic-day-26",
+        "title": "TOEIC Day 26 - Corporate Governance & Ethics",
+        "description": "Thuật ngữ quản trị doanh nghiệp và chuẩn đạo đức nghề nghiệp.",
+        "source": "content/vocabulary/toeic-day-26.json",
+        "markdown": "content/vocabulary/toeic-day-26.md"
+      },
+      {
+        "id": "toeic-day-27",
+        "title": "TOEIC Day 27 - International Business & Trade",
+        "description": "Từ vựng giao thương toàn cầu, chứng từ và chiến lược thị trường.",
+        "source": "content/vocabulary/toeic-day-27.json",
+        "markdown": "content/vocabulary/toeic-day-27.md"
+      },
+      {
+        "id": "toeic-day-28",
+        "title": "TOEIC Day 28 - Performance Management & KPIs",
+        "description": "Thuật ngữ đánh giá hiệu suất và triển khai KPI trong doanh nghiệp.",
+        "source": "content/vocabulary/toeic-day-28.json",
+        "markdown": "content/vocabulary/toeic-day-28.md"
       }
     ],
     "grammar": [
