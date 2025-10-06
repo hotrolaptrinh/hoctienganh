@@ -1,6 +1,6 @@
-# Ứng dụng học tiếng Anh mini
+# Ứng dụng học ngoại ngữ
 
-Ứng dụng được xây dựng bằng HTML/CSS/JavaScript thuần, sử dụng JSON và Markdown để quản lý nội dung bài học. Người dùng có thể duyệt mục lục, xem bài học theo từng loại (từ vựng, ngữ pháp, bài đọc, bài kiểm tra) và ghi nhớ tiến trình thông qua LocalStorage.
+Ứng dụng được xây dựng bằng HTML/CSS/JavaScript thuần, sử dụng JSON và Markdown để quản lý nội dung bài học. Người dùng có thể duyệt mục lục, xem bài học theo từng loại (từ vựng, ngữ pháp, bài đọc, bài kiểm tra), chuyển đổi ngôn ngữ học và ghi nhớ tiến trình thông qua LocalStorage.
 
 ## Cách chạy
 
@@ -18,17 +18,24 @@
 
 ## Cấu trúc nội dung
 
-- `content/index.json`: Mục lục chính, định nghĩa danh sách bài học cho từng loại.
+- `content/index.json`: Mục lục chính, định nghĩa danh sách bài học cho từng ngôn ngữ và loại bài.
 - `content/vocabulary/*.json`: Dữ liệu từ vựng ở dạng JSON.
 - `content/**/*.md`: Nội dung chi tiết hiển thị bằng Markdown.
 - `content/quiz/*.json`: Bộ câu hỏi trắc nghiệm.
 
+## Nhánh làm việc
+
+- Tất cả thay đổi được thực hiện trực tiếp trên nhánh `main`. Kho bài học không sử dụng thêm nhánh phụ.
+
 ## Tính năng nổi bật
 
-- Trang mục lục hiển thị trạng thái đã học/đang học/hoàn thành.
+- Chuyển đổi nhanh ngôn ngữ học ngay trên đầu trang (lưu lựa chọn vào cookie).
+- Trang mục lục hiển thị danh sách bài học theo từng loại với nút "Đang học"/"Học tiếp" và vùng cuộn ngang cho danh sách dài.
 - Các layout riêng cho từ vựng, ngữ pháp, bài đọc, bài kiểm tra.
-- Nút phát âm trong layout từ vựng sử dụng Web Speech API (nếu trình duyệt hỗ trợ).
+- Nút phát âm trong layout từ vựng sử dụng Web Speech API (nếu trình duyệt hỗ trợ) và tự động đổi giọng theo ngôn ngữ đang học.
 - Ghi nhớ tiến trình học trong LocalStorage.
 - Điều hướng Prev/Next giữa các bài học.
+
+Kho dữ liệu mẫu hiện cung cấp đầy đủ lộ trình tiếng Anh và một bộ bài học nhập môn tiếng Trung giản thể cho từng loại nội dung.
 
 Bạn có thể chỉnh sửa hoặc bổ sung thêm bài học bằng cách cập nhật các file JSON/Markdown tương ứng.

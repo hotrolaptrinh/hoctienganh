@@ -4,7 +4,9 @@ const appEl = document.getElementById('app');
 const loadingTemplate = document.getElementById('loading-template');
 const errorTemplate = document.getElementById('error-template');
 
-const STORAGE_KEY = 'english-learning-progress-v1';
+const STORAGE_KEY = 'language-learning-progress-v1';
+const LANGUAGE_COOKIE = 'language-preference';
+const LANGUAGE_COOKIE_MAX_AGE = 60 * 60 * 24 * 365;
 
 const partOfSpeechMap = {
   noun: 'n.',
@@ -24,6 +26,11 @@ const partOfSpeechMap = {
   idiom: 'idiom',
 };
 
+const speechLanguageMap = {
+  en: 'en-US',
+  'zh-hans': 'zh-CN',
+};
+
 function formatPartOfSpeech(value = '') {
   const key = value.trim().toLowerCase();
   return partOfSpeechMap[key] || value;
@@ -34,10 +41,21 @@ function getLessonButtonLabel(status) {
 }
 
 const state = {
+  data: null,
   index: null,
   flatLessons: [],
   current: null,
+  language: null,
 };
+
+function escapeHtml(value = '') {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
+}
 
 async function fetchJSON(path) {
   const response = await fetch(path);
@@ -49,6 +67,31 @@ async function fetchText(path) {
   const response = await fetch(path);
   if (!response.ok) throw new Error(`Không thể tải ${path}`);
   return response.text();
+}
+
+function getCookie(name) {
+  return document.cookie
+    .split(';')
+    .map((part) => part.trim())
+    .filter(Boolean)
+    .reduce((value, entry) => {
+      if (entry.startsWith(`${name}=`)) {
+        return decodeURIComponent(entry.slice(name.length + 1));
+      }
+      return value;
+    }, '');
+}
+
+function setLanguageCookie(value) {
+  document.cookie = `${LANGUAGE_COOKIE}=${encodeURIComponent(value)};path=/;max-age=${LANGUAGE_COOKIE_MAX_AGE}`;
+}
+
+function getLanguageFromCookie() {
+  return getCookie(LANGUAGE_COOKIE);
+}
+
+function getCurrentLanguageKey() {
+  return state.language || state.data?.defaultLanguage || 'en';
 }
 
 function renderLoading() {
@@ -79,19 +122,26 @@ function saveProgress(progress) {
 
 function updateProgress(category, lessonId, status) {
   const progress = getProgress();
-  if (!progress[category]) progress[category] = {};
-  progress[category][lessonId] = status;
+  const languageKey = getCurrentLanguageKey();
+  if (!progress[languageKey]) progress[languageKey] = {};
+  if (!progress[languageKey][category]) progress[languageKey][category] = {};
+  progress[languageKey][category][lessonId] = status;
   saveProgress(progress);
 }
 
 function getLessonStatus(category, lessonId) {
   const progress = getProgress();
-  const status = progress?.[category]?.[lessonId] || '';
+  const languageKey = getCurrentLanguageKey();
+  const status = progress?.[languageKey]?.[category]?.[lessonId] || '';
   return status === 'chưa học' ? '' : status;
 }
 
 function buildFlatLessons() {
-  const categories = state.index.order || Object.keys(state.index.categories);
+  if (!state.index) {
+    state.flatLessons = [];
+    return;
+  }
+  const categories = state.index.order || Object.keys(state.index.categories || {});
   const flat = [];
   categories.forEach((categoryKey) => {
     const lessons = state.index.categories[categoryKey] || [];
@@ -119,18 +169,78 @@ function renderBreadcrumb(items = []) {
   return `<nav class="breadcrumb" aria-label="Breadcrumb">${segments}</nav>`;
 }
 
+function getLanguageLabel(languageKey) {
+  const language = state.data?.languages?.[languageKey];
+  return language?.label || languageKey;
+}
+
+function renderLanguageSubtitle() {
+  if (!state.language) return '';
+  const label = getLanguageLabel(state.language);
+  return `<p class="subtitle">Đang học: ${escapeHtml(label)}</p>`;
+}
+
+function renderLanguageSelector() {
+  const languages = state.data?.languages || {};
+  const entries = Object.entries(languages);
+  if (entries.length <= 1) return '';
+  const options = entries
+    .map(([code, config]) => {
+      const selected = state.language === code ? ' selected' : '';
+      return `<option value="${escapeHtml(code)}"${selected}>${escapeHtml(config.label || code)}</option>`;
+    })
+    .join('');
+  return `
+    <div class="language-selector">
+      <label for="language-select">Ngôn ngữ</label>
+      <select id="language-select">${options}</select>
+    </div>
+  `;
+}
+
 function renderHeader(title, extras = '') {
+  const subtitle = renderLanguageSubtitle();
+  const languageSelector = renderLanguageSelector();
+  const actions = [languageSelector, extras].filter(Boolean).join('');
+  const actionsBlock = actions ? `<div class="header-actions">${actions}</div>` : '';
   return `
     <header>
       <div>
-        <h1>${title}</h1>
+        <h1>${escapeHtml(title)}</h1>
+        ${subtitle}
       </div>
-      ${extras}
+      ${actionsBlock}
     </header>
   `;
 }
 
+function attachLanguageSelector() {
+  const select = appEl.querySelector('#language-select');
+  if (!select) return;
+  select.addEventListener('change', (event) => {
+    const value = event.target.value;
+    setLanguage(value);
+  });
+}
+
+function setLanguage(language, options = {}) {
+  const languages = state.data?.languages || {};
+  if (!languages[language]) return;
+  const hasChanged = state.language !== language;
+  state.language = language;
+  state.index = languages[language];
+  buildFlatLessons();
+  setLanguageCookie(language);
+  if (!options.skipRoute && hasChanged) {
+    handleRoute();
+  }
+}
+
 function renderTOC() {
+  if (!state.index?.categories) {
+    renderError('Không tìm thấy nội dung cho ngôn ngữ đã chọn.');
+    return;
+  }
   const categories = state.index.order || Object.keys(state.index.categories);
   const categoryBlocks = categories
     .map((categoryKey) => {
@@ -168,10 +278,12 @@ function renderTOC() {
     .join('');
 
   appEl.innerHTML = `
-    ${renderHeader('Học tiếng Anh')}
+    ${renderHeader('Ứng dụng học ngoại ngữ')}
     ${renderBreadcrumb([{ label: 'Mục lục' }])}
     ${categoryBlocks || '<div class="empty"><p>Chưa có bài học nào.</p></div>'}
   `;
+
+  attachLanguageSelector();
 }
 
 function renderNavigation(category, lessonId) {
@@ -309,6 +421,10 @@ function renderQuizLayout(category, lesson, questions) {
 }
 
 async function renderLesson(category, lessonId) {
+  if (!state.index?.categories) {
+    renderError('Không tìm thấy nội dung cho ngôn ngữ đã chọn.');
+    return;
+  }
   const lessons = state.index.categories[category];
   if (!lessons) {
     renderError('Không tìm thấy loại bài học.');
@@ -344,7 +460,7 @@ async function renderLesson(category, lessonId) {
     }
 
     appEl.innerHTML = `
-      ${renderHeader('Học tiếng Anh')}
+      ${renderHeader('Ứng dụng học ngoại ngữ')}
       ${renderBreadcrumb([
         { label: 'Mục lục', href: '#/' },
         { label: state.index.labels?.[category] || category, href: `#/category/${category}` },
@@ -353,6 +469,7 @@ async function renderLesson(category, lessonId) {
       ${html}
     `;
 
+    attachLanguageSelector();
     attachLessonInteractions(category, lesson);
   } catch (error) {
     console.error(error);
@@ -379,7 +496,8 @@ function attachLessonInteractions(category, lesson) {
         const text = decodeURIComponent(button.getAttribute('data-say'));
         if ('speechSynthesis' in window) {
           const utterance = new SpeechSynthesisUtterance(text);
-          utterance.lang = 'en-US';
+          const speechLang = speechLanguageMap[state.language] || 'en-US';
+          utterance.lang = speechLang;
           window.speechSynthesis.speak(utterance);
         } else {
           alert('Trình duyệt không hỗ trợ đọc to.');
@@ -443,6 +561,10 @@ function handleRoute() {
   const lessonMatch = hash.match(/^\/lesson\/([\w-]+)\/([\w-]+)/);
   if (lessonMatch) {
     const [, category, lessonId] = lessonMatch;
+    if (!state.index?.categories?.[category]) {
+      window.location.hash = '#/';
+      return;
+    }
     renderLesson(category, lessonId);
     return;
   }
@@ -450,6 +572,10 @@ function handleRoute() {
   const categoryMatch = hash.match(/^\/category\/([\w-]+)/);
   if (categoryMatch) {
     const [, category] = categoryMatch;
+    if (!state.index?.categories?.[category]) {
+      window.location.hash = '#/';
+      return;
+    }
     renderCategoryOverview(category);
     return;
   }
@@ -458,6 +584,10 @@ function handleRoute() {
 }
 
 function renderCategoryOverview(category) {
+  if (!state.index?.categories) {
+    renderError('Không tìm thấy nội dung cho ngôn ngữ đã chọn.');
+    return;
+  }
   const lessons = state.index.categories[category];
   if (!lessons) {
     renderError('Không tìm thấy loại bài học.');
@@ -483,7 +613,7 @@ function renderCategoryOverview(category) {
     .join('');
 
   appEl.innerHTML = `
-    ${renderHeader('Học tiếng Anh')}
+    ${renderHeader('Ứng dụng học ngoại ngữ')}
     ${renderBreadcrumb([
       { label: 'Mục lục', href: '#/' },
       { label: state.index.labels?.[category] || category },
@@ -492,13 +622,22 @@ function renderCategoryOverview(category) {
       <div class="${gridClass}">${cards}</div>
     </section>
   `;
+
+  attachLanguageSelector();
 }
 
 async function init() {
   renderLoading();
   try {
-    state.index = await fetchJSON('content/index.json');
-    buildFlatLessons();
+    state.data = await fetchJSON('content/index.json');
+    const languages = state.data.languages || {};
+    const fromCookie = getLanguageFromCookie();
+    const initialLanguage = languages[fromCookie]
+      ? fromCookie
+      : state.data.defaultLanguage || Object.keys(languages)[0];
+    if (initialLanguage) {
+      setLanguage(initialLanguage, { skipRoute: true });
+    }
     window.addEventListener('hashchange', handleRoute);
     handleRoute();
   } catch (error) {
