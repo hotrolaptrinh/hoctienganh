@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 49 - International Trade & Export Operations",
+  "words": [
+    {"word": "international trade", "partOfSpeech": "n. phr.", "ipa": "/ˌɪntəˈnæʃənl treɪd/", "meaning": "thương mại quốc tế"},
+    {"word": "export", "partOfSpeech": "n./v.", "ipa": "/ˈekspɔːt/", "meaning": "xuất khẩu"},
+    {"word": "import", "partOfSpeech": "n./v.", "ipa": "/ˈɪmpɔːt/", "meaning": "nhập khẩu"},
+    {"word": "customs clearance", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈklɪərəns/", "meaning": "thông quan"},
+    {"word": "tariff", "partOfSpeech": "n.", "ipa": "/ˈtærɪf/", "meaning": "thuế quan"},
+    {"word": "duty", "partOfSpeech": "n.", "ipa": "/ˈdjuːti/", "meaning": "thuế nhập khẩu"},
+    {"word": "free trade agreement", "partOfSpeech": "n. phr.", "ipa": "/friː treɪd əˈɡriːmənt/", "meaning": "hiệp định thương mại tự do"},
+    {"word": "Incoterms", "partOfSpeech": "n.", "ipa": "/ˈɪŋkəʊtɜːmz/", "meaning": "điều kiện thương mại quốc tế"},
+    {"word": "FOB", "partOfSpeech": "n.", "ipa": "/ˌefəʊˈbiː/", "meaning": "giao lên tàu"},
+    {"word": "CIF", "partOfSpeech": "n.", "ipa": "/ˌsiː aɪ ˈɛf/", "meaning": "giá hàng + bảo hiểm + cước"},
+    {"word": "bill of lading", "partOfSpeech": "n. phr.", "ipa": "/ˌbɪl əv ˈleɪdɪŋ/", "meaning": "vận đơn"},
+    {"word": "commercial invoice", "partOfSpeech": "n. phr.", "ipa": "/kəˈmɜːʃl ˈɪnvɔɪs/", "meaning": "hóa đơn thương mại"},
+    {"word": "packing list", "partOfSpeech": "n. phr.", "ipa": "/ˈpækɪŋ lɪst/", "meaning": "bảng kê đóng gói"},
+    {"word": "certificate of origin", "partOfSpeech": "n. phr.", "ipa": "/səˈtɪfɪkət əv ˈɒrɪdʒɪn/", "meaning": "chứng nhận xuất xứ"},
+    {"word": "customs broker", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈbrəʊkə/", "meaning": "đại lý hải quan"},
+    {"word": "freight forwarder", "partOfSpeech": "n. phr.", "ipa": "/freɪt ˈfɔːwədə/", "meaning": "đại lý giao nhận"},
+    {"word": "shipment tracking", "partOfSpeech": "n. phr.", "ipa": "/ˈʃɪpmənt ˈtrækɪŋ/", "meaning": "theo dõi lô hàng"},
+    {"word": "logistics hub", "partOfSpeech": "n. phr.", "ipa": "/ləˈdʒɪstɪks hʌb/", "meaning": "trung tâm logistics"},
+    {"word": "lead time", "partOfSpeech": "n. phr.", "ipa": "/liːd taɪm/", "meaning": "thời gian cung ứng"},
+    {"word": "landed cost", "partOfSpeech": "n. phr.", "ipa": "/ˈlændɪd kɒst/", "meaning": "tổng chi phí về tới cảng"},
+    {"word": "trade compliance", "partOfSpeech": "n. phr.", "ipa": "/treɪd kəmˈplaɪəns/", "meaning": "tuân thủ thương mại"},
+    {"word": "export license", "partOfSpeech": "n. phr.", "ipa": "/ˈekspɔːt ˈlaɪsns/", "meaning": "giấy phép xuất khẩu"},
+    {"word": "trade barrier", "partOfSpeech": "n. phr.", "ipa": "/treɪd ˈbæriə/", "meaning": "rào cản thương mại"},
+    {"word": "currency fluctuation", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌrənsi ˌflʌktʃuˈeɪʃn/", "meaning": "biến động tỷ giá"},
+    {"word": "letter of credit", "partOfSpeech": "n. phr.", "ipa": "/ˈletər əv ˈkrɛdɪt/", "meaning": "thư tín dụng"}
+  ]
+}

@@ -2,12 +2,12 @@
     "defaultLanguage": "en",
     "languages": {
         "en": {
-            "label": "Ti\u1ebfng Anh",
+            "label": "Tiếng Anh",
             "labels": {
-                "vocabulary": "T\u1eeb v\u1ef1ng",
-                "grammar": "Ng\u1eef ph\u00e1p",
-                "reading": "B\u00e0i \u0111\u1ecdc",
-                "quiz": "B\u00e0i ki\u1ec3m tra"
+                "vocabulary": "Từ vựng",
+                "grammar": "Ngữ pháp",
+                "reading": "Bài đọc",
+                "quiz": "Bài kiểm tra"
             },
             "order": [
                 "vocabulary",
@@ -19,544 +19,614 @@
                 "vocabulary": [
                     {
                         "id": "vocab-intro",
-                        "title": "T\u1eeb v\u1ef1ng ch\u1ee7 \u0111\u1ec1 ch\u00e0o h\u1ecfi",
-                        "description": "Nh\u1eefng m\u1eabu c\u00e2u v\u00e0 t\u1eeb v\u1ef1ng ph\u1ed5 bi\u1ebfn khi ch\u00e0o h\u1ecfi trong ti\u1ebfng Anh.",
+                        "title": "Từ vựng chủ đề chào hỏi",
+                        "description": "Những mẫu câu và từ vựng phổ biến khi chào hỏi trong tiếng Anh.",
                         "source": "content/en/vocabulary/vocab-intro.json",
                         "markdown": "content/en/vocabulary/vocab-intro.md"
                     },
                     {
                         "id": "vocab-daily",
-                        "title": "T\u1eeb v\u1ef1ng sinh ho\u1ea1t h\u1eb1ng ng\u00e0y",
-                        "description": "M\u1edf r\u1ed9ng v\u1ed1n t\u1eeb v\u1ef1ng v\u1ec1 c\u00e1c ho\u1ea1t \u0111\u1ed9ng th\u01b0\u1eddng nh\u1eadt.",
+                        "title": "Từ vựng sinh hoạt hằng ngày",
+                        "description": "Mở rộng vốn từ vựng về các hoạt động thường nhật.",
                         "source": "content/en/vocabulary/vocab-daily.json",
                         "markdown": "content/en/vocabulary/vocab-daily.md"
                     },
                     {
                         "id": "toeic-day-01",
                         "title": "TOEIC Day 1 - Office Essentials",
-                        "description": "25 t\u1eeb v\u1ef1ng v\u0103n ph\u00f2ng c\u1ed1t l\u00f5i ph\u1ee5c v\u1ee5 giao ti\u1ebfp v\u00e0 h\u1ecdp h\u00e0nh.",
+                        "description": "25 từ vựng văn phòng cốt lõi phục vụ giao tiếp và họp hành.",
                         "source": "content/en/vocabulary/toeic-day-01.json",
                         "markdown": "content/en/vocabulary/toeic-day-01.md"
                     },
                     {
                         "id": "toeic-day-02",
                         "title": "TOEIC Day 2 - Marketing & Sales",
-                        "description": "T\u1eeb kh\u00f3a ti\u1ebfp th\u1ecb v\u00e0 b\u00e1n h\u00e0ng th\u01b0\u1eddng g\u1eb7p trong \u0111\u1ec1 TOEIC.",
+                        "description": "Từ khóa tiếp thị và bán hàng thường gặp trong đề TOEIC.",
                         "source": "content/en/vocabulary/toeic-day-02.json",
                         "markdown": "content/en/vocabulary/toeic-day-02.md"
                     },
                     {
                         "id": "toeic-day-03",
                         "title": "TOEIC Day 3 - Finance & Accounting",
-                        "description": "Thu\u1eadt ng\u1eef t\u00e0i ch\u00ednh, k\u1ebf to\u00e1n gi\u00fap hi\u1ec3u b\u00e1o c\u00e1o v\u00e0 trao \u0111\u1ed5i ng\u00e2n s\u00e1ch.",
+                        "description": "Thuật ngữ tài chính, kế toán giúp hiểu báo cáo và trao đổi ngân sách.",
                         "source": "content/en/vocabulary/toeic-day-03.json",
                         "markdown": "content/en/vocabulary/toeic-day-03.md"
                     },
                     {
                         "id": "toeic-day-04",
                         "title": "TOEIC Day 4 - Operations & Production",
-                        "description": "T\u1eeb v\u1ef1ng chu\u1ed7i cung \u1ee9ng, s\u1ea3n xu\u1ea5t v\u00e0 ki\u1ec3m so\u00e1t ch\u1ea5t l\u01b0\u1ee3ng.",
+                        "description": "Từ vựng chuỗi cung ứng, sản xuất và kiểm soát chất lượng.",
                         "source": "content/en/vocabulary/toeic-day-04.json",
                         "markdown": "content/en/vocabulary/toeic-day-04.md"
                     },
                     {
                         "id": "toeic-day-05",
                         "title": "TOEIC Day 5 - Human Resources",
-                        "description": "C\u00e1c kh\u00e1i ni\u1ec7m nh\u00e2n s\u1ef1 ph\u1ee5c v\u1ee5 ph\u1ecfng v\u1ea5n v\u00e0 ch\u00ednh s\u00e1ch c\u00f4ng ty.",
+                        "description": "Các khái niệm nhân sự phục vụ phỏng vấn và chính sách công ty.",
                         "source": "content/en/vocabulary/toeic-day-05.json",
                         "markdown": "content/en/vocabulary/toeic-day-05.md"
                     },
                     {
                         "id": "toeic-day-06",
                         "title": "TOEIC Day 6 - Business Travel",
-                        "description": "T\u00ecnh hu\u1ed1ng \u0111i c\u00f4ng t\u00e1c, \u0111\u1eb7t v\u00e9 v\u00e0 d\u1ecbch v\u1ee5 kh\u00e1ch s\u1ea1n.",
+                        "description": "Tình huống đi công tác, đặt vé và dịch vụ khách sạn.",
                         "source": "content/en/vocabulary/toeic-day-06.json",
                         "markdown": "content/en/vocabulary/toeic-day-06.md"
                     },
                     {
                         "id": "toeic-day-07",
                         "title": "TOEIC Day 7 - Technology at Work",
-                        "description": "T\u1eeb ng\u1eef c\u00f4ng ngh\u1ec7 v\u0103n ph\u00f2ng v\u00e0 b\u1ea3o m\u1eadt th\u00f4ng tin.",
+                        "description": "Từ ngữ công nghệ văn phòng và bảo mật thông tin.",
                         "source": "content/en/vocabulary/toeic-day-07.json",
                         "markdown": "content/en/vocabulary/toeic-day-07.md"
                     },
                     {
                         "id": "toeic-day-08",
                         "title": "TOEIC Day 8 - Customer Service & Support",
-                        "description": "T\u1eeb kh\u00f3a ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng, x\u1eed l\u00fd khi\u1ebfu n\u1ea1i v\u00e0 gi\u1eef ch\u00e2n kh\u00e1ch.",
+                        "description": "Từ khóa chăm sóc khách hàng, xử lý khiếu nại và giữ chân khách.",
                         "source": "content/en/vocabulary/toeic-day-08.json",
                         "markdown": "content/en/vocabulary/toeic-day-08.md"
                     },
                     {
                         "id": "toeic-day-09",
                         "title": "TOEIC Day 9 - Supply Chain & Logistics",
-                        "description": "Thu\u1eadt ng\u1eef h\u1eadu c\u1ea7n, v\u1eadn chuy\u1ec3n v\u00e0 t\u1ed1i \u01b0u chu\u1ed7i cung \u1ee9ng.",
+                        "description": "Thuật ngữ hậu cần, vận chuyển và tối ưu chuỗi cung ứng.",
                         "source": "content/en/vocabulary/toeic-day-09.json",
                         "markdown": "content/en/vocabulary/toeic-day-09.md"
                     },
                     {
                         "id": "toeic-day-10",
                         "title": "TOEIC Day 10 - Procurement & Contracting",
-                        "description": "C\u00e1c kh\u00e1i ni\u1ec7m \u0111\u1ea5u th\u1ea7u v\u00e0 qu\u1ea3n tr\u1ecb h\u1ee3p \u0111\u1ed3ng trong doanh nghi\u1ec7p.",
+                        "description": "Các khái niệm đấu thầu và quản trị hợp đồng trong doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-10.json",
                         "markdown": "content/en/vocabulary/toeic-day-10.md"
                     },
                     {
                         "id": "toeic-day-11",
                         "title": "TOEIC Day 11 - Project Management & Planning",
-                        "description": "B\u1ed9 t\u1eeb qu\u1ea3n l\u00fd d\u1ef1 \u00e1n gi\u00fap l\u1eadp k\u1ebf ho\u1ea1ch v\u00e0 theo d\u00f5i ti\u1ebfn \u0111\u1ed9.",
+                        "description": "Bộ từ quản lý dự án giúp lập kế hoạch và theo dõi tiến độ.",
                         "source": "content/en/vocabulary/toeic-day-11.json",
                         "markdown": "content/en/vocabulary/toeic-day-11.md"
                     },
                     {
                         "id": "toeic-day-12",
                         "title": "TOEIC Day 12 - Banking & Investment",
-                        "description": "Thu\u1eadt ng\u1eef ng\u00e2n h\u00e0ng \u0111\u1ea7u t\u01b0 h\u1ed7 tr\u1ee3 \u0111\u1ecdc b\u00e1o c\u00e1o th\u1ecb tr\u01b0\u1eddng.",
+                        "description": "Thuật ngữ ngân hàng đầu tư hỗ trợ đọc báo cáo thị trường.",
                         "source": "content/en/vocabulary/toeic-day-12.json",
                         "markdown": "content/en/vocabulary/toeic-day-12.md"
                     },
                     {
                         "id": "toeic-day-13",
                         "title": "TOEIC Day 13 - Workplace Health & Safety",
-                        "description": "T\u1eeb v\u1ef1ng an to\u00e0n lao \u0111\u1ed9ng \u0111\u1ec3 t\u1ed5 ch\u1ee9c hu\u1ea5n luy\u1ec7n v\u00e0 ki\u1ec3m tra.",
+                        "description": "Từ vựng an toàn lao động để tổ chức huấn luyện và kiểm tra.",
                         "source": "content/en/vocabulary/toeic-day-13.json",
                         "markdown": "content/en/vocabulary/toeic-day-13.md"
                     },
                     {
                         "id": "toeic-day-14",
                         "title": "TOEIC Day 14 - Risk Management & Compliance",
-                        "description": "T\u1eeb ng\u1eef qu\u1ea3n tr\u1ecb r\u1ee7i ro v\u00e0 tu\u00e2n th\u1ee7 d\u00e0nh cho m\u00f4i tr\u01b0\u1eddng doanh nghi\u1ec7p.",
+                        "description": "Từ ngữ quản trị rủi ro và tuân thủ dành cho môi trường doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-14.json",
                         "markdown": "content/en/vocabulary/toeic-day-14.md"
                     },
                     {
                         "id": "toeic-day-15",
                         "title": "TOEIC Day 15 - Procurement & Purchasing",
-                        "description": "Thu\u1eadt ng\u1eef thu mua v\u00e0 l\u00e0m vi\u1ec7c v\u1edbi nh\u00e0 cung c\u1ea5p trong doanh nghi\u1ec7p.",
+                        "description": "Thuật ngữ thu mua và làm việc với nhà cung cấp trong doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-15.json",
                         "markdown": "content/en/vocabulary/toeic-day-15.md"
                     },
                     {
                         "id": "toeic-day-16",
                         "title": "TOEIC Day 16 - Manufacturing & Production",
-                        "description": "T\u1eeb v\u1ef1ng m\u00f4 t\u1ea3 d\u00e2y chuy\u1ec1n s\u1ea3n xu\u1ea5t, thi\u1ebft b\u1ecb v\u00e0 c\u00f4ng su\u1ea5t nh\u00e0 m\u00e1y.",
+                        "description": "Từ vựng mô tả dây chuyền sản xuất, thiết bị và công suất nhà máy.",
                         "source": "content/en/vocabulary/toeic-day-16.json",
                         "markdown": "content/en/vocabulary/toeic-day-16.md"
                     },
                     {
                         "id": "toeic-day-17",
                         "title": "TOEIC Day 17 - Quality Assurance & Control",
-                        "description": "Thu\u1eadt ng\u1eef \u0111\u00e1nh gi\u00e1 ch\u1ea5t l\u01b0\u1ee3ng v\u00e0 x\u1eed l\u00fd sai l\u1ed7i s\u1ea3n ph\u1ea9m.",
+                        "description": "Thuật ngữ đánh giá chất lượng và xử lý sai lỗi sản phẩm.",
                         "source": "content/en/vocabulary/toeic-day-17.json",
                         "markdown": "content/en/vocabulary/toeic-day-17.md"
                     },
                     {
                         "id": "toeic-day-18",
                         "title": "TOEIC Day 18 - Accounting & Auditing",
-                        "description": "T\u1eeb ng\u1eef k\u1ebf to\u00e1n t\u00e0i ch\u00ednh v\u00e0 quy tr\u00ecnh ki\u1ec3m to\u00e1n quan tr\u1ecdng.",
+                        "description": "Từ ngữ kế toán tài chính và quy trình kiểm toán quan trọng.",
                         "source": "content/en/vocabulary/toeic-day-18.json",
                         "markdown": "content/en/vocabulary/toeic-day-18.md"
                     },
                     {
                         "id": "toeic-day-19",
                         "title": "TOEIC Day 19 - Corporate Strategy & Planning",
-                        "description": "V\u1ed1n t\u1eeb \u0111\u1ec3 b\u00e0n v\u1ec1 chi\u1ebfn l\u01b0\u1ee3c, m\u1ee5c ti\u00eau v\u00e0 k\u1ebf ho\u1ea1ch doanh nghi\u1ec7p.",
+                        "description": "Vốn từ để bàn về chiến lược, mục tiêu và kế hoạch doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-19.json",
                         "markdown": "content/en/vocabulary/toeic-day-19.md"
                     },
                     {
                         "id": "toeic-day-20",
                         "title": "TOEIC Day 20 - Training & People Development",
-                        "description": "C\u1ee5m t\u1eeb cho c\u00f4ng t\u00e1c \u0111\u00e0o t\u1ea1o, gi\u1eef ch\u00e2n v\u00e0 ph\u00e1t tri\u1ec3n nh\u00e2n s\u1ef1.",
+                        "description": "Cụm từ cho công tác đào tạo, giữ chân và phát triển nhân sự.",
                         "source": "content/en/vocabulary/toeic-day-20.json",
                         "markdown": "content/en/vocabulary/toeic-day-20.md"
                     },
                     {
                         "id": "toeic-day-21",
                         "title": "TOEIC Day 21 - Workplace Communication & Meetings",
-                        "description": "T\u1eeb v\u1ef1ng \u0111i\u1ec1u h\u00e0nh h\u1ecdp v\u00e0 giao ti\u1ebfp n\u1ed9i b\u1ed9 hi\u1ec7u qu\u1ea3.",
+                        "description": "Từ vựng điều hành họp và giao tiếp nội bộ hiệu quả.",
                         "source": "content/en/vocabulary/toeic-day-21.json",
                         "markdown": "content/en/vocabulary/toeic-day-21.md"
                     },
                     {
                         "id": "toeic-day-22",
                         "title": "TOEIC Day 22 - Sales Strategy & Negotiation",
-                        "description": "Thu\u1eadt ng\u1eef chi\u1ebfn l\u01b0\u1ee3c b\u00e1n h\u00e0ng v\u00e0 th\u01b0\u01a1ng l\u01b0\u1ee3ng v\u1edbi kh\u00e1ch h\u00e0ng doanh nghi\u1ec7p.",
+                        "description": "Thuật ngữ chiến lược bán hàng và thương lượng với khách hàng doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-22.json",
                         "markdown": "content/en/vocabulary/toeic-day-22.md"
                     },
                     {
                         "id": "toeic-day-23",
                         "title": "TOEIC Day 23 - Product Development & Innovation",
-                        "description": "V\u1ed1n t\u1eeb d\u00e0nh cho \u0111\u1ed9i ng\u0169 ph\u00e1t tri\u1ec3n s\u1ea3n ph\u1ea9m v\u00e0 \u0111\u1ed5i m\u1edbi s\u00e1ng t\u1ea1o.",
+                        "description": "Vốn từ dành cho đội ngũ phát triển sản phẩm và đổi mới sáng tạo.",
                         "source": "content/en/vocabulary/toeic-day-23.json",
                         "markdown": "content/en/vocabulary/toeic-day-23.md"
                     },
                     {
                         "id": "toeic-day-24",
                         "title": "TOEIC Day 24 - Market Research & Analytics",
-                        "description": "C\u00e1c kh\u00e1i ni\u1ec7m ph\u00e2n t\u00edch d\u1eef li\u1ec7u th\u1ecb tr\u01b0\u1eddng v\u00e0 \u0111o l\u01b0\u1eddng chi\u1ebfn d\u1ecbch.",
+                        "description": "Các khái niệm phân tích dữ liệu thị trường và đo lường chiến dịch.",
                         "source": "content/en/vocabulary/toeic-day-24.json",
                         "markdown": "content/en/vocabulary/toeic-day-24.md"
                     },
                     {
                         "id": "toeic-day-25",
                         "title": "TOEIC Day 25 - Supply Chain Risk & Continuity",
-                        "description": "T\u1eeb v\u1ef1ng qu\u1ea3n tr\u1ecb r\u1ee7i ro chu\u1ed7i cung \u1ee9ng v\u00e0 duy tr\u00ec ho\u1ea1t \u0111\u1ed9ng.",
+                        "description": "Từ vựng quản trị rủi ro chuỗi cung ứng và duy trì hoạt động.",
                         "source": "content/en/vocabulary/toeic-day-25.json",
                         "markdown": "content/en/vocabulary/toeic-day-25.md"
                     },
                     {
                         "id": "toeic-day-26",
                         "title": "TOEIC Day 26 - Corporate Governance & Ethics",
-                        "description": "Thu\u1eadt ng\u1eef qu\u1ea3n tr\u1ecb doanh nghi\u1ec7p v\u00e0 chu\u1ea9n \u0111\u1ea1o \u0111\u1ee9c ngh\u1ec1 nghi\u1ec7p.",
+                        "description": "Thuật ngữ quản trị doanh nghiệp và chuẩn đạo đức nghề nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-26.json",
                         "markdown": "content/en/vocabulary/toeic-day-26.md"
                     },
                     {
                         "id": "toeic-day-27",
                         "title": "TOEIC Day 27 - International Business & Trade",
-                        "description": "T\u1eeb v\u1ef1ng giao th\u01b0\u01a1ng to\u00e0n c\u1ea7u, ch\u1ee9ng t\u1eeb v\u00e0 chi\u1ebfn l\u01b0\u1ee3c th\u1ecb tr\u01b0\u1eddng.",
+                        "description": "Từ vựng giao thương toàn cầu, chứng từ và chiến lược thị trường.",
                         "source": "content/en/vocabulary/toeic-day-27.json",
                         "markdown": "content/en/vocabulary/toeic-day-27.md"
                     },
                     {
                         "id": "toeic-day-28",
                         "title": "TOEIC Day 28 - Performance Management & KPIs",
-                        "description": "Thu\u1eadt ng\u1eef \u0111\u00e1nh gi\u00e1 hi\u1ec7u su\u1ea5t v\u00e0 tri\u1ec3n khai KPI trong doanh nghi\u1ec7p.",
+                        "description": "Thuật ngữ đánh giá hiệu suất và triển khai KPI trong doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-28.json",
                         "markdown": "content/en/vocabulary/toeic-day-28.md"
                     },
                     {
                         "id": "toeic-day-29",
                         "title": "TOEIC Day 29 - Customer Insights & Surveys",
-                        "description": "Thu\u1eadt ng\u1eef nghi\u00ean c\u1ee9u kh\u00e1ch h\u00e0ng, kh\u1ea3o s\u00e1t v\u00e0 ph\u00e2n t\u00edch ph\u1ea3n h\u1ed3i.",
+                        "description": "Thuật ngữ nghiên cứu khách hàng, khảo sát và phân tích phản hồi.",
                         "source": "content/en/vocabulary/toeic-day-29.json",
                         "markdown": "content/en/vocabulary/toeic-day-29.md"
                     },
                     {
                         "id": "toeic-day-30",
                         "title": "TOEIC Day 30 - Corporate Communications",
-                        "description": "T\u1eeb v\u1ef1ng truy\u1ec1n th\u00f4ng doanh nghi\u1ec7p, h\u1ecdp b\u00e1o v\u00e0 qu\u1ea3n tr\u1ecb danh ti\u1ebfng.",
+                        "description": "Từ vựng truyền thông doanh nghiệp, họp báo và quản trị danh tiếng.",
                         "source": "content/en/vocabulary/toeic-day-30.json",
                         "markdown": "content/en/vocabulary/toeic-day-30.md"
                     },
                     {
                         "id": "toeic-day-31",
                         "title": "TOEIC Day 31 - Product Development Lifecycle",
-                        "description": "T\u1eeb v\u1ef1ng quy tr\u00ecnh ph\u00e1t tri\u1ec3n s\u1ea3n ph\u1ea9m theo m\u00f4 h\u00ecnh agile l\u1eabn truy\u1ec1n th\u1ed1ng.",
+                        "description": "Từ vựng quy trình phát triển sản phẩm theo mô hình agile lẫn truyền thống.",
                         "source": "content/en/vocabulary/toeic-day-31.json",
                         "markdown": "content/en/vocabulary/toeic-day-31.md"
                     },
                     {
                         "id": "toeic-day-32",
                         "title": "TOEIC Day 32 - IT Infrastructure & Security",
-                        "description": "T\u1eeb kh\u00f3a giao ti\u1ebfp v\u1edbi \u0111\u1ed9i h\u1ea1 t\u1ea7ng CNTT v\u00e0 an ninh m\u1ea1ng doanh nghi\u1ec7p.",
+                        "description": "Từ khóa giao tiếp với đội hạ tầng CNTT và an ninh mạng doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-32.json",
                         "markdown": "content/en/vocabulary/toeic-day-32.md"
                     },
                     {
                         "id": "toeic-day-33",
                         "title": "TOEIC Day 33 - Digital Marketing Analytics",
-                        "description": "Ch\u1ec9 s\u1ed1 marketing s\u1ed1 v\u00e0 c\u00f4ng c\u1ee5 ph\u00e2n t\u00edch hi\u1ec7u su\u1ea5t chi\u1ebfn d\u1ecbch.",
+                        "description": "Chỉ số marketing số và công cụ phân tích hiệu suất chiến dịch.",
                         "source": "content/en/vocabulary/toeic-day-33.json",
                         "markdown": "content/en/vocabulary/toeic-day-33.md"
                     },
                     {
                         "id": "toeic-day-34",
                         "title": "TOEIC Day 34 - Supply Chain Resilience",
-                        "description": "T\u1eeb v\u1ef1ng x\u00e2y d\u1ef1ng chu\u1ed7i cung \u1ee9ng linh ho\u1ea1t v\u00e0 k\u1ebf ho\u1ea1ch d\u1ef1 ph\u00f2ng.",
+                        "description": "Từ vựng xây dựng chuỗi cung ứng linh hoạt và kế hoạch dự phòng.",
                         "source": "content/en/vocabulary/toeic-day-34.json",
                         "markdown": "content/en/vocabulary/toeic-day-34.md"
                     },
                     {
                         "id": "toeic-day-35",
                         "title": "TOEIC Day 35 - Hospitality & Service Industry",
-                        "description": "T\u1eeb v\u1ef1ng v\u1eadn h\u00e0nh kh\u00e1ch s\u1ea1n, d\u1ecbch v\u1ee5 kh\u00e1ch h\u00e0ng v\u00e0 qu\u1ea3n l\u00fd ti\u1ec7c.",
+                        "description": "Từ vựng vận hành khách sạn, dịch vụ khách hàng và quản lý tiệc.",
                         "source": "content/en/vocabulary/toeic-day-35.json",
                         "markdown": "content/en/vocabulary/toeic-day-35.md"
                     },
                     {
                         "id": "toeic-day-36",
                         "title": "TOEIC Day 36 - Healthcare Administration",
-                        "description": "Thu\u1eadt ng\u1eef qu\u1ea3n tr\u1ecb b\u1ec7nh vi\u1ec7n, h\u1ed3 s\u01a1 b\u1ec7nh \u00e1n v\u00e0 quy tr\u00ecnh kh\u00e1m ch\u1eefa.",
+                        "description": "Thuật ngữ quản trị bệnh viện, hồ sơ bệnh án và quy trình khám chữa.",
                         "source": "content/en/vocabulary/toeic-day-36.json",
                         "markdown": "content/en/vocabulary/toeic-day-36.md"
                     },
                     {
                         "id": "toeic-day-37",
                         "title": "TOEIC Day 37 - Real Estate & Facilities",
-                        "description": "T\u1eeb v\u1ef1ng b\u1ea5t \u0111\u1ed9ng s\u1ea3n th\u01b0\u01a1ng m\u1ea1i v\u00e0 qu\u1ea3n l\u00fd c\u01a1 s\u1edf v\u1eadt ch\u1ea5t.",
+                        "description": "Từ vựng bất động sản thương mại và quản lý cơ sở vật chất.",
                         "source": "content/en/vocabulary/toeic-day-37.json",
                         "markdown": "content/en/vocabulary/toeic-day-37.md"
                     },
                     {
                         "id": "toeic-day-38",
                         "title": "TOEIC Day 38 - Legal & Contracts",
-                        "description": "Thu\u1eadt ng\u1eef ph\u00e1p l\u00fd ph\u1ed5 bi\u1ebfn trong h\u1ee3p \u0111\u1ed3ng v\u00e0 giao d\u1ecbch doanh nghi\u1ec7p.",
+                        "description": "Thuật ngữ pháp lý phổ biến trong hợp đồng và giao dịch doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-38.json",
                         "markdown": "content/en/vocabulary/toeic-day-38.md"
                     },
                     {
                         "id": "toeic-day-39",
                         "title": "TOEIC Day 39 - Environmental Sustainability",
-                        "description": "T\u1eeb v\u1ef1ng ESG, b\u00e1o c\u00e1o b\u1ec1n v\u1eefng v\u00e0 qu\u1ea3n tr\u1ecb m\u00f4i tr\u01b0\u1eddng doanh nghi\u1ec7p.",
+                        "description": "Từ vựng ESG, báo cáo bền vững và quản trị môi trường doanh nghiệp.",
                         "source": "content/en/vocabulary/toeic-day-39.json",
                         "markdown": "content/en/vocabulary/toeic-day-39.md"
                     },
                     {
                         "id": "toeic-day-40",
                         "title": "TOEIC Day 40 - Banking & Insurance",
-                        "description": "T\u1eeb kh\u00f3a ng\u00e2n h\u00e0ng, t\u00edn d\u1ee5ng v\u00e0 x\u1eed l\u00fd h\u1ed3 s\u01a1 b\u1ea3o hi\u1ec3m.",
+                        "description": "Từ khóa ngân hàng, tín dụng và xử lý hồ sơ bảo hiểm.",
                         "source": "content/en/vocabulary/toeic-day-40.json",
                         "markdown": "content/en/vocabulary/toeic-day-40.md"
                     },
                     {
                         "id": "toeic-day-41",
                         "title": "TOEIC Day 41 - Entrepreneurship & Startups",
-                        "description": "Thu\u1eadt ng\u1eef g\u1ecdi v\u1ed1n, t\u0103ng tr\u01b0\u1edfng v\u00e0 v\u1eadn h\u00e0nh startup.",
+                        "description": "Thuật ngữ gọi vốn, tăng trưởng và vận hành startup.",
                         "source": "content/en/vocabulary/toeic-day-41.json",
                         "markdown": "content/en/vocabulary/toeic-day-41.md"
                     },
                     {
                         "id": "toeic-day-42",
                         "title": "TOEIC Day 42 - Cross-cultural Business",
-                        "description": "T\u1eeb v\u1ef1ng giao ti\u1ebfp kinh doanh \u0111a v\u0103n h\u00f3a v\u00e0 xuy\u00ean bi\u00ean gi\u1edbi.",
+                        "description": "Từ vựng giao tiếp kinh doanh đa văn hóa và xuyên biên giới.",
                         "source": "content/en/vocabulary/toeic-day-42.json",
                         "markdown": "content/en/vocabulary/toeic-day-42.md"
+                    },
+                    {
+                        "id": "toeic-day-43",
+                        "title": "TOEIC Day 43 - Digital Transformation & Innovation",
+                        "description": "Từ vựng chuyển đổi số, agile và đổi mới sáng tạo trong doanh nghiệp.",
+                        "source": "content/en/vocabulary/toeic-day-43.json",
+                        "markdown": "content/en/vocabulary/toeic-day-43.md"
+                    },
+                    {
+                        "id": "toeic-day-44",
+                        "title": "TOEIC Day 44 - Corporate Social Responsibility & Sustainability",
+                        "description": "Thuật ngữ CSR, phát triển bền vững và quản trị tác động xã hội.",
+                        "source": "content/en/vocabulary/toeic-day-44.json",
+                        "markdown": "content/en/vocabulary/toeic-day-44.md"
+                    },
+                    {
+                        "id": "toeic-day-45",
+                        "title": "TOEIC Day 45 - Data Analytics & Business Intelligence",
+                        "description": "Từ vựng phân tích dữ liệu, dashboard và business intelligence.",
+                        "source": "content/en/vocabulary/toeic-day-45.json",
+                        "markdown": "content/en/vocabulary/toeic-day-45.md"
+                    },
+                    {
+                        "id": "toeic-day-46",
+                        "title": "TOEIC Day 46 - Crisis Management & Contingency Planning",
+                        "description": "Thuật ngữ quản lý khủng hoảng và lập kế hoạch dự phòng toàn diện.",
+                        "source": "content/en/vocabulary/toeic-day-46.json",
+                        "markdown": "content/en/vocabulary/toeic-day-46.md"
+                    },
+                    {
+                        "id": "toeic-day-47",
+                        "title": "TOEIC Day 47 - Leadership & Organizational Culture",
+                        "description": "Từ vựng lãnh đạo, xây dựng văn hóa và gắn kết nhân viên.",
+                        "source": "content/en/vocabulary/toeic-day-47.json",
+                        "markdown": "content/en/vocabulary/toeic-day-47.md"
+                    },
+                    {
+                        "id": "toeic-day-48",
+                        "title": "TOEIC Day 48 - Negotiation & Conflict Resolution",
+                        "description": "Thuật ngữ đàm phán, chiến thuật win-win và giải quyết tranh chấp.",
+                        "source": "content/en/vocabulary/toeic-day-48.json",
+                        "markdown": "content/en/vocabulary/toeic-day-48.md"
+                    },
+                    {
+                        "id": "toeic-day-49",
+                        "title": "TOEIC Day 49 - International Trade & Export Operations",
+                        "description": "Từ vựng xuất nhập khẩu, chứng từ vận chuyển và tuân thủ thương mại.",
+                        "source": "content/en/vocabulary/toeic-day-49.json",
+                        "markdown": "content/en/vocabulary/toeic-day-49.md"
+                    },
+                    {
+                        "id": "toeic-day-50",
+                        "title": "TOEIC Day 50 - Retail & E-commerce Operations",
+                        "description": "Thuật ngữ bán lẻ đa kênh, vận hành thương mại điện tử và tối ưu doanh thu.",
+                        "source": "content/en/vocabulary/toeic-day-50.json",
+                        "markdown": "content/en/vocabulary/toeic-day-50.md"
+                    },
+                    {
+                        "id": "toeic-day-51",
+                        "title": "TOEIC Day 51 - Healthcare Administration & Medical Services",
+                        "description": "Từ vựng quản trị bệnh viện, chăm sóc bệnh nhân và kiểm soát chất lượng y tế.",
+                        "source": "content/en/vocabulary/toeic-day-51.json",
+                        "markdown": "content/en/vocabulary/toeic-day-51.md"
+                    },
+                    {
+                        "id": "toeic-day-52",
+                        "title": "TOEIC Day 52 - Hospitality & Tourism Management",
+                        "description": "Thuật ngữ quản lý khách sạn, dịch vụ du lịch và nâng trải nghiệm khách.",
+                        "source": "content/en/vocabulary/toeic-day-52.json",
+                        "markdown": "content/en/vocabulary/toeic-day-52.md"
                     }
                 ],
                 "grammar": [
                     {
                         "id": "present-simple",
-                        "title": "Th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n",
-                        "description": "C\u00e1ch d\u00f9ng, c\u1ea5u tr\u00fac v\u00e0 l\u01b0u \u00fd quan tr\u1ecdng c\u1ee7a th\u00ec hi\u1ec7n t\u1ea1i \u0111\u01a1n.",
+                        "title": "Thì hiện tại đơn",
+                        "description": "Cách dùng, cấu trúc và lưu ý quan trọng của thì hiện tại đơn.",
                         "markdown": "content/en/grammar/present-simple.md"
                     },
                     {
                         "id": "present-continuous",
-                        "title": "Th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n",
-                        "description": "Nh\u1eadn bi\u1ebft, c\u1ea5u tr\u00fac v\u00e0 v\u00ed d\u1ee5 chi ti\u1ebft c\u1ee7a th\u00ec hi\u1ec7n t\u1ea1i ti\u1ebfp di\u1ec5n.",
+                        "title": "Thì hiện tại tiếp diễn",
+                        "description": "Nhận biết, cấu trúc và ví dụ chi tiết của thì hiện tại tiếp diễn.",
                         "markdown": "content/en/grammar/present-continuous.md"
                     },
                     {
                         "id": "present-perfect",
-                        "title": "Th\u00ec hi\u1ec7n t\u1ea1i ho\u00e0n th\u00e0nh",
-                        "description": "C\u00e1c tr\u01b0\u1eddng h\u1ee3p s\u1eed d\u1ee5ng v\u00e0 v\u00ed d\u1ee5 c\u1ee7a th\u00ec hi\u1ec7n t\u1ea1i ho\u00e0n th\u00e0nh.",
+                        "title": "Thì hiện tại hoàn thành",
+                        "description": "Các trường hợp sử dụng và ví dụ của thì hiện tại hoàn thành.",
                         "markdown": "content/en/grammar/present-perfect.md"
                     },
                     {
                         "id": "present-perfect-continuous",
-                        "title": "Th\u00ec hi\u1ec7n t\u1ea1i ho\u00e0n th\u00e0nh ti\u1ebfp di\u1ec5n",
-                        "description": "Nh\u1ea5n m\u1ea1nh th\u1eddi l\u01b0\u1ee3ng h\u00e0nh \u0111\u1ed9ng k\u00e9o d\u00e0i t\u1eeb qu\u00e1 kh\u1ee9 \u0111\u1ebfn hi\u1ec7n t\u1ea1i.",
+                        "title": "Thì hiện tại hoàn thành tiếp diễn",
+                        "description": "Nhấn mạnh thời lượng hành động kéo dài từ quá khứ đến hiện tại.",
                         "markdown": "content/en/grammar/present-perfect-continuous.md"
                     },
                     {
                         "id": "past-simple",
-                        "title": "Th\u00ec qu\u00e1 kh\u1ee9 \u0111\u01a1n",
-                        "description": "C\u1ea5u tr\u00fac, d\u1ea5u hi\u1ec7u nh\u1eadn bi\u1ebft v\u00e0 v\u00ed d\u1ee5 c\u1ee7a th\u00ec qu\u00e1 kh\u1ee9 \u0111\u01a1n.",
+                        "title": "Thì quá khứ đơn",
+                        "description": "Cấu trúc, dấu hiệu nhận biết và ví dụ của thì quá khứ đơn.",
                         "markdown": "content/en/grammar/past-simple.md"
                     },
                     {
                         "id": "past-continuous",
-                        "title": "Th\u00ec qu\u00e1 kh\u1ee9 ti\u1ebfp di\u1ec5n",
-                        "description": "H\u00e0nh \u0111\u1ed9ng \u0111ang di\u1ec5n ra t\u1ea1i th\u1eddi \u0111i\u1ec3m x\u00e1c \u0111\u1ecbnh trong qu\u00e1 kh\u1ee9.",
+                        "title": "Thì quá khứ tiếp diễn",
+                        "description": "Hành động đang diễn ra tại thời điểm xác định trong quá khứ.",
                         "markdown": "content/en/grammar/past-continuous.md"
                     },
                     {
                         "id": "past-perfect",
-                        "title": "Th\u00ec qu\u00e1 kh\u1ee9 ho\u00e0n th\u00e0nh",
-                        "description": "H\u00e0nh \u0111\u1ed9ng ho\u00e0n t\u1ea5t tr\u01b0\u1edbc m\u1ed9t s\u1ef1 ki\u1ec7n kh\u00e1c trong qu\u00e1 kh\u1ee9.",
+                        "title": "Thì quá khứ hoàn thành",
+                        "description": "Hành động hoàn tất trước một sự kiện khác trong quá khứ.",
                         "markdown": "content/en/grammar/past-perfect.md"
                     },
                     {
                         "id": "past-perfect-continuous",
-                        "title": "Th\u00ec qu\u00e1 kh\u1ee9 ho\u00e0n th\u00e0nh ti\u1ebfp di\u1ec5n",
-                        "description": "Nh\u1ea5n m\u1ea1nh th\u1eddi l\u01b0\u1ee3ng h\u00e0nh \u0111\u1ed9ng k\u00e9o d\u00e0i tr\u01b0\u1edbc m\u1ed9t m\u1ed1c qu\u00e1 kh\u1ee9.",
+                        "title": "Thì quá khứ hoàn thành tiếp diễn",
+                        "description": "Nhấn mạnh thời lượng hành động kéo dài trước một mốc quá khứ.",
                         "markdown": "content/en/grammar/past-perfect-continuous.md"
                     },
                     {
                         "id": "future-simple",
-                        "title": "Th\u00ec t\u01b0\u01a1ng lai \u0111\u01a1n",
-                        "description": "C\u00e1ch d\u00f9ng will trong giao ti\u1ebfp v\u00e0 vi\u1ebft.",
+                        "title": "Thì tương lai đơn",
+                        "description": "Cách dùng will trong giao tiếp và viết.",
                         "markdown": "content/en/grammar/future-simple.md"
                     },
                     {
                         "id": "future-continuous",
-                        "title": "Th\u00ec t\u01b0\u01a1ng lai ti\u1ebfp di\u1ec5n",
-                        "description": "H\u00e0nh \u0111\u1ed9ng s\u1ebd \u0111ang di\u1ec5n ra t\u1ea1i th\u1eddi \u0111i\u1ec3m x\u00e1c \u0111\u1ecbnh trong t\u01b0\u01a1ng lai.",
+                        "title": "Thì tương lai tiếp diễn",
+                        "description": "Hành động sẽ đang diễn ra tại thời điểm xác định trong tương lai.",
                         "markdown": "content/en/grammar/future-continuous.md"
                     },
                     {
                         "id": "future-perfect",
-                        "title": "Th\u00ec t\u01b0\u01a1ng lai ho\u00e0n th\u00e0nh",
-                        "description": "H\u00e0nh \u0111\u1ed9ng s\u1ebd ho\u00e0n t\u1ea5t tr\u01b0\u1edbc m\u1ed9t m\u1ed1c th\u1eddi gian trong t\u01b0\u01a1ng lai.",
+                        "title": "Thì tương lai hoàn thành",
+                        "description": "Hành động sẽ hoàn tất trước một mốc thời gian trong tương lai.",
                         "markdown": "content/en/grammar/future-perfect.md"
                     },
                     {
                         "id": "future-perfect-continuous",
-                        "title": "Th\u00ec t\u01b0\u01a1ng lai ho\u00e0n th\u00e0nh ti\u1ebfp di\u1ec5n",
-                        "description": "Nh\u1ea5n m\u1ea1nh th\u1eddi l\u01b0\u1ee3ng h\u00e0nh \u0111\u1ed9ng k\u00e9o d\u00e0i \u0111\u1ebfn m\u1ed9t m\u1ed1c t\u01b0\u01a1ng lai.",
+                        "title": "Thì tương lai hoàn thành tiếp diễn",
+                        "description": "Nhấn mạnh thời lượng hành động kéo dài đến một mốc tương lai.",
                         "markdown": "content/en/grammar/future-perfect-continuous.md"
                     },
                     {
                         "id": "comparatives-superlatives",
-                        "title": "So s\u00e1nh h\u01a1n v\u00e0 so s\u00e1nh nh\u1ea5t",
-                        "description": "H\u1ec7 th\u1ed1ng h\u00f3a c\u1ea5u tr\u00fac so s\u00e1nh h\u01a1n/nh\u1ea5t v\u00e0 c\u00e1c tr\u01b0\u1eddng h\u1ee3p b\u1ea5t quy t\u1eafc.",
+                        "title": "So sánh hơn và so sánh nhất",
+                        "description": "Hệ thống hóa cấu trúc so sánh hơn/nhất và các trường hợp bất quy tắc.",
                         "markdown": "content/en/grammar/comparatives-superlatives.md"
                     },
                     {
                         "id": "modal-verbs",
-                        "title": "\u0110\u1ed9ng t\u1eeb khuy\u1ebft thi\u1ebfu",
-                        "description": "T\u1ed5ng h\u1ee3p c\u00e1ch d\u00f9ng can, could, may, might, must, should.",
+                        "title": "Động từ khuyết thiếu",
+                        "description": "Tổng hợp cách dùng can, could, may, might, must, should.",
                         "markdown": "content/en/grammar/modal-verbs.md"
                     }
                 ],
                 "reading": [
                     {
                         "id": "morning-routine",
-                        "title": "Th\u00f3i quen bu\u1ed5i s\u00e1ng",
-                        "description": "B\u00e0i \u0111\u1ecdc ng\u1eafn v\u1ec1 c\u00e1c ho\u1ea1t \u0111\u1ed9ng bu\u1ed5i s\u00e1ng c\u1ee7a m\u1ed9t b\u1ea1n h\u1ecdc sinh.",
+                        "title": "Thói quen buổi sáng",
+                        "description": "Bài đọc ngắn về các hoạt động buổi sáng của một bạn học sinh.",
                         "markdown": "content/en/reading/morning-routine.md"
                     },
                     {
                         "id": "city-commute",
-                        "title": "M\u1ed9t bu\u1ed5i s\u00e1ng tr\u00ean \u0111\u01b0\u1eddng t\u1edbi c\u00f4ng ty",
-                        "description": "Theo ch\u00e2n Minh di chuy\u1ec3n b\u1eb1ng ph\u01b0\u01a1ng ti\u1ec7n c\u00f4ng c\u1ed9ng v\u00e0 t\u1eadn d\u1ee5ng th\u1eddi gian nghe ti\u1ebfng Anh.",
+                        "title": "Một buổi sáng trên đường tới công ty",
+                        "description": "Theo chân Minh di chuyển bằng phương tiện công cộng và tận dụng thời gian nghe tiếng Anh.",
                         "markdown": "content/en/reading/city-commute.md"
                     },
                     {
                         "id": "product-demo",
-                        "title": "Bu\u1ed5i gi\u1edbi thi\u1ec7u s\u1ea3n ph\u1ea9m m\u1edbi",
-                        "description": "T\u00ecm hi\u1ec3u c\u00e1ch \u0111\u1ed9i marketing chu\u1ea9n b\u1ecb v\u00e0 x\u1eed l\u00fd c\u00e2u h\u1ecfi trong m\u1ed9t bu\u1ed5i demo tr\u1ef1c tuy\u1ebfn.",
+                        "title": "Buổi giới thiệu sản phẩm mới",
+                        "description": "Tìm hiểu cách đội marketing chuẩn bị và xử lý câu hỏi trong một buổi demo trực tuyến.",
                         "markdown": "content/en/reading/product-demo.md"
                     },
                     {
                         "id": "customer-support-shift",
-                        "title": "Ca tr\u1ef1c ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng ban \u0111\u00eam",
-                        "description": "Kh\u00e1m ph\u00e1 quy tr\u00ecnh h\u1ed7 tr\u1ee3 kh\u00e1ch h\u00e0ng qu\u1ed1c t\u1ebf v\u00e0 k\u1ef9 n\u0103ng giao ti\u1ebfp chuy\u00ean nghi\u1ec7p.",
+                        "title": "Ca trực chăm sóc khách hàng ban đêm",
+                        "description": "Khám phá quy trình hỗ trợ khách hàng quốc tế và kỹ năng giao tiếp chuyên nghiệp.",
                         "markdown": "content/en/reading/customer-support-shift.md"
                     },
                     {
                         "id": "team-building-retreat",
-                        "title": "Chuy\u1ebfn d\u00e3 ngo\u1ea1i g\u1eafn k\u1ebft \u0111\u1ed9i nh\u00f3m",
-                        "description": "Theo d\u00f5i c\u00e1c ho\u1ea1t \u0111\u1ed9ng team building v\u00e0 b\u00e0i h\u1ecdc r\u00fat ra v\u1ec1 l\u00e0m vi\u1ec7c nh\u00f3m.",
+                        "title": "Chuyến dã ngoại gắn kết đội nhóm",
+                        "description": "Theo dõi các hoạt động team building và bài học rút ra về làm việc nhóm.",
                         "markdown": "content/en/reading/team-building-retreat.md"
                     },
                     {
                         "id": "quarterly-review",
-                        "title": "Bu\u1ed5i \u0111\u00e1nh gi\u00e1 qu\u00fd t\u1ea1i ph\u00f2ng h\u1ecdp",
-                        "description": "Quan s\u00e1t c\u00e1c ph\u00f2ng ban tr\u00ecnh b\u00e0y k\u1ebft qu\u1ea3 v\u00e0 k\u1ebf ho\u1ea1ch h\u00e0nh \u0111\u1ed9ng trong cu\u1ed9c h\u1ecdp qu\u00fd.",
+                        "title": "Buổi đánh giá quý tại phòng họp",
+                        "description": "Quan sát các phòng ban trình bày kết quả và kế hoạch hành động trong cuộc họp quý.",
                         "markdown": "content/en/reading/quarterly-review.md"
                     },
                     {
                         "id": "remote-work-day",
-                        "title": "M\u1ed9t ng\u00e0y l\u00e0m vi\u1ec7c t\u1eeb xa hi\u1ec7u qu\u1ea3",
-                        "description": "H\u1ecdc c\u00e1ch s\u1eafp x\u1ebfp l\u1ecbch tr\u00ecnh, c\u1ed9ng t\u00e1c online v\u00e0 gi\u1eef t\u1eadp trung khi l\u00e0m vi\u1ec7c t\u1ea1i nh\u00e0.",
+                        "title": "Một ngày làm việc từ xa hiệu quả",
+                        "description": "Học cách sắp xếp lịch trình, cộng tác online và giữ tập trung khi làm việc tại nhà.",
                         "markdown": "content/en/reading/remote-work-day.md"
                     },
                     {
                         "id": "factory-inspection",
-                        "title": "Chuy\u1ebfn tham quan nh\u00e0 m\u00e1y",
-                        "description": "C\u00f9ng \u0111\u1ed9i ki\u1ec3m so\u00e1t ch\u1ea5t l\u01b0\u1ee3ng ki\u1ec3m tra d\u00e2y chuy\u1ec1n s\u1ea3n xu\u1ea5t v\u00e0 quy tr\u00ecnh an to\u00e0n.",
+                        "title": "Chuyến tham quan nhà máy",
+                        "description": "Cùng đội kiểm soát chất lượng kiểm tra dây chuyền sản xuất và quy trình an toàn.",
                         "markdown": "content/en/reading/factory-inspection.md"
                     },
                     {
                         "id": "airport-briefing",
-                        "title": "Cu\u1ed9c h\u1ecdp ng\u1eafn t\u1ea1i s\u00e2n bay",
-                        "description": "Nh\u00f3m d\u1ef1 \u00e1n r\u00e0 so\u00e1t k\u1ebf ho\u1ea1ch tr\u01b0\u1edbc chuy\u1ebfn c\u00f4ng t\u00e1c v\u00e0 ph\u00e2n chia nhi\u1ec7m v\u1ee5 cu\u1ed1i c\u00f9ng.",
+                        "title": "Cuộc họp ngắn tại sân bay",
+                        "description": "Nhóm dự án rà soát kế hoạch trước chuyến công tác và phân chia nhiệm vụ cuối cùng.",
                         "markdown": "content/en/reading/airport-briefing.md"
                     },
                     {
                         "id": "startup-pitch",
-                        "title": "Bu\u1ed5i thuy\u1ebft tr\u00ecnh g\u1ecdi v\u1ed1n c\u1ee7a startup",
-                        "description": "Theo d\u00f5i \u0111\u1ed9i ng\u0169 GreenWave tr\u00ecnh b\u00e0y \u00fd t\u01b0\u1edfng n\u0103ng l\u01b0\u1ee3ng t\u00e1i t\u1ea1o tr\u01b0\u1edbc nh\u00e0 \u0111\u1ea7u t\u01b0.",
+                        "title": "Buổi thuyết trình gọi vốn của startup",
+                        "description": "Theo dõi đội ngũ GreenWave trình bày ý tưởng năng lượng tái tạo trước nhà đầu tư.",
                         "markdown": "content/en/reading/startup-pitch.md"
                     },
                     {
                         "id": "community-outreach",
-                        "title": "Ho\u1ea1t \u0111\u1ed9ng thi\u1ec7n nguy\u1ec7n cu\u1ed1i tu\u1ea7n",
-                        "description": "C\u00f9ng nh\u00e2n vi\u00ean tham gia ng\u00e0y h\u1ed9i h\u01b0\u1edbng d\u1eabn k\u1ef9 n\u0103ng s\u1ed1 cho c\u1ed9ng \u0111\u1ed3ng \u0111\u1ecba ph\u01b0\u01a1ng.",
+                        "title": "Hoạt động thiện nguyện cuối tuần",
+                        "description": "Cùng nhân viên tham gia ngày hội hướng dẫn kỹ năng số cho cộng đồng địa phương.",
                         "markdown": "content/en/reading/community-outreach.md"
                     }
                 ],
                 "quiz": [
                     {
                         "id": "greeting-check",
-                        "title": "Quiz: Ch\u00e0o h\u1ecfi",
-                        "description": "Ki\u1ec3m tra nhanh v\u1ed1n t\u1eeb v\u1ef1ng v\u1ec1 ch\u1ee7 \u0111\u1ec1 ch\u00e0o h\u1ecfi.",
+                        "title": "Quiz: Chào hỏi",
+                        "description": "Kiểm tra nhanh vốn từ vựng về chủ đề chào hỏi.",
                         "source": "content/en/quiz/greeting-check.json"
                     },
                     {
                         "id": "toeic-office-quiz",
-                        "title": "Quiz TOEIC: V\u0103n ph\u00f2ng h\u00e0ng ng\u00e0y",
-                        "description": "10 c\u00e2u h\u1ecfi ki\u1ec3m tra t\u1eeb v\u1ef1ng v\u00e0 thu\u1eadt ng\u1eef c\u00f4ng s\u1edf c\u01a1 b\u1ea3n.",
+                        "title": "Quiz TOEIC: Văn phòng hàng ngày",
+                        "description": "10 câu hỏi kiểm tra từ vựng và thuật ngữ công sở cơ bản.",
                         "source": "content/en/quiz/toeic-office-quiz.json"
                     },
                     {
                         "id": "toeic-marketing-quiz",
-                        "title": "Quiz TOEIC: Marketing & B\u00e1n h\u00e0ng",
-                        "description": "\u0110\u00e1nh gi\u00e1 hi\u1ec3u bi\u1ebft v\u1ec1 ti\u1ebfp th\u1ecb, b\u00e1n h\u00e0ng v\u00e0 ch\u1ec9 s\u1ed1 hi\u1ec7u qu\u1ea3.",
+                        "title": "Quiz TOEIC: Marketing & Bán hàng",
+                        "description": "Đánh giá hiểu biết về tiếp thị, bán hàng và chỉ số hiệu quả.",
                         "source": "content/en/quiz/toeic-marketing-quiz.json"
                     },
                     {
                         "id": "toeic-finance-quiz",
-                        "title": "Quiz TOEIC: T\u00e0i ch\u00ednh doanh nghi\u1ec7p",
-                        "description": "\u00d4n t\u1eadp kh\u00e1i ni\u1ec7m k\u1ebf to\u00e1n, b\u00e1o c\u00e1o v\u00e0 ng\u00e2n s\u00e1ch trong TOEIC.",
+                        "title": "Quiz TOEIC: Tài chính doanh nghiệp",
+                        "description": "Ôn tập khái niệm kế toán, báo cáo và ngân sách trong TOEIC.",
                         "source": "content/en/quiz/toeic-finance-quiz.json"
                     },
                     {
                         "id": "toeic-operations-quiz",
-                        "title": "Quiz TOEIC: V\u1eadn h\u00e0nh & s\u1ea3n xu\u1ea5t",
-                        "description": "C\u1ee7ng c\u1ed1 t\u1eeb v\u1ef1ng v\u1ec1 quy tr\u00ecnh, c\u00f4ng su\u1ea5t v\u00e0 qu\u1ea3n l\u00fd kho.",
+                        "title": "Quiz TOEIC: Vận hành & sản xuất",
+                        "description": "Củng cố từ vựng về quy trình, công suất và quản lý kho.",
                         "source": "content/en/quiz/toeic-operations-quiz.json"
                     },
                     {
                         "id": "toeic-hr-quiz",
-                        "title": "Quiz TOEIC: Nh\u00e2n s\u1ef1",
-                        "description": "Ki\u1ec3m tra thu\u1eadt ng\u1eef tuy\u1ec3n d\u1ee5ng, ph\u00fac l\u1ee3i v\u00e0 \u0111\u00e1nh gi\u00e1 nh\u00e2n vi\u00ean.",
+                        "title": "Quiz TOEIC: Nhân sự",
+                        "description": "Kiểm tra thuật ngữ tuyển dụng, phúc lợi và đánh giá nhân viên.",
                         "source": "content/en/quiz/toeic-hr-quiz.json"
                     },
                     {
                         "id": "toeic-travel-quiz",
-                        "title": "Quiz TOEIC: C\u00f4ng t\u00e1c & du l\u1ecbch",
-                        "description": "Bao qu\u00e1t t\u1eeb v\u1ef1ng \u0111\u1eb7t v\u00e9, c\u00f4ng t\u00e1c ph\u00ed v\u00e0 quy tr\u00ecnh s\u00e2n bay.",
+                        "title": "Quiz TOEIC: Công tác & du lịch",
+                        "description": "Bao quát từ vựng đặt vé, công tác phí và quy trình sân bay.",
                         "source": "content/en/quiz/toeic-travel-quiz.json"
                     },
                     {
                         "id": "toeic-tech-quiz",
-                        "title": "Quiz TOEIC: C\u00f4ng ngh\u1ec7 v\u0103n ph\u00f2ng",
-                        "description": "\u0110\u00e1nh gi\u00e1 hi\u1ec3u bi\u1ebft v\u1ec1 b\u1ea3o m\u1eadt, ph\u1ea7n m\u1ec1m v\u00e0 thi\u1ebft b\u1ecb IT.",
+                        "title": "Quiz TOEIC: Công nghệ văn phòng",
+                        "description": "Đánh giá hiểu biết về bảo mật, phần mềm và thiết bị IT.",
                         "source": "content/en/quiz/toeic-tech-quiz.json"
                     },
                     {
                         "id": "toeic-customer-service-quiz",
-                        "title": "Quiz TOEIC: Ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng",
-                        "description": "Ki\u1ec3m tra k\u1ef9 n\u0103ng x\u1eed l\u00fd y\u00eau c\u1ea7u, th\u00e1i \u0111\u1ed9 v\u00e0 ch\u1ec9 s\u1ed1 h\u00e0i l\u00f2ng.",
+                        "title": "Quiz TOEIC: Chăm sóc khách hàng",
+                        "description": "Kiểm tra kỹ năng xử lý yêu cầu, thái độ và chỉ số hài lòng.",
                         "source": "content/en/quiz/toeic-customer-service-quiz.json"
                     },
                     {
                         "id": "toeic-logistics-quiz",
-                        "title": "Quiz TOEIC: Chu\u1ed7i cung \u1ee9ng",
-                        "description": "\u00d4n t\u1eadp ch\u1ee9ng t\u1eeb v\u1eadn chuy\u1ec3n, theo d\u00f5i v\u00e0 t\u1ed1i \u01b0u giao h\u00e0ng.",
+                        "title": "Quiz TOEIC: Chuỗi cung ứng",
+                        "description": "Ôn tập chứng từ vận chuyển, theo dõi và tối ưu giao hàng.",
                         "source": "content/en/quiz/toeic-logistics-quiz.json"
                     },
                     {
                         "id": "toeic-contracts-quiz",
-                        "title": "Quiz TOEIC: H\u1ee3p \u0111\u1ed3ng & ph\u00e1p l\u00fd",
-                        "description": "C\u1ee7ng c\u1ed1 t\u1eeb v\u1ef1ng \u0111\u00e0m ph\u00e1n, \u0111i\u1ec1u kho\u1ea3n v\u00e0 qu\u1ea3n l\u00fd h\u1ee3p \u0111\u1ed3ng.",
+                        "title": "Quiz TOEIC: Hợp đồng & pháp lý",
+                        "description": "Củng cố từ vựng đàm phán, điều khoản và quản lý hợp đồng.",
                         "source": "content/en/quiz/toeic-contracts-quiz.json"
                     }
                 ]
             }
         },
         "zh-hans": {
-            "label": "Ti\u1ebfng Trung (Gi\u1ea3n th\u1ec3)",
+            "label": "Tiếng Trung (Giản thể)",
             "labels": {
-                "vocabulary": "T\u1eeb v\u1ef1ng",
-                "grammar": "Ng\u1eef ph\u00e1p",
-                "reading": "B\u00e0i \u0111\u1ecdc",
-                "quiz": "B\u00e0i ki\u1ec3m tra"
+                "vocabulary": "Từ vựng",
+                "grammar": "Ngữ pháp",
+                "reading": "Bài đọc",
+                "quiz": "Bài kiểm tra"
             },
             "order": [
                 "vocabulary",
@@ -568,302 +638,302 @@
                 "vocabulary": [
                     {
                         "id": "zh-hans-business-basics",
-                        "title": "\u5546\u52a1\u57fa\u7840\u8bcd\u6c47",
-                        "description": "25\u8bcd\u52a9\u4f60 x\u1eed l\u00fd c\u00e1c t\u00ecnh hu\u1ed1ng v\u0103n ph\u00f2ng b\u1eb1ng ti\u1ebfng Trung gi\u1ea3n th\u1ec3.",
+                        "title": "商务基础词汇",
+                        "description": "25词助你 xử lý các tình huống văn phòng bằng tiếng Trung giản thể.",
                         "source": "content/zh-hans/vocabulary/zh-hans-business-basics.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-business-basics.md"
                     },
                     {
                         "id": "zh-hans-office-communication",
-                        "title": "\u529e\u516c\u6c9f\u901a\u5fc5\u5907\u8bcd\u6c47",
-                        "description": "C\u1ee7ng c\u1ed1 v\u1ed1n t\u1eeb cho h\u1ecdp h\u00e0nh, email v\u00e0 c\u1ed9ng t\u00e1c tr\u1ef1c tuy\u1ebfn.",
+                        "title": "办公沟通必备词汇",
+                        "description": "Củng cố vốn từ cho họp hành, email và cộng tác trực tuyến.",
                         "source": "content/zh-hans/vocabulary/zh-hans-office-communication.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-office-communication.md"
                     },
                     {
                         "id": "zh-hans-sales-negotiation",
-                        "title": "\u9500\u552e\u8c08\u5224\u5173\u952e\u8bcd",
-                        "description": "T\u1eeb v\u1ef1ng \u0111\u00e0m ph\u00e1n gi\u00e1, \u0111i\u1ec1u kho\u1ea3n v\u00e0 h\u1ed7 tr\u1ee3 sau b\u00e1n.",
+                        "title": "销售谈判关键词",
+                        "description": "Từ vựng đàm phán giá, điều khoản và hỗ trợ sau bán.",
                         "source": "content/zh-hans/vocabulary/zh-hans-sales-negotiation.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-sales-negotiation.md"
                     },
                     {
                         "id": "zh-hans-customer-service",
-                        "title": "\u5ba2\u6237\u670d\u52a1\u6838\u5fc3\u8bcd\u6c47",
-                        "description": "T\u1eeb v\u1ef1ng cho \u0111\u1ed9i ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng, x\u1eed l\u00fd ph\u1ea3n h\u1ed3i v\u00e0 khi\u1ebfu n\u1ea1i.",
+                        "title": "客户服务核心词汇",
+                        "description": "Từ vựng cho đội chăm sóc khách hàng, xử lý phản hồi và khiếu nại.",
                         "source": "content/zh-hans/vocabulary/zh-hans-customer-service.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-customer-service.md"
                     },
                     {
                         "id": "zh-hans-logistics-operations",
-                        "title": "\u7269\u6d41\u4e0e\u8fd0\u8425\u5e38\u7528\u8bcd\u6c47",
-                        "description": "Thu\u1ed9c l\u00f2ng thu\u1eadt ng\u1eef kho b\u00e3i, v\u1eadn chuy\u1ec3n v\u00e0 \u0111i\u1ec1u ph\u1ed1i.",
+                        "title": "物流与运营常用词汇",
+                        "description": "Thuộc lòng thuật ngữ kho bãi, vận chuyển và điều phối.",
                         "source": "content/zh-hans/vocabulary/zh-hans-logistics-operations.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-logistics-operations.md"
                     },
                     {
                         "id": "zh-hans-finance-reporting",
-                        "title": "\u8d22\u52a1\u62a5\u8868\u5fc5\u5907\u8bcd\u6c47",
-                        "description": "Hi\u1ec3u s\u1ed1 li\u1ec7u ng\u00e2n s\u00e1ch, l\u1ee3i nhu\u1eadn v\u00e0 ki\u1ec3m to\u00e1n b\u1eb1ng ti\u1ebfng Trung.",
+                        "title": "财务报表必备词汇",
+                        "description": "Hiểu số liệu ngân sách, lợi nhuận và kiểm toán bằng tiếng Trung.",
                         "source": "content/zh-hans/vocabulary/zh-hans-finance-reporting.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-finance-reporting.md"
                     },
                     {
                         "id": "zh-hans-marketing-campaigns",
-                        "title": "\u5e02\u573a\u8425\u9500\u6d3b\u52a8\u8bcd\u6c47",
-                        "description": "T\u0103ng v\u1ed1n t\u1eeb v\u1ec1 chi\u1ebfn d\u1ecbch, k\u00eanh qu\u1ea3ng b\u00e1 v\u00e0 \u0111o l\u01b0\u1eddng hi\u1ec7u qu\u1ea3.",
+                        "title": "市场营销活动词汇",
+                        "description": "Tăng vốn từ về chiến dịch, kênh quảng bá và đo lường hiệu quả.",
                         "source": "content/zh-hans/vocabulary/zh-hans-marketing-campaigns.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-marketing-campaigns.md"
                     },
                     {
                         "id": "zh-hans-human-resources",
-                        "title": "\u4eba\u529b\u8d44\u6e90\u7ba1\u7406\u8bcd\u6c47",
-                        "description": "Bao qu\u00e1t tuy\u1ec3n d\u1ee5ng, \u0111\u00e0o t\u1ea1o v\u00e0 ph\u00fac l\u1ee3i nh\u00e2n vi\u00ean.",
+                        "title": "人力资源管理词汇",
+                        "description": "Bao quát tuyển dụng, đào tạo và phúc lợi nhân viên.",
                         "source": "content/zh-hans/vocabulary/zh-hans-human-resources.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-human-resources.md"
                     },
                     {
                         "id": "zh-hans-project-management",
-                        "title": "\u9879\u76ee\u7ba1\u7406\u6838\u5fc3\u8bcd\u6c47",
-                        "description": "T\u1eadp trung v\u00e0o l\u1eadp k\u1ebf ho\u1ea1ch, ki\u1ec3m so\u00e1t ti\u1ebfn \u0111\u1ed9 v\u00e0 qu\u1ea3n tr\u1ecb r\u1ee7i ro.",
+                        "title": "项目管理核心词汇",
+                        "description": "Tập trung vào lập kế hoạch, kiểm soát tiến độ và quản trị rủi ro.",
                         "source": "content/zh-hans/vocabulary/zh-hans-project-management.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-project-management.md"
                     },
                     {
                         "id": "zh-hans-technology-terms",
-                        "title": "\u79d1\u6280\u56e2\u961f\u5e38\u7528\u8bcd\u6c47",
-                        "description": "N\u1eafm b\u1eaft thu\u1eadt ng\u1eef ph\u00e1t tri\u1ec3n ph\u1ea7n m\u1ec1m v\u00e0 v\u1eadn h\u00e0nh h\u1ec7 th\u1ed1ng.",
+                        "title": "科技团队常用词汇",
+                        "description": "Nắm bắt thuật ngữ phát triển phần mềm và vận hành hệ thống.",
                         "source": "content/zh-hans/vocabulary/zh-hans-technology-terms.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-technology-terms.md"
                     },
                     {
                         "id": "zh-hans-procurement-supply",
-                        "title": "\u91c7\u8d2d\u4e0e\u4f9b\u5e94\u94fe\u8bcd\u6c47",
-                        "description": "Luy\u1ec7n \u0111\u00e0m ph\u00e1n cung \u1ee9ng, h\u1ee3p \u0111\u1ed3ng v\u00e0 qu\u1ea3n l\u00fd t\u1ed3n kho.",
+                        "title": "采购与供应链词汇",
+                        "description": "Luyện đàm phán cung ứng, hợp đồng và quản lý tồn kho.",
                         "source": "content/zh-hans/vocabulary/zh-hans-procurement-supply.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-procurement-supply.md"
                     },
                     {
                         "id": "zh-hans-travel-arrangements",
-                        "title": "\u5546\u65c5\u5b89\u6392\u5e38\u7528\u8bcd\u6c47",
-                        "description": "Chu\u1ea9n b\u1ecb chuy\u1ebfn c\u00f4ng t\u00e1c: v\u00e9 m\u00e1y bay, kh\u00e1ch s\u1ea1n v\u00e0 ho\u00e0n \u1ee9ng.",
+                        "title": "商旅安排常用词汇",
+                        "description": "Chuẩn bị chuyến công tác: vé máy bay, khách sạn và hoàn ứng.",
                         "source": "content/zh-hans/vocabulary/zh-hans-travel-arrangements.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-travel-arrangements.md"
                     },
                     {
                         "id": "zh-hans-quality-assurance",
-                        "title": "\u8d28\u91cf\u7ba1\u7406\u4e0e\u6539\u8fdb\u8bcd\u6c47",
-                        "description": "\u00d4n t\u1eadp quy tr\u00ecnh ki\u1ec3m \u0111\u1ecbnh, kh\u1eafc ph\u1ee5c l\u1ed7i v\u00e0 c\u1ea3i ti\u1ebfn li\u00ean t\u1ee5c.",
+                        "title": "质量管理与改进词汇",
+                        "description": "Ôn tập quy trình kiểm định, khắc phục lỗi và cải tiến liên tục.",
                         "source": "content/zh-hans/vocabulary/zh-hans-quality-assurance.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-quality-assurance.md"
                     },
                     {
                         "id": "zh-hans-risk-management",
-                        "title": "T\u1eeb v\u1ef1ng qu\u1ea3n tr\u1ecb r\u1ee7i ro (\u4e2d\u6587)",
-                        "description": "Thu\u1eadt ng\u1eef x\u1eed l\u00fd r\u1ee7i ro, k\u1ebf ho\u1ea1ch \u1ee9ng ph\u00f3 v\u00e0 gi\u00e1m s\u00e1t li\u00ean t\u1ee5c.",
+                        "title": "Từ vựng quản trị rủi ro (中文)",
+                        "description": "Thuật ngữ xử lý rủi ro, kế hoạch ứng phó và giám sát liên tục.",
                         "source": "content/zh-hans/vocabulary/zh-hans-risk-management.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-risk-management.md"
                     },
                     {
                         "id": "zh-hans-data-analysis",
-                        "title": "T\u1eeb v\u1ef1ng ph\u00e2n t\u00edch d\u1eef li\u1ec7u (\u4e2d\u6587)",
-                        "description": "T\u1eeb v\u1ef1ng v\u1ec1 b\u00e1o c\u00e1o, m\u00f4 h\u00ecnh v\u00e0 tr\u1ef1c quan h\u00f3a d\u1eef li\u1ec7u doanh nghi\u1ec7p.",
+                        "title": "Từ vựng phân tích dữ liệu (中文)",
+                        "description": "Từ vựng về báo cáo, mô hình và trực quan hóa dữ liệu doanh nghiệp.",
                         "source": "content/zh-hans/vocabulary/zh-hans-data-analysis.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-data-analysis.md"
                     },
                     {
                         "id": "zh-hans-innovation-design",
-                        "title": "T\u1eeb v\u1ef1ng \u0111\u1ed5i m\u1edbi & thi\u1ebft k\u1ebf (\u4e2d\u6587)",
-                        "description": "C\u00e1c thu\u1eadt ng\u1eef brainstorm, nguy\u00ean m\u1eabu v\u00e0 ra m\u1eaft s\u1ea3n ph\u1ea9m m\u1edbi.",
+                        "title": "Từ vựng đổi mới & thiết kế (中文)",
+                        "description": "Các thuật ngữ brainstorm, nguyên mẫu và ra mắt sản phẩm mới.",
                         "source": "content/zh-hans/vocabulary/zh-hans-innovation-design.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-innovation-design.md"
                     },
                     {
                         "id": "zh-hans-legal-compliance",
-                        "title": "T\u1eeb v\u1ef1ng ph\u00e1p l\u00fd & tu\u00e2n th\u1ee7 (\u4e2d\u6587)",
-                        "description": "Thu\u1eadt ng\u1eef h\u1ee3p \u0111\u1ed3ng, ki\u1ec3m to\u00e1n v\u00e0 qu\u1ea3n tr\u1ecb r\u1ee7i ro ph\u00e1p l\u00fd.",
+                        "title": "Từ vựng pháp lý & tuân thủ (中文)",
+                        "description": "Thuật ngữ hợp đồng, kiểm toán và quản trị rủi ro pháp lý.",
                         "source": "content/zh-hans/vocabulary/zh-hans-legal-compliance.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-legal-compliance.md"
                     },
                     {
                         "id": "zh-hans-operations-maintenance",
-                        "title": "T\u1eeb v\u1ef1ng v\u1eadn h\u00e0nh & b\u1ea3o tr\u00ec (\u4e2d\u6587)",
-                        "description": "B\u1ed9 t\u1eeb v\u1ec1 thi\u1ebft b\u1ecb, b\u1ea3o d\u01b0\u1ee1ng v\u00e0 quy tr\u00ecnh x\u1eed l\u00fd s\u1ef1 c\u1ed1.",
+                        "title": "Từ vựng vận hành & bảo trì (中文)",
+                        "description": "Bộ từ về thiết bị, bảo dưỡng và quy trình xử lý sự cố.",
                         "source": "content/zh-hans/vocabulary/zh-hans-operations-maintenance.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-operations-maintenance.md"
                     },
                     {
                         "id": "zh-hans-remote-collaboration",
-                        "title": "T\u1eeb v\u1ef1ng c\u1ed9ng t\u00e1c t\u1eeb xa (\u4e2d\u6587)",
-                        "description": "C\u1ee5m t\u1eeb s\u1eed d\u1ee5ng trong h\u1ecdp tr\u1ef1c tuy\u1ebfn v\u00e0 chia s\u1ebb t\u00e0i li\u1ec7u cloud.",
+                        "title": "Từ vựng cộng tác từ xa (中文)",
+                        "description": "Cụm từ sử dụng trong họp trực tuyến và chia sẻ tài liệu cloud.",
                         "source": "content/zh-hans/vocabulary/zh-hans-remote-collaboration.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-remote-collaboration.md"
                     },
                     {
                         "id": "zh-hans-sales-forecasting",
-                        "title": "T\u1eeb v\u1ef1ng d\u1ef1 b\u00e1o doanh s\u1ed1 (\u4e2d\u6587)",
-                        "description": "Thu\u1eadt ng\u1eef pipeline b\u00e1n h\u00e0ng, ch\u1ec9 s\u1ed1 chuy\u1ec3n \u0111\u1ed5i v\u00e0 k\u1ebf ho\u1ea1ch doanh thu.",
+                        "title": "Từ vựng dự báo doanh số (中文)",
+                        "description": "Thuật ngữ pipeline bán hàng, chỉ số chuyển đổi và kế hoạch doanh thu.",
                         "source": "content/zh-hans/vocabulary/zh-hans-sales-forecasting.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-sales-forecasting.md"
                     },
                     {
                         "id": "zh-hans-corporate-strategy",
-                        "title": "T\u1eeb v\u1ef1ng chi\u1ebfn l\u01b0\u1ee3c doanh nghi\u1ec7p (\u4e2d\u6587)",
-                        "description": "T\u1eeb v\u1ef1ng m\u00f4 t\u1ea3 t\u1ea7m nh\u00ecn, chuy\u1ec3n \u0111\u1ed5i v\u00e0 c\u00e1c b\u01b0\u1edbc th\u1ef1c thi chi\u1ebfn l\u01b0\u1ee3c.",
+                        "title": "Từ vựng chiến lược doanh nghiệp (中文)",
+                        "description": "Từ vựng mô tả tầm nhìn, chuyển đổi và các bước thực thi chiến lược.",
                         "source": "content/zh-hans/vocabulary/zh-hans-corporate-strategy.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-corporate-strategy.md"
                     },
                     {
                         "id": "zh-hans-sustainability",
-                        "title": "T\u1eeb v\u1ef1ng ph\u00e1t tri\u1ec3n b\u1ec1n v\u1eefng (\u4e2d\u6587)",
-                        "description": "Thu\u1eadt ng\u1eef ESG: gi\u1ea3m ph\u00e1t th\u1ea3i, chu\u1ed7i cung \u1ee9ng xanh v\u00e0 b\u00e1o c\u00e1o minh b\u1ea1ch.",
+                        "title": "Từ vựng phát triển bền vững (中文)",
+                        "description": "Thuật ngữ ESG: giảm phát thải, chuỗi cung ứng xanh và báo cáo minh bạch.",
                         "source": "content/zh-hans/vocabulary/zh-hans-sustainability.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-sustainability.md"
                     },
                     {
                         "id": "zh-hans-event-planning",
-                        "title": "T\u1eeb v\u1ef1ng t\u1ed5 ch\u1ee9c s\u1ef1 ki\u1ec7n (\u4e2d\u6587)",
-                        "description": "T\u1eeb v\u1ef1ng chu\u1ea9n b\u1ecb, v\u1eadn h\u00e0nh v\u00e0 truy\u1ec1n th\u00f4ng cho s\u1ef1 ki\u1ec7n doanh nghi\u1ec7p.",
+                        "title": "Từ vựng tổ chức sự kiện (中文)",
+                        "description": "Từ vựng chuẩn bị, vận hành và truyền thông cho sự kiện doanh nghiệp.",
                         "source": "content/zh-hans/vocabulary/zh-hans-event-planning.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-event-planning.md"
                     },
                     {
                         "id": "zh-hans-crisis-management",
-                        "title": "T\u1eeb v\u1ef1ng qu\u1ea3n tr\u1ecb kh\u1ee7ng ho\u1ea3ng (\u4e2d\u6587)",
-                        "description": "Thu\u1ed9c l\u00f2ng thu\u1eadt ng\u1eef x\u1eed l\u00fd s\u1ef1 c\u1ed1, th\u00f4ng tin n\u1ed9i b\u1ed9 v\u00e0 ph\u1ee5c h\u1ed3i ho\u1ea1t \u0111\u1ed9ng.",
+                        "title": "Từ vựng quản trị khủng hoảng (中文)",
+                        "description": "Thuộc lòng thuật ngữ xử lý sự cố, thông tin nội bộ và phục hồi hoạt động.",
                         "source": "content/zh-hans/vocabulary/zh-hans-crisis-management.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-crisis-management.md"
                     },
                     {
                         "id": "zh-hans-product-development",
-                        "title": "T\u1eeb v\u1ef1ng ph\u00e1t tri\u1ec3n s\u1ea3n ph\u1ea9m (\u4e2d\u6587)",
-                        "description": "T\u0103ng v\u1ed1n t\u1eeb cho nghi\u00ean c\u1ee9u, thi\u1ebft k\u1ebf v\u00e0 b\u00e0n giao s\u1ea3n ph\u1ea9m m\u1edbi.",
+                        "title": "Từ vựng phát triển sản phẩm (中文)",
+                        "description": "Tăng vốn từ cho nghiên cứu, thiết kế và bàn giao sản phẩm mới.",
                         "source": "content/zh-hans/vocabulary/zh-hans-product-development.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-product-development.md"
                     },
                     {
                         "id": "zh-hans-market-research",
-                        "title": "T\u1eeb v\u1ef1ng nghi\u00ean c\u1ee9u th\u1ecb tr\u01b0\u1eddng (\u4e2d\u6587)",
-                        "description": "\u00d4n t\u1eadp c\u00e1c b\u01b0\u1edbc kh\u1ea3o s\u00e1t, ph\u00e2n t\u00edch v\u00e0 b\u00e1o c\u00e1o insight kh\u00e1ch h\u00e0ng.",
+                        "title": "Từ vựng nghiên cứu thị trường (中文)",
+                        "description": "Ôn tập các bước khảo sát, phân tích và báo cáo insight khách hàng.",
                         "source": "content/zh-hans/vocabulary/zh-hans-market-research.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-market-research.md"
                     },
                     {
                         "id": "zh-hans-customer-retention",
-                        "title": "T\u1eeb v\u1ef1ng gi\u1eef ch\u00e2n kh\u00e1ch h\u00e0ng (\u4e2d\u6587)",
-                        "description": "N\u1eafm ch\u1eafc thu\u1eadt ng\u1eef ch\u0103m s\u00f3c, \u01b0u \u0111\u00e3i v\u00e0 \u0111o l\u01b0\u1eddng trung th\u00e0nh.",
+                        "title": "Từ vựng giữ chân khách hàng (中文)",
+                        "description": "Nắm chắc thuật ngữ chăm sóc, ưu đãi và đo lường trung thành.",
                         "source": "content/zh-hans/vocabulary/zh-hans-customer-retention.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-customer-retention.md"
                     },
                     {
                         "id": "zh-hans-digital-marketing",
-                        "title": "T\u1eeb v\u1ef1ng ti\u1ebfp th\u1ecb s\u1ed1 (\u4e2d\u6587)",
-                        "description": "C\u00e1c kh\u00e1i ni\u1ec7m chi\u1ebfn d\u1ecbch online, \u0111o l\u01b0\u1eddng chuy\u1ec3n \u0111\u1ed5i v\u00e0 n\u1ed9i dung s\u00e1ng t\u1ea1o.",
+                        "title": "Từ vựng tiếp thị số (中文)",
+                        "description": "Các khái niệm chiến dịch online, đo lường chuyển đổi và nội dung sáng tạo.",
                         "source": "content/zh-hans/vocabulary/zh-hans-digital-marketing.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-digital-marketing.md"
                     },
                     {
                         "id": "zh-hans-ecommerce-operations",
-                        "title": "T\u1eeb v\u1ef1ng v\u1eadn h\u00e0nh th\u01b0\u01a1ng m\u1ea1i \u0111i\u1ec7n t\u1eed (\u4e2d\u6587)",
-                        "description": "Thu\u1eadt ng\u1eef qu\u1ea3n l\u00fd gian h\u00e0ng, h\u1eadu c\u1ea7n v\u00e0 ch\u0103m s\u00f3c kh\u00e1ch h\u00e0ng online.",
+                        "title": "Từ vựng vận hành thương mại điện tử (中文)",
+                        "description": "Thuật ngữ quản lý gian hàng, hậu cần và chăm sóc khách hàng online.",
                         "source": "content/zh-hans/vocabulary/zh-hans-ecommerce-operations.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-ecommerce-operations.md"
                     },
                     {
                         "id": "zh-hans-financial-planning",
-                        "title": "T\u1eeb v\u1ef1ng l\u1eadp k\u1ebf ho\u1ea1ch t\u00e0i ch\u00ednh (\u4e2d\u6587)",
-                        "description": "B\u1ed9 t\u1eeb m\u00f4 t\u1ea3 ng\u00e2n s\u00e1ch, d\u00f2ng ti\u1ec1n v\u00e0 ph\u00e2n t\u00edch k\u1ecbch b\u1ea3n t\u00e0i ch\u00ednh.",
+                        "title": "Từ vựng lập kế hoạch tài chính (中文)",
+                        "description": "Bộ từ mô tả ngân sách, dòng tiền và phân tích kịch bản tài chính.",
                         "source": "content/zh-hans/vocabulary/zh-hans-financial-planning.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-financial-planning.md"
                     },
                     {
                         "id": "zh-hans-leadership-communication",
-                        "title": "T\u1eeb v\u1ef1ng giao ti\u1ebfp l\u00e3nh \u0111\u1ea1o (\u4e2d\u6587)",
-                        "description": "T\u0103ng c\u01b0\u1eddng v\u1ed1n t\u1eeb cho truy\u1ec1n \u0111\u1ea1t t\u1ea7m nh\u00ecn, ph\u1ea3n h\u1ed3i v\u00e0 t\u1ea1o \u0111\u1ed9ng l\u1ef1c.",
+                        "title": "Từ vựng giao tiếp lãnh đạo (中文)",
+                        "description": "Tăng cường vốn từ cho truyền đạt tầm nhìn, phản hồi và tạo động lực.",
                         "source": "content/zh-hans/vocabulary/zh-hans-leadership-communication.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-leadership-communication.md"
                     },
                     {
                         "id": "zh-hans-corporate-culture",
-                        "title": "T\u1eeb v\u1ef1ng v\u0103n h\u00f3a doanh nghi\u1ec7p (\u4e2d\u6587)",
-                        "description": "Kh\u00e1m ph\u00e1 c\u00e1c kh\u00e1i ni\u1ec7m gi\u00e1 tr\u1ecb, nghi l\u1ec5 v\u00e0 ho\u1ea1t \u0111\u1ed9ng g\u1eafn k\u1ebft \u0111\u1ed9i ng\u0169.",
+                        "title": "Từ vựng văn hóa doanh nghiệp (中文)",
+                        "description": "Khám phá các khái niệm giá trị, nghi lễ và hoạt động gắn kết đội ngũ.",
                         "source": "content/zh-hans/vocabulary/zh-hans-corporate-culture.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-corporate-culture.md"
                     },
                     {
                         "id": "zh-hans-international-negotiation",
-                        "title": "T\u1eeb v\u1ef1ng \u0111\u00e0m ph\u00e1n qu\u1ed1c t\u1ebf (\u4e2d\u6587)",
-                        "description": "Thu\u1ed9c c\u00e1c thu\u1eadt ng\u1eef h\u1ee3p \u0111\u1ed3ng, \u0111i\u1ec1u kho\u1ea3n v\u00e0 x\u1eed l\u00fd kh\u00e1c bi\u1ec7t v\u0103n h\u00f3a.",
+                        "title": "Từ vựng đàm phán quốc tế (中文)",
+                        "description": "Thuộc các thuật ngữ hợp đồng, điều khoản và xử lý khác biệt văn hóa.",
                         "source": "content/zh-hans/vocabulary/zh-hans-international-negotiation.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-international-negotiation.md"
                     },
                     {
                         "id": "zh-hans-performance-review",
-                        "title": "\u7ee9\u6548\u8bc4\u4f30\u5173\u952e\u8bcd",
-                        "description": "T\u1eeb v\u1ef1ng b\u00e0n v\u1ec1 KPI, ph\u1ea3n h\u1ed3i v\u00e0 k\u1ebf ho\u1ea1ch ph\u00e1t tri\u1ec3n nh\u00e2n vi\u00ean.",
+                        "title": "绩效评估关键词",
+                        "description": "Từ vựng bàn về KPI, phản hồi và kế hoạch phát triển nhân viên.",
                         "source": "content/zh-hans/vocabulary/zh-hans-performance-review.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-performance-review.md"
                     },
                     {
                         "id": "zh-hans-customer-insights",
-                        "title": "\u5ba2\u6237\u6d1e\u5bdf\u8bcd\u6c47",
-                        "description": "Thu\u1eadt ng\u1eef nghi\u00ean c\u1ee9u ng\u01b0\u1eddi d\u00f9ng, h\u00e0nh tr\u00ecnh v\u00e0 ph\u00e2n t\u00edch insight.",
+                        "title": "客户洞察词汇",
+                        "description": "Thuật ngữ nghiên cứu người dùng, hành trình và phân tích insight.",
                         "source": "content/zh-hans/vocabulary/zh-hans-customer-insights.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-customer-insights.md"
                     },
                     {
                         "id": "zh-hans-brand-communication",
-                        "title": "\u54c1\u724c\u4f20\u64ad\u6838\u5fc3\u8bcd\u6c47",
-                        "description": "Luy\u1ec7n k\u1ec3 chuy\u1ec7n th\u01b0\u01a1ng hi\u1ec7u, chi\u1ebfn d\u1ecbch truy\u1ec1n th\u00f4ng v\u00e0 gi\u1ecdng \u0111i\u1ec7u.",
+                        "title": "品牌传播核心词汇",
+                        "description": "Luyện kể chuyện thương hiệu, chiến dịch truyền thông và giọng điệu.",
                         "source": "content/zh-hans/vocabulary/zh-hans-brand-communication.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-brand-communication.md"
                     },
                     {
                         "id": "zh-hans-hr-development",
-                        "title": "\u4eba\u624d\u53d1\u5c55\u4e0e\u57f9\u8bad\u8bcd\u6c47",
-                        "description": "T\u1eeb v\u1ef1ng x\u00e2y d\u1ef1ng l\u1ed9 tr\u00ecnh h\u1ecdc t\u1eadp, k\u1ebf nhi\u1ec7m v\u00e0 hu\u1ea5n luy\u1ec7n n\u1ed9i b\u1ed9.",
+                        "title": "人才发展与培训词汇",
+                        "description": "Từ vựng xây dựng lộ trình học tập, kế nhiệm và huấn luyện nội bộ.",
                         "source": "content/zh-hans/vocabulary/zh-hans-hr-development.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-hr-development.md"
                     },
                     {
                         "id": "zh-hans-legal-contracts",
-                        "title": "\u5408\u540c\u6cd5\u52a1\u5b9e\u7528\u8bcd\u6c47",
-                        "description": "\u00d4n luy\u1ec7n \u0111i\u1ec1u kho\u1ea3n, ph\u1ee5 l\u1ee5c v\u00e0 quy tr\u00ecnh k\u00fd k\u1ebft h\u1ee3p \u0111\u1ed3ng.",
+                        "title": "合同法务实用词汇",
+                        "description": "Ôn luyện điều khoản, phụ lục và quy trình ký kết hợp đồng.",
                         "source": "content/zh-hans/vocabulary/zh-hans-legal-contracts.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-legal-contracts.md"
                     },
                     {
                         "id": "zh-hans-it-support",
-                        "title": "IT \u652f\u6301\u73b0\u573a\u8bcd\u6c47",
-                        "description": "T\u1eeb v\u1ef1ng x\u1eed l\u00fd s\u1ef1 c\u1ed1, log v\u00e0 quy tr\u00ecnh h\u1ed7 tr\u1ee3 k\u1ef9 thu\u1eadt.",
+                        "title": "IT 支持现场词汇",
+                        "description": "Từ vựng xử lý sự cố, log và quy trình hỗ trợ kỹ thuật.",
                         "source": "content/zh-hans/vocabulary/zh-hans-it-support.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-it-support.md"
                     },
                     {
                         "id": "zh-hans-operations-optimization",
-                        "title": "\u8fd0\u8425\u4f18\u5316\u672f\u8bed",
-                        "description": "C\u00e1c thu\u1eadt ng\u1eef tinh g\u1ecdn quy tr\u00ecnh, t\u1ed1i \u01b0u chi ph\u00ed v\u00e0 gi\u00e1m s\u00e1t s\u1ea3n xu\u1ea5t.",
+                        "title": "运营优化术语",
+                        "description": "Các thuật ngữ tinh gọn quy trình, tối ưu chi phí và giám sát sản xuất.",
                         "source": "content/zh-hans/vocabulary/zh-hans-operations-optimization.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-operations-optimization.md"
                     },
                     {
                         "id": "zh-hans-sales-analytics",
-                        "title": "\u9500\u552e\u5206\u6790\u6570\u636e\u8bcd\u6c47",
-                        "description": "T\u1eadp trung dashboard b\u00e1n h\u00e0ng, t\u1ef7 l\u1ec7 chuy\u1ec3n \u0111\u1ed5i v\u00e0 d\u1ef1 b\u00e1o doanh thu.",
+                        "title": "销售分析数据词汇",
+                        "description": "Tập trung dashboard bán hàng, tỷ lệ chuyển đổi và dự báo doanh thu.",
                         "source": "content/zh-hans/vocabulary/zh-hans-sales-analytics.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-sales-analytics.md"
                     },
                     {
                         "id": "zh-hans-cross-border-trade",
-                        "title": "\u8de8\u5883\u8d38\u6613\u5fc5\u5907\u8bcd\u6c47",
-                        "description": "Thu\u1ed9c thu\u1eadt ng\u1eef h\u1ea3i quan, v\u1eadn chuy\u1ec3n v\u00e0 thanh to\u00e1n qu\u1ed1c t\u1ebf.",
+                        "title": "跨境贸易必备词汇",
+                        "description": "Thuộc thuật ngữ hải quan, vận chuyển và thanh toán quốc tế.",
                         "source": "content/zh-hans/vocabulary/zh-hans-cross-border-trade.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-cross-border-trade.md"
                     },
                     {
                         "id": "zh-hans-corporate-governance",
-                        "title": "\u516c\u53f8\u6cbb\u7406\u5173\u952e\u8bcd",
-                        "description": "T\u1eeb v\u1ef1ng h\u1ed9i \u0111\u1ed3ng qu\u1ea3n tr\u1ecb, tu\u00e2n th\u1ee7 v\u00e0 c\u00f4ng b\u1ed1 th\u00f4ng tin.",
+                        "title": "公司治理关键词",
+                        "description": "Từ vựng hội đồng quản trị, tuân thủ và công bố thông tin.",
                         "source": "content/zh-hans/vocabulary/zh-hans-corporate-governance.json",
                         "markdown": "content/zh-hans/vocabulary/zh-hans-corporate-governance.md"
                     }
@@ -871,132 +941,132 @@
                 "grammar": [
                     {
                         "id": "zh-hans-aspect-le",
-                        "title": "\u7ed3\u6784\u52a9\u8bcd\u201c\u4e86\u201d\u7684 c\u00e1ch d\u00f9ng",
-                        "description": "Hi\u1ec3u c\u00e1ch d\u00f9ng \u201c\u4e86\u201d \u0111\u1ec3 di\u1ec5n t\u1ea3 h\u00e0nh \u0111\u1ed9ng \u0111\u00e3 ho\u00e0n t\u1ea5t v\u00e0 thay \u0111\u1ed5i tr\u1ea1ng th\u00e1i.",
+                        "title": "结构助词“了”的 cách dùng",
+                        "description": "Hiểu cách dùng “了” để diễn tả hành động đã hoàn tất và thay đổi trạng thái.",
                         "markdown": "content/zh-hans/grammar/zh-hans-aspect-le.md"
                     },
                     {
                         "id": "zh-hans-progressive-zhengzai",
-                        "title": "\u6b63\u5728\uff1aMi\u00eau t\u1ea3 h\u00e0nh \u0111\u1ed9ng \u0111ang di\u1ec5n ra",
-                        "description": "N\u1eafm c\u1ea5u tr\u00fac \u6b63\u5728 v\u00e0 c\u00e1ch ph\u1ee7 \u0111\u1ecbnh khi m\u00f4 t\u1ea3 c\u00f4ng vi\u1ec7c hi\u1ec7n t\u1ea1i.",
+                        "title": "正在：Miêu tả hành động đang diễn ra",
+                        "description": "Nắm cấu trúc 正在 và cách phủ định khi mô tả công việc hiện tại.",
                         "markdown": "content/zh-hans/grammar/zh-hans-progressive-zhengzai.md"
                     },
                     {
                         "id": "zh-hans-ba-construction",
-                        "title": "C\u1ea5u tr\u00fac \u628a trong m\u00f4i tr\u01b0\u1eddng c\u00f4ng s\u1edf",
-                        "description": "T\u1eadp trung v\u00e0o c\u00e1ch nh\u1ea5n m\u1ea1nh k\u1ebft qu\u1ea3 v\u00e0 nhi\u1ec7m v\u1ee5 v\u1edbi \u628a.",
+                        "title": "Cấu trúc 把 trong môi trường công sở",
+                        "description": "Tập trung vào cách nhấn mạnh kết quả và nhiệm vụ với 把.",
                         "markdown": "content/zh-hans/grammar/zh-hans-ba-construction.md"
                     },
                     {
                         "id": "zh-hans-modal-hui",
-                        "title": "\u4f1a\uff1aKh\u1ea3 n\u0103ng v\u00e0 d\u1ef1 \u0111o\u00e1n",
-                        "description": "Ph\u00e2n bi\u1ec7t \u4f1a v\u1edbi \u80fd v\u00e0 th\u1ef1c h\u00e0nh d\u1ef1 \u0111o\u00e1n k\u1ebf ho\u1ea1ch l\u00e0m vi\u1ec7c.",
+                        "title": "会：Khả năng và dự đoán",
+                        "description": "Phân biệt 会 với 能 và thực hành dự đoán kế hoạch làm việc.",
                         "markdown": "content/zh-hans/grammar/zh-hans-modal-hui.md"
                     },
                     {
                         "id": "zh-hans-aspect-guo",
-                        "title": "\u8fc7\uff1aTr\u1ea3i nghi\u1ec7m \u0111\u00e3 t\u1eebng x\u1ea3y ra",
-                        "description": "Di\u1ec5n t\u1ea3 kinh nghi\u1ec7m c\u00f4ng vi\u1ec7c v\u1edbi tr\u1ee3 t\u1eeb \u8fc7 v\u00e0 c\u00e1ch ph\u1ee7 \u0111\u1ecbnh.",
+                        "title": "过：Trải nghiệm đã từng xảy ra",
+                        "description": "Diễn tả kinh nghiệm công việc với trợ từ 过 và cách phủ định.",
                         "markdown": "content/zh-hans/grammar/zh-hans-aspect-guo.md"
                     },
                     {
                         "id": "zh-hans-passive-bei",
-                        "title": "\u88ab\u5b57\u53e5 trong m\u00f4i tr\u01b0\u1eddng doanh nghi\u1ec7p",
-                        "description": "Luy\u1ec7n c\u00e2u b\u1ecb \u0111\u1ed9ng nh\u1ea5n m\u1ea1nh t\u00e1c \u0111\u1ed9ng v\u00e0 c\u00e1ch l\u01b0\u1ee3c b\u1ecf t\u00e1c nh\u00e2n.",
+                        "title": "被字句 trong môi trường doanh nghiệp",
+                        "description": "Luyện câu bị động nhấn mạnh tác động và cách lược bỏ tác nhân.",
                         "markdown": "content/zh-hans/grammar/zh-hans-passive-bei.md"
                     },
                     {
                         "id": "zh-hans-comparison-bi",
-                        "title": "\u6bd4\uff1aSo s\u00e1nh ch\u1ec9 s\u1ed1 v\u00e0 hi\u1ec7u qu\u1ea3",
-                        "description": "So s\u00e1nh KPI v\u1edbi \u6bd4, \u6ca1\u6709 v\u00e0 c\u1ea5u tr\u00fac t\u01b0\u01a1ng \u0111\u01b0\u01a1ng.",
+                        "title": "比：So sánh chỉ số và hiệu quả",
+                        "description": "So sánh KPI với 比, 没有 và cấu trúc tương đương.",
                         "markdown": "content/zh-hans/grammar/zh-hans-comparison-bi.md"
                     },
                     {
                         "id": "zh-hans-measure-words",
-                        "title": "\u91cf\u8bcd\uff1aL\u01b0\u1ee3ng t\u1eeb c\u00f4ng s\u1edf",
-                        "description": "Ghi nh\u1edb l\u01b0\u1ee3ng t\u1eeb ph\u1ed5 bi\u1ebfn khi b\u00e1o c\u00e1o nh\u00e2n s\u1ef1, t\u00e0i li\u1ec7u v\u00e0 s\u1ef1 ki\u1ec7n.",
+                        "title": "量词：Lượng từ công sở",
+                        "description": "Ghi nhớ lượng từ phổ biến khi báo cáo nhân sự, tài liệu và sự kiện.",
                         "markdown": "content/zh-hans/grammar/zh-hans-measure-words.md"
                     },
                     {
                         "id": "zh-hans-directional-complements",
-                        "title": "\u65b9\u5411\u8865\u8bed\uff1aM\u00f4 t\u1ea3 di chuy\u1ec3n",
-                        "description": "S\u1eed d\u1ee5ng b\u1ed5 ng\u1eef ph\u01b0\u01a1ng h\u01b0\u1edbng \u0111\u1ec3 m\u00f4 t\u1ea3 lu\u1ed3ng c\u00f4ng vi\u1ec7c.",
+                        "title": "方向补语：Mô tả di chuyển",
+                        "description": "Sử dụng bổ ngữ phương hướng để mô tả luồng công việc.",
                         "markdown": "content/zh-hans/grammar/zh-hans-directional-complements.md"
                     },
                     {
                         "id": "zh-hans-resultative-complements",
-                        "title": "\u7ed3\u679c\u8865\u8bed\uff1aNh\u1ea5n m\u1ea1nh k\u1ebft qu\u1ea3",
-                        "description": "B\u1ed5 ng\u1eef ho\u00e0n th\u00e0nh, nh\u00ecn th\u1ea5y v\u00e0 hi\u1ec3u r\u00f5 trong b\u00e1o c\u00e1o c\u00f4ng vi\u1ec7c.",
+                        "title": "结果补语：Nhấn mạnh kết quả",
+                        "description": "Bổ ngữ hoàn thành, nhìn thấy và hiểu rõ trong báo cáo công việc.",
                         "markdown": "content/zh-hans/grammar/zh-hans-resultative-complements.md"
                     },
                     {
                         "id": "zh-hans-particle-de",
-                        "title": "\u201c\u7684\u201d trong m\u00f4 t\u1ea3 doanh nghi\u1ec7p",
-                        "description": "K\u1ebft h\u1ee3p tr\u1ee3 t\u1eeb \u7684 \u0111\u1ec3 t\u1ea1o c\u1ee5m s\u1edf h\u1eefu v\u00e0 m\u00f4 t\u1ea3 chuy\u00ean nghi\u1ec7p.",
+                        "title": "“的” trong mô tả doanh nghiệp",
+                        "description": "Kết hợp trợ từ 的 để tạo cụm sở hữu và mô tả chuyên nghiệp.",
                         "markdown": "content/zh-hans/grammar/zh-hans-particle-de.md"
                     },
                     {
                         "id": "zh-hans-serial-verbs",
-                        "title": "\u8fde\u52a8\u53e5\uff1aChu\u1ed7i h\u00e0nh \u0111\u1ed9ng",
-                        "description": "N\u1ed1i nhi\u1ec1u \u0111\u1ed9ng t\u1eeb \u0111\u1ec3 m\u00f4 t\u1ea3 quy tr\u00ecnh l\u00e0m vi\u1ec7c li\u1ec1n m\u1ea1ch.",
+                        "title": "连动句：Chuỗi hành động",
+                        "description": "Nối nhiều động từ để mô tả quy trình làm việc liền mạch.",
                         "markdown": "content/zh-hans/grammar/zh-hans-serial-verbs.md"
                     },
                     {
                         "id": "zh-hans-sentence-particles",
-                        "title": "\u8bed\u6c14\u52a9\u8bcd\uff1a\u5427\u3001\u5462\u3001\u554a\u3001\u4e86",
-                        "description": "\u0110i\u1ec1u ch\u1ec9nh ng\u1eef kh\u00ed l\u1ecbch s\u1ef1 trong h\u1ed9i tho\u1ea1i c\u00f4ng vi\u1ec7c.",
+                        "title": "语气助词：吧、呢、啊、了",
+                        "description": "Điều chỉnh ngữ khí lịch sự trong hội thoại công việc.",
                         "markdown": "content/zh-hans/grammar/zh-hans-sentence-particles.md"
                     },
                     {
                         "id": "zh-hans-yao-le",
-                        "title": "\u8981\u2026\u4e86\uff1aTh\u00f4ng b\u00e1o s\u1eafp di\u1ec5n ra",
-                        "description": "Di\u1ec5n t\u1ea3 th\u1eddi \u0111i\u1ec3m c\u1eadn k\u1ec1 trong c\u00e1c l\u1eddi nh\u1eafc ti\u1ebfn \u0111\u1ed9.",
+                        "title": "要…了：Thông báo sắp diễn ra",
+                        "description": "Diễn tả thời điểm cận kề trong các lời nhắc tiến độ.",
                         "markdown": "content/zh-hans/grammar/zh-hans-yao-le.md"
                     }
                 ],
                 "reading": [
                     {
                         "id": "zh-hans-office-routine",
-                        "title": "\u529e\u516c\u5ba4\u7684\u4e00\u5929",
-                        "description": "\u0110o\u1ea1n v\u0103n m\u00f4 t\u1ea3 m\u1ed9t ng\u00e0y l\u00e0m vi\u1ec7c b\u1eb1ng ti\u1ebfng Trung gi\u1ea3n th\u1ec3 v\u1edbi t\u1eeb v\u1ef1ng thi\u1ebft y\u1ebfu.",
+                        "title": "办公室的一天",
+                        "description": "Đoạn văn mô tả một ngày làm việc bằng tiếng Trung giản thể với từ vựng thiết yếu.",
                         "markdown": "content/zh-hans/reading/zh-hans-office-routine.md"
                     },
                     {
                         "id": "zh-hans-client-meeting",
-                        "title": "\u5ba2\u6237\u62dc\u8bbf\u7eaa\u5b9e",
-                        "description": "B\u1ea3n t\u01b0\u1eddng thu\u1eadt cu\u1ed9c g\u1eb7p kh\u00e1ch h\u00e0ng v\u1edbi tr\u1ecdng t\u00e2m h\u1ed7 tr\u1ee3 v\u00e0 b\u00e1o gi\u00e1.",
+                        "title": "客户拜访纪实",
+                        "description": "Bản tường thuật cuộc gặp khách hàng với trọng tâm hỗ trợ và báo giá.",
                         "markdown": "content/zh-hans/reading/zh-hans-client-meeting.md"
                     },
                     {
                         "id": "zh-hans-warehouse-visit",
-                        "title": "\u4ed3\u5e93\u5de1\u68c0\u65e5\u5fd7",
-                        "description": "\u0110\u1ecdc hi\u1ec3u quy tr\u00ecnh ki\u1ec3m tra kho v\u00e0 x\u1eed l\u00fd s\u1ef1 c\u1ed1 \u0111\u00f3ng g\u00f3i.",
+                        "title": "仓库巡检日志",
+                        "description": "Đọc hiểu quy trình kiểm tra kho và xử lý sự cố đóng gói.",
                         "markdown": "content/zh-hans/reading/zh-hans-warehouse-visit.md"
                     },
                     {
                         "id": "zh-hans-online-training",
-                        "title": "\u7ebf\u4e0a\u57f9\u8bad\u65e5",
-                        "description": "\u0110o\u1ea1n v\u0103n v\u1ec1 bu\u1ed5i \u0111\u00e0o t\u1ea1o tr\u1ef1c tuy\u1ebfn v\u00e0 ho\u1ea1t \u0111\u1ed9ng t\u01b0\u01a1ng t\u00e1c nh\u00f3m.",
+                        "title": "线上培训日",
+                        "description": "Đoạn văn về buổi đào tạo trực tuyến và hoạt động tương tác nhóm.",
                         "markdown": "content/zh-hans/reading/zh-hans-online-training.md"
                     }
                 ],
                 "quiz": [
                     {
                         "id": "zh-hans-basics-quiz",
-                        "title": "Ti\u1ebfng Trung th\u01b0\u01a1ng m\u1ea1i c\u01a1 b\u1ea3n",
-                        "description": "10 c\u00e2u h\u1ecfi \u00f4n l\u1ea1i t\u1eeb v\u1ef1ng v\u00e0 ng\u1eef ph\u00e1p c\u01a1 b\u1ea3n.",
+                        "title": "Tiếng Trung thương mại cơ bản",
+                        "description": "10 câu hỏi ôn lại từ vựng và ngữ pháp cơ bản.",
                         "source": "content/zh-hans/quiz/zh-hans-basics-quiz.json"
                     },
                     {
                         "id": "zh-hans-office-communication-quiz",
-                        "title": "Quiz: Giao ti\u1ebfp v\u0103n ph\u00f2ng ti\u1ebfng Trung",
-                        "description": "C\u1ee7ng c\u1ed1 t\u1eeb v\u1ef1ng h\u1ecdp h\u00e0nh, email v\u00e0 c\u1ea5u tr\u00fac \u6b63\u5728/\u628a.",
+                        "title": "Quiz: Giao tiếp văn phòng tiếng Trung",
+                        "description": "Củng cố từ vựng họp hành, email và cấu trúc 正在/把.",
                         "source": "content/zh-hans/quiz/zh-hans-office-communication-quiz.json"
                     },
                     {
                         "id": "zh-hans-sales-negotiation-quiz",
-                        "title": "Quiz: \u0110\u00e0m ph\u00e1n & b\u00e1n h\u00e0ng",
-                        "description": "Luy\u1ec7n t\u1eadp thu\u1eadt ng\u1eef b\u00e1o gi\u00e1, h\u1ee3p \u0111\u1ed3ng v\u00e0 d\u1ef1 \u0111o\u00e1n v\u1edbi \u4f1a/\u4e0d\u4f1a.",
+                        "title": "Quiz: Đàm phán & bán hàng",
+                        "description": "Luyện tập thuật ngữ báo giá, hợp đồng và dự đoán với 会/不会.",
                         "source": "content/zh-hans/quiz/zh-hans-sales-negotiation-quiz.json"
                     }
                 ]
