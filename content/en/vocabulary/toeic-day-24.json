@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 24 - Market Research & Analytics",
+  "words": [
+    {"word": "data collection", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə kəˈlekʃn/", "meaning": "thu thập dữ liệu"},
+    {"word": "sampling", "partOfSpeech": "n.", "ipa": "/ˈsɑːmplɪŋ/", "meaning": "lấy mẫu"},
+    {"word": "sample size", "partOfSpeech": "n. phr.", "ipa": "/ˈsɑːmpl saɪz/", "meaning": "kích thước mẫu"},
+    {"word": "margin of error", "partOfSpeech": "n. phr.", "ipa": "/ˈmɑːdʒɪn əv ˈerə/", "meaning": "biên độ sai số"},
+    {"word": "questionnaire", "partOfSpeech": "n.", "ipa": "/ˌkwestʃəˈneə/", "meaning": "bảng câu hỏi"},
+    {"word": "response rate", "partOfSpeech": "n. phr.", "ipa": "/rɪˈspɒns reɪt/", "meaning": "tỷ lệ phản hồi"},
+    {"word": "focus group", "partOfSpeech": "n. phr.", "ipa": "/ˈfəʊkəs ɡruːp/", "meaning": "nhóm thảo luận"},
+    {"word": "interview guide", "partOfSpeech": "n. phr.", "ipa": "/ˈɪntəvjuː ɡaɪd/", "meaning": "hướng dẫn phỏng vấn"},
+    {"word": "demographic", "partOfSpeech": "n.", "ipa": "/ˌdeməˈɡræfɪk/", "meaning": "nhân khẩu học"},
+    {"word": "psychographic", "partOfSpeech": "adj.", "ipa": "/ˌsaɪkəˈɡræfɪk/", "meaning": "thuộc tâm lý học tiêu dùng"},
+    {"word": "segmentation", "partOfSpeech": "n.", "ipa": "/ˌseɡmenˈteɪʃn/", "meaning": "phân khúc"},
+    {"word": "target audience", "partOfSpeech": "n. phr.", "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/", "meaning": "khán giả mục tiêu"},
+    {"word": "market share", "partOfSpeech": "n. phr.", "ipa": "/ˈmɑːkɪt ʃeə/", "meaning": "thị phần"},
+    {"word": "benchmarking", "partOfSpeech": "n.", "ipa": "/ˈbentʃmɑːkɪŋ/", "meaning": "so sánh chuẩn"},
+    {"word": "key metric", "partOfSpeech": "n. phr.", "ipa": "/kiː ˈmetrɪk/", "meaning": "chỉ số quan trọng"},
+    {"word": "conversion rate", "partOfSpeech": "n. phr.", "ipa": "/kənˈvɜːʃn reɪt/", "meaning": "tỷ lệ chuyển đổi"},
+    {"word": "click-through rate", "partOfSpeech": "n. phr.", "ipa": "/ˈklɪk θruː reɪt/", "meaning": "tỷ lệ nhấp"},
+    {"word": "churn rate", "partOfSpeech": "n. phr.", "ipa": "/tʃɜːn reɪt/", "meaning": "tỷ lệ rời bỏ"},
+    {"word": "data warehouse", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈweəhaʊs/", "meaning": "kho dữ liệu"},
+    {"word": "dashboard", "partOfSpeech": "n.", "ipa": "/ˈdæʃbɔːd/", "meaning": "bảng điều khiển"},
+    {"word": "heatmap", "partOfSpeech": "n.", "ipa": "/ˈhiːtmæp/", "meaning": "bản đồ nhiệt"},
+    {"word": "cohort analysis", "partOfSpeech": "n. phr.", "ipa": "/ˈkəʊhɔːt əˈnæləsɪs/", "meaning": "phân tích theo nhóm"},
+    {"word": "predictive model", "partOfSpeech": "n. phr.", "ipa": "/prɪˈdɪktɪv ˈmɒdl/", "meaning": "mô hình dự đoán"},
+    {"word": "insight", "partOfSpeech": "n.", "ipa": "/ˈɪnsaɪt/", "meaning": "thấu hiểu"},
+    {"word": "actionable recommendation", "partOfSpeech": "n. phr.", "ipa": "/ˈækʃənəbl ˌrekəmenˈdeɪʃn/", "meaning": "khuyến nghị có thể hành động"}
+  ]
+}

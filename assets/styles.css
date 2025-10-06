@@ -127,6 +127,21 @@ nav.breadcrumb a {
   padding-bottom: 12px;
 }
 
+.card-grid.vertical {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 14px;
+  overflow-x: visible;
+  overflow-y: auto;
+  padding-right: 0;
+  padding-bottom: 0;
+  scroll-snap-type: none;
+}
+
+.card-grid.vertical .card {
+  width: 100%;
+}
+
 .card-grid::-webkit-scrollbar {
   height: 6px;
 }
@@ -307,6 +322,17 @@ table.vocabulary tr:last-child td {
   flex-wrap: wrap;
   gap: 6px;
   margin-top: 16px;
+}
+
+.nav-controls {
+  flex-wrap: nowrap;
+  flex-direction: row;
+}
+
+.nav-controls .button {
+  flex: 1 1 0;
+  min-width: 0;
+  justify-content: center;
 }
 
 .table-scroll {
@@ -621,6 +647,16 @@ table.vocabulary tr:last-child td {
   .lesson-controls .button {
     width: 100%;
     justify-content: center;
+  }
+
+  .nav-controls {
+    flex-direction: row;
+  }
+
+  .nav-controls .button {
+    width: auto;
+    flex: 1 1 0;
+    min-width: 0;
   }
 
   .grammar-callout,

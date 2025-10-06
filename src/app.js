@@ -293,14 +293,14 @@ function renderNavigation(category, lessonId) {
   const prev = state.flatLessons[currentIndex - 1];
   const next = state.flatLessons[currentIndex + 1];
   return `
-    <div class="lesson-controls">
+    <div class="lesson-controls nav-controls">
       <a class="button secondary" href="${prev ? `#/lesson/${prev.category}/${prev.lesson.id}` : '#/'}" ${
         prev ? '' : 'aria-disabled="true" style="pointer-events:none; opacity:0.6;"'
       }>Prev</a>
+      <button class="button" data-action="complete">Hoàn thành</button>
       <a class="button" href="${next ? `#/lesson/${next.category}/${next.lesson.id}` : '#/'}" ${
         next ? '' : 'aria-disabled="true" style="pointer-events:none; opacity:0.6;"'
       }>Next</a>
-      <button class="button" data-action="complete">Đánh dấu hoàn thành</button>
     </div>
   `;
 }
@@ -593,7 +593,7 @@ function renderCategoryOverview(category) {
     renderError('Không tìm thấy loại bài học.');
     return;
   }
-  const gridClass = lessons.length > 6 ? 'card-grid scrollable' : 'card-grid';
+  const gridClass = 'card-grid vertical';
   const cards = lessons
     .map((lesson) => {
       const status = getLessonStatus(category, lesson.id);

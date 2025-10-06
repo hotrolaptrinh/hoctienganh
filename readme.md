@@ -19,9 +19,8 @@
 ## Cấu trúc nội dung
 
 - `content/index.json`: Mục lục chính, định nghĩa danh sách bài học cho từng ngôn ngữ và loại bài.
-- `content/vocabulary/*.json`: Dữ liệu từ vựng ở dạng JSON.
-- `content/**/*.md`: Nội dung chi tiết hiển thị bằng Markdown.
-- `content/quiz/*.json`: Bộ câu hỏi trắc nghiệm.
+- `content/en/*`: Kho bài học tiếng Anh, gồm các thư mục con `vocabulary/`, `grammar/`, `reading/`, `quiz/` với dữ liệu JSON và Markdown tương ứng.
+- `content/zh-hans/*`: Kho bài học tiếng Trung giản thể với cấu trúc thư mục tương tự, có thể mở rộng cho các ngôn ngữ khác.
 
 ## Nhánh làm việc
 

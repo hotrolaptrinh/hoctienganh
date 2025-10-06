@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "prompt": "Từ nào mô tả một cuộc họp ngắn cập nhật tiến độ hàng ngày?",
+      "options": [
+        "Stand-up meeting",
+        "Board retreat",
+        "Vendor fair",
+        "Client dinner"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Tài liệu nào thường gửi kèm email để giới thiệu dự án?",
+      "options": [
+        "Attachment",
+        "Invoice",
+        "Blueprint",
+        "Brochure"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Agenda' trong cuộc họp có nghĩa là gì?",
+      "options": [
+        "Biên bản cuộc họp",
+        "Chương trình nghị sự",
+        "Danh sách khách",
+        "Tài liệu ngân sách"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Thiết bị nào dùng để trình chiếu slide?",
+      "options": [
+        "Projector",
+        "Scanner",
+        "Shredder",
+        "Copier"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào mô tả việc trì hoãn nhiệm vụ?",
+      "options": [
+        "Delegate",
+        "Procrastinate",
+        "Prioritize",
+        "Accelerate"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "'Minutes' của cuộc họp là gì?",
+      "options": [
+        "Thời gian bắt đầu",
+        "Biên bản ghi chép",
+        "Danh sách diễn giả",
+        "Tóm tắt chi phí"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Thiết bị nào dùng để nối máy tính với mạng nội bộ?",
+      "options": [
+        "Router",
+        "Stapler",
+        "Binder",
+        "Plotter"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Deadline' nghĩa là gì trong môi trường công sở?",
+      "options": [
+        "Mốc hoàn thành",
+        "Ngày nghỉ",
+        "Phần thưởng",
+        "Hợp đồng"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Ai là người ghi chú và phân phối nhiệm vụ sau cuộc họp?",
+      "options": [
+        "Facilitator",
+        "Recorder",
+        "Chairperson",
+        "Receptionist"
+      ],
+      "answer": 1
+    },
+    {
+      "prompt": "Từ nào chỉ vị trí bàn làm việc chung không có chỗ cố định?",
+      "options": [
+        "Cubicle",
+        "Hot desk",
+        "Showroom",
+        "Studio"
+      ],
+      "answer": 1
+    }
+  ]
+}
