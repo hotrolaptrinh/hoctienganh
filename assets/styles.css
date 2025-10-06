@@ -241,7 +241,7 @@ table.vocabulary {
 
 table.vocabulary th,
 table.vocabulary td {
-  padding: 10px 12px;
+  padding: 10px 2px;
   border-bottom: 1px solid rgba(15, 23, 42, 0.08);
   text-align: left;
 }
@@ -258,23 +258,19 @@ table.vocabulary th:nth-child(2) {
 }
 
 table.vocabulary col.col-word {
-  width: 18%;
+  width: 21%;
 }
 
 table.vocabulary col.col-pos {
-  width: 10%;
+  width: 13%;
 }
 
 table.vocabulary col.col-ipa {
-  width: 18%;
+  width: 21%;
 }
 
 table.vocabulary col.col-meaning {
-  width: 42%;
-}
-
-table.vocabulary col.col-audio {
-  width: 12%;
+  width: 45%;
 }
 
 table.vocabulary td:nth-child(2) {
