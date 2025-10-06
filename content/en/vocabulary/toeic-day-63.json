@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 63 - Insurance & Risk Management",
+  "words": [
+    {
+      "word": "risk assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk əˈsesmənt/",
+      "meaning": "đánh giá rủi ro"
+    },
+    {
+      "word": "risk register",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈredʒɪstə/",
+      "meaning": "sổ đăng ký rủi ro"
+    },
+    {
+      "word": "coverage",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈkʌvərɪdʒ/",
+      "meaning": "phạm vi bảo hiểm"
+    },
+    {
+      "word": "policyholder",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈpɒləsiˌhəʊldə/",
+      "meaning": "người được bảo hiểm"
+    },
+    {
+      "word": "premium",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈpriːmiəm/",
+      "meaning": "phí bảo hiểm"
+    },
+    {
+      "word": "deductible",
+      "partOfSpeech": "n.",
+      "ipa": "/dɪˈdʌktəbl/",
+      "meaning": "mức khấu trừ"
+    },
+    {
+      "word": "underwriting",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈʌndəˌraɪtɪŋ/",
+      "meaning": "thẩm định bảo hiểm"
+    },
+    {
+      "word": "coverage limit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌvərɪdʒ ˈlɪmɪt/",
+      "meaning": "giới hạn bồi thường"
+    },
+    {
+      "word": "endorsement",
+      "partOfSpeech": "n.",
+      "ipa": "/ɪnˈdɔːsmənt/",
+      "meaning": "phụ lục hợp đồng"
+    },
+    {
+      "word": "rider",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈraɪdə/",
+      "meaning": "điều khoản bổ sung"
+    },
+    {
+      "word": "general liability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdʒenrəl ˌlaɪəˈbɪləti/",
+      "meaning": "trách nhiệm chung"
+    },
+    {
+      "word": "property damage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒpəti ˈdæmɪdʒ/",
+      "meaning": "thiệt hại tài sản"
+    },
+    {
+      "word": "business interruption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪznəs ˌɪntəˈrʌpʃn/",
+      "meaning": "gián đoạn kinh doanh"
+    },
+    {
+      "word": "workers' compensation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈwɜːkəz ˌkɒmpenˈseɪʃn/",
+      "meaning": "bảo hiểm tai nạn lao động"
+    },
+    {
+      "word": "claim notification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kleɪm ˌnəʊtɪfɪˈkeɪʃn/",
+      "meaning": "thông báo bồi thường"
+    },
+    {
+      "word": "loss adjuster",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɒs əˈdʒʌstə/",
+      "meaning": "chuyên viên giám định tổn thất"
+    },
+    {
+      "word": "subrogation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌsʌbrəˈɡeɪʃn/",
+      "meaning": "thế quyền"
+    },
+    {
+      "word": "risk retention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk rɪˈtenʃn/",
+      "meaning": "tự giữ rủi ro"
+    },
+    {
+      "word": "risk transfer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈtrænsfɜː/",
+      "meaning": "chuyển giao rủi ro"
+    },
+    {
+      "word": "self-insured",
+      "partOfSpeech": "adj.",
+      "ipa": "/ˌself ɪnˈʃʊəd/",
+      "meaning": "tự bảo hiểm"
+    },
+    {
+      "word": "certificate of insurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈtɪfɪkət əv ɪnˈʃʊərəns/",
+      "meaning": "giấy chứng nhận bảo hiểm"
+    },
+    {
+      "word": "policy exclusion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɒləsi ɪkˈskluːʒn/",
+      "meaning": "điều khoản loại trừ"
+    },
+    {
+      "word": "actuary",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈæktʃuəri/",
+      "meaning": "chuyên gia định phí"
+    },
+    {
+      "word": "catastrophe modeling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈtæstrəfi ˈmɒdəlɪŋ/",
+      "meaning": "mô hình hóa thảm họa"
+    },
+    {
+      "word": "renewal quote",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəl kwəʊt/",
+      "meaning": "báo giá tái tục"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 54 - Supply Chain Optimization",
+  "words": [
+    {
+      "word": "demand forecast",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈmɑːnd ˈfɔːkɑːst/",
+      "meaning": "dự báo nhu cầu"
+    },
+    {
+      "word": "sales and operations planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/seɪlz ænd ˌɒpəˈreɪʃənz ˈplænɪŋ/",
+      "meaning": "hoạch định bán hàng và vận hành"
+    },
+    {
+      "word": "procurement",
+      "partOfSpeech": "n.",
+      "ipa": "/prəˈkjʊəmənt/",
+      "meaning": "mua sắm"
+    },
+    {
+      "word": "supplier diversification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪə daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "meaning": "đa dạng hóa nhà cung cấp"
+    },
+    {
+      "word": "purchase order",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɜːtʃəs ˈɔːdə/",
+      "meaning": "đơn đặt hàng"
+    },
+    {
+      "word": "lead time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈliːd taɪm/",
+      "meaning": "thời gian giao hàng"
+    },
+    {
+      "word": "inventory buffer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˈbʌfə/",
+      "meaning": "tồn kho đệm"
+    },
+    {
+      "word": "safety stock",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪfti stɒk/",
+      "meaning": "hàng dự trữ an toàn"
+    },
+    {
+      "word": "reorder point",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/riːˈɔːdə pɔɪnt/",
+      "meaning": "điểm đặt hàng lại"
+    },
+    {
+      "word": "fulfillment center",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fʊlˈfɪlmənt ˈsentə/",
+      "meaning": "trung tâm hoàn tất đơn"
+    },
+    {
+      "word": "cross-docking",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈkrɒs ˌdɒkɪŋ/",
+      "meaning": "trung chuyển hàng hóa"
+    },
+    {
+      "word": "last-mile delivery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɑːst maɪl dɪˈlɪvəri/",
+      "meaning": "giao hàng chặng cuối"
+    },
+    {
+      "word": "cold chain",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəʊld tʃeɪn/",
+      "meaning": "chuỗi lạnh"
+    },
+    {
+      "word": "vendor-managed inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvendə ˈmænɪdʒd ˈɪnvəntri/",
+      "meaning": "tồn kho do nhà cung cấp quản lý"
+    },
+    {
+      "word": "reverse logistics",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈvɜːs ləˈdʒɪstɪks/",
+      "meaning": "hậu cần ngược"
+    },
+    {
+      "word": "lot size",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɒt saɪz/",
+      "meaning": "kích thước lô hàng"
+    },
+    {
+      "word": "pipeline inventory",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaɪplaɪn ˈɪnvəntri/",
+      "meaning": "hàng tồn trên đường"
+    },
+    {
+      "word": "supply disruption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ dɪsˈrʌpʃn/",
+      "meaning": "gián đoạn nguồn cung"
+    },
+    {
+      "word": "dual sourcing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdjuːəl ˈsɔːsɪŋ/",
+      "meaning": "nguồn cung kép"
+    },
+    {
+      "word": "quality audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti ˈɔːdɪt/",
+      "meaning": "đánh giá chất lượng"
+    },
+    {
+      "word": "shipment visibility",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈʃɪpmənt ˌvɪzəˈbɪləti/",
+      "meaning": "tính minh bạch vận chuyển"
+    },
+    {
+      "word": "tracking number",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtrækɪŋ ˈnʌmbə/",
+      "meaning": "mã theo dõi"
+    },
+    {
+      "word": "freight consolidation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/freɪt kənˌsɒlɪˈdeɪʃn/",
+      "meaning": "gom hàng"
+    },
+    {
+      "word": "customs clearance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ˈklɪərəns/",
+      "meaning": "thông quan"
+    },
+    {
+      "word": "supply chain resilience",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˈplaɪ tʃeɪn rɪˈzɪliəns/",
+      "meaning": "khả năng chống chịu chuỗi cung ứng"
+    }
+  ]
+}

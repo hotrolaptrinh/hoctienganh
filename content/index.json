@@ -394,6 +394,132 @@
                         "description": "Thuật ngữ quản lý khách sạn, dịch vụ du lịch và nâng trải nghiệm khách.",
                         "source": "content/en/vocabulary/toeic-day-52.json",
                         "markdown": "content/en/vocabulary/toeic-day-52.md"
+                    },
+                    {
+                        "id": "toeic-day-53",
+                        "title": "TOEIC Day 53 - Event Planning & Management",
+                        "description": "Từ vựng tổ chức sự kiện, quản lý nhà cung cấp và trải nghiệm khách tham dự.",
+                        "source": "content/en/vocabulary/toeic-day-53.json",
+                        "markdown": "content/en/vocabulary/toeic-day-53.md"
+                    },
+                    {
+                        "id": "toeic-day-54",
+                        "title": "TOEIC Day 54 - Supply Chain Optimization",
+                        "description": "Thuật ngữ chuỗi cung ứng về dự báo, tồn kho và tối ưu vận chuyển.",
+                        "source": "content/en/vocabulary/toeic-day-54.json",
+                        "markdown": "content/en/vocabulary/toeic-day-54.md"
+                    },
+                    {
+                        "id": "toeic-day-55",
+                        "title": "TOEIC Day 55 - Corporate Governance & Compliance",
+                        "description": "Từ vựng quản trị doanh nghiệp, kiểm soát tuân thủ và đạo đức kinh doanh.",
+                        "source": "content/en/vocabulary/toeic-day-55.json",
+                        "markdown": "content/en/vocabulary/toeic-day-55.md"
+                    },
+                    {
+                        "id": "toeic-day-56",
+                        "title": "TOEIC Day 56 - Financial Reporting & Analysis",
+                        "description": "Thuật ngữ báo cáo tài chính, chỉ số phân tích và kiểm toán.",
+                        "source": "content/en/vocabulary/toeic-day-56.json",
+                        "markdown": "content/en/vocabulary/toeic-day-56.md"
+                    },
+                    {
+                        "id": "toeic-day-57",
+                        "title": "TOEIC Day 57 - Product Development & Innovation",
+                        "description": "Từ vựng phát triển sản phẩm, đổi mới và quản lý vòng đời.",
+                        "source": "content/en/vocabulary/toeic-day-57.json",
+                        "markdown": "content/en/vocabulary/toeic-day-57.md"
+                    },
+                    {
+                        "id": "toeic-day-58",
+                        "title": "TOEIC Day 58 - Marketing Analytics & Campaigns",
+                        "description": "Thuật ngữ chiến dịch marketing, đo lường hiệu quả và tối ưu dữ liệu.",
+                        "source": "content/en/vocabulary/toeic-day-58.json",
+                        "markdown": "content/en/vocabulary/toeic-day-58.md"
+                    },
+                    {
+                        "id": "toeic-day-59",
+                        "title": "TOEIC Day 59 - Customer Service Excellence",
+                        "description": "Từ vựng dịch vụ khách hàng, chỉ số trải nghiệm và xử lý khiếu nại.",
+                        "source": "content/en/vocabulary/toeic-day-59.json",
+                        "markdown": "content/en/vocabulary/toeic-day-59.md"
+                    },
+                    {
+                        "id": "toeic-day-60",
+                        "title": "TOEIC Day 60 - Logistics & Distribution",
+                        "description": "Thuật ngữ logistics phân phối, quản lý kho và vận tải.",
+                        "source": "content/en/vocabulary/toeic-day-60.json",
+                        "markdown": "content/en/vocabulary/toeic-day-60.md"
+                    },
+                    {
+                        "id": "toeic-day-61",
+                        "title": "TOEIC Day 61 - Manufacturing & Quality Control",
+                        "description": "Từ vựng sản xuất, bảo trì thiết bị và kiểm soát chất lượng.",
+                        "source": "content/en/vocabulary/toeic-day-61.json",
+                        "markdown": "content/en/vocabulary/toeic-day-61.md"
+                    },
+                    {
+                        "id": "toeic-day-62",
+                        "title": "TOEIC Day 62 - Real Estate & Facilities Management",
+                        "description": "Thuật ngữ bất động sản, vận hành tòa nhà và hợp đồng thuê.",
+                        "source": "content/en/vocabulary/toeic-day-62.json",
+                        "markdown": "content/en/vocabulary/toeic-day-62.md"
+                    },
+                    {
+                        "id": "toeic-day-63",
+                        "title": "TOEIC Day 63 - Insurance & Risk Management",
+                        "description": "Từ vựng bảo hiểm doanh nghiệp, đánh giá rủi ro và xử lý bồi thường.",
+                        "source": "content/en/vocabulary/toeic-day-63.json",
+                        "markdown": "content/en/vocabulary/toeic-day-63.md"
+                    },
+                    {
+                        "id": "toeic-day-64",
+                        "title": "TOEIC Day 64 - Banking & Investment Services",
+                        "description": "Thuật ngữ ngân hàng, đầu tư và dịch vụ tài chính doanh nghiệp.",
+                        "source": "content/en/vocabulary/toeic-day-64.json",
+                        "markdown": "content/en/vocabulary/toeic-day-64.md"
+                    },
+                    {
+                        "id": "toeic-day-65",
+                        "title": "TOEIC Day 65 - Energy & Sustainability",
+                        "description": "Từ vựng năng lượng bền vững, ESG và quản trị phát thải.",
+                        "source": "content/en/vocabulary/toeic-day-65.json",
+                        "markdown": "content/en/vocabulary/toeic-day-65.md"
+                    },
+                    {
+                        "id": "toeic-day-66",
+                        "title": "TOEIC Day 66 - Aviation & Airport Operations",
+                        "description": "Thuật ngữ hàng không, vận hành sân bay và an toàn chuyến bay.",
+                        "source": "content/en/vocabulary/toeic-day-66.json",
+                        "markdown": "content/en/vocabulary/toeic-day-66.md"
+                    },
+                    {
+                        "id": "toeic-day-67",
+                        "title": "TOEIC Day 67 - Maritime & Shipping Logistics",
+                        "description": "Từ vựng hàng hải, bốc xếp cảng biển và vận tải container.",
+                        "source": "content/en/vocabulary/toeic-day-67.json",
+                        "markdown": "content/en/vocabulary/toeic-day-67.md"
+                    },
+                    {
+                        "id": "toeic-day-68",
+                        "title": "TOEIC Day 68 - Education & Training",
+                        "description": "Thuật ngữ giáo dục, thiết kế đào tạo và đánh giá học viên.",
+                        "source": "content/en/vocabulary/toeic-day-68.json",
+                        "markdown": "content/en/vocabulary/toeic-day-68.md"
+                    },
+                    {
+                        "id": "toeic-day-69",
+                        "title": "TOEIC Day 69 - Media & Broadcasting",
+                        "description": "Từ vựng truyền thông, sản xuất bản tin và quản lý phát sóng.",
+                        "source": "content/en/vocabulary/toeic-day-69.json",
+                        "markdown": "content/en/vocabulary/toeic-day-69.md"
+                    },
+                    {
+                        "id": "toeic-day-70",
+                        "title": "TOEIC Day 70 - Public Policy & Government",
+                        "description": "Thuật ngữ khu vực công, hoạch định chính sách và quản trị nhà nước.",
+                        "source": "content/en/vocabulary/toeic-day-70.json",
+                        "markdown": "content/en/vocabulary/toeic-day-70.md"
                     }
                 ],
                 "grammar": [
