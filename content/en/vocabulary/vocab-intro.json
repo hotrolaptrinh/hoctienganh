@@ -1,0 +1,35 @@
+{
+  "topic": "Greetings",
+  "words": [
+    {
+      "word": "hello",
+      "partOfSpeech": "interjection",
+      "ipa": "/həˈloʊ/",
+      "meaning": "xin chào"
+    },
+    {
+      "word": "hi",
+      "partOfSpeech": "interjection",
+      "ipa": "/haɪ/",
+      "meaning": "xin chào (thân mật)"
+    },
+    {
+      "word": "good morning",
+      "partOfSpeech": "phrase",
+      "ipa": "/ɡʊd ˈmɔːrnɪŋ/",
+      "meaning": "chào buổi sáng"
+    },
+    {
+      "word": "good evening",
+      "partOfSpeech": "phrase",
+      "ipa": "/ɡʊd ˈiːvnɪŋ/",
+      "meaning": "chào buổi tối"
+    },
+    {
+      "word": "nice to meet you",
+      "partOfSpeech": "expression",
+      "ipa": "/naɪs tə ˈmiːt juː/",
+      "meaning": "rất vui được gặp bạn"
+    }
+  ]
+}

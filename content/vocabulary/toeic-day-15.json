@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 15 - Procurement & Purchasing",
+  "words": [
+    {"word": "procurement", "partOfSpeech": "n.", "ipa": "/prəˈkjʊəmənt/", "meaning": "sự thu mua"},
+    {"word": "sourcing", "partOfSpeech": "n.", "ipa": "/ˈsɔːsɪŋ/", "meaning": "việc tìm nguồn cung"},
+    {"word": "supplier", "partOfSpeech": "n.", "ipa": "/səˈplaɪə(r)/", "meaning": "nhà cung cấp"},
+    {"word": "vendor", "partOfSpeech": "n.", "ipa": "/ˈvendə(r)/", "meaning": "nhà bán hàng"},
+    {"word": "quotation", "partOfSpeech": "n.", "ipa": "/kwəʊˈteɪʃn/", "meaning": "báo giá"},
+    {"word": "invoice", "partOfSpeech": "n.", "ipa": "/ˈɪnvɔɪs/", "meaning": "hóa đơn"},
+    {"word": "purchase order", "partOfSpeech": "n. phr.", "ipa": "/ˈpɜːtʃəs ˈɔːdə/", "meaning": "đơn đặt hàng"},
+    {"word": "requisition", "partOfSpeech": "n.", "ipa": "/ˌrekwɪˈzɪʃn/", "meaning": "phiếu yêu cầu mua"},
+    {"word": "inventory", "partOfSpeech": "n.", "ipa": "/ˈɪnvəntri/", "meaning": "hàng tồn kho"},
+    {"word": "fulfillment", "partOfSpeech": "n.", "ipa": "/fʊlˈfɪlmənt/", "meaning": "việc hoàn tất đơn"},
+    {"word": "lead time", "partOfSpeech": "n. phr.", "ipa": "/ˈliːd taɪm/", "meaning": "thời gian cung ứng"},
+    {"word": "negotiate", "partOfSpeech": "v.", "ipa": "/nɪˈɡəʊʃieɪt/", "meaning": "đàm phán"},
+    {"word": "discount", "partOfSpeech": "n.", "ipa": "/ˈdɪskaʊnt/", "meaning": "giảm giá"},
+    {"word": "terms", "partOfSpeech": "n. pl.", "ipa": "/tɜːmz/", "meaning": "điều khoản"},
+    {"word": "warranty", "partOfSpeech": "n.", "ipa": "/ˈwɒrənti/", "meaning": "bảo hành"},
+    {"word": "bulk order", "partOfSpeech": "n. phr.", "ipa": "/bʌlk ˈɔːdə/", "meaning": "đơn hàng số lượng lớn"},
+    {"word": "logistics", "partOfSpeech": "n.", "ipa": "/ləˈdʒɪstɪks/", "meaning": "hậu cần"},
+    {"word": "shipment", "partOfSpeech": "n.", "ipa": "/ˈʃɪpmənt/", "meaning": "lô hàng"},
+    {"word": "delivery schedule", "partOfSpeech": "n. phr.", "ipa": "/dɪˈlɪvəri ˈʃedjuːl/", "meaning": "lịch giao hàng"},
+    {"word": "stockout", "partOfSpeech": "n.", "ipa": "/ˈstɒkaʊt/", "meaning": "tình trạng hết hàng"},
+    {"word": "consignment", "partOfSpeech": "n.", "ipa": "/kənˈsaɪnmənt/", "meaning": "hàng ký gửi"},
+    {"word": "specification", "partOfSpeech": "n.", "ipa": "/ˌspesɪfɪˈkeɪʃn/", "meaning": "thông số kỹ thuật"},
+    {"word": "evaluation", "partOfSpeech": "n.", "ipa": "/ɪˌvæljuˈeɪʃn/", "meaning": "đánh giá"},
+    {"word": "tender", "partOfSpeech": "n.", "ipa": "/ˈtendə(r)/", "meaning": "hồ sơ đấu thầu"},
+    {"word": "compliance check", "partOfSpeech": "n. phr.", "ipa": "/kəmˈplaɪəns tʃek/", "meaning": "kiểm tra tuân thủ"}
+  ]
+}

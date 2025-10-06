@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "会议室", "partOfSpeech": "noun", "ipa": "huìyìshì", "meaning": "phòng họp" },
+    { "word": "议程", "partOfSpeech": "noun", "ipa": "yìchéng", "meaning": "chương trình họp" },
+    { "word": "资料", "partOfSpeech": "noun", "ipa": "zīliào", "meaning": "tài liệu" },
+    { "word": "讨论", "partOfSpeech": "verb", "ipa": "tǎolùn", "meaning": "thảo luận" },
+    { "word": "意见", "partOfSpeech": "noun", "ipa": "yìjiàn", "meaning": "ý kiến" },
+    { "word": "建议", "partOfSpeech": "noun", "ipa": "jiànyì", "meaning": "đề xuất" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "总结", "partOfSpeech": "noun", "ipa": "zǒngjié", "meaning": "tổng kết" },
+    { "word": "记录", "partOfSpeech": "verb", "ipa": "jìlù", "meaning": "ghi chép" },
+    { "word": "确定", "partOfSpeech": "verb", "ipa": "quèdìng", "meaning": "xác định, xác nhận" },
+    { "word": "协调", "partOfSpeech": "verb", "ipa": "xiétiáo", "meaning": "điều phối" },
+    { "word": "安排", "partOfSpeech": "verb", "ipa": "ānpái", "meaning": "sắp xếp" },
+    { "word": "邀请", "partOfSpeech": "verb", "ipa": "yāoqǐng", "meaning": "mời" },
+    { "word": "出席", "partOfSpeech": "verb", "ipa": "chūxí", "meaning": "tham dự" },
+    { "word": "准时", "partOfSpeech": "adjective", "ipa": "zhǔnshí", "meaning": "đúng giờ" },
+    { "word": "延迟", "partOfSpeech": "verb", "ipa": "yánchí", "meaning": "trì hoãn" },
+    { "word": "改期", "partOfSpeech": "verb", "ipa": "gǎiqī", "meaning": "dời lịch" },
+    { "word": "视频会议", "partOfSpeech": "noun", "ipa": "shìpín huìyì", "meaning": "họp trực tuyến" },
+    { "word": "屏幕共享", "partOfSpeech": "noun", "ipa": "píngmù gòngxiǎng", "meaning": "chia sẻ màn hình" },
+    { "word": "麦克风", "partOfSpeech": "noun", "ipa": "màikèfēng", "meaning": "micro" },
+    { "word": "静音", "partOfSpeech": "verb", "ipa": "jìngyīn", "meaning": "tắt tiếng" },
+    { "word": "确认收悉", "partOfSpeech": "expression", "ipa": "quèrèn shōuxī", "meaning": "xác nhận đã nhận" },
+    { "word": "附件", "partOfSpeech": "noun", "ipa": "fùjiàn", "meaning": "tệp đính kèm" },
+    { "word": "抄送", "partOfSpeech": "verb", "ipa": "chāosòng", "meaning": "cc (sao gửi)" },
+    { "word": "回复", "partOfSpeech": "verb", "ipa": "huífù", "meaning": "trả lời" }
+  ]
+}

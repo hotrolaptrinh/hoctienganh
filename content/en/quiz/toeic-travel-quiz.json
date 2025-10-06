@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "prompt": "Tài liệu nào cần thiết khi làm thủ tục bay quốc tế?",
+      "options": [
+        "Passport",
+        "Timesheet",
+        "Minutes",
+        "Invoice"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Itinerary' nghĩa là gì?",
+      "options": [
+        "Lịch trình chuyến đi",
+        "Hóa đơn thanh toán",
+        "Hợp đồng mua bán",
+        "Thư mời phỏng vấn"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào mô tả việc đặt phòng khách sạn trước?",
+      "options": [
+        "Reservation",
+        "Negotiation",
+        "Renovation",
+        "Rotation"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Ai hỗ trợ khách trong quá trình nhận phòng khách sạn?",
+      "options": [
+        "Concierge",
+        "Operator",
+        "Supervisor",
+        "Technician"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Layover' diễn tả điều gì?",
+      "options": [
+        "Chuyến quá cảnh",
+        "Chuyến bay thẳng",
+        "Hành lý ký gửi",
+        "Nâng hạng vé"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Từ nào mô tả hành lý mang theo lên máy bay?",
+      "options": [
+        "Carry-on",
+        "Freight",
+        "Cargo",
+        "Shipment"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Per diem' là khoản gì trong công tác phí?",
+      "options": [
+        "Phụ cấp theo ngày",
+        "Tiền thưởng cuối năm",
+        "Hoa hồng bán hàng",
+        "Chiết khấu mua hàng"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Ai chịu trách nhiệm đặt vé và sắp xếp lịch trình cho nhân viên?",
+      "options": [
+        "Travel coordinator",
+        "Line supervisor",
+        "Accountant",
+        "Sales associate"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào mô tả việc nâng hạng ghế trên chuyến bay?",
+      "options": [
+        "Upgrade",
+        "Upload",
+        "Update",
+        "Upsell"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Check-in counter' nằm ở đâu?",
+      "options": [
+        "Sân bay",
+        "Văn phòng",
+        "Nhà máy",
+        "Phòng họp"
+      ],
+      "answer": 0
+    }
+  ]
+}

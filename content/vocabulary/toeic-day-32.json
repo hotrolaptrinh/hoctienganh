@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 32 - IT Infrastructure & Security",
+  "words": [
+    {"word": "firewall", "partOfSpeech": "n.", "ipa": "/ˈfaɪəwɔːl/", "meaning": "tường lửa"},
+    {"word": "virtual private network", "partOfSpeech": "n. phr.", "ipa": "/ˈvɜːtʃuəl ˈpraɪvət ˈnetwɜːk/", "meaning": "mạng riêng ảo"},
+    {"word": "endpoint", "partOfSpeech": "n.", "ipa": "/ˈendpɔɪnt/", "meaning": "thiết bị đầu cuối"},
+    {"word": "patch", "partOfSpeech": "n.", "ipa": "/pætʃ/", "meaning": "bản vá"},
+    {"word": "downtime", "partOfSpeech": "n.", "ipa": "/ˈdaʊntaɪm/", "meaning": "thời gian ngừng hoạt động"},
+    {"word": "redundancy", "partOfSpeech": "n.", "ipa": "/rɪˈdʌndənsi/", "meaning": "dự phòng"},
+    {"word": "load balancing", "partOfSpeech": "n. phr.", "ipa": "/ləʊd ˈbælənsɪŋ/", "meaning": "cân bằng tải"},
+    {"word": "intrusion detection", "partOfSpeech": "n. phr.", "ipa": "/ɪnˈtruːʒn dɪˈtekʃn/", "meaning": "phát hiện xâm nhập"},
+    {"word": "encryption", "partOfSpeech": "n.", "ipa": "/ɪnˈkrɪpʃn/", "meaning": "mã hóa"},
+    {"word": "multi-factor authentication", "partOfSpeech": "n. phr.", "ipa": "/ˌmʌlti ˈfæktə ɔːˌθentɪˈkeɪʃn/", "meaning": "xác thực đa yếu tố"},
+    {"word": "backup", "partOfSpeech": "n.", "ipa": "/ˈbækʌp/", "meaning": "sao lưu"},
+    {"word": "restore", "partOfSpeech": "v.", "ipa": "/rɪˈstɔː/", "meaning": "khôi phục"},
+    {"word": "disaster recovery", "partOfSpeech": "n. phr.", "ipa": "/dɪˈzɑːstə rɪˈkʌvəri/", "meaning": "khôi phục sau thảm họa"},
+    {"word": "uptime", "partOfSpeech": "n.", "ipa": "/ˈʌptaɪm/", "meaning": "thời gian hoạt động"},
+    {"word": "capacity planning", "partOfSpeech": "n. phr.", "ipa": "/kəˈpæsəti ˈplænɪŋ/", "meaning": "lập kế hoạch dung lượng"},
+    {"word": "server rack", "partOfSpeech": "n. phr.", "ipa": "/ˈsɜːvə ræk/", "meaning": "giá đỡ máy chủ"},
+    {"word": "data center", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈsentə/", "meaning": "trung tâm dữ liệu"},
+    {"word": "endpoint protection", "partOfSpeech": "n. phr.", "ipa": "/ˈendpɔɪnt prəˈtekʃn/", "meaning": "bảo vệ thiết bị đầu cuối"},
+    {"word": "threat intelligence", "partOfSpeech": "n. phr.", "ipa": "/θret ɪnˈtelɪdʒəns/", "meaning": "tình báo mối đe dọa"},
+    {"word": "penetration test", "partOfSpeech": "n. phr.", "ipa": "/ˌpenɪˈtreɪʃn test/", "meaning": "kiểm thử thâm nhập"},
+    {"word": "security policy", "partOfSpeech": "n. phr.", "ipa": "/sɪˈkjʊərəti ˈpɒləsi/", "meaning": "chính sách an ninh"},
+    {"word": "privileged access", "partOfSpeech": "n. phr.", "ipa": "/ˈprɪvəlɪdʒd ˈækses/", "meaning": "quyền truy cập đặc quyền"},
+    {"word": "zero trust", "partOfSpeech": "n. phr.", "ipa": "/ˈzɪərəʊ trʌst/", "meaning": "mô hình không tin cậy"},
+    {"word": "security patching", "partOfSpeech": "n. phr.", "ipa": "/sɪˈkjʊərəti ˈpætʃɪŋ/", "meaning": "vá lỗ hổng bảo mật"},
+    {"word": "phishing simulation", "partOfSpeech": "n. phr.", "ipa": "/ˈfɪʃɪŋ ˌsɪmjʊˈleɪʃn/", "meaning": "giả lập tấn công lừa đảo"}
+  ]
+}

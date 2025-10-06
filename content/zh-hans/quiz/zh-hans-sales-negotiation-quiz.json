@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "prompt": "'折扣' có nghĩa là gì?",
+      "options": ["Chiết khấu", "Đặt cọc", "Bảo hành", "Trả góp"],
+      "answer": 0
+    },
+    {
+      "prompt": "Chọn đáp án mô tả đúng cấu trúc '把' trong thương lượng.",
+      "options": ["请把合同签好。", "请合同把签好。", "请签好把合同。", "请好签把合同。"],
+      "answer": 0
+    },
+    {
+      "prompt": "Pinyin chính xác của '交期' là gì?",
+      "options": ["jiāoqī", "jiáoqī", "jiāoqí", "jiǎoqī"],
+      "answer": 0
+    },
+    {
+      "prompt": "Từ nào chỉ 'lợi nhuận'?",
+      "options": ["成本", "利润", "预算", "报价"],
+      "answer": 1
+    },
+    {
+      "prompt": "Câu nào sử dụng '会' để dự đoán tương lai?",
+      "options": ["客户会追加订单。", "客户追加订单。", "客户追加会订单。", "客户不会追加订单吗。"],
+      "answer": 0
+    },
+    {
+      "prompt": "'售后' liên quan đến giai đoạn nào?",
+      "options": ["Chuẩn bị sản xuất", "Hỗ trợ sau bán", "Ký hợp đồng", "Phân tích nhu cầu"],
+      "answer": 1
+    },
+    {
+      "prompt": "Để nói 'điều chỉnh', hãy chọn từ thích hợp.",
+      "options": ["调整", "更新", "分期", "签署"],
+      "answer": 0
+    },
+    {
+      "prompt": "Câu nào thể hiện đúng cách dùng '不会'?",
+      "options": ["项目不会延迟。", "项目不会议延迟。", "项目会不延迟。", "项目不会延迟吗。"],
+      "answer": 0
+    },
+    {
+      "prompt": "Trong đoạn đọc về kho hàng, hành động nào đã được thực hiện?",
+      "options": ["客户拒绝了报价", "重新包装破损产品", "取消订单", "没有做记录"],
+      "answer": 1
+    },
+    {
+      "prompt": "'需求分析' dùng khi nào?",
+      "options": ["Khảo sát nhu cầu khách hàng", "Kiểm tra chất lượng", "Xuất hóa đơn", "Giao hàng"],
+      "answer": 0
+    }
+  ]
+}

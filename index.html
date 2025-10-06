@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="vi">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ứng dụng học ngoại ngữ</title>
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="app">
+      <div id="app" class="container"></div>
+    </div>
+    <template id="loading-template">
+      <div class="loading">
+        <div class="spinner" aria-hidden="true"></div>
+        <p>Đang tải nội dung...</p>
+      </div>
+    </template>
+    <template id="error-template">
+      <div class="error">
+        <h2>Có lỗi xảy ra</h2>
+        <p>Không thể tải nội dung. Vui lòng thử lại.</p>
+      </div>
+    </template>
+    <script type="module" src="src/app.js"></script>
+  </body>
+</html>

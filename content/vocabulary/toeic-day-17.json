@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 17 - Quality Assurance & Control",
+  "words": [
+    {"word": "quality assurance", "partOfSpeech": "n. phr.", "ipa": "/ˈkwɒləti əˈʃʊərəns/", "meaning": "đảm bảo chất lượng"},
+    {"word": "quality control", "partOfSpeech": "n. phr.", "ipa": "/ˈkwɒləti kənˈtrəʊl/", "meaning": "kiểm soát chất lượng"},
+    {"word": "standard", "partOfSpeech": "n.", "ipa": "/ˈstændəd/", "meaning": "tiêu chuẩn"},
+    {"word": "specification", "partOfSpeech": "n.", "ipa": "/ˌspesɪfɪˈkeɪʃn/", "meaning": "đặc tả"},
+    {"word": "defect", "partOfSpeech": "n.", "ipa": "/ˈdiːfekt/", "meaning": "lỗi sản phẩm"},
+    {"word": "sampling", "partOfSpeech": "n.", "ipa": "/ˈsɑːmplɪŋ/", "meaning": "lấy mẫu"},
+    {"word": "checklist", "partOfSpeech": "n.", "ipa": "/ˈtʃeklɪst/", "meaning": "danh sách kiểm tra"},
+    {"word": "corrective action", "partOfSpeech": "n. phr.", "ipa": "/kəˈrektɪv ˈækʃn/", "meaning": "biện pháp khắc phục"},
+    {"word": "preventive action", "partOfSpeech": "n. phr.", "ipa": "/prɪˈventɪv ˈækʃn/", "meaning": "biện pháp phòng ngừa"},
+    {"word": "audit trail", "partOfSpeech": "n. phr.", "ipa": "/ˈɔːdɪt treɪl/", "meaning": "chuỗi kiểm toán"},
+    {"word": "compliance", "partOfSpeech": "n.", "ipa": "/kəmˈplaɪəns/", "meaning": "sự tuân thủ"},
+    {"word": "certification", "partOfSpeech": "n.", "ipa": "/ˌsɜːtɪfɪˈkeɪʃn/", "meaning": "chứng nhận"},
+    {"word": "tolerance limit", "partOfSpeech": "n. phr.", "ipa": "/ˈtɒlərəns ˈlɪmɪt/", "meaning": "giới hạn dung sai"},
+    {"word": "benchmark", "partOfSpeech": "n.", "ipa": "/ˈbentʃmɑːk/", "meaning": "chuẩn đối sánh"},
+    {"word": "deviation", "partOfSpeech": "n.", "ipa": "/ˌdiːviˈeɪʃn/", "meaning": "độ lệch"},
+    {"word": "root cause", "partOfSpeech": "n. phr.", "ipa": "/ˌruːt ˈkɔːz/", "meaning": "nguyên nhân gốc rễ"},
+    {"word": "rework", "partOfSpeech": "n.", "ipa": "/ˈriːwɜːk/", "meaning": "làm lại"},
+    {"word": "approval", "partOfSpeech": "n.", "ipa": "/əˈpruːvl/", "meaning": "sự phê duyệt"},
+    {"word": "documentation", "partOfSpeech": "n.", "ipa": "/ˌdɒkjʊmenˈteɪʃn/", "meaning": "tài liệu hóa"},
+    {"word": "guideline", "partOfSpeech": "n.", "ipa": "/ˈɡaɪdlaɪn/", "meaning": "hướng dẫn"},
+    {"word": "performance metric", "partOfSpeech": "n. phr.", "ipa": "/pəˈfɔːməns ˈmetrɪk/", "meaning": "chỉ số hiệu suất"},
+    {"word": "continuous improvement", "partOfSpeech": "n. phr.", "ipa": "/kənˈtɪnjʊəs ɪmˈpruːvmənt/", "meaning": "cải tiến liên tục"},
+    {"word": "customer satisfaction", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmə ˌsætɪsˈfækʃn/", "meaning": "sự hài lòng của khách hàng"},
+    {"word": "recall", "partOfSpeech": "n.", "ipa": "/ˈriːkɔːl/", "meaning": "thu hồi sản phẩm"},
+    {"word": "nonconformity", "partOfSpeech": "n.", "ipa": "/ˌnɒnkənˈfɔːməti/", "meaning": "sự không phù hợp"}
+  ]
+}

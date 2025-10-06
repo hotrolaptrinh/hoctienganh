@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 9 - Supply Chain & Logistics",
+  "words": [
+    {"word": "backorder", "partOfSpeech": "n.", "ipa": "/ˈbækˌɔːdə/", "meaning": "đơn hàng bị dồn"},
+    {"word": "bill of lading", "partOfSpeech": "n. phr.", "ipa": "/ˈbɪl əv ˈleɪdɪŋ/", "meaning": "vận đơn đường biển"},
+    {"word": "cargo", "partOfSpeech": "n.", "ipa": "/ˈkɑːɡəʊ/", "meaning": "hàng hóa vận chuyển"},
+    {"word": "carrier", "partOfSpeech": "n.", "ipa": "/ˈkæriə/", "meaning": "hãng vận chuyển"},
+    {"word": "consignee", "partOfSpeech": "n.", "ipa": "/ˌkɒnsaɪˈniː/", "meaning": "người nhận hàng"},
+    {"word": "containerization", "partOfSpeech": "n.", "ipa": "/kənˌteɪnəraɪˈzeɪʃn/", "meaning": "việc sử dụng container"},
+    {"word": "cross-docking", "partOfSpeech": "n.", "ipa": "/ˌkrɒsˈdɒkɪŋ/", "meaning": "bốc dỡ trung chuyển"},
+    {"word": "customs clearance", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈklɪərəns/", "meaning": "thông quan"},
+    {"word": "delivery route", "partOfSpeech": "n. phr.", "ipa": "/dɪˈlɪvəri ruːt/", "meaning": "lộ trình giao hàng"},
+    {"word": "freight forwarder", "partOfSpeech": "n. phr.", "ipa": "/freɪt ˈfɔːwədə/", "meaning": "đại lý giao nhận"},
+    {"word": "fulfillment center", "partOfSpeech": "n. phr.", "ipa": "/fʊlˈfɪlmənt ˈsentə/", "meaning": "trung tâm hoàn tất đơn hàng"},
+    {"word": "haulage", "partOfSpeech": "n.", "ipa": "/ˈhɔːlɪdʒ/", "meaning": "dịch vụ vận tải đường bộ"},
+    {"word": "import duty", "partOfSpeech": "n. phr.", "ipa": "/ˈɪmpɔːt ˈdjuːti/", "meaning": "thuế nhập khẩu"},
+    {"word": "intermodal", "partOfSpeech": "adj.", "ipa": "/ˌɪntəˈməʊdl/", "meaning": "liên vận nhiều phương thức"},
+    {"word": "last-mile", "partOfSpeech": "adj.", "ipa": "/ˈlɑːst maɪl/", "meaning": "ở chặng giao hàng cuối"},
+    {"word": "loading dock", "partOfSpeech": "n. phr.", "ipa": "/ˈləʊdɪŋ dɒk/", "meaning": "bến bốc dỡ"},
+    {"word": "logistics", "partOfSpeech": "n.", "ipa": "/ləˈdʒɪstɪks/", "meaning": "hậu cần"},
+    {"word": "packing list", "partOfSpeech": "n. phr.", "ipa": "/ˈpækɪŋ lɪst/", "meaning": "phiếu đóng gói"},
+    {"word": "pallet", "partOfSpeech": "n.", "ipa": "/ˈpælɪt/", "meaning": "tấm kê hàng"},
+    {"word": "proof of delivery", "partOfSpeech": "n. phr.", "ipa": "/ˌpruːf əv dɪˈlɪvəri/", "meaning": "biên nhận giao hàng"},
+    {"word": "reefer container", "partOfSpeech": "n. phr.", "ipa": "/ˈriːfə kənˈteɪnə/", "meaning": "container lạnh"},
+    {"word": "restock", "partOfSpeech": "v.", "ipa": "/ˌriːˈstɒk/", "meaning": "bổ sung hàng"},
+    {"word": "route optimization", "partOfSpeech": "n. phr.", "ipa": "/ruːt ˌɒptɪmaɪˈzeɪʃn/", "meaning": "tối ưu hóa tuyến đường"},
+    {"word": "supply chain", "partOfSpeech": "n. phr.", "ipa": "/səˈplaɪ tʃeɪn/", "meaning": "chuỗi cung ứng"},
+    {"word": "tracking number", "partOfSpeech": "n. phr.", "ipa": "/ˈtrækɪŋ ˈnʌmbə/", "meaning": "mã theo dõi"}
+  ]
+}

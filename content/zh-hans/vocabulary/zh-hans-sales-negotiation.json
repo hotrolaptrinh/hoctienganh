@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "报价", "partOfSpeech": "noun", "ipa": "bàojià", "meaning": "báo giá" },
+    { "word": "折扣", "partOfSpeech": "noun", "ipa": "zhékòu", "meaning": "chiết khấu" },
+    { "word": "合同", "partOfSpeech": "noun", "ipa": "hétóng", "meaning": "hợp đồng" },
+    { "word": "条款", "partOfSpeech": "noun", "ipa": "tiáokuǎn", "meaning": "điều khoản" },
+    { "word": "条件", "partOfSpeech": "noun", "ipa": "tiáojiàn", "meaning": "điều kiện" },
+    { "word": "预算", "partOfSpeech": "noun", "ipa": "yùsuàn", "meaning": "ngân sách" },
+    { "word": "成本", "partOfSpeech": "noun", "ipa": "chéngběn", "meaning": "chi phí" },
+    { "word": "利润", "partOfSpeech": "noun", "ipa": "lìrùn", "meaning": "lợi nhuận" },
+    { "word": "付款", "partOfSpeech": "verb", "ipa": "fùkuǎn", "meaning": "thanh toán" },
+    { "word": "分期", "partOfSpeech": "noun", "ipa": "fēnqī", "meaning": "trả góp" },
+    { "word": "订金", "partOfSpeech": "noun", "ipa": "dìngjīn", "meaning": "tiền đặt cọc" },
+    { "word": "发货", "partOfSpeech": "verb", "ipa": "fāhuò", "meaning": "giao hàng" },
+    { "word": "交期", "partOfSpeech": "noun", "ipa": "jiāoqī", "meaning": "hạn giao" },
+    { "word": "数量", "partOfSpeech": "noun", "ipa": "shùliàng", "meaning": "số lượng" },
+    { "word": "质量", "partOfSpeech": "noun", "ipa": "zhìliàng", "meaning": "chất lượng" },
+    { "word": "保修", "partOfSpeech": "noun", "ipa": "bǎoxiū", "meaning": "bảo hành" },
+    { "word": "售后", "partOfSpeech": "noun", "ipa": "shòuhòu", "meaning": "hậu mãi" },
+    { "word": "谈判", "partOfSpeech": "noun", "ipa": "tánpàn", "meaning": "đàm phán" },
+    { "word": "协议", "partOfSpeech": "noun", "ipa": "xiéyì", "meaning": "thỏa thuận" },
+    { "word": "签署", "partOfSpeech": "verb", "ipa": "qiānshǔ", "meaning": "ký kết" },
+    { "word": "更新", "partOfSpeech": "verb", "ipa": "gēngxīn", "meaning": "cập nhật" },
+    { "word": "调整", "partOfSpeech": "verb", "ipa": "tiáozhěng", "meaning": "điều chỉnh" },
+    { "word": "竞争对手", "partOfSpeech": "noun", "ipa": "jìngzhēng duìshǒu", "meaning": "đối thủ cạnh tranh" },
+    { "word": "优势", "partOfSpeech": "noun", "ipa": "yōushì", "meaning": "ưu thế" },
+    { "word": "需求分析", "partOfSpeech": "noun", "ipa": "xūqiú fēnxī", "meaning": "phân tích nhu cầu" }
+  ]
+}
