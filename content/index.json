@@ -414,6 +414,66 @@
         "title": "Thói quen buổi sáng",
         "description": "Bài đọc ngắn về các hoạt động buổi sáng của một bạn học sinh.",
         "markdown": "content/reading/morning-routine.md"
+      },
+      {
+        "id": "city-commute",
+        "title": "Một buổi sáng trên đường tới công ty",
+        "description": "Theo chân Minh di chuyển bằng phương tiện công cộng và tận dụng thời gian nghe tiếng Anh.",
+        "markdown": "content/reading/city-commute.md"
+      },
+      {
+        "id": "product-demo",
+        "title": "Buổi giới thiệu sản phẩm mới",
+        "description": "Tìm hiểu cách đội marketing chuẩn bị và xử lý câu hỏi trong một buổi demo trực tuyến.",
+        "markdown": "content/reading/product-demo.md"
+      },
+      {
+        "id": "customer-support-shift",
+        "title": "Ca trực chăm sóc khách hàng ban đêm",
+        "description": "Khám phá quy trình hỗ trợ khách hàng quốc tế và kỹ năng giao tiếp chuyên nghiệp.",
+        "markdown": "content/reading/customer-support-shift.md"
+      },
+      {
+        "id": "team-building-retreat",
+        "title": "Chuyến dã ngoại gắn kết đội nhóm",
+        "description": "Theo dõi các hoạt động team building và bài học rút ra về làm việc nhóm.",
+        "markdown": "content/reading/team-building-retreat.md"
+      },
+      {
+        "id": "quarterly-review",
+        "title": "Buổi đánh giá quý tại phòng họp",
+        "description": "Quan sát các phòng ban trình bày kết quả và kế hoạch hành động trong cuộc họp quý.",
+        "markdown": "content/reading/quarterly-review.md"
+      },
+      {
+        "id": "remote-work-day",
+        "title": "Một ngày làm việc từ xa hiệu quả",
+        "description": "Học cách sắp xếp lịch trình, cộng tác online và giữ tập trung khi làm việc tại nhà.",
+        "markdown": "content/reading/remote-work-day.md"
+      },
+      {
+        "id": "factory-inspection",
+        "title": "Chuyến tham quan nhà máy",
+        "description": "Cùng đội kiểm soát chất lượng kiểm tra dây chuyền sản xuất và quy trình an toàn.",
+        "markdown": "content/reading/factory-inspection.md"
+      },
+      {
+        "id": "airport-briefing",
+        "title": "Cuộc họp ngắn tại sân bay",
+        "description": "Nhóm dự án rà soát kế hoạch trước chuyến công tác và phân chia nhiệm vụ cuối cùng.",
+        "markdown": "content/reading/airport-briefing.md"
+      },
+      {
+        "id": "startup-pitch",
+        "title": "Buổi thuyết trình gọi vốn của startup",
+        "description": "Theo dõi đội ngũ GreenWave trình bày ý tưởng năng lượng tái tạo trước nhà đầu tư.",
+        "markdown": "content/reading/startup-pitch.md"
+      },
+      {
+        "id": "community-outreach",
+        "title": "Hoạt động thiện nguyện cuối tuần",
+        "description": "Cùng nhân viên tham gia ngày hội hướng dẫn kỹ năng số cho cộng đồng địa phương.",
+        "markdown": "content/reading/community-outreach.md"
       }
     ],
     "quiz": [
@@ -422,6 +482,66 @@
         "title": "Quiz: Chào hỏi",
         "description": "Kiểm tra nhanh vốn từ vựng về chủ đề chào hỏi.",
         "source": "content/quiz/greeting-check.json"
+      },
+      {
+        "id": "toeic-office-quiz",
+        "title": "Quiz TOEIC: Văn phòng hàng ngày",
+        "description": "10 câu hỏi kiểm tra từ vựng và thuật ngữ công sở cơ bản.",
+        "source": "content/quiz/toeic-office-quiz.json"
+      },
+      {
+        "id": "toeic-marketing-quiz",
+        "title": "Quiz TOEIC: Marketing & Bán hàng",
+        "description": "Đánh giá hiểu biết về tiếp thị, bán hàng và chỉ số hiệu quả.",
+        "source": "content/quiz/toeic-marketing-quiz.json"
+      },
+      {
+        "id": "toeic-finance-quiz",
+        "title": "Quiz TOEIC: Tài chính doanh nghiệp",
+        "description": "Ôn tập khái niệm kế toán, báo cáo và ngân sách trong TOEIC.",
+        "source": "content/quiz/toeic-finance-quiz.json"
+      },
+      {
+        "id": "toeic-operations-quiz",
+        "title": "Quiz TOEIC: Vận hành & sản xuất",
+        "description": "Củng cố từ vựng về quy trình, công suất và quản lý kho.",
+        "source": "content/quiz/toeic-operations-quiz.json"
+      },
+      {
+        "id": "toeic-hr-quiz",
+        "title": "Quiz TOEIC: Nhân sự",
+        "description": "Kiểm tra thuật ngữ tuyển dụng, phúc lợi và đánh giá nhân viên.",
+        "source": "content/quiz/toeic-hr-quiz.json"
+      },
+      {
+        "id": "toeic-travel-quiz",
+        "title": "Quiz TOEIC: Công tác & du lịch",
+        "description": "Bao quát từ vựng đặt vé, công tác phí và quy trình sân bay.",
+        "source": "content/quiz/toeic-travel-quiz.json"
+      },
+      {
+        "id": "toeic-tech-quiz",
+        "title": "Quiz TOEIC: Công nghệ văn phòng",
+        "description": "Đánh giá hiểu biết về bảo mật, phần mềm và thiết bị IT.",
+        "source": "content/quiz/toeic-tech-quiz.json"
+      },
+      {
+        "id": "toeic-customer-service-quiz",
+        "title": "Quiz TOEIC: Chăm sóc khách hàng",
+        "description": "Kiểm tra kỹ năng xử lý yêu cầu, thái độ và chỉ số hài lòng.",
+        "source": "content/quiz/toeic-customer-service-quiz.json"
+      },
+      {
+        "id": "toeic-logistics-quiz",
+        "title": "Quiz TOEIC: Chuỗi cung ứng",
+        "description": "Ôn tập chứng từ vận chuyển, theo dõi và tối ưu giao hàng.",
+        "source": "content/quiz/toeic-logistics-quiz.json"
+      },
+      {
+        "id": "toeic-contracts-quiz",
+        "title": "Quiz TOEIC: Hợp đồng & pháp lý",
+        "description": "Củng cố từ vựng đàm phán, điều khoản và quản lý hợp đồng.",
+        "source": "content/quiz/toeic-contracts-quiz.json"
       }
     ]
   }
