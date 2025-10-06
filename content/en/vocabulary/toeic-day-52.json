@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 52 - Hospitality & Tourism Management",
+  "words": [
+    {"word": "hospitality", "partOfSpeech": "n.", "ipa": "/ˌhɒspɪˈtælɪti/", "meaning": "ngành dịch vụ lưu trú"},
+    {"word": "tourism", "partOfSpeech": "n.", "ipa": "/ˈtʊərɪzəm/", "meaning": "du lịch"},
+    {"word": "guest experience", "partOfSpeech": "n. phr.", "ipa": "/ɡest ɪkˈspɪəriəns/", "meaning": "trải nghiệm khách"},
+    {"word": "concierge", "partOfSpeech": "n.", "ipa": "/ˌkɒnsiˈeəʒ/", "meaning": "nhân viên hỗ trợ khách"},
+    {"word": "front desk", "partOfSpeech": "n. phr.", "ipa": "/frʌnt desk/", "meaning": "quầy lễ tân"},
+    {"word": "reservation system", "partOfSpeech": "n. phr.", "ipa": "/ˌrezəˈveɪʃn ˈsɪstəm/", "meaning": "hệ thống đặt phòng"},
+    {"word": "room occupancy", "partOfSpeech": "n. phr.", "ipa": "/ruːm ˈɒkjʊpənsi/", "meaning": "công suất phòng"},
+    {"word": "rate plan", "partOfSpeech": "n. phr.", "ipa": "/reɪt plæn/", "meaning": "gói giá phòng"},
+    {"word": "revenue management", "partOfSpeech": "n. phr.", "ipa": "/ˈrevənjuː ˈmænɪdʒmənt/", "meaning": "quản lý doanh thu"},
+    {"word": "upselling", "partOfSpeech": "n.", "ipa": "/ˌʌpˈselɪŋ/", "meaning": "bán thêm nâng cấp"},
+    {"word": "cross-selling", "partOfSpeech": "n.", "ipa": "/ˌkrɒsˈselɪŋ/", "meaning": "bán chéo"},
+    {"word": "housekeeping", "partOfSpeech": "n.", "ipa": "/ˈhaʊskiːpɪŋ/", "meaning": "bộ phận buồng phòng"},
+    {"word": "room amenities", "partOfSpeech": "n. phr.", "ipa": "/ruːm əˈmenɪtiz/", "meaning": "tiện nghi phòng"},
+    {"word": "check-in", "partOfSpeech": "n./v.", "ipa": "/tʃek ˈɪn/", "meaning": "làm thủ tục nhận phòng"},
+    {"word": "check-out", "partOfSpeech": "n./v.", "ipa": "/tʃek ˈaʊt/", "meaning": "trả phòng"},
+    {"word": "no-show", "partOfSpeech": "n.", "ipa": "/ˈnəʊ ʃəʊ/", "meaning": "khách không đến"},
+    {"word": "overbooking", "partOfSpeech": "n.", "ipa": "/ˌəʊvəˈbʊkɪŋ/", "meaning": "đặt thừa phòng"},
+    {"word": "complimentary upgrade", "partOfSpeech": "n. phr.", "ipa": "/ˌkɒmplɪˈmentri ˈʌpɡreɪd/", "meaning": "nâng cấp miễn phí"},
+    {"word": "guest loyalty program", "partOfSpeech": "n. phr.", "ipa": "/ɡest ˈlɔɪəlti ˈprəʊɡræm/", "meaning": "chương trình khách hàng thân thiết"},
+    {"word": "guest feedback", "partOfSpeech": "n. phr.", "ipa": "/ɡest ˈfiːdbæk/", "meaning": "phản hồi của khách"},
+    {"word": "travel itinerary", "partOfSpeech": "n. phr.", "ipa": "/ˈtrævəl aɪˈtɪnərəri/", "meaning": "lịch trình du lịch"},
+    {"word": "tour operator", "partOfSpeech": "n. phr.", "ipa": "/ˈtʊər ˈɒpəreɪtə/", "meaning": "nhà điều hành tour"},
+    {"word": "destination marketing", "partOfSpeech": "n. phr.", "ipa": "/ˌdestɪˈneɪʃn ˈmɑːkɪtɪŋ/", "meaning": "tiếp thị điểm đến"},
+    {"word": "sightseeing", "partOfSpeech": "n.", "ipa": "/ˈsaɪtsiːɪŋ/", "meaning": "tham quan"},
+    {"word": "service recovery", "partOfSpeech": "n. phr.", "ipa": "/ˈsɜːvɪs rɪˈkʌvəri/", "meaning": "khôi phục dịch vụ"}
+  ]
+}
