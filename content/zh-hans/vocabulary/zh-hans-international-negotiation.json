@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "谈判", "partOfSpeech": "noun", "ipa": "tánpàn", "meaning": "đàm phán" },
+    { "word": "议程", "partOfSpeech": "noun", "ipa": "yìchéng", "meaning": "chương trình nghị sự" },
+    { "word": "报价", "partOfSpeech": "noun", "ipa": "bàojià", "meaning": "báo giá" },
+    { "word": "让步", "partOfSpeech": "verb", "ipa": "ràngbù", "meaning": "nhượng bộ" },
+    { "word": "条件", "partOfSpeech": "noun", "ipa": "tiáojiàn", "meaning": "điều kiện" },
+    { "word": "协议", "partOfSpeech": "noun", "ipa": "xiéyì", "meaning": "thỏa thuận" },
+    { "word": "条款", "partOfSpeech": "noun", "ipa": "tiáokuǎn", "meaning": "điều khoản" },
+    { "word": "期限", "partOfSpeech": "noun", "ipa": "qīxiàn", "meaning": "thời hạn" },
+    { "word": "付款", "partOfSpeech": "verb", "ipa": "fùkuǎn", "meaning": "thanh toán" },
+    { "word": "对等", "partOfSpeech": "adjective", "ipa": "duìděng", "meaning": "bình đẳng" },
+    { "word": "反报价", "partOfSpeech": "noun", "ipa": "fǎn bàojià", "meaning": "báo giá phản hồi" },
+    { "word": "意向书", "partOfSpeech": "noun", "ipa": "yìxiàngshū", "meaning": "thư bày tỏ ý định" },
+    { "word": "框架协议", "partOfSpeech": "noun", "ipa": "kuàngjià xiéyì", "meaning": "thỏa thuận khung" },
+    { "word": "保密协议", "partOfSpeech": "noun", "ipa": "bǎomì xiéyì", "meaning": "thỏa thuận bảo mật" },
+    { "word": "仲裁", "partOfSpeech": "noun", "ipa": "zhòngcái", "meaning": "trọng tài" },
+    { "word": "汇率", "partOfSpeech": "noun", "ipa": "huìlǜ", "meaning": "tỷ giá" },
+    { "word": "交货", "partOfSpeech": "verb", "ipa": "jiāohuò", "meaning": "giao hàng" },
+    { "word": "违约金", "partOfSpeech": "noun", "ipa": "wéiyuējīn", "meaning": "tiền phạt vi phạm" },
+    { "word": "谈判策略", "partOfSpeech": "noun", "ipa": "tánpàn cèlüè", "meaning": "chiến lược đàm phán" },
+    { "word": "文化差异", "partOfSpeech": "noun", "ipa": "wénhuà chāyì", "meaning": "khác biệt văn hóa" },
+    { "word": "会谈", "partOfSpeech": "noun", "ipa": "huìtán", "meaning": "hội đàm" },
+    { "word": "口译", "partOfSpeech": "noun", "ipa": "kǒuyì", "meaning": "phiên dịch" },
+    { "word": "备忘录", "partOfSpeech": "noun", "ipa": "bèiwànglù", "meaning": "biên bản ghi nhớ" },
+    { "word": "签署", "partOfSpeech": "verb", "ipa": "qiānshǔ", "meaning": "ký kết" },
+    { "word": "执行", "partOfSpeech": "verb", "ipa": "zhíxíng", "meaning": "thực thi" }
+  ]
+}

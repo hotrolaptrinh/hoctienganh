@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "领导力", "partOfSpeech": "noun", "ipa": "lǐngdǎolì", "meaning": "năng lực lãnh đạo" },
+    { "word": "愿景", "partOfSpeech": "noun", "ipa": "yuànjǐng", "meaning": "tầm nhìn" },
+    { "word": "使命", "partOfSpeech": "noun", "ipa": "shǐmìng", "meaning": "sứ mệnh" },
+    { "word": "对齐", "partOfSpeech": "verb", "ipa": "duìqí", "meaning": "đồng bộ" },
+    { "word": "激励", "partOfSpeech": "verb", "ipa": "jīlì", "meaning": "khích lệ" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "倾听", "partOfSpeech": "verb", "ipa": "qīngtīng", "meaning": "lắng nghe" },
+    { "word": "授权", "partOfSpeech": "verb", "ipa": "shòuquán", "meaning": "trao quyền" },
+    { "word": "协调", "partOfSpeech": "verb", "ipa": "xiétiáo", "meaning": "điều hòa" },
+    { "word": "价值观", "partOfSpeech": "noun", "ipa": "jiàzhíguān", "meaning": "giá trị cốt lõi" },
+    { "word": "共识", "partOfSpeech": "noun", "ipa": "gòngshí", "meaning": "đồng thuận" },
+    { "word": "榜样", "partOfSpeech": "noun", "ipa": "bǎngyàng", "meaning": "tấm gương" },
+    { "word": "愿景宣讲", "partOfSpeech": "noun", "ipa": "yuànjǐng xuānjiǎng", "meaning": "trình bày tầm nhìn" },
+    { "word": "跨文化沟通", "partOfSpeech": "noun", "ipa": "kuà wénhuà gōutōng", "meaning": "giao tiếp đa văn hóa" },
+    { "word": "冲突管理", "partOfSpeech": "noun", "ipa": "chōngtū guǎnlǐ", "meaning": "quản lý xung đột" },
+    { "word": "复盘", "partOfSpeech": "verb", "ipa": "fùpán", "meaning": "rút kinh nghiệm" },
+    { "word": "指导", "partOfSpeech": "verb", "ipa": "zhǐdǎo", "meaning": "cố vấn" },
+    { "word": "认可", "partOfSpeech": "verb", "ipa": "rènkě", "meaning": "công nhận" },
+    { "word": "愿景工作坊", "partOfSpeech": "noun", "ipa": "yuànjǐng gōngzuòfāng", "meaning": "workshop tầm nhìn" },
+    { "word": "全员大会", "partOfSpeech": "noun", "ipa": "quányuán dàhuì", "meaning": "họp toàn công ty" },
+    { "word": "一致性", "partOfSpeech": "noun", "ipa": "yīzhìxìng", "meaning": "tính nhất quán" },
+    { "word": "关怀", "partOfSpeech": "noun", "ipa": "guānhuái", "meaning": "sự quan tâm" },
+    { "word": "赞赏", "partOfSpeech": "verb", "ipa": "zànshǎng", "meaning": "khen ngợi" },
+    { "word": "行动计划", "partOfSpeech": "noun", "ipa": "xíngdòng jìhuà", "meaning": "kế hoạch hành động" },
+    { "word": "反馈循环", "partOfSpeech": "noun", "ipa": "fǎnkuì xúnhuán", "meaning": "vòng phản hồi" }
+  ]
+}

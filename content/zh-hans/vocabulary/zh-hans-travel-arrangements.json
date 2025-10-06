@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "出差", "partOfSpeech": "noun", "ipa": "chūchāi", "meaning": "công tác" },
+    { "word": "行程", "partOfSpeech": "noun", "ipa": "xíngchéng", "meaning": "lịch trình" },
+    { "word": "机票", "partOfSpeech": "noun", "ipa": "jīpiào", "meaning": "vé máy bay" },
+    { "word": "登机牌", "partOfSpeech": "noun", "ipa": "dēngjīpái", "meaning": "thẻ lên máy bay" },
+    { "word": "托运", "partOfSpeech": "verb", "ipa": "tuōyùn", "meaning": "gửi hành lý" },
+    { "word": "随身行李", "partOfSpeech": "noun", "ipa": "suíshēn xínglǐ", "meaning": "hành lý xách tay" },
+    { "word": "酒店", "partOfSpeech": "noun", "ipa": "jiǔdiàn", "meaning": "khách sạn" },
+    { "word": "入住", "partOfSpeech": "verb", "ipa": "rùzhù", "meaning": "nhận phòng" },
+    { "word": "退房", "partOfSpeech": "verb", "ipa": "tuìfáng", "meaning": "trả phòng" },
+    { "word": "预订", "partOfSpeech": "verb", "ipa": "yùdìng", "meaning": "đặt trước" },
+    { "word": "确认函", "partOfSpeech": "noun", "ipa": "quèrèn hán", "meaning": "thư xác nhận" },
+    { "word": "租车", "partOfSpeech": "verb", "ipa": "zūchē", "meaning": "thuê xe" },
+    { "word": "接送", "partOfSpeech": "verb", "ipa": "jiēsòng", "meaning": "đưa đón" },
+    { "word": "交通卡", "partOfSpeech": "noun", "ipa": "jiāotōng kǎ", "meaning": "thẻ giao thông" },
+    { "word": "换乘", "partOfSpeech": "verb", "ipa": "huànchéng", "meaning": "chuyển tuyến" },
+    { "word": "会议场地", "partOfSpeech": "noun", "ipa": "huìyì chǎngdì", "meaning": "địa điểm họp" },
+    { "word": "指引", "partOfSpeech": "noun", "ipa": "zhǐyǐn", "meaning": "hướng dẫn" },
+    { "word": "报销单", "partOfSpeech": "noun", "ipa": "bàoxiāo dān", "meaning": "phiếu hoàn ứng" },
+    { "word": "备用计划", "partOfSpeech": "noun", "ipa": "bèiyòng jìhuà", "meaning": "kế hoạch dự phòng" },
+    { "word": "旅行保险", "partOfSpeech": "noun", "ipa": "lǚxíng bǎoxiǎn", "meaning": "bảo hiểm du lịch" },
+    { "word": "汇率", "partOfSpeech": "noun", "ipa": "huìlǜ", "meaning": "tỷ giá" },
+    { "word": "行李牌", "partOfSpeech": "noun", "ipa": "xínglǐ pái", "meaning": "thẻ hành lý" },
+    { "word": "安检", "partOfSpeech": "noun", "ipa": "ānjiǎn", "meaning": "kiểm tra an ninh" },
+    { "word": "延误通知", "partOfSpeech": "noun", "ipa": "yánwù tōngzhī", "meaning": "thông báo trễ chuyến" },
+    { "word": "当地联系人", "partOfSpeech": "noun", "ipa": "dāngdì liánxìrén", "meaning": "người liên hệ địa phương" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "风险", "partOfSpeech": "noun", "ipa": "fēngxiǎn", "meaning": "rủi ro" },
+    { "word": "评估", "partOfSpeech": "verb", "ipa": "pínggū", "meaning": "đánh giá" },
+    { "word": "概率", "partOfSpeech": "noun", "ipa": "gàilǜ", "meaning": "xác suất" },
+    { "word": "影响", "partOfSpeech": "noun", "ipa": "yǐngxiǎng", "meaning": "tác động" },
+    { "word": "缓解", "partOfSpeech": "verb", "ipa": "huǎnjiě", "meaning": "giảm thiểu" },
+    { "word": "策略", "partOfSpeech": "noun", "ipa": "cèlüè", "meaning": "chiến lược" },
+    { "word": "应急预案", "partOfSpeech": "noun", "ipa": "yìngjí yù'àn", "meaning": "kế hoạch khẩn cấp" },
+    { "word": "监控", "partOfSpeech": "verb", "ipa": "jiānkòng", "meaning": "giám sát" },
+    { "word": "预警", "partOfSpeech": "noun", "ipa": "yùjǐng", "meaning": "cảnh báo sớm" },
+    { "word": "合规", "partOfSpeech": "noun", "ipa": "hégé", "meaning": "tuân thủ" },
+    { "word": "保险", "partOfSpeech": "noun", "ipa": "bǎoxiǎn", "meaning": "bảo hiểm" },
+    { "word": "审计", "partOfSpeech": "noun", "ipa": "shěnjì", "meaning": "kiểm toán" },
+    { "word": "漏洞", "partOfSpeech": "noun", "ipa": "lòudòng", "meaning": "lỗ hổng" },
+    { "word": "报告", "partOfSpeech": "noun", "ipa": "bàogào", "meaning": "báo cáo" },
+    { "word": "责任人", "partOfSpeech": "noun", "ipa": "zérènrén", "meaning": "người chịu trách nhiệm" },
+    { "word": "记录", "partOfSpeech": "noun", "ipa": "jìlù", "meaning": "ghi chép" },
+    { "word": "演练", "partOfSpeech": "noun", "ipa": "yǎnliàn", "meaning": "diễn tập" },
+    { "word": "恢复", "partOfSpeech": "verb", "ipa": "huīfù", "meaning": "khôi phục" },
+    { "word": "连续性", "partOfSpeech": "noun", "ipa": "liánxùxìng", "meaning": "tính liên tục" },
+    { "word": "备用", "partOfSpeech": "noun", "ipa": "bèiyòng", "meaning": "dự phòng" },
+    { "word": "检测", "partOfSpeech": "verb", "ipa": "jiǎncè", "meaning": "kiểm tra phát hiện" },
+    { "word": "隔离", "partOfSpeech": "verb", "ipa": "gélí", "meaning": "cách ly" },
+    { "word": "违约", "partOfSpeech": "noun", "ipa": "wéiyuē", "meaning": "vi phạm hợp đồng" },
+    { "word": "提醒", "partOfSpeech": "verb", "ipa": "tíxǐng", "meaning": "nhắc nhở" },
+    { "word": "跟踪", "partOfSpeech": "verb", "ipa": "gēnzōng", "meaning": "theo dõi" }
+  ]
+}

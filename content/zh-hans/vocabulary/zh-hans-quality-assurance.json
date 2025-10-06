@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "质量", "partOfSpeech": "noun", "ipa": "zhìliàng", "meaning": "chất lượng" },
+    { "word": "质检", "partOfSpeech": "noun", "ipa": "zhìjiǎn", "meaning": "kiểm tra chất lượng" },
+    { "word": "标准", "partOfSpeech": "noun", "ipa": "biāozhǔn", "meaning": "tiêu chuẩn" },
+    { "word": "合格", "partOfSpeech": "adjective", "ipa": "hégé", "meaning": "đạt chuẩn" },
+    { "word": "不合格", "partOfSpeech": "adjective", "ipa": "bù hégé", "meaning": "không đạt" },
+    { "word": "抽检", "partOfSpeech": "verb", "ipa": "chōujiǎn", "meaning": "kiểm tra ngẫu nhiên" },
+    { "word": "检验报告", "partOfSpeech": "noun", "ipa": "jiǎnyàn bàogào", "meaning": "báo cáo kiểm định" },
+    { "word": "缺陷", "partOfSpeech": "noun", "ipa": "quēxiàn", "meaning": "lỗi" },
+    { "word": "返工", "partOfSpeech": "verb", "ipa": "fǎngōng", "meaning": "làm lại" },
+    { "word": "改进", "partOfSpeech": "verb", "ipa": "gǎijìn", "meaning": "cải tiến" },
+    { "word": "流程", "partOfSpeech": "noun", "ipa": "liúchéng", "meaning": "quy trình" },
+    { "word": "审核", "partOfSpeech": "verb", "ipa": "shěnhé", "meaning": "thẩm tra" },
+    { "word": "样本", "partOfSpeech": "noun", "ipa": "yàngběn", "meaning": "mẫu thử" },
+    { "word": "记录", "partOfSpeech": "noun", "ipa": "jìlù", "meaning": "biên bản" },
+    { "word": "纠正措施", "partOfSpeech": "noun", "ipa": "jiūzhèng cuòshī", "meaning": "biện pháp khắc phục" },
+    { "word": "预防措施", "partOfSpeech": "noun", "ipa": "yùfáng cuòshī", "meaning": "biện pháp phòng ngừa" },
+    { "word": "验收", "partOfSpeech": "verb", "ipa": "yànshōu", "meaning": "nghiệm thu" },
+    { "word": "追溯", "partOfSpeech": "verb", "ipa": "zhuīsù", "meaning": "truy xuất" },
+    { "word": "规范", "partOfSpeech": "noun", "ipa": "guīfàn", "meaning": "quy phạm" },
+    { "word": "稽核", "partOfSpeech": "noun", "ipa": "jīhé", "meaning": "kiểm soát nội bộ" },
+    { "word": "投诉率", "partOfSpeech": "noun", "ipa": "tóusùlǜ", "meaning": "tỷ lệ khiếu nại" },
+    { "word": "整改", "partOfSpeech": "verb", "ipa": "zhěnggǎi", "meaning": "chấn chỉnh" },
+    { "word": "质量手册", "partOfSpeech": "noun", "ipa": "zhìliàng shǒucè", "meaning": "sổ tay chất lượng" },
+    { "word": "审核清单", "partOfSpeech": "noun", "ipa": "shěnhé qīngdān", "meaning": "checklist đánh giá" },
+    { "word": "持续改进", "partOfSpeech": "noun", "ipa": "chíxù gǎijìn", "meaning": "cải tiến liên tục" }
+  ]
+}

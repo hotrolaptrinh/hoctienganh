@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự báo" },
+    { "word": "销售", "partOfSpeech": "noun", "ipa": "xiāoshòu", "meaning": "bán hàng" },
+    { "word": "目标", "partOfSpeech": "noun", "ipa": "mùbiāo", "meaning": "mục tiêu" },
+    { "word": "配额", "partOfSpeech": "noun", "ipa": "pèi'é", "meaning": "chỉ tiêu" },
+    { "word": "渠道", "partOfSpeech": "noun", "ipa": "qúdào", "meaning": "kênh" },
+    { "word": "客户群", "partOfSpeech": "noun", "ipa": "kèhù qún", "meaning": "nhóm khách hàng" },
+    { "word": "潜在客户", "partOfSpeech": "noun", "ipa": "qiánzài kèhù", "meaning": "khách hàng tiềm năng" },
+    { "word": "成交率", "partOfSpeech": "noun", "ipa": "chéngjiāo lǜ", "meaning": "tỉ lệ chốt" },
+    { "word": "转化", "partOfSpeech": "noun", "ipa": "zhuǎnhuà", "meaning": "chuyển đổi" },
+    { "word": "线索", "partOfSpeech": "noun", "ipa": "xiànsuǒ", "meaning": "đầu mối" },
+    { "word": "跟进", "partOfSpeech": "verb", "ipa": "gēnjìn", "meaning": "theo sát" },
+    { "word": "拨号", "partOfSpeech": "verb", "ipa": "bōhào", "meaning": "gọi điện" },
+    { "word": "拜访", "partOfSpeech": "verb", "ipa": "bàifǎng", "meaning": "thăm hỏi" },
+    { "word": "报价", "partOfSpeech": "noun", "ipa": "bàojià", "meaning": "báo giá" },
+    { "word": "折扣", "partOfSpeech": "noun", "ipa": "zhékòu", "meaning": "chiết khấu" },
+    { "word": "预订", "partOfSpeech": "verb", "ipa": "yùdìng", "meaning": "đặt trước" },
+    { "word": "季度", "partOfSpeech": "noun", "ipa": "jìdù", "meaning": "quý" },
+    { "word": "预测表", "partOfSpeech": "noun", "ipa": "yùcè biǎo", "meaning": "bảng dự báo" },
+    { "word": "环比", "partOfSpeech": "noun", "ipa": "huánbǐ", "meaning": "so với kỳ trước" },
+    { "word": "同比", "partOfSpeech": "noun", "ipa": "tóngbǐ", "meaning": "so với cùng kỳ" },
+    { "word": "需求", "partOfSpeech": "noun", "ipa": "xūqiú", "meaning": "nhu cầu" },
+    { "word": "库存", "partOfSpeech": "noun", "ipa": "kùcún", "meaning": "tồn kho" },
+    { "word": "缺口", "partOfSpeech": "noun", "ipa": "quēkǒu", "meaning": "thiếu hụt" },
+    { "word": "追加订单", "partOfSpeech": "noun", "ipa": "zhuījiā dìngdān", "meaning": "đơn hàng bổ sung" },
+    { "word": "成长率", "partOfSpeech": "noun", "ipa": "chéngzhǎng lǜ", "meaning": "tốc độ tăng trưởng" }
+  ]
+}

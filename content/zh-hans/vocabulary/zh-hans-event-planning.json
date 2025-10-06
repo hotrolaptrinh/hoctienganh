@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "活动", "partOfSpeech": "noun", "ipa": "huódòng", "meaning": "sự kiện" },
+    { "word": "策划", "partOfSpeech": "verb", "ipa": "cèhuà", "meaning": "lên kế hoạch" },
+    { "word": "预算", "partOfSpeech": "noun", "ipa": "yùsuàn", "meaning": "ngân sách" },
+    { "word": "场地", "partOfSpeech": "noun", "ipa": "chǎngdì", "meaning": "địa điểm" },
+    { "word": "日程", "partOfSpeech": "noun", "ipa": "rìchéng", "meaning": "lịch trình" },
+    { "word": "嘉宾", "partOfSpeech": "noun", "ipa": "jiābīn", "meaning": "khách mời" },
+    { "word": "邀请", "partOfSpeech": "verb", "ipa": "yāoqǐng", "meaning": "mời" },
+    { "word": "报到", "partOfSpeech": "verb", "ipa": "bàodào", "meaning": "đăng ký" },
+    { "word": "布置", "partOfSpeech": "verb", "ipa": "bùzhì", "meaning": "trang trí" },
+    { "word": "灯光", "partOfSpeech": "noun", "ipa": "dēngguāng", "meaning": "ánh sáng" },
+    { "word": "音响", "partOfSpeech": "noun", "ipa": "yīnxiǎng", "meaning": "âm thanh" },
+    { "word": "餐饮", "partOfSpeech": "noun", "ipa": "cānyǐn", "meaning": "ẩm thực" },
+    { "word": "指示牌", "partOfSpeech": "noun", "ipa": "zhǐshìpái", "meaning": "biển chỉ dẫn" },
+    { "word": "志愿者", "partOfSpeech": "noun", "ipa": "zhìyuànzhě", "meaning": "tình nguyện viên" },
+    { "word": "主持人", "partOfSpeech": "noun", "ipa": "zhǔchírén", "meaning": "người dẫn chương trình" },
+    { "word": "流程", "partOfSpeech": "noun", "ipa": "liúchéng", "meaning": "quy trình" },
+    { "word": "彩排", "partOfSpeech": "verb", "ipa": "cǎipái", "meaning": "tổng duyệt" },
+    { "word": "合作伙伴", "partOfSpeech": "noun", "ipa": "hézuò huǒbàn", "meaning": "đối tác phối hợp" },
+    { "word": "赞助", "partOfSpeech": "noun", "ipa": "zànzhù", "meaning": "tài trợ" },
+    { "word": "礼品", "partOfSpeech": "noun", "ipa": "lǐpǐn", "meaning": "quà tặng" },
+    { "word": "反馈表", "partOfSpeech": "noun", "ipa": "fǎnkuì biǎo", "meaning": "phiếu phản hồi" },
+    { "word": "拍照", "partOfSpeech": "verb", "ipa": "pāizhào", "meaning": "chụp ảnh" },
+    { "word": "宣传", "partOfSpeech": "verb", "ipa": "xuānchuán", "meaning": "quảng bá" },
+    { "word": "社交媒体", "partOfSpeech": "noun", "ipa": "shèjiāo méitǐ", "meaning": "mạng xã hội" },
+    { "word": "现场直播", "partOfSpeech": "noun", "ipa": "xiànchǎng zhíbò", "meaning": "phát sóng trực tiếp" }
+  ]
+}

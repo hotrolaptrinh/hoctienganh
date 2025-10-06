@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "留存", "partOfSpeech": "noun", "ipa": "liúcún", "meaning": "giữ chân" },
+    { "word": "续订", "partOfSpeech": "verb", "ipa": "xùdìng", "meaning": "gia hạn" },
+    { "word": "复购", "partOfSpeech": "verb", "ipa": "fùgòu", "meaning": "mua lại" },
+    { "word": "忠诚度", "partOfSpeech": "noun", "ipa": "zhōngchéngdù", "meaning": "độ trung thành" },
+    { "word": "会员", "partOfSpeech": "noun", "ipa": "huìyuán", "meaning": "thành viên" },
+    { "word": "关怀", "partOfSpeech": "noun", "ipa": "guānhuái", "meaning": "chăm sóc" },
+    { "word": "生命周期", "partOfSpeech": "noun", "ipa": "shēngmìng zhōuqí", "meaning": "vòng đời" },
+    { "word": "满意度", "partOfSpeech": "noun", "ipa": "mǎnyìdù", "meaning": "mức hài lòng" },
+    { "word": "积分", "partOfSpeech": "noun", "ipa": "jīfēn", "meaning": "điểm thưởng" },
+    { "word": "推荐", "partOfSpeech": "verb", "ipa": "tuījiàn", "meaning": "giới thiệu" },
+    { "word": "优惠券", "partOfSpeech": "noun", "ipa": "yōuhuìquàn", "meaning": "phiếu giảm giá" },
+    { "word": "流失", "partOfSpeech": "verb", "ipa": "liúshī", "meaning": "rời bỏ" },
+    { "word": "召回", "partOfSpeech": "verb", "ipa": "zhàohuí", "meaning": "gọi quay lại" },
+    { "word": "服务体验", "partOfSpeech": "noun", "ipa": "fúwù tǐyàn", "meaning": "trải nghiệm dịch vụ" },
+    { "word": "用户关怀", "partOfSpeech": "noun", "ipa": "yònghù guānhuái", "meaning": "chăm sóc khách hàng" },
+    { "word": "积分商城", "partOfSpeech": "noun", "ipa": "jīfēn shāngchéng", "meaning": "cửa hàng điểm thưởng" },
+    { "word": "生命周期价值", "partOfSpeech": "noun", "ipa": "shēngmìng zhōuqí jiàzhí", "meaning": "giá trị vòng đời" },
+    { "word": "解约", "partOfSpeech": "verb", "ipa": "jiěyuē", "meaning": "hủy hợp đồng" },
+    { "word": "响应", "partOfSpeech": "verb", "ipa": "xiǎngyìng", "meaning": "phản hồi" },
+    { "word": "沟通频次", "partOfSpeech": "noun", "ipa": "gōutōng píncì", "meaning": "tần suất giao tiếp" },
+    { "word": "激活", "partOfSpeech": "verb", "ipa": "jīhuó", "meaning": "kích hoạt" },
+    { "word": "提醒", "partOfSpeech": "verb", "ipa": "tíxǐng", "meaning": "nhắc nhở" },
+    { "word": "满意调查", "partOfSpeech": "noun", "ipa": "mǎnyì diàochá", "meaning": "khảo sát hài lòng" },
+    { "word": "专属", "partOfSpeech": "adjective", "ipa": "zhuānshǔ", "meaning": "độc quyền" },
+    { "word": "关怀电话", "partOfSpeech": "noun", "ipa": "guānhuái diànhuà", "meaning": "cuộc gọi chăm sóc" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "运营", "partOfSpeech": "noun", "ipa": "yùnyíng", "meaning": "vận hành" },
+    { "word": "维护", "partOfSpeech": "verb", "ipa": "wéihù", "meaning": "bảo trì" },
+    { "word": "巡检", "partOfSpeech": "verb", "ipa": "xúnjiǎn", "meaning": "tuần tra kiểm tra" },
+    { "word": "保养", "partOfSpeech": "verb", "ipa": "bǎoyǎng", "meaning": "bảo dưỡng" },
+    { "word": "设备", "partOfSpeech": "noun", "ipa": "shèbèi", "meaning": "thiết bị" },
+    { "word": "故障", "partOfSpeech": "noun", "ipa": "gùzhàng", "meaning": "sự cố" },
+    { "word": "报修", "partOfSpeech": "verb", "ipa": "bàoxiū", "meaning": "báo sửa chữa" },
+    { "word": "工单", "partOfSpeech": "noun", "ipa": "gōngdān", "meaning": "phiếu công việc" },
+    { "word": "排程", "partOfSpeech": "noun", "ipa": "páichéng", "meaning": "lịch trình" },
+    { "word": "值班", "partOfSpeech": "verb", "ipa": "zhíbān", "meaning": "trực ca" },
+    { "word": "库存", "partOfSpeech": "noun", "ipa": "kùcún", "meaning": "tồn kho" },
+    { "word": "备件", "partOfSpeech": "noun", "ipa": "bèijiàn", "meaning": "phụ tùng" },
+    { "word": "检修", "partOfSpeech": "verb", "ipa": "jiǎnxiū", "meaning": "kiểm tu" },
+    { "word": "校准", "partOfSpeech": "verb", "ipa": "xiàozhǔn", "meaning": "hiệu chỉnh" },
+    { "word": "节能", "partOfSpeech": "noun", "ipa": "jiénéng", "meaning": "tiết kiệm năng lượng" },
+    { "word": "规范", "partOfSpeech": "noun", "ipa": "guīfàn", "meaning": "quy phạm" },
+    { "word": "安全锁定", "partOfSpeech": "noun", "ipa": "ānquán suǒdìng", "meaning": "khóa an toàn" },
+    { "word": "记录", "partOfSpeech": "noun", "ipa": "jìlù", "meaning": "ghi chép" },
+    { "word": "传感器", "partOfSpeech": "noun", "ipa": "chuángǎnqì", "meaning": "cảm biến" },
+    { "word": "告警", "partOfSpeech": "noun", "ipa": "gàojǐng", "meaning": "cảnh báo" },
+    { "word": "标准操作程序", "partOfSpeech": "noun", "ipa": "biāozhǔn cāozuò chéngxù", "meaning": "quy trình thao tác chuẩn" },
+    { "word": "定期", "partOfSpeech": "adjective", "ipa": "dìngqī", "meaning": "định kỳ" },
+    { "word": "运行时间", "partOfSpeech": "noun", "ipa": "yùnxíng shíjiān", "meaning": "thời gian hoạt động" },
+    { "word": "停机", "partOfSpeech": "verb", "ipa": "tíngjī", "meaning": "dừng máy" },
+    { "word": "启动", "partOfSpeech": "verb", "ipa": "qǐdòng", "meaning": "khởi động" }
+  ]
+}

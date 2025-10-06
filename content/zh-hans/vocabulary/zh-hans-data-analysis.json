@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "数据", "partOfSpeech": "noun", "ipa": "shùjù", "meaning": "dữ liệu" },
+    { "word": "分析", "partOfSpeech": "verb", "ipa": "fēnxī", "meaning": "phân tích" },
+    { "word": "报表", "partOfSpeech": "noun", "ipa": "bàobiǎo", "meaning": "báo biểu" },
+    { "word": "指标", "partOfSpeech": "noun", "ipa": "zhǐbiāo", "meaning": "chỉ số" },
+    { "word": "趋势", "partOfSpeech": "noun", "ipa": "qūshì", "meaning": "xu hướng" },
+    { "word": "可视化", "partOfSpeech": "noun", "ipa": "kěshìhuà", "meaning": "trực quan hóa" },
+    { "word": "仪表板", "partOfSpeech": "noun", "ipa": "yíbiǎobǎn", "meaning": "bảng điều khiển" },
+    { "word": "样本", "partOfSpeech": "noun", "ipa": "yàngběn", "meaning": "mẫu" },
+    { "word": "抽样", "partOfSpeech": "verb", "ipa": "chōuyàng", "meaning": "lấy mẫu" },
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự đoán" },
+    { "word": "模型", "partOfSpeech": "noun", "ipa": "móxíng", "meaning": "mô hình" },
+    { "word": "变量", "partOfSpeech": "noun", "ipa": "biànliàng", "meaning": "biến số" },
+    { "word": "相关性", "partOfSpeech": "noun", "ipa": "xiāngguān xìng", "meaning": "tương quan" },
+    { "word": "因果", "partOfSpeech": "noun", "ipa": "yīnguǒ", "meaning": "nhân quả" },
+    { "word": "清洗", "partOfSpeech": "verb", "ipa": "qīngxǐ", "meaning": "làm sạch (dữ liệu)" },
+    { "word": "异常", "partOfSpeech": "noun", "ipa": "yìcháng", "meaning": "bất thường" },
+    { "word": "洞察", "partOfSpeech": "noun", "ipa": "dòngchá", "meaning": "insight" },
+    { "word": "分段", "partOfSpeech": "verb", "ipa": "fēnduàn", "meaning": "phân đoạn" },
+    { "word": "细分", "partOfSpeech": "verb", "ipa": "xìfēn", "meaning": "chi tiết hóa" },
+    { "word": "实时", "partOfSpeech": "adjective", "ipa": "shíshí", "meaning": "thời gian thực" },
+    { "word": "批量", "partOfSpeech": "noun", "ipa": "pīliàng", "meaning": "lô, hàng loạt" },
+    { "word": "下载", "partOfSpeech": "verb", "ipa": "xiàzǎi", "meaning": "tải xuống" },
+    { "word": "导出", "partOfSpeech": "verb", "ipa": "dǎochū", "meaning": "xuất dữ liệu" },
+    { "word": "权限", "partOfSpeech": "noun", "ipa": "quánxiàn", "meaning": "quyền hạn" },
+    { "word": "自动化", "partOfSpeech": "noun", "ipa": "zìdònghuà", "meaning": "tự động hóa" }
+  ]
+}

@@ -586,6 +586,216 @@
             "description": "Từ vựng đàm phán giá, điều khoản và hỗ trợ sau bán.",
             "source": "content/zh-hans/vocabulary/zh-hans-sales-negotiation.json",
             "markdown": "content/zh-hans/vocabulary/zh-hans-sales-negotiation.md"
+          },
+          {
+            "id": "zh-hans-customer-service",
+            "title": "客户服务核心词汇",
+            "description": "Từ vựng cho đội chăm sóc khách hàng, xử lý phản hồi và khiếu nại.",
+            "source": "content/zh-hans/vocabulary/zh-hans-customer-service.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-customer-service.md"
+          },
+          {
+            "id": "zh-hans-logistics-operations",
+            "title": "物流与运营常用词汇",
+            "description": "Thuộc lòng thuật ngữ kho bãi, vận chuyển và điều phối.",
+            "source": "content/zh-hans/vocabulary/zh-hans-logistics-operations.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-logistics-operations.md"
+          },
+          {
+            "id": "zh-hans-finance-reporting",
+            "title": "财务报表必备词汇",
+            "description": "Hiểu số liệu ngân sách, lợi nhuận và kiểm toán bằng tiếng Trung.",
+            "source": "content/zh-hans/vocabulary/zh-hans-finance-reporting.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-finance-reporting.md"
+          },
+          {
+            "id": "zh-hans-marketing-campaigns",
+            "title": "市场营销活动词汇",
+            "description": "Tăng vốn từ về chiến dịch, kênh quảng bá và đo lường hiệu quả.",
+            "source": "content/zh-hans/vocabulary/zh-hans-marketing-campaigns.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-marketing-campaigns.md"
+          },
+          {
+            "id": "zh-hans-human-resources",
+            "title": "人力资源管理词汇",
+            "description": "Bao quát tuyển dụng, đào tạo và phúc lợi nhân viên.",
+            "source": "content/zh-hans/vocabulary/zh-hans-human-resources.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-human-resources.md"
+          },
+          {
+            "id": "zh-hans-project-management",
+            "title": "项目管理核心词汇",
+            "description": "Tập trung vào lập kế hoạch, kiểm soát tiến độ và quản trị rủi ro.",
+            "source": "content/zh-hans/vocabulary/zh-hans-project-management.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-project-management.md"
+          },
+          {
+            "id": "zh-hans-technology-terms",
+            "title": "科技团队常用词汇",
+            "description": "Nắm bắt thuật ngữ phát triển phần mềm và vận hành hệ thống.",
+            "source": "content/zh-hans/vocabulary/zh-hans-technology-terms.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-technology-terms.md"
+          },
+          {
+            "id": "zh-hans-procurement-supply",
+            "title": "采购与供应链词汇",
+            "description": "Luyện đàm phán cung ứng, hợp đồng và quản lý tồn kho.",
+            "source": "content/zh-hans/vocabulary/zh-hans-procurement-supply.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-procurement-supply.md"
+          },
+          {
+            "id": "zh-hans-travel-arrangements",
+            "title": "商旅安排常用词汇",
+            "description": "Chuẩn bị chuyến công tác: vé máy bay, khách sạn và hoàn ứng.",
+            "source": "content/zh-hans/vocabulary/zh-hans-travel-arrangements.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-travel-arrangements.md"
+          },
+          {
+            "id": "zh-hans-quality-assurance",
+            "title": "质量管理与改进词汇",
+            "description": "Ôn tập quy trình kiểm định, khắc phục lỗi và cải tiến liên tục.",
+            "source": "content/zh-hans/vocabulary/zh-hans-quality-assurance.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-quality-assurance.md"
+          },
+          {
+            "id": "zh-hans-risk-management",
+            "title": "Từ vựng quản trị rủi ro (中文)",
+            "description": "Thuật ngữ xử lý rủi ro, kế hoạch ứng phó và giám sát liên tục.",
+            "source": "content/zh-hans/vocabulary/zh-hans-risk-management.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-risk-management.md"
+          },
+          {
+            "id": "zh-hans-data-analysis",
+            "title": "Từ vựng phân tích dữ liệu (中文)",
+            "description": "Từ vựng về báo cáo, mô hình và trực quan hóa dữ liệu doanh nghiệp.",
+            "source": "content/zh-hans/vocabulary/zh-hans-data-analysis.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-data-analysis.md"
+          },
+          {
+            "id": "zh-hans-innovation-design",
+            "title": "Từ vựng đổi mới & thiết kế (中文)",
+            "description": "Các thuật ngữ brainstorm, nguyên mẫu và ra mắt sản phẩm mới.",
+            "source": "content/zh-hans/vocabulary/zh-hans-innovation-design.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-innovation-design.md"
+          },
+          {
+            "id": "zh-hans-legal-compliance",
+            "title": "Từ vựng pháp lý & tuân thủ (中文)",
+            "description": "Thuật ngữ hợp đồng, kiểm toán và quản trị rủi ro pháp lý.",
+            "source": "content/zh-hans/vocabulary/zh-hans-legal-compliance.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-legal-compliance.md"
+          },
+          {
+            "id": "zh-hans-operations-maintenance",
+            "title": "Từ vựng vận hành & bảo trì (中文)",
+            "description": "Bộ từ về thiết bị, bảo dưỡng và quy trình xử lý sự cố.",
+            "source": "content/zh-hans/vocabulary/zh-hans-operations-maintenance.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-operations-maintenance.md"
+          },
+          {
+            "id": "zh-hans-remote-collaboration",
+            "title": "Từ vựng cộng tác từ xa (中文)",
+            "description": "Cụm từ sử dụng trong họp trực tuyến và chia sẻ tài liệu cloud.",
+            "source": "content/zh-hans/vocabulary/zh-hans-remote-collaboration.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-remote-collaboration.md"
+          },
+          {
+            "id": "zh-hans-sales-forecasting",
+            "title": "Từ vựng dự báo doanh số (中文)",
+            "description": "Thuật ngữ pipeline bán hàng, chỉ số chuyển đổi và kế hoạch doanh thu.",
+            "source": "content/zh-hans/vocabulary/zh-hans-sales-forecasting.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-sales-forecasting.md"
+          },
+          {
+            "id": "zh-hans-corporate-strategy",
+            "title": "Từ vựng chiến lược doanh nghiệp (中文)",
+            "description": "Từ vựng mô tả tầm nhìn, chuyển đổi và các bước thực thi chiến lược.",
+            "source": "content/zh-hans/vocabulary/zh-hans-corporate-strategy.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-corporate-strategy.md"
+          },
+          {
+            "id": "zh-hans-sustainability",
+            "title": "Từ vựng phát triển bền vững (中文)",
+            "description": "Thuật ngữ ESG: giảm phát thải, chuỗi cung ứng xanh và báo cáo minh bạch.",
+            "source": "content/zh-hans/vocabulary/zh-hans-sustainability.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-sustainability.md"
+          },
+          {
+            "id": "zh-hans-event-planning",
+            "title": "Từ vựng tổ chức sự kiện (中文)",
+            "description": "Từ vựng chuẩn bị, vận hành và truyền thông cho sự kiện doanh nghiệp.",
+            "source": "content/zh-hans/vocabulary/zh-hans-event-planning.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-event-planning.md"
+          },
+          {
+            "id": "zh-hans-crisis-management",
+            "title": "Từ vựng quản trị khủng hoảng (中文)",
+            "description": "Thuộc lòng thuật ngữ xử lý sự cố, thông tin nội bộ và phục hồi hoạt động.",
+            "source": "content/zh-hans/vocabulary/zh-hans-crisis-management.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-crisis-management.md"
+          },
+          {
+            "id": "zh-hans-product-development",
+            "title": "Từ vựng phát triển sản phẩm (中文)",
+            "description": "Tăng vốn từ cho nghiên cứu, thiết kế và bàn giao sản phẩm mới.",
+            "source": "content/zh-hans/vocabulary/zh-hans-product-development.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-product-development.md"
+          },
+          {
+            "id": "zh-hans-market-research",
+            "title": "Từ vựng nghiên cứu thị trường (中文)",
+            "description": "Ôn tập các bước khảo sát, phân tích và báo cáo insight khách hàng.",
+            "source": "content/zh-hans/vocabulary/zh-hans-market-research.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-market-research.md"
+          },
+          {
+            "id": "zh-hans-customer-retention",
+            "title": "Từ vựng giữ chân khách hàng (中文)",
+            "description": "Nắm chắc thuật ngữ chăm sóc, ưu đãi và đo lường trung thành.",
+            "source": "content/zh-hans/vocabulary/zh-hans-customer-retention.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-customer-retention.md"
+          },
+          {
+            "id": "zh-hans-digital-marketing",
+            "title": "Từ vựng tiếp thị số (中文)",
+            "description": "Các khái niệm chiến dịch online, đo lường chuyển đổi và nội dung sáng tạo.",
+            "source": "content/zh-hans/vocabulary/zh-hans-digital-marketing.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-digital-marketing.md"
+          },
+          {
+            "id": "zh-hans-ecommerce-operations",
+            "title": "Từ vựng vận hành thương mại điện tử (中文)",
+            "description": "Thuật ngữ quản lý gian hàng, hậu cần và chăm sóc khách hàng online.",
+            "source": "content/zh-hans/vocabulary/zh-hans-ecommerce-operations.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-ecommerce-operations.md"
+          },
+          {
+            "id": "zh-hans-financial-planning",
+            "title": "Từ vựng lập kế hoạch tài chính (中文)",
+            "description": "Bộ từ mô tả ngân sách, dòng tiền và phân tích kịch bản tài chính.",
+            "source": "content/zh-hans/vocabulary/zh-hans-financial-planning.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-financial-planning.md"
+          },
+          {
+            "id": "zh-hans-leadership-communication",
+            "title": "Từ vựng giao tiếp lãnh đạo (中文)",
+            "description": "Tăng cường vốn từ cho truyền đạt tầm nhìn, phản hồi và tạo động lực.",
+            "source": "content/zh-hans/vocabulary/zh-hans-leadership-communication.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-leadership-communication.md"
+          },
+          {
+            "id": "zh-hans-corporate-culture",
+            "title": "Từ vựng văn hóa doanh nghiệp (中文)",
+            "description": "Khám phá các khái niệm giá trị, nghi lễ và hoạt động gắn kết đội ngũ.",
+            "source": "content/zh-hans/vocabulary/zh-hans-corporate-culture.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-corporate-culture.md"
+          },
+          {
+            "id": "zh-hans-international-negotiation",
+            "title": "Từ vựng đàm phán quốc tế (中文)",
+            "description": "Thuộc các thuật ngữ hợp đồng, điều khoản và xử lý khác biệt văn hóa.",
+            "source": "content/zh-hans/vocabulary/zh-hans-international-negotiation.json",
+            "markdown": "content/zh-hans/vocabulary/zh-hans-international-negotiation.md"
           }
         ],
         "grammar": [

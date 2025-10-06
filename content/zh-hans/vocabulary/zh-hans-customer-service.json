@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "服务", "partOfSpeech": "noun", "ipa": "fúwù", "meaning": "dịch vụ" },
+    { "word": "客服", "partOfSpeech": "noun", "ipa": "kèfú", "meaning": "chăm sóc khách hàng" },
+    { "word": "顾客", "partOfSpeech": "noun", "ipa": "gùkè", "meaning": "khách hàng" },
+    { "word": "满意", "partOfSpeech": "adjective", "ipa": "mǎnyì", "meaning": "hài lòng" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "投诉", "partOfSpeech": "noun", "ipa": "tóusù", "meaning": "khiếu nại" },
+    { "word": "处理", "partOfSpeech": "verb", "ipa": "chǔlǐ", "meaning": "xử lý" },
+    { "word": "解决", "partOfSpeech": "verb", "ipa": "jiějué", "meaning": "giải quyết" },
+    { "word": "升级", "partOfSpeech": "verb", "ipa": "shēngjí", "meaning": "nâng cấp, chuyển cấp" },
+    { "word": "热线", "partOfSpeech": "noun", "ipa": "rèxiàn", "meaning": "đường dây nóng" },
+    { "word": "等待时间", "partOfSpeech": "noun", "ipa": "děngdài shíjiān", "meaning": "thời gian chờ" },
+    { "word": "语气", "partOfSpeech": "noun", "ipa": "yǔqì", "meaning": "giọng điệu" },
+    { "word": "耐心", "partOfSpeech": "noun", "ipa": "nàixīn", "meaning": "sự kiên nhẫn" },
+    { "word": "礼貌", "partOfSpeech": "noun", "ipa": "lǐmào", "meaning": "lễ phép" },
+    { "word": "满意度", "partOfSpeech": "noun", "ipa": "mǎnyìdù", "meaning": "mức độ hài lòng" },
+    { "word": "调查", "partOfSpeech": "noun", "ipa": "diàochá", "meaning": "khảo sát" },
+    { "word": "问候", "partOfSpeech": "verb", "ipa": "wènhòu", "meaning": "chào hỏi, quan tâm" },
+    { "word": "确认", "partOfSpeech": "verb", "ipa": "quèrèn", "meaning": "xác nhận" },
+    { "word": "补偿", "partOfSpeech": "noun", "ipa": "bǔcháng", "meaning": "bồi thường" },
+    { "word": "优惠", "partOfSpeech": "noun", "ipa": "yōuhuì", "meaning": "ưu đãi" },
+    { "word": "满意调查", "partOfSpeech": "noun", "ipa": "mǎnyì diàochá", "meaning": "khảo sát hài lòng" },
+    { "word": "跟进", "partOfSpeech": "verb", "ipa": "gēnjìn", "meaning": "theo dõi, chăm sóc" },
+    { "word": "账户", "partOfSpeech": "noun", "ipa": "zhànghù", "meaning": "tài khoản" },
+    { "word": "案例", "partOfSpeech": "noun", "ipa": "ànlì", "meaning": "trường hợp" },
+    { "word": "说明", "partOfSpeech": "noun", "ipa": "shuōmíng", "meaning": "hướng dẫn, mô tả" }
+  ]
+}

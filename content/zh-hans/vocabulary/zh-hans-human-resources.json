@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "人力资源", "partOfSpeech": "noun", "ipa": "rénlì zīyuán", "meaning": "nhân sự" },
+    { "word": "招聘", "partOfSpeech": "verb", "ipa": "zhāopìn", "meaning": "tuyển dụng" },
+    { "word": "面试", "partOfSpeech": "noun", "ipa": "miànshì", "meaning": "phỏng vấn" },
+    { "word": "候选人", "partOfSpeech": "noun", "ipa": "hòuxuǎn rén", "meaning": "ứng viên" },
+    { "word": "简历", "partOfSpeech": "noun", "ipa": "jiǎnlì", "meaning": "hồ sơ" },
+    { "word": "录用", "partOfSpeech": "verb", "ipa": "lùyòng", "meaning": "tuyển chọn" },
+    { "word": "入职", "partOfSpeech": "verb", "ipa": "rùzhí", "meaning": "vào làm" },
+    { "word": "培训", "partOfSpeech": "noun", "ipa": "péixùn", "meaning": "đào tạo" },
+    { "word": "试用期", "partOfSpeech": "noun", "ipa": "shìyòngqī", "meaning": "thử việc" },
+    { "word": "转正", "partOfSpeech": "verb", "ipa": "zhuǎnzhèng", "meaning": "chính thức" },
+    { "word": "薪资", "partOfSpeech": "noun", "ipa": "xīnzī", "meaning": "lương" },
+    { "word": "福利", "partOfSpeech": "noun", "ipa": "fúlì", "meaning": "phúc lợi" },
+    { "word": "绩效", "partOfSpeech": "noun", "ipa": "jìxiào", "meaning": "hiệu suất" },
+    { "word": "考核", "partOfSpeech": "noun", "ipa": "kǎohé", "meaning": "đánh giá" },
+    { "word": "晋升", "partOfSpeech": "verb", "ipa": "jìnshēng", "meaning": "thăng chức" },
+    { "word": "调岗", "partOfSpeech": "verb", "ipa": "diàogǎng", "meaning": "điều chuyển" },
+    { "word": "离职", "partOfSpeech": "verb", "ipa": "lízhí", "meaning": "nghỉ việc" },
+    { "word": "离职面谈", "partOfSpeech": "noun", "ipa": "lízhí miàntán", "meaning": "phỏng vấn nghỉ việc" },
+    { "word": "劳动合同", "partOfSpeech": "noun", "ipa": "láodòng hétóng", "meaning": "hợp đồng lao động" },
+    { "word": "考勤", "partOfSpeech": "noun", "ipa": "kǎoqín", "meaning": "chấm công" },
+    { "word": "请假", "partOfSpeech": "verb", "ipa": "qǐngjià", "meaning": "xin nghỉ" },
+    { "word": "调薪", "partOfSpeech": "verb", "ipa": "tiáoxīn", "meaning": "điều chỉnh lương" },
+    { "word": "人才发展", "partOfSpeech": "noun", "ipa": "réncái fāzhǎn", "meaning": "phát triển nhân tài" },
+    { "word": "员工关怀", "partOfSpeech": "noun", "ipa": "yuángōng guānhuái", "meaning": "chăm sóc nhân viên" },
+    { "word": "多元化", "partOfSpeech": "noun", "ipa": "duōyuánhuà", "meaning": "đa dạng hóa" }
+  ]
+}
