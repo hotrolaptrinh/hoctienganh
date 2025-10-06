@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "数字营销", "partOfSpeech": "noun", "ipa": "shùzì yíngxiāo", "meaning": "tiếp thị số" },
+    { "word": "投放", "partOfSpeech": "verb", "ipa": "tóufàng", "meaning": "phân phối quảng cáo" },
+    { "word": "曝光", "partOfSpeech": "noun", "ipa": "bàoguāng", "meaning": "độ hiển thị" },
+    { "word": "点击率", "partOfSpeech": "noun", "ipa": "diǎnjīlǜ", "meaning": "tỷ lệ nhấp" },
+    { "word": "转化", "partOfSpeech": "verb", "ipa": "zhuǎnhuà", "meaning": "chuyển đổi" },
+    { "word": "落地页", "partOfSpeech": "noun", "ipa": "luòdì yè", "meaning": "trang đích" },
+    { "word": "关键词", "partOfSpeech": "noun", "ipa": "guānjiàncí", "meaning": "từ khóa" },
+    { "word": "搜索引擎", "partOfSpeech": "noun", "ipa": "sōusuǒ yǐnqíng", "meaning": "công cụ tìm kiếm" },
+    { "word": "竞价", "partOfSpeech": "noun", "ipa": "jìngjià", "meaning": "đấu giá" },
+    { "word": "社交媒体", "partOfSpeech": "noun", "ipa": "shèjiāo méitǐ", "meaning": "mạng xã hội" },
+    { "word": "粉丝", "partOfSpeech": "noun", "ipa": "fěnsī", "meaning": "người theo dõi" },
+    { "word": "互动", "partOfSpeech": "noun", "ipa": "hùdòng", "meaning": "tương tác" },
+    { "word": "内容策划", "partOfSpeech": "noun", "ipa": "nèiróng cèhuà", "meaning": "lên kế hoạch nội dung" },
+    { "word": "开屏广告", "partOfSpeech": "noun", "ipa": "kāipíng guǎnggào", "meaning": "quảng cáo mở màn" },
+    { "word": "留资", "partOfSpeech": "verb", "ipa": "liúzī", "meaning": "thu thập thông tin khách hàng" },
+    { "word": "投产比", "partOfSpeech": "noun", "ipa": "tóuchǎn bǐ", "meaning": "tỷ lệ hoàn vốn" },
+    { "word": "A/B 测试", "partOfSpeech": "noun", "ipa": "A/B cèshì", "meaning": "thử nghiệm A/B" },
+    { "word": "素材", "partOfSpeech": "noun", "ipa": "sùcái", "meaning": "tư liệu quảng cáo" },
+    { "word": "短视频", "partOfSpeech": "noun", "ipa": "duǎn shìpín", "meaning": "video ngắn" },
+    { "word": "转发", "partOfSpeech": "verb", "ipa": "zhuǎnfā", "meaning": "chia sẻ lại" },
+    { "word": "投放策略", "partOfSpeech": "noun", "ipa": "tóufàng cèlüè", "meaning": "chiến lược phân phối" },
+    { "word": "种草", "partOfSpeech": "verb", "ipa": "zhòngcǎo", "meaning": "gợi ý mua" },
+    { "word": "复盘报告", "partOfSpeech": "noun", "ipa": "fùpán bàogào", "meaning": "báo cáo tổng kết" },
+    { "word": "粉丝群", "partOfSpeech": "noun", "ipa": "fěnsī qún", "meaning": "nhóm người hâm mộ" },
+    { "word": "推广链接", "partOfSpeech": "noun", "ipa": "tuīguǎng liànjiē", "meaning": "liên kết quảng bá" }
+  ]
+}

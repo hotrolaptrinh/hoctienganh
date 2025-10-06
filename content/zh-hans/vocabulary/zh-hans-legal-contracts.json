@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "合同", "partOfSpeech": "noun", "ipa": "hétóng", "meaning": "hợp đồng" },
+    { "word": "条款", "partOfSpeech": "noun", "ipa": "tiáokuǎn", "meaning": "điều khoản" },
+    { "word": "约定", "partOfSpeech": "verb", "ipa": "yuēdìng", "meaning": "thỏa thuận" },
+    { "word": "违约", "partOfSpeech": "verb", "ipa": "wéiyuē", "meaning": "vi phạm hợp đồng" },
+    { "word": "赔偿", "partOfSpeech": "verb", "ipa": "péicháng", "meaning": "bồi thường" },
+    { "word": "履行", "partOfSpeech": "verb", "ipa": "lǚxíng", "meaning": "thực hiện" },
+    { "word": "生效", "partOfSpeech": "verb", "ipa": "shēngxiào", "meaning": "có hiệu lực" },
+    { "word": "终止", "partOfSpeech": "verb", "ipa": "zhōngzhǐ", "meaning": "chấm dứt" },
+    { "word": "补充协议", "partOfSpeech": "noun", "ipa": "bǔchōng xiéyì", "meaning": "phụ lục" },
+    { "word": "适用法律", "partOfSpeech": "noun", "ipa": "shìyòng fǎlǜ", "meaning": "luật áp dụng" },
+    { "word": "争议解决", "partOfSpeech": "noun", "ipa": "zhēngyì jiějué", "meaning": "giải quyết tranh chấp" },
+    { "word": "仲裁", "partOfSpeech": "noun", "ipa": "zhòngcái", "meaning": "trọng tài" },
+    { "word": "管辖", "partOfSpeech": "verb", "ipa": "guǎnxiá", "meaning": "thẩm quyền" },
+    { "word": "保密", "partOfSpeech": "verb", "ipa": "bǎomì", "meaning": "bảo mật" },
+    { "word": "违约金", "partOfSpeech": "noun", "ipa": "wéiyuējīn", "meaning": "tiền phạt vi phạm" },
+    { "word": "不可抗力", "partOfSpeech": "noun", "ipa": "bùkěkànglì", "meaning": "bất khả kháng" },
+    { "word": "通知", "partOfSpeech": "noun", "ipa": "tōngzhī", "meaning": "thông báo" },
+    { "word": "附件", "partOfSpeech": "noun", "ipa": "fùjiàn", "meaning": "phụ lục đính kèm" },
+    { "word": "签署", "partOfSpeech": "verb", "ipa": "qiānshǔ", "meaning": "ký kết" },
+    { "word": "见证人", "partOfSpeech": "noun", "ipa": "jiànzhèngrén", "meaning": "nhân chứng" },
+    { "word": "履约保证金", "partOfSpeech": "noun", "ipa": "lǚyuē bǎozhèngjīn", "meaning": "tiền bảo đảm" },
+    { "word": "变更", "partOfSpeech": "verb", "ipa": "biàngēng", "meaning": "thay đổi" },
+    { "word": "生效日期", "partOfSpeech": "noun", "ipa": "shēngxiào rìqī", "meaning": "ngày hiệu lực" },
+    { "word": "履行期限", "partOfSpeech": "noun", "ipa": "lǚxíng qīxiàn", "meaning": "thời hạn thực hiện" },
+    { "word": "合同模板", "partOfSpeech": "noun", "ipa": "hétóng móbǎn", "meaning": "mẫu hợp đồng" }
+  ]
+}

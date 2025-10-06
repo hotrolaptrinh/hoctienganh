@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "运营优化", "partOfSpeech": "noun", "ipa": "yùnyíng yōuhuà", "meaning": "tối ưu vận hành" },
+    { "word": "瓶颈", "partOfSpeech": "noun", "ipa": "píngjǐng", "meaning": "nút thắt" },
+    { "word": "流程再造", "partOfSpeech": "noun", "ipa": "liúchéng zàizào", "meaning": "tái cấu trúc quy trình" },
+    { "word": "对标", "partOfSpeech": "verb", "ipa": "duìbiāo", "meaning": "đối chuẩn" },
+    { "word": "成本控制", "partOfSpeech": "noun", "ipa": "chéngběn kòngzhì", "meaning": "kiểm soát chi phí" },
+    { "word": "产能", "partOfSpeech": "noun", "ipa": "chǎnnéng", "meaning": "năng lực sản xuất" },
+    { "word": "稼动率", "partOfSpeech": "noun", "ipa": "jiàdònglǜ", "meaning": "tỷ lệ vận hành" },
+    { "word": "看板", "partOfSpeech": "noun", "ipa": "kànbǎn", "meaning": "bảng Kanban" },
+    { "word": "精益", "partOfSpeech": "adjective", "ipa": "jīngyì", "meaning": "tinh gọn" },
+    { "word": "库存周转", "partOfSpeech": "noun", "ipa": "kùcún zhōuzhuǎn", "meaning": "vòng quay tồn kho" },
+    { "word": "拆解", "partOfSpeech": "verb", "ipa": "chāijiě", "meaning": "phân rã" },
+    { "word": "约束", "partOfSpeech": "noun", "ipa": "yuēshù", "meaning": "ràng buộc" },
+    { "word": "平衡", "partOfSpeech": "verb", "ipa": "pínghéng", "meaning": "cân bằng" },
+    { "word": "标准化", "partOfSpeech": "verb", "ipa": "biāozhǔnhuà", "meaning": "chuẩn hóa" },
+    { "word": "自动化", "partOfSpeech": "verb", "ipa": "zìdònghuà", "meaning": "tự động hóa" },
+    { "word": "产出", "partOfSpeech": "noun", "ipa": "chǎnchū", "meaning": "sản lượng" },
+    { "word": "节拍", "partOfSpeech": "noun", "ipa": "jiépāi", "meaning": "nhịp sản xuất" },
+    { "word": "改善", "partOfSpeech": "verb", "ipa": "gǎishàn", "meaning": "cải thiện" },
+    { "word": "验收", "partOfSpeech": "verb", "ipa": "yànshōu", "meaning": "nghiệm thu" },
+    { "word": "落地方案", "partOfSpeech": "noun", "ipa": "luòdì fāng'àn", "meaning": "phương án triển khai" },
+    { "word": "流程节点", "partOfSpeech": "noun", "ipa": "liúchéng jiédiǎn", "meaning": "nút quy trình" },
+    { "word": "数据看板", "partOfSpeech": "noun", "ipa": "shùjù kànbǎn", "meaning": "bảng dữ liệu" },
+    { "word": "敏捷", "partOfSpeech": "adjective", "ipa": "mǐnjié", "meaning": "linh hoạt" },
+    { "word": "质量门", "partOfSpeech": "noun", "ipa": "zhìliàng mén", "meaning": "cổng chất lượng" },
+    { "word": "复核", "partOfSpeech": "verb", "ipa": "fùhé", "meaning": "kiểm tra lại" }
+  ]
+}

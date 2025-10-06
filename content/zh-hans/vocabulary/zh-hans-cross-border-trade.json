@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "跨境贸易", "partOfSpeech": "noun", "ipa": "kuàjìng màoyì", "meaning": "thương mại xuyên biên giới" },
+    { "word": "关税", "partOfSpeech": "noun", "ipa": "guānshuì", "meaning": "thuế quan" },
+    { "word": "报关", "partOfSpeech": "verb", "ipa": "bàoguān", "meaning": "khai hải quan" },
+    { "word": "清关", "partOfSpeech": "verb", "ipa": "qīngguān", "meaning": "thông quan" },
+    { "word": "原产地证", "partOfSpeech": "noun", "ipa": "yuánchǎndì zhèng", "meaning": "giấy chứng nhận xuất xứ" },
+    { "word": "贸易术语", "partOfSpeech": "noun", "ipa": "màoyì shùyǔ", "meaning": "điều kiện thương mại" },
+    { "word": "汇率", "partOfSpeech": "noun", "ipa": "huìlǜ", "meaning": "tỷ giá" },
+    { "word": "结算", "partOfSpeech": "verb", "ipa": "jiésuàn", "meaning": "thanh toán" },
+    { "word": "信用证", "partOfSpeech": "noun", "ipa": "xìnyòngzhèng", "meaning": "thư tín dụng" },
+    { "word": "货代", "partOfSpeech": "noun", "ipa": "huòdài", "meaning": "đại lý vận chuyển" },
+    { "word": "船期", "partOfSpeech": "noun", "ipa": "chuánqī", "meaning": "lịch tàu" },
+    { "word": "舱位", "partOfSpeech": "noun", "ipa": "cāngwèi", "meaning": "chỗ trên tàu" },
+    { "word": "提单", "partOfSpeech": "noun", "ipa": "tídān", "meaning": "vận đơn" },
+    { "word": "保险", "partOfSpeech": "noun", "ipa": "bǎoxiǎn", "meaning": "bảo hiểm" },
+    { "word": "进口", "partOfSpeech": "verb", "ipa": "jìnkǒu", "meaning": "nhập khẩu" },
+    { "word": "出口", "partOfSpeech": "verb", "ipa": "chūkǒu", "meaning": "xuất khẩu" },
+    { "word": "贸易合规", "partOfSpeech": "noun", "ipa": "màoyì hégé", "meaning": "tuân thủ thương mại" },
+    { "word": "结汇", "partOfSpeech": "verb", "ipa": "jiéhuì", "meaning": "kết hối" },
+    { "word": "税则", "partOfSpeech": "noun", "ipa": "shuìzé", "meaning": "biểu thuế" },
+    { "word": "贸易壁垒", "partOfSpeech": "noun", "ipa": "màoyì bìlěi", "meaning": "rào cản thương mại" },
+    { "word": "仓储", "partOfSpeech": "noun", "ipa": "cāngchǔ", "meaning": "kho bãi" },
+    { "word": "关检", "partOfSpeech": "noun", "ipa": "guānjiǎn", "meaning": "kiểm tra hải quan" },
+    { "word": "合约条款", "partOfSpeech": "noun", "ipa": "héyuē tiáokuǎn", "meaning": "điều khoản hợp đồng" },
+    { "word": "贸易融资", "partOfSpeech": "noun", "ipa": "màoyì róngzī", "meaning": "tài trợ thương mại" },
+    { "word": "外贸团队", "partOfSpeech": "noun", "ipa": "wàimào tuánduì", "meaning": "đội ngũ ngoại thương" }
+  ]
+}

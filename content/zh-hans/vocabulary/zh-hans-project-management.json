@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "项目", "partOfSpeech": "noun", "ipa": "xiàngmù", "meaning": "dự án" },
+    { "word": "计划", "partOfSpeech": "noun", "ipa": "jìhuà", "meaning": "kế hoạch" },
+    { "word": "里程碑", "partOfSpeech": "noun", "ipa": "lǐchéngbēi", "meaning": "mốc tiến độ" },
+    { "word": "时间表", "partOfSpeech": "noun", "ipa": "shíjiānbiǎo", "meaning": "timeline" },
+    { "word": "范围", "partOfSpeech": "noun", "ipa": "fànwéi", "meaning": "phạm vi" },
+    { "word": "需求", "partOfSpeech": "noun", "ipa": "xūqiú", "meaning": "yêu cầu" },
+    { "word": "资源", "partOfSpeech": "noun", "ipa": "zīyuán", "meaning": "nguồn lực" },
+    { "word": "分配", "partOfSpeech": "verb", "ipa": "fēnpèi", "meaning": "phân bổ" },
+    { "word": "进度", "partOfSpeech": "noun", "ipa": "jìndù", "meaning": "tiến độ" },
+    { "word": "风险", "partOfSpeech": "noun", "ipa": "fēngxiǎn", "meaning": "rủi ro" },
+    { "word": "缓解", "partOfSpeech": "verb", "ipa": "huǎnjiě", "meaning": "giảm nhẹ" },
+    { "word": "沟通", "partOfSpeech": "verb", "ipa": "gōutōng", "meaning": "giao tiếp" },
+    { "word": "汇报", "partOfSpeech": "verb", "ipa": "huìbào", "meaning": "báo cáo" },
+    { "word": "责任人", "partOfSpeech": "noun", "ipa": "zérèn rén", "meaning": "người phụ trách" },
+    { "word": "依赖", "partOfSpeech": "noun", "ipa": "yīlài", "meaning": "phụ thuộc" },
+    { "word": "会议纪要", "partOfSpeech": "noun", "ipa": "huìyì jìyào", "meaning": "biên bản họp" },
+    { "word": "变更", "partOfSpeech": "noun", "ipa": "biàngēng", "meaning": "thay đổi" },
+    { "word": "审批", "partOfSpeech": "verb", "ipa": "shěnpī", "meaning": "phê duyệt" },
+    { "word": "验收", "partOfSpeech": "verb", "ipa": "yànshōu", "meaning": "nghiệm thu" },
+    { "word": "交付", "partOfSpeech": "verb", "ipa": "jiāofù", "meaning": "bàn giao" },
+    { "word": "迭代", "partOfSpeech": "noun", "ipa": "diédài", "meaning": "phiên bản lặp" },
+    { "word": "优先级", "partOfSpeech": "noun", "ipa": "yōuxiānjí", "meaning": "mức ưu tiên" },
+    { "word": "甘特图", "partOfSpeech": "noun", "ipa": "gāntè tú", "meaning": "biểu đồ Gantt" },
+    { "word": "风险矩阵", "partOfSpeech": "noun", "ipa": "fēngxiǎn jǔzhèn", "meaning": "ma trận rủi ro" },
+    { "word": "复盘", "partOfSpeech": "verb", "ipa": "fùpán", "meaning": "rút kinh nghiệm" }
+  ]
+}

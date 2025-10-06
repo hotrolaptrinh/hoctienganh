@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "合规", "partOfSpeech": "noun", "ipa": "hégé", "meaning": "tuân thủ" },
+    { "word": "法规", "partOfSpeech": "noun", "ipa": "fǎguī", "meaning": "pháp quy" },
+    { "word": "条例", "partOfSpeech": "noun", "ipa": "tiáolì", "meaning": "điều lệ" },
+    { "word": "合同", "partOfSpeech": "noun", "ipa": "hétóng", "meaning": "hợp đồng" },
+    { "word": "条款", "partOfSpeech": "noun", "ipa": "tiáokuǎn", "meaning": "điều khoản" },
+    { "word": "签署", "partOfSpeech": "verb", "ipa": "qiānshǔ", "meaning": "ký kết" },
+    { "word": "授权", "partOfSpeech": "verb", "ipa": "shòuquán", "meaning": "ủy quyền" },
+    { "word": "资质", "partOfSpeech": "noun", "ipa": "zīzhì", "meaning": "tư cách pháp lý" },
+    { "word": "许可证", "partOfSpeech": "noun", "ipa": "xǔkězhèng", "meaning": "giấy phép" },
+    { "word": "审查", "partOfSpeech": "verb", "ipa": "shěnchá", "meaning": "thẩm tra" },
+    { "word": "备案", "partOfSpeech": "verb", "ipa": "bèi'àn", "meaning": "lưu hồ sơ" },
+    { "word": "守则", "partOfSpeech": "noun", "ipa": "shǒuzé", "meaning": "quy tắc" },
+    { "word": "违纪", "partOfSpeech": "noun", "ipa": "wéijì", "meaning": "vi phạm kỷ luật" },
+    { "word": "处罚", "partOfSpeech": "noun", "ipa": "chǔfá", "meaning": "xử phạt" },
+    { "word": "责任", "partOfSpeech": "noun", "ipa": "zérèn", "meaning": "trách nhiệm" },
+    { "word": "证据", "partOfSpeech": "noun", "ipa": "zhèngjù", "meaning": "chứng cứ" },
+    { "word": "仲裁", "partOfSpeech": "noun", "ipa": "zhòngcái", "meaning": "trọng tài" },
+    { "word": "诉讼", "partOfSpeech": "noun", "ipa": "sùsòng", "meaning": "kiện tụng" },
+    { "word": "合约", "partOfSpeech": "noun", "ipa": "héyuē", "meaning": "hợp ước" },
+    { "word": "证书", "partOfSpeech": "noun", "ipa": "zhèngshū", "meaning": "chứng chỉ" },
+    { "word": "声明", "partOfSpeech": "noun", "ipa": "shēngmíng", "meaning": "tuyên bố" },
+    { "word": "隐私", "partOfSpeech": "noun", "ipa": "yǐnsī", "meaning": "quyền riêng tư" },
+    { "word": "披露", "partOfSpeech": "verb", "ipa": "pīlù", "meaning": "công bố" },
+    { "word": "遵守", "partOfSpeech": "verb", "ipa": "zūnshǒu", "meaning": "tuân theo" },
+    { "word": "提醒", "partOfSpeech": "verb", "ipa": "tíxǐng", "meaning": "nhắc nhở" }
+  ]
+}

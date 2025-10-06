@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 4 - Operations & Production",
+  "words": [
+    {"word": "assembly", "partOfSpeech": "n.", "ipa": "/əˈsembli/", "meaning": "khâu lắp ráp"},
+    {"word": "automate", "partOfSpeech": "v.", "ipa": "/ˈɔːtəmeɪt/", "meaning": "tự động hóa"},
+    {"word": "backup", "partOfSpeech": "n.", "ipa": "/ˈbækʌp/", "meaning": "dữ liệu dự phòng"},
+    {"word": "blueprint", "partOfSpeech": "n.", "ipa": "/ˈbluːprɪnt/", "meaning": "bản thiết kế"},
+    {"word": "calibrate", "partOfSpeech": "v.", "ipa": "/ˈkælɪbreɪt/", "meaning": "hiệu chỉnh"},
+    {"word": "capacity", "partOfSpeech": "n.", "ipa": "/kəˈpæsəti/", "meaning": "công suất"},
+    {"word": "compliance", "partOfSpeech": "n.", "ipa": "/kəmˈplaɪəns/", "meaning": "tuân thủ quy định"},
+    {"word": "component", "partOfSpeech": "n.", "ipa": "/kəmˈpəʊnənt/", "meaning": "linh kiện"},
+    {"word": "contractor", "partOfSpeech": "n.", "ipa": "/kənˈtræktə/", "meaning": "nhà thầu"},
+    {"word": "defect", "partOfSpeech": "n.", "ipa": "/ˈdiːfekt/", "meaning": "lỗi sản phẩm"},
+    {"word": "dispatch", "partOfSpeech": "v.", "ipa": "/dɪˈspætʃ/", "meaning": "gửi đi"},
+    {"word": "downtime", "partOfSpeech": "n.", "ipa": "/ˈdaʊntaɪm/", "meaning": "thời gian ngừng máy"},
+    {"word": "efficiency", "partOfSpeech": "n.", "ipa": "/ɪˈfɪʃənsi/", "meaning": "hiệu suất"},
+    {"word": "forklift", "partOfSpeech": "n.", "ipa": "/ˈfɔːklɪft/", "meaning": "xe nâng"},
+    {"word": "inventory", "partOfSpeech": "n.", "ipa": "/ˈɪnvəntri/", "meaning": "hàng tồn kho"},
+    {"word": "maintenance", "partOfSpeech": "n.", "ipa": "/ˈmeɪntənəns/", "meaning": "bảo trì"},
+    {"word": "manufacture", "partOfSpeech": "v.", "ipa": "/ˌmænjuˈfæktʃə/", "meaning": "sản xuất"},
+    {"word": "optimize", "partOfSpeech": "v.", "ipa": "/ˈɒptɪmaɪz/", "meaning": "tối ưu hóa"},
+    {"word": "outsource", "partOfSpeech": "v.", "ipa": "/ˈaʊtsɔːs/", "meaning": "thuê ngoài"},
+    {"word": "procurement", "partOfSpeech": "n.", "ipa": "/prəˈkjʊəmənt/", "meaning": "mua sắm vật tư"},
+    {"word": "quality control", "partOfSpeech": "n. phr.", "ipa": "/ˈkwɒləti kənˈtrəʊl/", "meaning": "kiểm soát chất lượng"},
+    {"word": "recycle", "partOfSpeech": "v.", "ipa": "/ˌriːˈsaɪkl/", "meaning": "tái chế"},
+    {"word": "shipment", "partOfSpeech": "n.", "ipa": "/ˈʃɪpmənt/", "meaning": "lô hàng gửi"},
+    {"word": "specification", "partOfSpeech": "n.", "ipa": "/ˌspesɪfɪˈkeɪʃn/", "meaning": "thông số kỹ thuật"},
+    {"word": "warehouse", "partOfSpeech": "n.", "ipa": "/ˈweəhaʊs/", "meaning": "nhà kho"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "人力发展", "partOfSpeech": "noun", "ipa": "rénlì fāzhǎn", "meaning": "phát triển nhân lực" },
+    { "word": "胜任力", "partOfSpeech": "noun", "ipa": "shèngrènlì", "meaning": "năng lực đảm nhiệm" },
+    { "word": "继任", "partOfSpeech": "verb", "ipa": "jìrèn", "meaning": "kế nhiệm" },
+    { "word": "梯队", "partOfSpeech": "noun", "ipa": "tīduì", "meaning": "đội ngũ kế cận" },
+    { "word": "轮岗", "partOfSpeech": "verb", "ipa": "lúngǎng", "meaning": "luân chuyển vị trí" },
+    { "word": "导师", "partOfSpeech": "noun", "ipa": "dǎoshī", "meaning": "người hướng dẫn" },
+    { "word": "培养", "partOfSpeech": "verb", "ipa": "péiyǎng", "meaning": "bồi dưỡng" },
+    { "word": "课程体系", "partOfSpeech": "noun", "ipa": "kèchéng tǐxì", "meaning": "hệ thống khóa học" },
+    { "word": "学习路径", "partOfSpeech": "noun", "ipa": "xuéxí lùjìng", "meaning": "lộ trình học tập" },
+    { "word": "评估中心", "partOfSpeech": "noun", "ipa": "pínggū zhōngxīn", "meaning": "trung tâm đánh giá" },
+    { "word": "潜才库", "partOfSpeech": "noun", "ipa": "qiáncái kù", "meaning": "ngân hàng nhân tài tiềm năng" },
+    { "word": "复盘", "partOfSpeech": "verb", "ipa": "fùpán", "meaning": "rút kinh nghiệm" },
+    { "word": "发展对话", "partOfSpeech": "noun", "ipa": "fāzhǎn duìhuà", "meaning": "đối thoại phát triển" },
+    { "word": "辅导", "partOfSpeech": "verb", "ipa": "fǔdǎo", "meaning": "huấn luyện" },
+    { "word": "人才盘点", "partOfSpeech": "noun", "ipa": "réncái pándiǎn", "meaning": "kiểm kê nhân tài" },
+    { "word": "晋升通道", "partOfSpeech": "noun", "ipa": "jìnshēng tōngdào", "meaning": "lộ trình thăng tiến" },
+    { "word": "学习地图", "partOfSpeech": "noun", "ipa": "xuéxí dìtú", "meaning": "bản đồ học tập" },
+    { "word": "跟岗", "partOfSpeech": "verb", "ipa": "gēngǎng", "meaning": "theo sát công việc" },
+    { "word": "影子学习", "partOfSpeech": "noun", "ipa": "yǐngzi xuéxí", "meaning": "shadowing" },
+    { "word": "反馈循环", "partOfSpeech": "noun", "ipa": "fǎnkuì xúnhuán", "meaning": "vòng phản hồi" },
+    { "word": "校企合作", "partOfSpeech": "noun", "ipa": "xiàoqǐ hézuò", "meaning": "hợp tác doanh nghiệp-trường học" },
+    { "word": "研修", "partOfSpeech": "verb", "ipa": "yánxiū", "meaning": "nghiên cứu bồi dưỡng" },
+    { "word": "人才画像", "partOfSpeech": "noun", "ipa": "réncái huàxiàng", "meaning": "chân dung nhân tài" },
+    { "word": "评鉴", "partOfSpeech": "verb", "ipa": "píngjiàn", "meaning": "thẩm định" },
+    { "word": "发展档案", "partOfSpeech": "noun", "ipa": "fāzhǎn dàng'àn", "meaning": "hồ sơ phát triển" }
+  ]
+}

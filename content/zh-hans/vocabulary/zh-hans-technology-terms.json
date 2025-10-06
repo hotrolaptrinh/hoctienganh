@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "技术", "partOfSpeech": "noun", "ipa": "jìshù", "meaning": "kỹ thuật" },
+    { "word": "开发", "partOfSpeech": "verb", "ipa": "kāifā", "meaning": "phát triển" },
+    { "word": "测试", "partOfSpeech": "noun", "ipa": "cèshì", "meaning": "kiểm thử" },
+    { "word": "部署", "partOfSpeech": "verb", "ipa": "bùshǔ", "meaning": "triển khai" },
+    { "word": "上线", "partOfSpeech": "verb", "ipa": "shàngxiàn", "meaning": "ra mắt" },
+    { "word": "版本", "partOfSpeech": "noun", "ipa": "bǎnběn", "meaning": "phiên bản" },
+    { "word": "迭代", "partOfSpeech": "noun", "ipa": "diédài", "meaning": "lặp cải tiến" },
+    { "word": "缺陷", "partOfSpeech": "noun", "ipa": "quēxiàn", "meaning": "lỗi" },
+    { "word": "修复", "partOfSpeech": "verb", "ipa": "xiūfù", "meaning": "sửa lỗi" },
+    { "word": "需求文档", "partOfSpeech": "noun", "ipa": "xūqiú wéndàng", "meaning": "tài liệu yêu cầu" },
+    { "word": "接口", "partOfSpeech": "noun", "ipa": "jiēkǒu", "meaning": "giao diện lập trình" },
+    { "word": "数据库", "partOfSpeech": "noun", "ipa": "shùjùkù", "meaning": "cơ sở dữ liệu" },
+    { "word": "服务器", "partOfSpeech": "noun", "ipa": "fúwùqì", "meaning": "máy chủ" },
+    { "word": "云端", "partOfSpeech": "noun", "ipa": "yún duān", "meaning": "đám mây" },
+    { "word": "权限", "partOfSpeech": "noun", "ipa": "quánxiàn", "meaning": "quyền hạn" },
+    { "word": "备份", "partOfSpeech": "noun", "ipa": "bèifèn", "meaning": "sao lưu" },
+    { "word": "恢复", "partOfSpeech": "verb", "ipa": "huīfù", "meaning": "khôi phục" },
+    { "word": "性能", "partOfSpeech": "noun", "ipa": "xìngnéng", "meaning": "hiệu năng" },
+    { "word": "监控", "partOfSpeech": "verb", "ipa": "jiānkòng", "meaning": "giám sát" },
+    { "word": "告警", "partOfSpeech": "noun", "ipa": "gàojǐng", "meaning": "cảnh báo" },
+    { "word": "用户体验", "partOfSpeech": "noun", "ipa": "yònghù tǐyàn", "meaning": "trải nghiệm người dùng" },
+    { "word": "权限管理", "partOfSpeech": "noun", "ipa": "quánxiàn guǎnlǐ", "meaning": "quản lý quyền" },
+    { "word": "敏捷", "partOfSpeech": "noun", "ipa": "mǐnjié", "meaning": "agile" },
+    { "word": "站会", "partOfSpeech": "noun", "ipa": "zhànhuì", "meaning": "daily standup" },
+    { "word": "代码审查", "partOfSpeech": "noun", "ipa": "dàimǎ shěnchá", "meaning": "code review" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "创新", "partOfSpeech": "noun", "ipa": "chuàngxīn", "meaning": "đổi mới" },
+    { "word": "设计", "partOfSpeech": "noun", "ipa": "shèjì", "meaning": "thiết kế" },
+    { "word": "原型", "partOfSpeech": "noun", "ipa": "yuánxíng", "meaning": "nguyên mẫu" },
+    { "word": "迭代", "partOfSpeech": "verb", "ipa": "diédài", "meaning": "lặp cải tiến" },
+    { "word": "需求", "partOfSpeech": "noun", "ipa": "xūqiú", "meaning": "nhu cầu" },
+    { "word": "洞察", "partOfSpeech": "noun", "ipa": "dòngchá", "meaning": "thấu hiểu" },
+    { "word": "头脑风暴", "partOfSpeech": "noun", "ipa": "tóunǎo fēngbào", "meaning": "động não" },
+    { "word": "概念", "partOfSpeech": "noun", "ipa": "gàiniàn", "meaning": "khái niệm" },
+    { "word": "用户体验", "partOfSpeech": "noun", "ipa": "yònghù tǐyàn", "meaning": "trải nghiệm người dùng" },
+    { "word": "痛点", "partOfSpeech": "noun", "ipa": "tòngdiǎn", "meaning": "điểm đau" },
+    { "word": "解决方案", "partOfSpeech": "noun", "ipa": "jiějué fāng'àn", "meaning": "giải pháp" },
+    { "word": "测试", "partOfSpeech": "verb", "ipa": "cèshì", "meaning": "kiểm thử" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "上线", "partOfSpeech": "verb", "ipa": "shàngxiàn", "meaning": "ra mắt" },
+    { "word": "发布", "partOfSpeech": "verb", "ipa": "fābù", "meaning": "phát hành" },
+    { "word": "升级", "partOfSpeech": "verb", "ipa": "shēngjí", "meaning": "nâng cấp" },
+    { "word": "实验", "partOfSpeech": "noun", "ipa": "shíyàn", "meaning": "thử nghiệm" },
+    { "word": "灵感", "partOfSpeech": "noun", "ipa": "línggǎn", "meaning": "cảm hứng" },
+    { "word": "资源", "partOfSpeech": "noun", "ipa": "zīyuán", "meaning": "nguồn lực" },
+    { "word": "跨部门", "partOfSpeech": "adjective", "ipa": "kuà bùmén", "meaning": "liên phòng ban" },
+    { "word": "评审", "partOfSpeech": "noun", "ipa": "píngshěn", "meaning": "thẩm định" },
+    { "word": "蓝图", "partOfSpeech": "noun", "ipa": "lántú", "meaning": "bản thiết kế" },
+    { "word": "里程碑", "partOfSpeech": "noun", "ipa": "lǐchéngbēi", "meaning": "cột mốc" },
+    { "word": "路线图", "partOfSpeech": "noun", "ipa": "lùxiàntú", "meaning": "lộ trình" },
+    { "word": "投入产出比", "partOfSpeech": "noun", "ipa": "tóurù chǎnchū bǐ", "meaning": "tỉ lệ chi phí - hiệu quả" }
+  ]
+}

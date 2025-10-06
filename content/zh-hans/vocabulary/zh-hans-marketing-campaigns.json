@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "市场", "partOfSpeech": "noun", "ipa": "shìchǎng", "meaning": "thị trường" },
+    { "word": "营销", "partOfSpeech": "noun", "ipa": "yíngxiāo", "meaning": "marketing" },
+    { "word": "推广", "partOfSpeech": "verb", "ipa": "tuīguǎng", "meaning": "quảng bá" },
+    { "word": "广告", "partOfSpeech": "noun", "ipa": "guǎnggào", "meaning": "quảng cáo" },
+    { "word": "渠道", "partOfSpeech": "noun", "ipa": "qúdào", "meaning": "kênh" },
+    { "word": "目标客户", "partOfSpeech": "noun", "ipa": "mùbiāo kèhù", "meaning": "khách hàng mục tiêu" },
+    { "word": "品牌", "partOfSpeech": "noun", "ipa": "pǐnpái", "meaning": "thương hiệu" },
+    { "word": "定位", "partOfSpeech": "verb", "ipa": "dìngwèi", "meaning": "định vị" },
+    { "word": "活动", "partOfSpeech": "noun", "ipa": "huódòng", "meaning": "chiến dịch" },
+    { "word": "预算", "partOfSpeech": "noun", "ipa": "yùsuàn", "meaning": "ngân sách" },
+    { "word": "曝光", "partOfSpeech": "noun", "ipa": "bàoguāng", "meaning": "độ phủ" },
+    { "word": "点击率", "partOfSpeech": "noun", "ipa": "diǎnjīlǜ", "meaning": "tỷ lệ nhấp" },
+    { "word": "转化率", "partOfSpeech": "noun", "ipa": "zhuǎnhuàlǜ", "meaning": "tỷ lệ chuyển đổi" },
+    { "word": "社交媒体", "partOfSpeech": "noun", "ipa": "shèjiāo méitǐ", "meaning": "mạng xã hội" },
+    { "word": "内容", "partOfSpeech": "noun", "ipa": "nèiróng", "meaning": "nội dung" },
+    { "word": "文案", "partOfSpeech": "noun", "ipa": "wén'àn", "meaning": "copy quảng cáo" },
+    { "word": "促销", "partOfSpeech": "noun", "ipa": "cùxiāo", "meaning": "khuyến mãi" },
+    { "word": "折扣", "partOfSpeech": "noun", "ipa": "zhékòu", "meaning": "giảm giá" },
+    { "word": "互动", "partOfSpeech": "verb", "ipa": "hùdòng", "meaning": "tương tác" },
+    { "word": "数据分析", "partOfSpeech": "noun", "ipa": "shùjù fēnxī", "meaning": "phân tích dữ liệu" },
+    { "word": "潜在客户", "partOfSpeech": "noun", "ipa": "qiánzài kèhù", "meaning": "khách hàng tiềm năng" },
+    { "word": "品牌形象", "partOfSpeech": "noun", "ipa": "pǐnpái xíngxiàng", "meaning": "hình ảnh thương hiệu" },
+    { "word": "口碑", "partOfSpeech": "noun", "ipa": "kǒubēi", "meaning": "danh tiếng" },
+    { "word": "海报", "partOfSpeech": "noun", "ipa": "hǎibào", "meaning": "áp phích" },
+    { "word": "渠道合作", "partOfSpeech": "noun", "ipa": "qúdào hézuò", "meaning": "hợp tác kênh" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "采购", "partOfSpeech": "noun", "ipa": "cǎigòu", "meaning": "mua sắm" },
+    { "word": "供应商", "partOfSpeech": "noun", "ipa": "gōngyìngshāng", "meaning": "nhà cung cấp" },
+    { "word": "报价", "partOfSpeech": "noun", "ipa": "bàojià", "meaning": "báo giá" },
+    { "word": "询价", "partOfSpeech": "verb", "ipa": "xúnjià", "meaning": "hỏi giá" },
+    { "word": "合同", "partOfSpeech": "noun", "ipa": "hétóng", "meaning": "hợp đồng" },
+    { "word": "条款", "partOfSpeech": "noun", "ipa": "tiáokuǎn", "meaning": "điều khoản" },
+    { "word": "交货期", "partOfSpeech": "noun", "ipa": "jiāohuòqī", "meaning": "thời hạn giao hàng" },
+    { "word": "最小起订量", "partOfSpeech": "noun", "ipa": "zuìxiǎo qǐdìng liàng", "meaning": "MOQ" },
+    { "word": "折扣", "partOfSpeech": "noun", "ipa": "zhékòu", "meaning": "chiết khấu" },
+    { "word": "预付款", "partOfSpeech": "noun", "ipa": "yùfù kuǎn", "meaning": "tiền đặt cọc" },
+    { "word": "尾款", "partOfSpeech": "noun", "ipa": "wěikuǎn", "meaning": "tiền còn lại" },
+    { "word": "验货", "partOfSpeech": "verb", "ipa": "yànhuò", "meaning": "kiểm hàng" },
+    { "word": "质检", "partOfSpeech": "noun", "ipa": "zhìjiǎn", "meaning": "kiểm định chất lượng" },
+    { "word": "样品", "partOfSpeech": "noun", "ipa": "yàngpǐn", "meaning": "mẫu" },
+    { "word": "供应链", "partOfSpeech": "noun", "ipa": "gōngyìngliàn", "meaning": "chuỗi cung ứng" },
+    { "word": "交期", "partOfSpeech": "noun", "ipa": "jiāoqī", "meaning": "thời gian giao" },
+    { "word": "库存", "partOfSpeech": "noun", "ipa": "kùcún", "meaning": "tồn kho" },
+    { "word": "补货", "partOfSpeech": "verb", "ipa": "bǔhuò", "meaning": "bổ sung hàng" },
+    { "word": "议价", "partOfSpeech": "verb", "ipa": "yìjià", "meaning": "đàm phán giá" },
+    { "word": "合同续签", "partOfSpeech": "noun", "ipa": "hétóng xùqiān", "meaning": "gia hạn hợp đồng" },
+    { "word": "供应风险", "partOfSpeech": "noun", "ipa": "gōngyìng fēngxiǎn", "meaning": "rủi ro cung ứng" },
+    { "word": "备用供应商", "partOfSpeech": "noun", "ipa": "bèiyòng gōngyìngshāng", "meaning": "nhà cung cấp dự phòng" },
+    { "word": "付款条件", "partOfSpeech": "noun", "ipa": "fùkuǎn tiáojiàn", "meaning": "điều kiện thanh toán" },
+    { "word": "交付证明", "partOfSpeech": "noun", "ipa": "jiāofù zhèngmíng", "meaning": "biên bản bàn giao" },
+    { "word": "增补协议", "partOfSpeech": "noun", "ipa": "zēngbǔ xiéyì", "meaning": "phụ lục hợp đồng" }
+  ]
+}

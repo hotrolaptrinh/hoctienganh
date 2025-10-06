@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "洞察", "partOfSpeech": "noun", "ipa": "dòngchá", "meaning": "thấu hiểu" },
+    { "word": "画像", "partOfSpeech": "noun", "ipa": "huàxiàng", "meaning": "chân dung" },
+    { "word": "调研", "partOfSpeech": "verb", "ipa": "diàoyán", "meaning": "nghiên cứu khảo sát" },
+    { "word": "访谈", "partOfSpeech": "noun", "ipa": "fǎngtán", "meaning": "phỏng vấn" },
+    { "word": "问卷", "partOfSpeech": "noun", "ipa": "wènjuàn", "meaning": "bảng câu hỏi" },
+    { "word": "样本", "partOfSpeech": "noun", "ipa": "yàngběn", "meaning": "mẫu khảo sát" },
+    { "word": "偏好", "partOfSpeech": "noun", "ipa": "piānhào", "meaning": "sở thích" },
+    { "word": "痛点", "partOfSpeech": "noun", "ipa": "tòngdiǎn", "meaning": "điểm đau" },
+    { "word": "旅程", "partOfSpeech": "noun", "ipa": "lǚchéng", "meaning": "hành trình" },
+    { "word": "触点", "partOfSpeech": "noun", "ipa": "chùdiǎn", "meaning": "điểm chạm" },
+    { "word": "人群", "partOfSpeech": "noun", "ipa": "rénqún", "meaning": "nhóm người" },
+    { "word": "洞察报告", "partOfSpeech": "noun", "ipa": "dòngchá bàogào", "meaning": "báo cáo insight" },
+    { "word": "抽样", "partOfSpeech": "verb", "ipa": "chōuyàng", "meaning": "lấy mẫu" },
+    { "word": "访谈纪要", "partOfSpeech": "noun", "ipa": "fǎngtán jìyào", "meaning": "biên bản phỏng vấn" },
+    { "word": "观察", "partOfSpeech": "verb", "ipa": "guānchá", "meaning": "quan sát" },
+    { "word": "验证", "partOfSpeech": "verb", "ipa": "yànzhèng", "meaning": "xác minh" },
+    { "word": "用户故事", "partOfSpeech": "noun", "ipa": "yònghù gùshì", "meaning": "câu chuyện người dùng" },
+    { "word": "画像标签", "partOfSpeech": "noun", "ipa": "huàxiàng biāoqiān", "meaning": "nhãn chân dung" },
+    { "word": "定性", "partOfSpeech": "adjective", "ipa": "dìngxìng", "meaning": "định tính" },
+    { "word": "定量", "partOfSpeech": "adjective", "ipa": "dìngliàng", "meaning": "định lượng" },
+    { "word": "洞察提炼", "partOfSpeech": "verb", "ipa": "dòngchá tíliàn", "meaning": "chiết xuất insight" },
+    { "word": "假设", "partOfSpeech": "noun", "ipa": "jiǎshè", "meaning": "giả thuyết" },
+    { "word": "验证实验", "partOfSpeech": "noun", "ipa": "yànzhèng shíyàn", "meaning": "thí nghiệm kiểm chứng" },
+    { "word": "分层", "partOfSpeech": "verb", "ipa": "fēnchéng", "meaning": "phân tầng" },
+    { "word": "洞察工作坊", "partOfSpeech": "noun", "ipa": "dòngchá gōngzuòfāng", "meaning": "workshop insight" }
+  ]
+}

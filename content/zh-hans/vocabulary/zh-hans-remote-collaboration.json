@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "远程", "partOfSpeech": "adjective", "ipa": "yuǎnchéng", "meaning": "từ xa" },
+    { "word": "协作", "partOfSpeech": "verb", "ipa": "xiézuò", "meaning": "hợp tác" },
+    { "word": "视频会议", "partOfSpeech": "noun", "ipa": "shìpín huìyì", "meaning": "họp video" },
+    { "word": "麦克风", "partOfSpeech": "noun", "ipa": "màikèfēng", "meaning": "micro" },
+    { "word": "摄像头", "partOfSpeech": "noun", "ipa": "shèxiàngtóu", "meaning": "camera" },
+    { "word": "静音", "partOfSpeech": "verb", "ipa": "jìngyīn", "meaning": "tắt tiếng" },
+    { "word": "分享屏幕", "partOfSpeech": "verb", "ipa": "fēnxiǎng píngmù", "meaning": "chia sẻ màn hình" },
+    { "word": "聊天框", "partOfSpeech": "noun", "ipa": "liáotiān kuāng", "meaning": "khung chat" },
+    { "word": "会议纪要", "partOfSpeech": "noun", "ipa": "huìyì jìyào", "meaning": "biên bản họp" },
+    { "word": "议程", "partOfSpeech": "noun", "ipa": "yìchéng", "meaning": "chương trình" },
+    { "word": "日程", "partOfSpeech": "noun", "ipa": "rìchéng", "meaning": "lịch trình" },
+    { "word": "时区", "partOfSpeech": "noun", "ipa": "shíqū", "meaning": "múi giờ" },
+    { "word": "协同", "partOfSpeech": "verb", "ipa": "xiétóng", "meaning": "phối hợp" },
+    { "word": "任务板", "partOfSpeech": "noun", "ipa": "rènwù bǎn", "meaning": "bảng nhiệm vụ" },
+    { "word": "截止日期", "partOfSpeech": "noun", "ipa": "jiézhǐ rìqī", "meaning": "hạn chót" },
+    { "word": "更新", "partOfSpeech": "verb", "ipa": "gēngxīn", "meaning": "cập nhật" },
+    { "word": "评论", "partOfSpeech": "noun", "ipa": "pínglùn", "meaning": "bình luận" },
+    { "word": "提及", "partOfSpeech": "verb", "ipa": "tíjí", "meaning": "nhắc đến" },
+    { "word": "共享文档", "partOfSpeech": "noun", "ipa": "gòngxiǎng wéndàng", "meaning": "tài liệu chia sẻ" },
+    { "word": "权限", "partOfSpeech": "noun", "ipa": "quánxiàn", "meaning": "quyền truy cập" },
+    { "word": "云端", "partOfSpeech": "noun", "ipa": "yún duān", "meaning": "đám mây" },
+    { "word": "文件夹", "partOfSpeech": "noun", "ipa": "wénjiànjiā", "meaning": "thư mục" },
+    { "word": "上传", "partOfSpeech": "verb", "ipa": "shàngchuán", "meaning": "tải lên" },
+    { "word": "录制", "partOfSpeech": "verb", "ipa": "lùzhì", "meaning": "ghi hình" },
+    { "word": "提醒", "partOfSpeech": "verb", "ipa": "tíxǐng", "meaning": "nhắc lịch" }
+  ]
+}

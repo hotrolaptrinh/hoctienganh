@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "研发", "partOfSpeech": "noun", "ipa": "yánfā", "meaning": "nghiên cứu phát triển" },
+    { "word": "迭代", "partOfSpeech": "verb", "ipa": "diédài", "meaning": "lặp lại cải tiến" },
+    { "word": "原型", "partOfSpeech": "noun", "ipa": "yuánxíng", "meaning": "nguyên mẫu" },
+    { "word": "需求", "partOfSpeech": "noun", "ipa": "xūqiú", "meaning": "nhu cầu" },
+    { "word": "规格", "partOfSpeech": "noun", "ipa": "guīgé", "meaning": "thông số" },
+    { "word": "设计", "partOfSpeech": "verb", "ipa": "shèjì", "meaning": "thiết kế" },
+    { "word": "测试", "partOfSpeech": "verb", "ipa": "cèshì", "meaning": "kiểm thử" },
+    { "word": "验证", "partOfSpeech": "verb", "ipa": "yànzhèng", "meaning": "xác nhận" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "上线", "partOfSpeech": "verb", "ipa": "shàngxiàn", "meaning": "ra mắt" },
+    { "word": "路线图", "partOfSpeech": "noun", "ipa": "lùxiàntú", "meaning": "lộ trình" },
+    { "word": "里程碑", "partOfSpeech": "noun", "ipa": "lǐchéngbēi", "meaning": "mốc quan trọng" },
+    { "word": "优先级", "partOfSpeech": "noun", "ipa": "yōuxiānjí", "meaning": "độ ưu tiên" },
+    { "word": "整合", "partOfSpeech": "verb", "ipa": "zhěnghé", "meaning": "tích hợp" },
+    { "word": "兼容", "partOfSpeech": "adjective", "ipa": "jiānróng", "meaning": "tương thích" },
+    { "word": "优化", "partOfSpeech": "verb", "ipa": "yōuhuà", "meaning": "tối ưu" },
+    { "word": "版本", "partOfSpeech": "noun", "ipa": "bǎnběn", "meaning": "phiên bản" },
+    { "word": "故障", "partOfSpeech": "noun", "ipa": "gùzhàng", "meaning": "sự cố" },
+    { "word": "修复", "partOfSpeech": "verb", "ipa": "xiūfù", "meaning": "sửa lỗi" },
+    { "word": "需求池", "partOfSpeech": "noun", "ipa": "xūqiú chí", "meaning": "kho yêu cầu" },
+    { "word": "用户故事", "partOfSpeech": "noun", "ipa": "yònghù gùshì", "meaning": "câu chuyện người dùng" },
+    { "word": "验收", "partOfSpeech": "verb", "ipa": "yànshōu", "meaning": "nghiệm thu" },
+    { "word": "跨部门", "partOfSpeech": "adjective", "ipa": "kuà bùmén", "meaning": "liên phòng ban" },
+    { "word": "敏捷", "partOfSpeech": "adjective", "ipa": "mǐnjié", "meaning": "linh hoạt" },
+    { "word": "交付", "partOfSpeech": "verb", "ipa": "jiāofù", "meaning": "bàn giao" }
+  ]
+}

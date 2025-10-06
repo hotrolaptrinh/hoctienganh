@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "企业文化", "partOfSpeech": "noun", "ipa": "qǐyè wénhuà", "meaning": "văn hóa doanh nghiệp" },
+    { "word": "价值观", "partOfSpeech": "noun", "ipa": "jiàzhíguān", "meaning": "giá trị" },
+    { "word": "使命", "partOfSpeech": "noun", "ipa": "shǐmìng", "meaning": "sứ mệnh" },
+    { "word": "愿景", "partOfSpeech": "noun", "ipa": "yuànjǐng", "meaning": "tầm nhìn" },
+    { "word": "行为准则", "partOfSpeech": "noun", "ipa": "xíngwéi zhǔnzé", "meaning": "chuẩn mực hành vi" },
+    { "word": "沟通", "partOfSpeech": "noun", "ipa": "gōutōng", "meaning": "giao tiếp" },
+    { "word": "协作", "partOfSpeech": "noun", "ipa": "xiézuò", "meaning": "hợp tác" },
+    { "word": "开放", "partOfSpeech": "adjective", "ipa": "kāifàng", "meaning": "cởi mở" },
+    { "word": "包容", "partOfSpeech": "adjective", "ipa": "bāoróng", "meaning": "bao dung" },
+    { "word": "创新", "partOfSpeech": "noun", "ipa": "chuàngxīn", "meaning": "đổi mới" },
+    { "word": "尊重", "partOfSpeech": "verb", "ipa": "zūnzhòng", "meaning": "tôn trọng" },
+    { "word": "认可", "partOfSpeech": "verb", "ipa": "rènkě", "meaning": "công nhận" },
+    { "word": "团队精神", "partOfSpeech": "noun", "ipa": "tuánduì jīngshén", "meaning": "tinh thần đồng đội" },
+    { "word": "仪式感", "partOfSpeech": "noun", "ipa": "yíshìgǎn", "meaning": "cảm giác nghi lễ" },
+    { "word": "多样性", "partOfSpeech": "noun", "ipa": "duōyàngxìng", "meaning": "đa dạng" },
+    { "word": "包容性", "partOfSpeech": "noun", "ipa": "bāoróngxìng", "meaning": "tính bao dung" },
+    { "word": "价值倡导", "partOfSpeech": "noun", "ipa": "jiàzhí chàngdǎo", "meaning": "lan tỏa giá trị" },
+    { "word": "文化手册", "partOfSpeech": "noun", "ipa": "wénhuà shǒucè", "meaning": "sổ tay văn hóa" },
+    { "word": "入职培训", "partOfSpeech": "noun", "ipa": "rùzhí péixùn", "meaning": "đào tạo hội nhập" },
+    { "word": "团建", "partOfSpeech": "noun", "ipa": "tuánjiàn", "meaning": "team building" },
+    { "word": "价值主张", "partOfSpeech": "noun", "ipa": "jiàzhí zhǔzhāng", "meaning": "tuyên ngôn giá trị" },
+    { "word": "文化落地", "partOfSpeech": "noun", "ipa": "wénhuà luòdì", "meaning": "thực thi văn hóa" },
+    { "word": "员工关怀", "partOfSpeech": "noun", "ipa": "yuángōng guānhuái", "meaning": "chăm lo nhân viên" },
+    { "word": "表彰", "partOfSpeech": "verb", "ipa": "biǎozhāng", "meaning": "biểu dương" },
+    { "word": "文化大使", "partOfSpeech": "noun", "ipa": "wénhuà dàshǐ", "meaning": "đại sứ văn hóa" }
+  ]
+}

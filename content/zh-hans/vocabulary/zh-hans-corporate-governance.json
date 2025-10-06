@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "公司治理", "partOfSpeech": "noun", "ipa": "gōngsī zhìlǐ", "meaning": "quản trị công ty" },
+    { "word": "董事会", "partOfSpeech": "noun", "ipa": "dǒngshìhuì", "meaning": "hội đồng quản trị" },
+    { "word": "监事会", "partOfSpeech": "noun", "ipa": "jiānshìhuì", "meaning": "ban kiểm soát" },
+    { "word": "独立董事", "partOfSpeech": "noun", "ipa": "dúlì dǒngshì", "meaning": "giám đốc độc lập" },
+    { "word": "治理结构", "partOfSpeech": "noun", "ipa": "zhìlǐ jiégòu", "meaning": "cơ cấu quản trị" },
+    { "word": "章程", "partOfSpeech": "noun", "ipa": "zhāngchéng", "meaning": "điều lệ" },
+    { "word": "议案", "partOfSpeech": "noun", "ipa": "yì'àn", "meaning": "tờ trình" },
+    { "word": "表决", "partOfSpeech": "verb", "ipa": "biǎojué", "meaning": "biểu quyết" },
+    { "word": "投票权", "partOfSpeech": "noun", "ipa": "tóupiàoquán", "meaning": "quyền bỏ phiếu" },
+    { "word": "股东大会", "partOfSpeech": "noun", "ipa": "gǔdōng dàhuì", "meaning": "đại hội cổ đông" },
+    { "word": "合规", "partOfSpeech": "noun", "ipa": "hégé", "meaning": "tuân thủ" },
+    { "word": "内幕信息", "partOfSpeech": "noun", "ipa": "nèimù xìnxī", "meaning": "thông tin nội bộ" },
+    { "word": "信息披露", "partOfSpeech": "noun", "ipa": "xìnxī pīlù", "meaning": "công bố thông tin" },
+    { "word": "风险控制", "partOfSpeech": "noun", "ipa": "fēngxiǎn kòngzhì", "meaning": "kiểm soát rủi ro" },
+    { "word": "审计委员会", "partOfSpeech": "noun", "ipa": "shěnjì wěiyuánhuì", "meaning": "ủy ban kiểm toán" },
+    { "word": "薪酬委员会", "partOfSpeech": "noun", "ipa": "xīnchóu wěiyuánhuì", "meaning": "ủy ban lương thưởng" },
+    { "word": "内部控制", "partOfSpeech": "noun", "ipa": "nèibù kòngzhì", "meaning": "kiểm soát nội bộ" },
+    { "word": "问责", "partOfSpeech": "verb", "ipa": "wènzé", "meaning": "truy cứu trách nhiệm" },
+    { "word": "廉洁", "partOfSpeech": "adjective", "ipa": "liánjié", "meaning": "liêm chính" },
+    { "word": "道德准则", "partOfSpeech": "noun", "ipa": "dàodé zhǔnzé", "meaning": "bộ quy tắc đạo đức" },
+    { "word": "利益相关者", "partOfSpeech": "noun", "ipa": "lìyì xiāngguānzhě", "meaning": "các bên liên quan" },
+    { "word": "透明度", "partOfSpeech": "noun", "ipa": "tòumíngdù", "meaning": "tính minh bạch" },
+    { "word": "治理报告", "partOfSpeech": "noun", "ipa": "zhìlǐ bàogào", "meaning": "báo cáo quản trị" },
+    { "word": "董事责任", "partOfSpeech": "noun", "ipa": "dǒngshì zérèn", "meaning": "trách nhiệm của giám đốc" },
+    { "word": "关联交易", "partOfSpeech": "noun", "ipa": "guānlián jiāoyì", "meaning": "giao dịch liên kết" }
+  ]
+}

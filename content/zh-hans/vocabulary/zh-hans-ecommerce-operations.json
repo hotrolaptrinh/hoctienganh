@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "电商", "partOfSpeech": "noun", "ipa": "diànshāng", "meaning": "thương mại điện tử" },
+    { "word": "店铺", "partOfSpeech": "noun", "ipa": "diànpù", "meaning": "cửa hàng" },
+    { "word": "上架", "partOfSpeech": "verb", "ipa": "shàngjià", "meaning": "đăng bán" },
+    { "word": "库存", "partOfSpeech": "noun", "ipa": "kùcún", "meaning": "tồn kho" },
+    { "word": "发货", "partOfSpeech": "verb", "ipa": "fāhuò", "meaning": "giao hàng" },
+    { "word": "物流", "partOfSpeech": "noun", "ipa": "wùliú", "meaning": "hậu cần" },
+    { "word": "客服", "partOfSpeech": "noun", "ipa": "kèfú", "meaning": "chăm sóc khách hàng" },
+    { "word": "差评", "partOfSpeech": "noun", "ipa": "chàpíng", "meaning": "đánh giá xấu" },
+    { "word": "好评", "partOfSpeech": "noun", "ipa": "hǎopíng", "meaning": "đánh giá tốt" },
+    { "word": "转化率", "partOfSpeech": "noun", "ipa": "zhuǎnhuàlǜ", "meaning": "tỷ lệ chuyển đổi" },
+    { "word": "客单价", "partOfSpeech": "noun", "ipa": "kèdānjià", "meaning": "giá trị đơn hàng" },
+    { "word": "退货", "partOfSpeech": "verb", "ipa": "tuìhuò", "meaning": "trả hàng" },
+    { "word": "补货", "partOfSpeech": "verb", "ipa": "bǔhuò", "meaning": "bổ sung hàng" },
+    { "word": "活动", "partOfSpeech": "noun", "ipa": "huódòng", "meaning": "chương trình khuyến mãi" },
+    { "word": "秒杀", "partOfSpeech": "noun", "ipa": "miǎoshā", "meaning": "flash sale" },
+    { "word": "预售", "partOfSpeech": "noun", "ipa": "yùshòu", "meaning": "bán trước" },
+    { "word": "账期", "partOfSpeech": "noun", "ipa": "zhàngqī", "meaning": "kỳ đối soát" },
+    { "word": "评价管理", "partOfSpeech": "noun", "ipa": "píngjià guǎnlǐ", "meaning": "quản lý đánh giá" },
+    { "word": "流量", "partOfSpeech": "noun", "ipa": "liúliàng", "meaning": "lưu lượng truy cập" },
+    { "word": "店铺装修", "partOfSpeech": "noun", "ipa": "diànpù zhuāngxiū", "meaning": "thiết kế gian hàng" },
+    { "word": "客服脚本", "partOfSpeech": "noun", "ipa": "kèfú jiǎoběn", "meaning": "kịch bản CSKH" },
+    { "word": "揽收", "partOfSpeech": "verb", "ipa": "lǎnshōu", "meaning": "nhận hàng gửi" },
+    { "word": "尾款", "partOfSpeech": "noun", "ipa": "wěikuǎn", "meaning": "tiền thanh toán còn lại" },
+    { "word": "售后", "partOfSpeech": "noun", "ipa": "shòuhòu", "meaning": "hậu mãi" },
+    { "word": "复购率", "partOfSpeech": "noun", "ipa": "fùgòulǜ", "meaning": "tỷ lệ mua lại" }
+  ]
+}

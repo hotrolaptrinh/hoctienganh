@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "销售分析", "partOfSpeech": "noun", "ipa": "xiāoshòu fēnxī", "meaning": "phân tích bán hàng" },
+    { "word": "渠道", "partOfSpeech": "noun", "ipa": "qúdào", "meaning": "kênh" },
+    { "word": "转化率", "partOfSpeech": "noun", "ipa": "zhuǎnhuàlǜ", "meaning": "tỷ lệ chuyển đổi" },
+    { "word": "客单价", "partOfSpeech": "noun", "ipa": "kèdānjià", "meaning": "giá trị đơn hàng trung bình" },
+    { "word": "复购", "partOfSpeech": "verb", "ipa": "fùgòu", "meaning": "mua lại" },
+    { "word": "留存", "partOfSpeech": "verb", "ipa": "liúcún", "meaning": "giữ chân" },
+    { "word": "分销", "partOfSpeech": "verb", "ipa": "fēnxiāo", "meaning": "phân phối" },
+    { "word": "提成", "partOfSpeech": "noun", "ipa": "tíchéng", "meaning": "hoa hồng" },
+    { "word": "销量", "partOfSpeech": "noun", "ipa": "xiāoliàng", "meaning": "số lượng bán" },
+    { "word": "库存预警", "partOfSpeech": "noun", "ipa": "kùcún yùjǐng", "meaning": "cảnh báo tồn kho" },
+    { "word": "销售漏斗", "partOfSpeech": "noun", "ipa": "xiāoshòu lòudǒu", "meaning": "phễu bán hàng" },
+    { "word": "成交流程", "partOfSpeech": "noun", "ipa": "chéngjiāo liúchéng", "meaning": "quy trình chốt đơn" },
+    { "word": "商机", "partOfSpeech": "noun", "ipa": "shāngjī", "meaning": "cơ hội kinh doanh" },
+    { "word": "跟进记录", "partOfSpeech": "noun", "ipa": "gēnjìn jìlù", "meaning": "ghi chép theo dõi" },
+    { "word": "回款", "partOfSpeech": "verb", "ipa": "huíkuǎn", "meaning": "thu hồi tiền" },
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự báo" },
+    { "word": "销售额", "partOfSpeech": "noun", "ipa": "xiāoshòu'é", "meaning": "doanh thu" },
+    { "word": "毛利", "partOfSpeech": "noun", "ipa": "máolì", "meaning": "lợi nhuận gộp" },
+    { "word": "折扣策略", "partOfSpeech": "noun", "ipa": "zhékòu cèlüè", "meaning": "chiến lược chiết khấu" },
+    { "word": "客群", "partOfSpeech": "noun", "ipa": "kèqún", "meaning": "nhóm khách" },
+    { "word": "成交率", "partOfSpeech": "noun", "ipa": "chéngjiāolǜ", "meaning": "tỷ lệ chốt đơn" },
+    { "word": "拜访计划", "partOfSpeech": "noun", "ipa": "bàifǎng jìhuà", "meaning": "kế hoạch viếng thăm" },
+    { "word": "销售仪表盘", "partOfSpeech": "noun", "ipa": "xiāoshòu yíbiǎopán", "meaning": "dashboard bán hàng" },
+    { "word": "提报", "partOfSpeech": "verb", "ipa": "tíbào", "meaning": "trình báo" },
+    { "word": "账户拓展", "partOfSpeech": "noun", "ipa": "zhànghù tuòzhǎn", "meaning": "mở rộng tài khoản" }
+  ]
+}

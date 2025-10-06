@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "调研", "partOfSpeech": "verb", "ipa": "diàoyán", "meaning": "khảo sát" },
+    { "word": "样本", "partOfSpeech": "noun", "ipa": "yàngběn", "meaning": "mẫu khảo sát" },
+    { "word": "问卷", "partOfSpeech": "noun", "ipa": "wènjuàn", "meaning": "bảng câu hỏi" },
+    { "word": "访谈", "partOfSpeech": "noun", "ipa": "fǎngtán", "meaning": "phỏng vấn" },
+    { "word": "洞察", "partOfSpeech": "noun", "ipa": "dòngchá", "meaning": "insight" },
+    { "word": "趋势", "partOfSpeech": "noun", "ipa": "qūshì", "meaning": "xu hướng" },
+    { "word": "数据", "partOfSpeech": "noun", "ipa": "shùjù", "meaning": "dữ liệu" },
+    { "word": "统计", "partOfSpeech": "noun", "ipa": "tǒngjì", "meaning": "thống kê" },
+    { "word": "抽样", "partOfSpeech": "verb", "ipa": "chōuyàng", "meaning": "lấy mẫu" },
+    { "word": "消费者", "partOfSpeech": "noun", "ipa": "xiāofèizhě", "meaning": "người tiêu dùng" },
+    { "word": "画像", "partOfSpeech": "noun", "ipa": "huàxiàng", "meaning": "chân dung" },
+    { "word": "细分", "partOfSpeech": "verb", "ipa": "xìfēn", "meaning": "phân khúc" },
+    { "word": "需求量", "partOfSpeech": "noun", "ipa": "xūqiúliàng", "meaning": "lượng nhu cầu" },
+    { "word": "偏好", "partOfSpeech": "noun", "ipa": "piānhào", "meaning": "sở thích" },
+    { "word": "价格点", "partOfSpeech": "noun", "ipa": "jiàgé diǎn", "meaning": "mức giá" },
+    { "word": "满意度", "partOfSpeech": "noun", "ipa": "mǎnyìdù", "meaning": "mức độ hài lòng" },
+    { "word": "竞品", "partOfSpeech": "noun", "ipa": "jìngpǐn", "meaning": "đối thủ cạnh tranh" },
+    { "word": "调研报告", "partOfSpeech": "noun", "ipa": "diàoyán bàogào", "meaning": "báo cáo nghiên cứu" },
+    { "word": "盲测", "partOfSpeech": "noun", "ipa": "mángcè", "meaning": "thử mù" },
+    { "word": "焦点小组", "partOfSpeech": "noun", "ipa": "jiāodiǎn xiǎozǔ", "meaning": "nhóm tập trung" },
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự đoán" },
+    { "word": "呈现", "partOfSpeech": "verb", "ipa": "chéngxiàn", "meaning": "trình bày" },
+    { "word": "洞悉", "partOfSpeech": "verb", "ipa": "dòngxī", "meaning": "nắm bắt sâu" },
+    { "word": "基准", "partOfSpeech": "noun", "ipa": "jīzhǔn", "meaning": "chuẩn tham chiếu" },
+    { "word": "消费场景", "partOfSpeech": "noun", "ipa": "xiāofèi chǎngjǐng", "meaning": "bối cảnh tiêu dùng" }
+  ]
+}

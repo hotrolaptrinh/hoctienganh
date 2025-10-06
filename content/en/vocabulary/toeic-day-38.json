@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 38 - Legal & Contracts",
+  "words": [
+    {"word": "attorney", "partOfSpeech": "n.", "ipa": "/əˈtɜːni/", "meaning": "luật sư"},
+    {"word": "counsel", "partOfSpeech": "n.", "ipa": "/ˈkaʊnsl/", "meaning": "cố vấn pháp lý"},
+    {"word": "contract clause", "partOfSpeech": "n. phr.", "ipa": "/ˈkɒntrækt klɔːz/", "meaning": "điều khoản hợp đồng"},
+    {"word": "liability", "partOfSpeech": "n.", "ipa": "/ˌlaɪəˈbɪləti/", "meaning": "trách nhiệm pháp lý"},
+    {"word": "indemnity", "partOfSpeech": "n.", "ipa": "/ɪnˈdemnəti/", "meaning": "bồi thường thiệt hại"},
+    {"word": "jurisdiction", "partOfSpeech": "n.", "ipa": "/ˌdʒʊərɪsˈdɪkʃn/", "meaning": "thẩm quyền xét xử"},
+    {"word": "arbitration", "partOfSpeech": "n.", "ipa": "/ˌɑːbɪˈtreɪʃn/", "meaning": "trọng tài"},
+    {"word": "breach", "partOfSpeech": "n.", "ipa": "/briːtʃ/", "meaning": "vi phạm"},
+    {"word": "termination", "partOfSpeech": "n.", "ipa": "/ˌtɜːmɪˈneɪʃn/", "meaning": "chấm dứt"},
+    {"word": "confidentiality", "partOfSpeech": "n.", "ipa": "/ˌkɒnfɪˌdenʃiˈæləti/", "meaning": "bảo mật"},
+    {"word": "non-disclosure agreement", "partOfSpeech": "n. phr.", "ipa": "/ˌnɒn dɪsˈkləʊʒə əˈɡriːmənt/", "meaning": "thỏa thuận không tiết lộ"},
+    {"word": "force majeure", "partOfSpeech": "n. phr.", "ipa": "/ˌfɔːs mæˈʒɜː/", "meaning": "bất khả kháng"},
+    {"word": "warranty", "partOfSpeech": "n.", "ipa": "/ˈwɒrənti/", "meaning": "bảo hành"},
+    {"word": "representations", "partOfSpeech": "n.", "ipa": "/ˌreprɪzenˈteɪʃnz/", "meaning": "cam đoan"},
+    {"word": "severability", "partOfSpeech": "n.", "ipa": "/ˌsevərəˈbɪləti/", "meaning": "tính tách rời"},
+    {"word": "governing law", "partOfSpeech": "n. phr.", "ipa": "/ˈɡʌvənɪŋ lɔː/", "meaning": "luật điều chỉnh"},
+    {"word": "amendment", "partOfSpeech": "n.", "ipa": "/əˈmendmənt/", "meaning": "sửa đổi"},
+    {"word": "counterparty", "partOfSpeech": "n.", "ipa": "/ˈkaʊntəpɑːti/", "meaning": "đối tác hợp đồng"},
+    {"word": "due diligence", "partOfSpeech": "n. phr.", "ipa": "/ˌdjuː ˈdɪlɪdʒəns/", "meaning": "thẩm định chi tiết"},
+    {"word": "statute of limitations", "partOfSpeech": "n. phr.", "ipa": "/ˈstætʃuːt əv ˌlɪmɪˈteɪʃnz/", "meaning": "thời hiệu khởi kiện"},
+    {"word": "injunction", "partOfSpeech": "n.", "ipa": "/ɪnˈdʒʌŋkʃn/", "meaning": "lệnh cấm"},
+    {"word": "settlement", "partOfSpeech": "n.", "ipa": "/ˈsetlmənt/", "meaning": "dàn xếp"},
+    {"word": "witness", "partOfSpeech": "n.", "ipa": "/ˈwɪtnəs/", "meaning": "nhân chứng"},
+    {"word": "notarize", "partOfSpeech": "v.", "ipa": "/ˈnəʊtəraɪz/", "meaning": "công chứng"},
+    {"word": "binding", "partOfSpeech": "adj.", "ipa": "/ˈbaɪndɪŋ/", "meaning": "ràng buộc"}
+  ]
+}

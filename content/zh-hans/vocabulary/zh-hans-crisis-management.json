@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "危机", "partOfSpeech": "noun", "ipa": "wēijī", "meaning": "khủng hoảng" },
+    { "word": "应对", "partOfSpeech": "verb", "ipa": "yìngduì", "meaning": "ứng phó" },
+    { "word": "预案", "partOfSpeech": "noun", "ipa": "yù'àn", "meaning": "phương án dự phòng" },
+    { "word": "通报", "partOfSpeech": "verb", "ipa": "tōngbào", "meaning": "thông báo" },
+    { "word": "协调", "partOfSpeech": "verb", "ipa": "xiétiáo", "meaning": "điều phối" },
+    { "word": "指挥", "partOfSpeech": "verb", "ipa": "zhǐhuī", "meaning": "chỉ huy" },
+    { "word": "现场", "partOfSpeech": "noun", "ipa": "xiànchǎng", "meaning": "hiện trường" },
+    { "word": "紧急", "partOfSpeech": "adjective", "ipa": "jǐnjí", "meaning": "khẩn cấp" },
+    { "word": "通讯", "partOfSpeech": "noun", "ipa": "tōngxùn", "meaning": "liên lạc" },
+    { "word": "资源", "partOfSpeech": "noun", "ipa": "zīyuán", "meaning": "nguồn lực" },
+    { "word": "调度", "partOfSpeech": "verb", "ipa": "diàodù", "meaning": "điều động" },
+    { "word": "评估", "partOfSpeech": "verb", "ipa": "pínggū", "meaning": "đánh giá" },
+    { "word": "稳定", "partOfSpeech": "adjective", "ipa": "wěndìng", "meaning": "ổn định" },
+    { "word": "舆情", "partOfSpeech": "noun", "ipa": "yúqíng", "meaning": "dư luận" },
+    { "word": "监测", "partOfSpeech": "verb", "ipa": "jiāncè", "meaning": "giám sát" },
+    { "word": "报警", "partOfSpeech": "verb", "ipa": "bàojǐng", "meaning": "báo động" },
+    { "word": "支援", "partOfSpeech": "verb", "ipa": "zhīyuán", "meaning": "chi viện" },
+    { "word": "物资", "partOfSpeech": "noun", "ipa": "wùzī", "meaning": "vật tư" },
+    { "word": "指南", "partOfSpeech": "noun", "ipa": "zhǐnán", "meaning": "hướng dẫn" },
+    { "word": "协议", "partOfSpeech": "noun", "ipa": "xiéyì", "meaning": "thỏa thuận" },
+    { "word": "恢复", "partOfSpeech": "verb", "ipa": "huīfù", "meaning": "phục hồi" },
+    { "word": "安置", "partOfSpeech": "verb", "ipa": "ānzhì", "meaning": "bố trí" },
+    { "word": "汇报", "partOfSpeech": "verb", "ipa": "huìbào", "meaning": "báo cáo tình hình" },
+    { "word": "应急中心", "partOfSpeech": "noun", "ipa": "yìngjí zhōngxīn", "meaning": "trung tâm ứng phó khẩn cấp" },
+    { "word": "复盘", "partOfSpeech": "verb", "ipa": "fùpán", "meaning": "rút kinh nghiệm" }
+  ]
+}

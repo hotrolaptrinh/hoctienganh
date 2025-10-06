@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "品牌", "partOfSpeech": "noun", "ipa": "pǐnpái", "meaning": "thương hiệu" },
+    { "word": "定位", "partOfSpeech": "noun", "ipa": "dìngwèi", "meaning": "định vị" },
+    { "word": "叙事", "partOfSpeech": "noun", "ipa": "xùshì", "meaning": "kể chuyện" },
+    { "word": "口碑", "partOfSpeech": "noun", "ipa": "kǒubēi", "meaning": "danh tiếng" },
+    { "word": "代言人", "partOfSpeech": "noun", "ipa": "dàiyánrén", "meaning": "đại sứ thương hiệu" },
+    { "word": "主张", "partOfSpeech": "noun", "ipa": "zhǔzhāng", "meaning": "tuyên ngôn" },
+    { "word": "调性", "partOfSpeech": "noun", "ipa": "diàoxìng", "meaning": "tông giọng" },
+    { "word": "视觉识别", "partOfSpeech": "noun", "ipa": "shìjué shíbié", "meaning": "nhận diện thị giác" },
+    { "word": "文案", "partOfSpeech": "noun", "ipa": "wén'àn", "meaning": "nội dung quảng cáo" },
+    { "word": "海报", "partOfSpeech": "noun", "ipa": "hǎibào", "meaning": "áp phích" },
+    { "word": "发布会", "partOfSpeech": "noun", "ipa": "fābùhuì", "meaning": "buổi ra mắt" },
+    { "word": "社群", "partOfSpeech": "noun", "ipa": "shèqún", "meaning": "cộng đồng" },
+    { "word": "口号", "partOfSpeech": "noun", "ipa": "kǒuhào", "meaning": "khẩu hiệu" },
+    { "word": "故事线", "partOfSpeech": "noun", "ipa": "gùshìxiàn", "meaning": "mạch truyện" },
+    { "word": "亮点", "partOfSpeech": "noun", "ipa": "liàngdiǎn", "meaning": "điểm nhấn" },
+    { "word": "品牌手册", "partOfSpeech": "noun", "ipa": "pǐnpái shǒucè", "meaning": "sổ tay thương hiệu" },
+    { "word": "内容矩阵", "partOfSpeech": "noun", "ipa": "nèiróng jǔzhèn", "meaning": "ma trận nội dung" },
+    { "word": "声量", "partOfSpeech": "noun", "ipa": "shēngliàng", "meaning": "độ phủ truyền thông" },
+    { "word": "转化", "partOfSpeech": "verb", "ipa": "zhuǎnhuà", "meaning": "chuyển đổi" },
+    { "word": "协同", "partOfSpeech": "verb", "ipa": "xiétóng", "meaning": "phối hợp" },
+    { "word": "情感连接", "partOfSpeech": "noun", "ipa": "qínggǎn liánjiē", "meaning": "kết nối cảm xúc" },
+    { "word": "品牌矩阵", "partOfSpeech": "noun", "ipa": "pǐnpái jǔzhèn", "meaning": "ma trận thương hiệu" },
+    { "word": "口吻", "partOfSpeech": "noun", "ipa": "kǒuwěn", "meaning": "giọng điệu" },
+    { "word": "声画同步", "partOfSpeech": "noun", "ipa": "shēnghuà tóngbù", "meaning": "đồng bộ âm hình" },
+    { "word": "核心价值", "partOfSpeech": "noun", "ipa": "héxīn jiàzhí", "meaning": "giá trị cốt lõi" }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 6 - Business Travel",
+  "words": [
+    {"word": "amenity", "partOfSpeech": "n.", "ipa": "/əˈmiːnəti/", "meaning": "tiện nghi"},
+    {"word": "baggage allowance", "partOfSpeech": "n. phr.", "ipa": "/ˈbæɡɪdʒ əˈlaʊəns/", "meaning": "hạn mức hành lý"},
+    {"word": "boarding pass", "partOfSpeech": "n. phr.", "ipa": "/ˈbɔːdɪŋ pɑːs/", "meaning": "thẻ lên máy bay"},
+    {"word": "cabin crew", "partOfSpeech": "n. phr.", "ipa": "/ˈkæbɪn kruː/", "meaning": "phi hành đoàn"},
+    {"word": "check-in", "partOfSpeech": "n.", "ipa": "/ˈtʃek ɪn/", "meaning": "làm thủ tục nhận phòng hoặc lên máy bay"},
+    {"word": "concierge", "partOfSpeech": "n.", "ipa": "/ˌkɒnsiˈeəʒ/", "meaning": "lễ tân hỗ trợ khách"},
+    {"word": "connecting flight", "partOfSpeech": "n. phr.", "ipa": "/kəˈnektɪŋ flaɪt/", "meaning": "chuyến bay nối chuyến"},
+    {"word": "currency exchange", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌrənsi ɪksˈtʃeɪndʒ/", "meaning": "quầy đổi tiền tệ"},
+    {"word": "customs", "partOfSpeech": "n.", "ipa": "/ˈkʌstəmz/", "meaning": "hải quan"},
+    {"word": "departure", "partOfSpeech": "n.", "ipa": "/dɪˈpɑːtʃə/", "meaning": "sự khởi hành"},
+    {"word": "destination", "partOfSpeech": "n.", "ipa": "/ˌdestɪˈneɪʃn/", "meaning": "điểm đến"},
+    {"word": "fare", "partOfSpeech": "n.", "ipa": "/feə/", "meaning": "giá vé"},
+    {"word": "gate", "partOfSpeech": "n.", "ipa": "/ɡeɪt/", "meaning": "cổng lên máy bay"},
+    {"word": "hospitality", "partOfSpeech": "n.", "ipa": "/ˌhɒspɪˈtæləti/", "meaning": "dịch vụ hiếu khách"},
+    {"word": "layover", "partOfSpeech": "n.", "ipa": "/ˈleɪəʊvə/", "meaning": "chặng dừng"},
+    {"word": "luggage", "partOfSpeech": "n.", "ipa": "/ˈlʌɡɪdʒ/", "meaning": "hành lý"},
+    {"word": "occupancy", "partOfSpeech": "n.", "ipa": "/ˈɒkjʊpənsi/", "meaning": "tỷ lệ lấp đầy"},
+    {"word": "reservation", "partOfSpeech": "n.", "ipa": "/ˌrezəˈveɪʃn/", "meaning": "đặt chỗ"},
+    {"word": "room service", "partOfSpeech": "n. phr.", "ipa": "/ˈruːm sɜːvɪs/", "meaning": "dịch vụ phòng"},
+    {"word": "shuttle", "partOfSpeech": "n.", "ipa": "/ˈʃʌtl/", "meaning": "xe đưa đón"},
+    {"word": "souvenir", "partOfSpeech": "n.", "ipa": "/ˌsuːvəˈnɪə/", "meaning": "quà lưu niệm"},
+    {"word": "surcharge", "partOfSpeech": "n.", "ipa": "/ˈsɜːtʃɑːdʒ/", "meaning": "phụ phí"},
+    {"word": "upgrade", "partOfSpeech": "v.", "ipa": "/ˈʌpɡreɪd/", "meaning": "nâng hạng"},
+    {"word": "visa", "partOfSpeech": "n.", "ipa": "/ˈviːzə/", "meaning": "thị thực"},
+    {"word": "waiting list", "partOfSpeech": "n. phr.", "ipa": "/ˈweɪtɪŋ lɪst/", "meaning": "danh sách chờ"}
+  ]
+}
