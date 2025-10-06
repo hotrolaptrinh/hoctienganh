@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "prompt": "'Clause' trong hợp đồng là gì?",
+      "options": [
+        "Điều khoản",
+        "Chữ ký",
+        "Phụ lục",
+        "Biên bản"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào mô tả việc chấm dứt hợp đồng?",
+      "options": [
+        "Termination",
+        "Retention",
+        "Submission",
+        "Promotion"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Confidentiality agreement' nhằm mục đích gì?",
+      "options": [
+        "Bảo mật thông tin",
+        "Tăng lương",
+        "Giảm giá",
+        "Mở rộng thị phần"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Từ nào chỉ bên ký hợp đồng cung cấp dịch vụ?",
+      "options": [
+        "Vendor",
+        "Auditor",
+        "Recruiter",
+        "Mentor"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Negotiation' trong hợp đồng nghĩa là gì?",
+      "options": [
+        "Đàm phán",
+        "Phê duyệt",
+        "Thẩm định",
+        "Xác thực"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào mô tả khoản bồi thường khi vi phạm hợp đồng?",
+      "options": [
+        "Penalty",
+        "Dividend",
+        "Invoice",
+        "Allowance"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Renewal' của hợp đồng có nghĩa là gì?",
+      "options": [
+        "Gia hạn",
+        "Bãi bỏ",
+        "Chuyển nhượng",
+        "Gom gộp"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Ai thường xem xét các điều khoản pháp lý?",
+      "options": [
+        "Legal counsel",
+        "Sales intern",
+        "HR assistant",
+        "IT support"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "'Scope of work' mô tả điều gì?",
+      "options": [
+        "Phạm vi công việc",
+        "Giá trị hợp đồng",
+        "Thời gian thanh toán",
+        "Lợi nhuận kỳ vọng"
+      ],
+      "answer": 0
+    },
+    {
+      "prompt": "Thuật ngữ nào chỉ phụ lục bổ sung cho hợp đồng?",
+      "options": [
+        "Addendum",
+        "Agenda",
+        "Algorithm",
+        "Adjective"
+      ],
+      "answer": 0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 11 - Project Management & Planning",
+  "words": [
+    {"word": "acceptance criteria", "partOfSpeech": "n. phr.", "ipa": "/əkˈseptəns kraɪˈtɪəriə/", "meaning": "tiêu chí nghiệm thu"},
+    {"word": "baseline", "partOfSpeech": "n.", "ipa": "/ˈbeɪslaɪn/", "meaning": "đường cơ sở"},
+    {"word": "charter", "partOfSpeech": "n.", "ipa": "/ˈtʃɑːtə/", "meaning": "bản điều lệ dự án"},
+    {"word": "change request", "partOfSpeech": "n. phr.", "ipa": "/tʃeɪndʒ rɪˈkwest/", "meaning": "yêu cầu thay đổi"},
+    {"word": "constraint", "partOfSpeech": "n.", "ipa": "/kənˈstreɪnt/", "meaning": "ràng buộc"},
+    {"word": "contingency plan", "partOfSpeech": "n. phr.", "ipa": "/kənˈtɪndʒənsi plæn/", "meaning": "kế hoạch dự phòng"},
+    {"word": "critical path", "partOfSpeech": "n. phr.", "ipa": "/ˈkrɪtɪkl pɑːθ/", "meaning": "đường găng"},
+    {"word": "deliverable", "partOfSpeech": "n.", "ipa": "/dɪˈlɪvərəbl/", "meaning": "hạng mục bàn giao"},
+    {"word": "dependency", "partOfSpeech": "n.", "ipa": "/dɪˈpendənsi/", "meaning": "mối phụ thuộc"},
+    {"word": "governance", "partOfSpeech": "n.", "ipa": "/ˈɡʌvənəns/", "meaning": "cơ chế quản trị"},
+    {"word": "issue log", "partOfSpeech": "n. phr.", "ipa": "/ˈɪʃuː lɒɡ/", "meaning": "sổ theo dõi vấn đề"},
+    {"word": "kickoff", "partOfSpeech": "n.", "ipa": "/ˈkɪkɒf/", "meaning": "buổi khởi động"},
+    {"word": "milestone", "partOfSpeech": "n.", "ipa": "/ˈmaɪlstəʊn/", "meaning": "cột mốc"},
+    {"word": "objective", "partOfSpeech": "n.", "ipa": "/əbˈdʒektɪv/", "meaning": "mục tiêu"},
+    {"word": "project scope", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒdʒekt skəʊp/", "meaning": "phạm vi dự án"},
+    {"word": "resource allocation", "partOfSpeech": "n. phr.", "ipa": "/rɪˈzɔːs ˌæləˈkeɪʃn/", "meaning": "phân bổ nguồn lực"},
+    {"word": "risk register", "partOfSpeech": "n. phr.", "ipa": "/rɪsk ˈredʒɪstə/", "meaning": "sổ đăng ký rủi ro"},
+    {"word": "stakeholder", "partOfSpeech": "n.", "ipa": "/ˈsteɪkˌhəʊldə/", "meaning": "bên liên quan"},
+    {"word": "status report", "partOfSpeech": "n. phr.", "ipa": "/ˈsteɪtəs rɪˈpɔːt/", "meaning": "báo cáo tiến độ"},
+    {"word": "task force", "partOfSpeech": "n. phr.", "ipa": "/ˈtɑːsk fɔːs/", "meaning": "đội chuyên trách"},
+    {"word": "timeline", "partOfSpeech": "n.", "ipa": "/ˈtaɪmlaɪn/", "meaning": "dòng thời gian"},
+    {"word": "work breakdown structure", "partOfSpeech": "n. phr.", "ipa": "/wɜːk ˈbreɪkdaʊn ˈstrʌktʃə/", "meaning": "cấu trúc phân rã công việc"},
+    {"word": "Gantt chart", "partOfSpeech": "n. phr.", "ipa": "/ɡænt tʃɑːt/", "meaning": "biểu đồ Gantt"},
+    {"word": "sprint", "partOfSpeech": "n.", "ipa": "/sprɪnt/", "meaning": "chu kỳ phát triển ngắn"},
+    {"word": "variance", "partOfSpeech": "n.", "ipa": "/ˈveəriəns/", "meaning": "độ lệch so với kế hoạch"}
+  ]
+}
