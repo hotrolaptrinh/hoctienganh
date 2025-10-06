@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 51 - Healthcare Administration & Medical Services",
+  "words": [
+    {"word": "healthcare administration", "partOfSpeech": "n. phr.", "ipa": "/ˈhɛlθkeə ədˌmɪnɪˈstreɪʃn/", "meaning": "quản trị y tế"},
+    {"word": "patient intake", "partOfSpeech": "n. phr.", "ipa": "/ˈpeɪʃnt ˈɪnteɪk/", "meaning": "tiếp nhận bệnh nhân"},
+    {"word": "outpatient", "partOfSpeech": "n./adj.", "ipa": "/ˈaʊtpeɪʃnt/", "meaning": "ngoại trú"},
+    {"word": "inpatient", "partOfSpeech": "n./adj.", "ipa": "/ˈɪnpeɪʃnt/", "meaning": "nội trú"},
+    {"word": "appointment scheduling", "partOfSpeech": "n. phr.", "ipa": "/əˈpɔɪntmənt ˈʃedjuːlɪŋ/", "meaning": "xếp lịch hẹn"},
+    {"word": "medical records", "partOfSpeech": "n. phr.", "ipa": "/ˈmedɪkl ˈrekɔːdz/", "meaning": "hồ sơ y tế"},
+    {"word": "electronic health record", "partOfSpeech": "n. phr.", "ipa": "/ɪˌlektrɒnɪk ˈhɛlθ ˈrekɔːd/", "meaning": "hồ sơ sức khỏe điện tử"},
+    {"word": "telehealth", "partOfSpeech": "n.", "ipa": "/ˈtɛlɪhɛlθ/", "meaning": "y tế từ xa"},
+    {"word": "care coordination", "partOfSpeech": "n. phr.", "ipa": "/keə kɔːˌɔːdɪˈneɪʃn/", "meaning": "phối hợp chăm sóc"},
+    {"word": "case management", "partOfSpeech": "n. phr.", "ipa": "/keɪs ˈmænɪdʒmənt/", "meaning": "quản lý ca bệnh"},
+    {"word": "triage", "partOfSpeech": "n./v.", "ipa": "/ˈtriːɑːʒ/", "meaning": "phân loại cấp cứu"},
+    {"word": "vital signs", "partOfSpeech": "n. phr.", "ipa": "/ˈvaɪtl saɪnz/", "meaning": "dấu hiệu sinh tồn"},
+    {"word": "diagnosis", "partOfSpeech": "n.", "ipa": "/ˌdaɪəɡˈnəʊsɪs/", "meaning": "chẩn đoán"},
+    {"word": "treatment plan", "partOfSpeech": "n. phr.", "ipa": "/ˈtriːtmənt plæn/", "meaning": "kế hoạch điều trị"},
+    {"word": "discharge summary", "partOfSpeech": "n. phr.", "ipa": "/ˈdɪstʃɑːdʒ ˈsʌməri/", "meaning": "tóm tắt xuất viện"},
+    {"word": "medical billing", "partOfSpeech": "n. phr.", "ipa": "/ˈmedɪkl ˈbɪlɪŋ/", "meaning": "lập hóa đơn y tế"},
+    {"word": "insurance claim", "partOfSpeech": "n. phr.", "ipa": "/ɪnˈʃʊərəns kleɪm/", "meaning": "yêu cầu bảo hiểm"},
+    {"word": "copayment", "partOfSpeech": "n.", "ipa": "/ˈkəʊpeɪmənt/", "meaning": "đồng chi trả"},
+    {"word": "prior authorization", "partOfSpeech": "n. phr.", "ipa": "/ˈpraɪə ˌɔːθərəˈzeɪʃn/", "meaning": "chấp thuận trước"},
+    {"word": "infection control", "partOfSpeech": "n. phr.", "ipa": "/ɪnˈfekʃn kənˈtrəʊl/", "meaning": "kiểm soát nhiễm khuẩn"},
+    {"word": "quality assurance", "partOfSpeech": "n. phr.", "ipa": "/ˈkwɒləti əˈʃʊərəns/", "meaning": "đảm bảo chất lượng"},
+    {"word": "hospital accreditation", "partOfSpeech": "n. phr.", "ipa": "/ˈhɒspɪtl əˌkrɛdɪˈteɪʃn/", "meaning": "chứng nhận bệnh viện"},
+    {"word": "staffing ratio", "partOfSpeech": "n. phr.", "ipa": "/ˈstɑːfɪŋ ˈreɪʃiəʊ/", "meaning": "tỷ lệ nhân lực"},
+    {"word": "patient satisfaction", "partOfSpeech": "n. phr.", "ipa": "/ˈpeɪʃnt ˌsætɪsˈfækʃn/", "meaning": "mức độ hài lòng của bệnh nhân"},
+    {"word": "incident reporting", "partOfSpeech": "n. phr.", "ipa": "/ˈɪnsɪdənt rɪˈpɔːtɪŋ/", "meaning": "báo cáo sự cố"}
+  ]
+}

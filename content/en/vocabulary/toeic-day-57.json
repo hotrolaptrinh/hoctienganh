@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 57 - Product Development & Innovation",
+  "words": [
+    {
+      "word": "ideation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌaɪdiˈeɪʃn/",
+      "meaning": "quá trình hình thành ý tưởng"
+    },
+    {
+      "word": "design thinking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈzaɪn ˈθɪŋkɪŋ/",
+      "meaning": "tư duy thiết kế"
+    },
+    {
+      "word": "user persona",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːzə pɜːˈsəʊnə/",
+      "meaning": "chân dung người dùng"
+    },
+    {
+      "word": "pain point",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/peɪn pɔɪnt/",
+      "meaning": "điểm đau khách hàng"
+    },
+    {
+      "word": "value proposition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈvæljuː ˌprɒpəˈzɪʃn/",
+      "meaning": "đề xuất giá trị"
+    },
+    {
+      "word": "prototype",
+      "partOfSpeech": "n./v.",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "meaning": "mẫu thử"
+    },
+    {
+      "word": "minimum viable product",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/",
+      "meaning": "sản phẩm khả dụng tối thiểu"
+    },
+    {
+      "word": "beta testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbeɪtə ˈtestɪŋ/",
+      "meaning": "thử nghiệm beta"
+    },
+    {
+      "word": "feature backlog",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə ˈbæklɒɡ/",
+      "meaning": "danh sách tính năng tồn"
+    },
+    {
+      "word": "roadmap",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈrəʊdmæp/",
+      "meaning": "lộ trình"
+    },
+    {
+      "word": "sprint planning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sprɪnt ˈplænɪŋ/",
+      "meaning": "lên kế hoạch sprint"
+    },
+    {
+      "word": "cross-functional team",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/krɒs ˈfʌŋkʃənl tiːm/",
+      "meaning": "nhóm liên chức năng"
+    },
+    {
+      "word": "product-market fit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈmɑːkɪt fɪt/",
+      "meaning": "phù hợp sản phẩm - thị trường"
+    },
+    {
+      "word": "launch readiness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɔːntʃ ˈredinəs/",
+      "meaning": "mức độ sẵn sàng ra mắt"
+    },
+    {
+      "word": "feature adoption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːtʃə əˈdɒpʃn/",
+      "meaning": "mức độ sử dụng tính năng"
+    },
+    {
+      "word": "innovation funnel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃn ˈfʌnl/",
+      "meaning": "phễu đổi mới"
+    },
+    {
+      "word": "stage-gate process",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/steɪdʒ ɡeɪt ˈprəʊses/",
+      "meaning": "quy trình cổng giai đoạn"
+    },
+    {
+      "word": "intellectual property",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/",
+      "meaning": "sở hữu trí tuệ"
+    },
+    {
+      "word": "patent filing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpætnt ˈfaɪlɪŋ/",
+      "meaning": "nộp bằng sáng chế"
+    },
+    {
+      "word": "competitive analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈpetətɪv əˈnæləsɪs/",
+      "meaning": "phân tích đối thủ"
+    },
+    {
+      "word": "customer validation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˌvælɪˈdeɪʃn/",
+      "meaning": "xác thực với khách hàng"
+    },
+    {
+      "word": "pilot launch",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaɪlət lɔːntʃ/",
+      "meaning": "ra mắt thử nghiệm"
+    },
+    {
+      "word": "product lifecycle",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈlaɪksaɪkl/",
+      "meaning": "vòng đời sản phẩm"
+    },
+    {
+      "word": "sunset plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsʌnset plæn/",
+      "meaning": "kế hoạch ngừng sản phẩm"
+    },
+    {
+      "word": "innovation metric",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃn ˈmetrɪk/",
+      "meaning": "chỉ số đổi mới"
+    }
+  ]
+}

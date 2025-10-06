@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 65 - Energy & Sustainability",
+  "words": [
+    {
+      "word": "renewable energy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl ˈenədʒi/",
+      "meaning": "năng lượng tái tạo"
+    },
+    {
+      "word": "solar panel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsəʊlə ˈpænəl/",
+      "meaning": "tấm pin mặt trời"
+    },
+    {
+      "word": "wind turbine",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/wɪnd ˈtɜːbaɪn/",
+      "meaning": "tua-bin gió"
+    },
+    {
+      "word": "energy efficiency",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ɪˈfɪʃnsi/",
+      "meaning": "hiệu suất năng lượng"
+    },
+    {
+      "word": "carbon footprint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːbən ˈfʊtprɪnt/",
+      "meaning": "dấu chân carbon"
+    },
+    {
+      "word": "greenhouse gas",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡriːnhaʊs ɡæs/",
+      "meaning": "khí nhà kính"
+    },
+    {
+      "word": "emission reduction",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪˈmɪʃn rɪˈdʌkʃn/",
+      "meaning": "giảm phát thải"
+    },
+    {
+      "word": "carbon offset",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːbən ˈɒfset/",
+      "meaning": "bù đắp carbon"
+    },
+    {
+      "word": "sustainability report",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˌsteɪnəˈbɪləti rɪˈpɔːt/",
+      "meaning": "báo cáo bền vững"
+    },
+    {
+      "word": "ESG rating",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/iː es dʒiː ˈreɪtɪŋ/",
+      "meaning": "xếp hạng ESG"
+    },
+    {
+      "word": "energy audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ˈɔːdɪt/",
+      "meaning": "đánh giá năng lượng"
+    },
+    {
+      "word": "net-zero target",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/net ˈzɪərəʊ ˈtɑːɡɪt/",
+      "meaning": "mục tiêu phát thải ròng bằng 0"
+    },
+    {
+      "word": "renewable portfolio standard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈnjuːəbl pɔːtˈfəʊliəʊ ˈstændəd/",
+      "meaning": "tiêu chuẩn danh mục tái tạo"
+    },
+    {
+      "word": "feed-in tariff",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fiːd ɪn ˈtærɪf/",
+      "meaning": "biểu giá mua điện"
+    },
+    {
+      "word": "power purchase agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaʊə ˈpɜːtʃəs əˈɡriːmənt/",
+      "meaning": "hợp đồng mua bán điện"
+    },
+    {
+      "word": "grid integration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɪd ˌɪntɪˈɡreɪʃn/",
+      "meaning": "kết nối lưới điện"
+    },
+    {
+      "word": "energy storage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈenədʒi ˈstɔːrɪdʒ/",
+      "meaning": "lưu trữ năng lượng"
+    },
+    {
+      "word": "battery capacity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbætəri kəˈpæsəti/",
+      "meaning": "dung lượng pin"
+    },
+    {
+      "word": "life-cycle assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlaɪf ˌsaɪkl əˈsesmənt/",
+      "meaning": "đánh giá vòng đời"
+    },
+    {
+      "word": "environmental compliance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˌvaɪrənˈmentl kəmˈplaɪəns/",
+      "meaning": "tuân thủ môi trường"
+    },
+    {
+      "word": "carbon pricing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɑːbən ˈpraɪsɪŋ/",
+      "meaning": "định giá carbon"
+    },
+    {
+      "word": "sustainability roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/səˌsteɪnəˈbɪləti ˈrəʊdmæp/",
+      "meaning": "lộ trình phát triển bền vững"
+    },
+    {
+      "word": "green bond",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡriːn bɒnd/",
+      "meaning": "trái phiếu xanh"
+    },
+    {
+      "word": "circular economy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌsɜːkjʊlər ɪˈkɒnəmi/",
+      "meaning": "kinh tế tuần hoàn"
+    },
+    {
+      "word": "climate resilience",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈklaɪmət rɪˈzɪliəns/",
+      "meaning": "khả năng chống chịu khí hậu"
+    }
+  ]
+}

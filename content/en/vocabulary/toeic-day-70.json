@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 70 - Public Policy & Government",
+  "words": [
+    {
+      "word": "public policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpʌblɪk ˈpɒləsi/",
+      "meaning": "chính sách công"
+    },
+    {
+      "word": "legislation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌledʒɪsˈleɪʃn/",
+      "meaning": "pháp luật"
+    },
+    {
+      "word": "regulatory agency",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjʊlətəri ˈeɪdʒənsi/",
+      "meaning": "cơ quan quản lý"
+    },
+    {
+      "word": "policy brief",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɒləsi briːf/",
+      "meaning": "tài liệu tóm tắt chính sách"
+    },
+    {
+      "word": "stakeholder consultation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə ˌkɒnsʌlˈteɪʃn/",
+      "meaning": "tham vấn bên liên quan"
+    },
+    {
+      "word": "public hearing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpʌblɪk ˈhɪərɪŋ/",
+      "meaning": "phiên điều trần công khai"
+    },
+    {
+      "word": "draft bill",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/drɑːft bɪl/",
+      "meaning": "dự thảo luật"
+    },
+    {
+      "word": "amendment",
+      "partOfSpeech": "n.",
+      "ipa": "/əˈmendmənt/",
+      "meaning": "sửa đổi"
+    },
+    {
+      "word": "ordinance",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈɔːdɪnəns/",
+      "meaning": "sắc lệnh"
+    },
+    {
+      "word": "government decree",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡʌvənmənt dɪˈkriː/",
+      "meaning": "nghị định"
+    },
+    {
+      "word": "civil service",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɪvl ˈsɜːvɪs/",
+      "meaning": "công chức nhà nước"
+    },
+    {
+      "word": "procurement procedure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈkjʊəmənt prəˈsiːdʒə/",
+      "meaning": "quy trình mua sắm"
+    },
+    {
+      "word": "budget appropriation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbʌdʒɪt əˌprəʊprɪˈeɪʃn/",
+      "meaning": "phân bổ ngân sách"
+    },
+    {
+      "word": "fiscal year",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfɪskl jɪə/",
+      "meaning": "năm tài khóa"
+    },
+    {
+      "word": "transparency portal",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trænsˈpærənsi ˈpɔːtl/",
+      "meaning": "cổng công khai thông tin"
+    },
+    {
+      "word": "accountability report",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˌkaʊntəˈbɪləti rɪˈpɔːt/",
+      "meaning": "báo cáo trách nhiệm giải trình"
+    },
+    {
+      "word": "performance indicator",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pəˈfɔːməns ˈɪndɪkeɪtə/",
+      "meaning": "chỉ số hiệu quả"
+    },
+    {
+      "word": "impact assessment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪmpækt əˈsesmənt/",
+      "meaning": "đánh giá tác động"
+    },
+    {
+      "word": "policy implementation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpɒləsi ˌɪmplɪmenˈteɪʃn/",
+      "meaning": "triển khai chính sách"
+    },
+    {
+      "word": "monitoring and evaluation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɒnɪtərɪŋ ænd ɪˌvæljuˈeɪʃn/",
+      "meaning": "giám sát và đánh giá"
+    },
+    {
+      "word": "citizen feedback",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɪtɪzn ˈfiːdbæk/",
+      "meaning": "phản hồi người dân"
+    },
+    {
+      "word": "public-private partnership",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpʌblɪk ˈpraɪvət ˈpɑːtnəʃɪp/",
+      "meaning": "hợp tác công tư"
+    },
+    {
+      "word": "social welfare program",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsəʊʃl ˈwelfeə ˈprəʊɡræm/",
+      "meaning": "chương trình phúc lợi"
+    },
+    {
+      "word": "grant funding",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrɑːnt ˈfʌndɪŋ/",
+      "meaning": "nguồn tài trợ"
+    },
+    {
+      "word": "compliance audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˈɔːdɪt/",
+      "meaning": "kiểm toán tuân thủ"
+    }
+  ]
+}
