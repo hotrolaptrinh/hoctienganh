@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 37 - Real Estate & Facilities",
+  "words": [
+    {"word": "lease agreement", "partOfSpeech": "n. phr.", "ipa": "/liːs əˈɡriːmənt/", "meaning": "hợp đồng thuê"},
+    {"word": "tenant", "partOfSpeech": "n.", "ipa": "/ˈtenənt/", "meaning": "người thuê"},
+    {"word": "landlord", "partOfSpeech": "n.", "ipa": "/ˈlændlɔːd/", "meaning": "chủ nhà"},
+    {"word": "security deposit", "partOfSpeech": "n. phr.", "ipa": "/sɪˈkjʊərəti dɪˈpɒzɪt/", "meaning": "tiền đặt cọc"},
+    {"word": "occupancy permit", "partOfSpeech": "n. phr.", "ipa": "/ˈɒkjʊpənsi ˈpɜːmɪt/", "meaning": "giấy phép sử dụng"},
+    {"word": "square footage", "partOfSpeech": "n. phr.", "ipa": "/skweə ˈfʊtɪdʒ/", "meaning": "diện tích (foot vuông)"},
+    {"word": "amenities", "partOfSpeech": "n.", "ipa": "/əˈmenɪtiz/", "meaning": "tiện ích"},
+    {"word": "common area", "partOfSpeech": "n. phr.", "ipa": "/ˈkɒmən ˈeəriə/", "meaning": "khu vực chung"},
+    {"word": "maintenance fee", "partOfSpeech": "n. phr.", "ipa": "/ˈmeɪntənəns fiː/", "meaning": "phí bảo trì"},
+    {"word": "property appraisal", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒpəti əˈpreɪzl/", "meaning": "định giá bất động sản"},
+    {"word": "facility management", "partOfSpeech": "n. phr.", "ipa": "/fəˈsɪləti ˈmænɪdʒmənt/", "meaning": "quản lý cơ sở vật chất"},
+    {"word": "preventive maintenance", "partOfSpeech": "n. phr.", "ipa": "/prɪˈventɪv ˈmeɪntənəns/", "meaning": "bảo trì phòng ngừa"},
+    {"word": "work order", "partOfSpeech": "n. phr.", "ipa": "/wɜːk ˈɔːdə/", "meaning": "lệnh sửa chữa"},
+    {"word": "retrofit", "partOfSpeech": "v.", "ipa": "/ˈretrəʊfɪt/", "meaning": "nâng cấp cải tạo"},
+    {"word": "building code", "partOfSpeech": "n. phr.", "ipa": "/ˈbɪldɪŋ kəʊd/", "meaning": "quy chuẩn xây dựng"},
+    {"word": "evacuation drill", "partOfSpeech": "n. phr.", "ipa": "/ɪˌvækjuˈeɪʃn drɪl/", "meaning": "diễn tập sơ tán"},
+    {"word": "floor plan", "partOfSpeech": "n. phr.", "ipa": "/flɔː plæn/", "meaning": "mặt bằng"},
+    {"word": "open house", "partOfSpeech": "n. phr.", "ipa": "/ˈəʊpən haʊs/", "meaning": "buổi mở cửa tham quan"},
+    {"word": "property listing", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒpəti ˈlɪstɪŋ/", "meaning": "tin đăng bất động sản"},
+    {"word": "triple net lease", "partOfSpeech": "n. phr.", "ipa": "/ˌtrɪpl net liːs/", "meaning": "hợp đồng thuê net ba"},
+    {"word": "escrow", "partOfSpeech": "n.", "ipa": "/ˈeskroʊ/", "meaning": "tài khoản ủy thác"},
+    {"word": "sublease", "partOfSpeech": "n.", "ipa": "/ˈsʌbliːs/", "meaning": "hợp đồng cho thuê lại"},
+    {"word": "tenant improvement", "partOfSpeech": "n. phr.", "ipa": "/ˈtenənt ɪmˈpruːvmənt/", "meaning": "cải tạo theo yêu cầu người thuê"},
+    {"word": "energy audit", "partOfSpeech": "n. phr.", "ipa": "/ˈenədʒi ˈɔːdɪt/", "meaning": "kiểm toán năng lượng"},
+    {"word": "occupancy sensor", "partOfSpeech": "n. phr.", "ipa": "/ˈɒkjʊpənsi ˈsensə/", "meaning": "cảm biến hiện diện"}
+  ]
+}

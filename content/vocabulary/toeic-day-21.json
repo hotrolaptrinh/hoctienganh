@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 21 - Workplace Communication & Meetings",
+  "words": [
+    {"word": "agenda", "partOfSpeech": "n.", "ipa": "/əˈdʒendə/", "meaning": "chương trình họp"},
+    {"word": "minutes", "partOfSpeech": "n. pl.", "ipa": "/ˈmɪnɪts/", "meaning": "biên bản cuộc họp"},
+    {"word": "facilitator", "partOfSpeech": "n.", "ipa": "/fəˈsɪlɪteɪtə/", "meaning": "người điều phối"},
+    {"word": "discussion", "partOfSpeech": "n.", "ipa": "/dɪˈskʌʃn/", "meaning": "thảo luận"},
+    {"word": "action item", "partOfSpeech": "n. phr.", "ipa": "/ˈækʃn ˈaɪtəm/", "meaning": "đầu việc cần làm"},
+    {"word": "follow-up", "partOfSpeech": "n.", "ipa": "/ˈfɒləʊ ʌp/", "meaning": "bước tiếp theo"},
+    {"word": "teleconference", "partOfSpeech": "n.", "ipa": "/ˈtelikɒnfrəns/", "meaning": "cuộc họp từ xa"},
+    {"word": "webinar", "partOfSpeech": "n.", "ipa": "/ˈwebɪnɑː/", "meaning": "hội thảo trực tuyến"},
+    {"word": "presentation", "partOfSpeech": "n.", "ipa": "/ˌpreznˈteɪʃn/", "meaning": "bài trình bày"},
+    {"word": "briefing", "partOfSpeech": "n.", "ipa": "/ˈbriːfɪŋ/", "meaning": "buổi phổ biến"},
+    {"word": "clarification", "partOfSpeech": "n.", "ipa": "/ˌklærɪfɪˈkeɪʃn/", "meaning": "làm rõ"},
+    {"word": "consensus", "partOfSpeech": "n.", "ipa": "/kənˈsensəs/", "meaning": "đồng thuận"},
+    {"word": "feedback loop", "partOfSpeech": "n. phr.", "ipa": "/ˈfiːdbæk luːp/", "meaning": "vòng phản hồi"},
+    {"word": "interruption", "partOfSpeech": "n.", "ipa": "/ˌɪntəˈrʌpʃn/", "meaning": "sự gián đoạn"},
+    {"word": "negotiation", "partOfSpeech": "n.", "ipa": "/nɪˌɡəʊʃiˈeɪʃn/", "meaning": "đàm phán"},
+    {"word": "resolution", "partOfSpeech": "n.", "ipa": "/ˌrezəˈluːʃn/", "meaning": "giải pháp"},
+    {"word": "escalation", "partOfSpeech": "n.", "ipa": "/ˌeskəˈleɪʃn/", "meaning": "sự chuyển cấp"},
+    {"word": "stakeholder update", "partOfSpeech": "n. phr.", "ipa": "/ˈsteɪkˌhəʊldə ˈʌpdeɪt/", "meaning": "cập nhật cho bên liên quan"},
+    {"word": "alignment", "partOfSpeech": "n.", "ipa": "/əˈlaɪnmənt/", "meaning": "sự thống nhất"},
+    {"word": "status report", "partOfSpeech": "n. phr.", "ipa": "/ˈsteɪtəs rɪˈpɔːt/", "meaning": "báo cáo tiến độ"},
+    {"word": "timekeeper", "partOfSpeech": "n.", "ipa": "/ˈtaɪmˌkiːpə/", "meaning": "người canh thời gian"},
+    {"word": "wrap-up", "partOfSpeech": "n.", "ipa": "/ˈræp ʌp/", "meaning": "phần kết thúc"},
+    {"word": "Q&A session", "partOfSpeech": "n. phr.", "ipa": "/ˌkjuː ən ˈeɪ ˈseʃn/", "meaning": "phần hỏi đáp"},
+    {"word": "announcement", "partOfSpeech": "n.", "ipa": "/əˈnaʊnsmənt/", "meaning": "thông báo"},
+    {"word": "note-taking", "partOfSpeech": "n.", "ipa": "/ˈnəʊt ˌteɪkɪŋ/", "meaning": "việc ghi chép"}
+  ]
+}

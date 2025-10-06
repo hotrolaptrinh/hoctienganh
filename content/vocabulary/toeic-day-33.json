@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 33 - Digital Marketing Analytics",
+  "words": [
+    {"word": "conversion rate", "partOfSpeech": "n. phr.", "ipa": "/kənˈvɜːʃn reɪt/", "meaning": "tỷ lệ chuyển đổi"},
+    {"word": "click-through", "partOfSpeech": "n.", "ipa": "/ˈklɪk θruː/", "meaning": "lượt nhấp"},
+    {"word": "bounce rate", "partOfSpeech": "n. phr.", "ipa": "/baʊns reɪt/", "meaning": "tỷ lệ thoát"},
+    {"word": "session duration", "partOfSpeech": "n. phr.", "ipa": "/ˈseʃn djʊəˈreɪʃn/", "meaning": "thời lượng phiên"},
+    {"word": "funnel", "partOfSpeech": "n.", "ipa": "/ˈfʌnl/", "meaning": "phễu bán hàng"},
+    {"word": "attribution", "partOfSpeech": "n.", "ipa": "/ˌætrɪˈbjuːʃn/", "meaning": "gán doanh thu"},
+    {"word": "organic traffic", "partOfSpeech": "n. phr.", "ipa": "/ɔːˈɡænɪk ˈtræfɪk/", "meaning": "lưu lượng tự nhiên"},
+    {"word": "paid media", "partOfSpeech": "n. phr.", "ipa": "/peɪd ˈmiːdiə/", "meaning": "truyền thông trả phí"},
+    {"word": "cost per click", "partOfSpeech": "n. phr.", "ipa": "/kɒst pə klɪk/", "meaning": "chi phí cho mỗi lần nhấp"},
+    {"word": "return on ad spend", "partOfSpeech": "n. phr.", "ipa": "/rɪˈtɜːn ɒn æd spend/", "meaning": "lợi nhuận trên chi phí quảng cáo"},
+    {"word": "A/B testing", "partOfSpeech": "n. phr.", "ipa": "/ˌeɪ biː ˈtestɪŋ/", "meaning": "thử nghiệm A/B"},
+    {"word": "heatmap", "partOfSpeech": "n.", "ipa": "/ˈhiːtmæp/", "meaning": "bản đồ nhiệt"},
+    {"word": "retargeting", "partOfSpeech": "n.", "ipa": "/ˌriːˈtɑːɡɪtɪŋ/", "meaning": "tiếp thị lại"},
+    {"word": "lead quality", "partOfSpeech": "n. phr.", "ipa": "/liːd ˈkwɒləti/", "meaning": "chất lượng khách hàng tiềm năng"},
+    {"word": "data studio", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈstjuːdiəʊ/", "meaning": "bảng điều khiển dữ liệu"},
+    {"word": "lookalike audience", "partOfSpeech": "n. phr.", "ipa": "/ˈlʊkəlaɪk ˈɔːdiəns/", "meaning": "tệp khách hàng tương tự"},
+    {"word": "segmentation", "partOfSpeech": "n.", "ipa": "/ˌseɡmenˈteɪʃn/", "meaning": "phân khúc"},
+    {"word": "lifetime value", "partOfSpeech": "n. phr.", "ipa": "/ˈlaɪftaɪm ˈvæljuː/", "meaning": "giá trị vòng đời"},
+    {"word": "marketing automation", "partOfSpeech": "n. phr.", "ipa": "/ˈmɑːkɪtɪŋ ˌɔːtəˈmeɪʃn/", "meaning": "tự động hóa marketing"},
+    {"word": "dashboard", "partOfSpeech": "n.", "ipa": "/ˈdæʃbɔːd/", "meaning": "bảng điều khiển"},
+    {"word": "campaign performance", "partOfSpeech": "n. phr.", "ipa": "/kæmˈpeɪn pəˈfɔːməns/", "meaning": "hiệu suất chiến dịch"},
+    {"word": "keyword ranking", "partOfSpeech": "n. phr.", "ipa": "/ˈkiːwɜːd ˈræŋkɪŋ/", "meaning": "thứ hạng từ khóa"},
+    {"word": "impression", "partOfSpeech": "n.", "ipa": "/ɪmˈpreʃn/", "meaning": "lượt hiển thị"},
+    {"word": "social listening", "partOfSpeech": "n. phr.", "ipa": "/ˈsəʊʃl ˈlɪsənɪŋ/", "meaning": "lắng nghe mạng xã hội"},
+    {"word": "predictive model", "partOfSpeech": "n. phr.", "ipa": "/prɪˈdɪktɪv ˈmɒdl/", "meaning": "mô hình dự đoán"}
+  ]
+}

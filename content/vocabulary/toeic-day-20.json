@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 20 - Training & People Development",
+  "words": [
+    {"word": "orientation", "partOfSpeech": "n.", "ipa": "/ˌɔːriənˈteɪʃn/", "meaning": "định hướng"},
+    {"word": "onboarding", "partOfSpeech": "n.", "ipa": "/ˈɒnbɔːdɪŋ/", "meaning": "hội nhập nhân viên"},
+    {"word": "mentorship", "partOfSpeech": "n.", "ipa": "/ˈmentɔːʃɪp/", "meaning": "sự cố vấn"},
+    {"word": "coaching", "partOfSpeech": "n.", "ipa": "/ˈkəʊtʃɪŋ/", "meaning": "huấn luyện"},
+    {"word": "workshop", "partOfSpeech": "n.", "ipa": "/ˈwɜːkʃɒp/", "meaning": "buổi thực hành"},
+    {"word": "seminar", "partOfSpeech": "n.", "ipa": "/ˈsemɪnɑː/", "meaning": "hội thảo"},
+    {"word": "assessment", "partOfSpeech": "n.", "ipa": "/əˈsesmənt/", "meaning": "đánh giá"},
+    {"word": "competency", "partOfSpeech": "n.", "ipa": "/ˈkɒmpɪtənsi/", "meaning": "năng lực"},
+    {"word": "succession planning", "partOfSpeech": "n. phr.", "ipa": "/səkˈseʃn ˈplænɪŋ/", "meaning": "kế hoạch kế nhiệm"},
+    {"word": "retention", "partOfSpeech": "n.", "ipa": "/rɪˈtenʃn/", "meaning": "giữ chân nhân viên"},
+    {"word": "engagement", "partOfSpeech": "n.", "ipa": "/ɪnˈɡeɪdʒmənt/", "meaning": "mức độ gắn kết"},
+    {"word": "morale", "partOfSpeech": "n.", "ipa": "/məˈrɑːl/", "meaning": "tinh thần"},
+    {"word": "incentive", "partOfSpeech": "n.", "ipa": "/ɪnˈsentɪv/", "meaning": "khích lệ"},
+    {"word": "appraisal", "partOfSpeech": "n.", "ipa": "/əˈpreɪzl/", "meaning": "đánh giá hiệu suất"},
+    {"word": "feedback", "partOfSpeech": "n.", "ipa": "/ˈfiːdbæk/", "meaning": "phản hồi"},
+    {"word": "career path", "partOfSpeech": "n. phr.", "ipa": "/kəˈrɪə pɑːθ/", "meaning": "lộ trình nghề nghiệp"},
+    {"word": "learning curve", "partOfSpeech": "n. phr.", "ipa": "/ˈlɜːnɪŋ kɜːv/", "meaning": "đường cong học tập"},
+    {"word": "skills certification", "partOfSpeech": "n. phr.", "ipa": "/skɪlz ˌsɜːtɪfɪˈkeɪʃn/", "meaning": "chứng nhận kỹ năng"},
+    {"word": "e-learning", "partOfSpeech": "n.", "ipa": "/ˌiː ˈlɜːnɪŋ/", "meaning": "học trực tuyến"},
+    {"word": "soft skills", "partOfSpeech": "n. phr.", "ipa": "/ˈsɒft skɪlz/", "meaning": "kỹ năng mềm"},
+    {"word": "leadership", "partOfSpeech": "n.", "ipa": "/ˈliːdəʃɪp/", "meaning": "năng lực lãnh đạo"},
+    {"word": "teamwork", "partOfSpeech": "n.", "ipa": "/ˈtiːmwɜːk/", "meaning": "làm việc nhóm"},
+    {"word": "motivation", "partOfSpeech": "n.", "ipa": "/ˌməʊtɪˈveɪʃn/", "meaning": "động lực"},
+    {"word": "facilitation", "partOfSpeech": "n.", "ipa": "/fəˌsɪlɪˈteɪʃn/", "meaning": "điều phối"},
+    {"word": "trainer", "partOfSpeech": "n.", "ipa": "/ˈtreɪnə/", "meaning": "giảng viên huấn luyện"}
+  ]
+}

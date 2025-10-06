@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 22 - Sales Strategy & Negotiation",
+  "words": [
+    {"word": "prospect", "partOfSpeech": "n.", "ipa": "/ˈprɒspekt/", "meaning": "khách hàng tiềm năng"},
+    {"word": "lead", "partOfSpeech": "n.", "ipa": "/liːd/", "meaning": "đầu mối liên hệ"},
+    {"word": "pipeline", "partOfSpeech": "n.", "ipa": "/ˈpaɪplaɪn/", "meaning": "chuỗi cơ hội bán hàng"},
+    {"word": "sales pitch", "partOfSpeech": "n. phr.", "ipa": "/seɪlz pɪtʃ/", "meaning": "bài chào hàng"},
+    {"word": "demonstration", "partOfSpeech": "n.", "ipa": "/ˌdemənˈstreɪʃn/", "meaning": "buổi trình diễn sản phẩm"},
+    {"word": "objection", "partOfSpeech": "n.", "ipa": "/əbˈdʒekʃn/", "meaning": "lời phản đối"},
+    {"word": "rebuttal", "partOfSpeech": "n.", "ipa": "/rɪˈbʌtl/", "meaning": "lập luận phản hồi"},
+    {"word": "concession", "partOfSpeech": "n.", "ipa": "/kənˈseʃn/", "meaning": "sự nhượng bộ"},
+    {"word": "counteroffer", "partOfSpeech": "n.", "ipa": "/ˈkaʊntərˌɒfə/", "meaning": "đề nghị đáp trả"},
+    {"word": "bargaining power", "partOfSpeech": "n. phr.", "ipa": "/ˈbɑːɡənɪŋ ˈpaʊə/", "meaning": "quyền thương lượng"},
+    {"word": "close", "partOfSpeech": "v.", "ipa": "/kləʊz/", "meaning": "chốt giao dịch"},
+    {"word": "closing rate", "partOfSpeech": "n. phr.", "ipa": "/ˈkləʊzɪŋ reɪt/", "meaning": "tỷ lệ chốt đơn"},
+    {"word": "quota", "partOfSpeech": "n.", "ipa": "/ˈkwəʊtə/", "meaning": "chỉ tiêu doanh số"},
+    {"word": "territory", "partOfSpeech": "n.", "ipa": "/ˈterɪtəri/", "meaning": "khu vực phụ trách"},
+    {"word": "incentive", "partOfSpeech": "n.", "ipa": "/ɪnˈsentɪv/", "meaning": "ưu đãi khích lệ"},
+    {"word": "commission", "partOfSpeech": "n.", "ipa": "/kəˈmɪʃn/", "meaning": "hoa hồng"},
+    {"word": "upsell", "partOfSpeech": "v.", "ipa": "/ˈʌpˌsel/", "meaning": "bán nâng hạng"},
+    {"word": "cross-sell", "partOfSpeech": "v.", "ipa": "/ˈkrɒs sel/", "meaning": "bán kèm sản phẩm"},
+    {"word": "value proposition", "partOfSpeech": "n. phr.", "ipa": "/ˈvæljuː ˌprɒpəˈzɪʃn/", "meaning": "đề xuất giá trị"},
+    {"word": "rapport", "partOfSpeech": "n.", "ipa": "/ræˈpɔː/", "meaning": "quan hệ thân thiết"},
+    {"word": "testimonial", "partOfSpeech": "n.", "ipa": "/ˌtestɪˈməʊniəl/", "meaning": "lời chứng thực"},
+    {"word": "reference check", "partOfSpeech": "n. phr.", "ipa": "/ˈrefərəns tʃek/", "meaning": "kiểm tra tham chiếu"},
+    {"word": "contract renewal", "partOfSpeech": "n. phr.", "ipa": "/ˈkɒntrækt rɪˈnjuːəl/", "meaning": "gia hạn hợp đồng"},
+    {"word": "sales collateral", "partOfSpeech": "n. phr.", "ipa": "/seɪlz kəˈlætərəl/", "meaning": "tài liệu hỗ trợ bán hàng"},
+    {"word": "CRM entry", "partOfSpeech": "n. phr.", "ipa": "/ˌsiːɑːrˈem ˈentri/", "meaning": "mục nhập CRM"}
+  ]
+}

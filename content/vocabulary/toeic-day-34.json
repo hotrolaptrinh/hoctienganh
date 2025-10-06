@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 34 - Supply Chain Resilience",
+  "words": [
+    {"word": "procurement", "partOfSpeech": "n.", "ipa": "/prəˈkjʊəmənt/", "meaning": "thu mua"},
+    {"word": "supplier diversification", "partOfSpeech": "n. phr.", "ipa": "/səˈplaɪə daɪˌvɜːsɪfɪˈkeɪʃn/", "meaning": "đa dạng hóa nhà cung cấp"},
+    {"word": "buffer stock", "partOfSpeech": "n. phr.", "ipa": "/ˈbʌfə stɒk/", "meaning": "tồn kho đệm"},
+    {"word": "lead time", "partOfSpeech": "n. phr.", "ipa": "/liːd taɪm/", "meaning": "thời gian cung ứng"},
+    {"word": "demand planning", "partOfSpeech": "n. phr.", "ipa": "/dɪˈmɑːnd ˈplænɪŋ/", "meaning": "lập kế hoạch nhu cầu"},
+    {"word": "safety stock", "partOfSpeech": "n. phr.", "ipa": "/ˈseɪfti stɒk/", "meaning": "tồn kho an toàn"},
+    {"word": "reorder point", "partOfSpeech": "n. phr.", "ipa": "/riːˈɔːdə pɔɪnt/", "meaning": "điểm đặt hàng lại"},
+    {"word": "supplier onboarding", "partOfSpeech": "n. phr.", "ipa": "/səˈplaɪə ˈɒnbɔːdɪŋ/", "meaning": "kết nạp nhà cung cấp"},
+    {"word": "compliance audit", "partOfSpeech": "n. phr.", "ipa": "/kəmˈplaɪəns ˈɔːdɪt/", "meaning": "kiểm toán tuân thủ"},
+    {"word": "traceability", "partOfSpeech": "n.", "ipa": "/ˌtreɪsəˈbɪləti/", "meaning": "khả năng truy xuất"},
+    {"word": "shipment visibility", "partOfSpeech": "n. phr.", "ipa": "/ˈʃɪpmənt ˌvɪzəˈbɪləti/", "meaning": "tầm nhìn vận chuyển"},
+    {"word": "bottleneck", "partOfSpeech": "n.", "ipa": "/ˈbɒtlnɛk/", "meaning": "điểm nghẽn"},
+    {"word": "dual sourcing", "partOfSpeech": "n. phr.", "ipa": "/ˈdjuːəl ˈsɔːsɪŋ/", "meaning": "nguồn cung kép"},
+    {"word": "freight forwarder", "partOfSpeech": "n. phr.", "ipa": "/freɪt ˈfɔːwədə/", "meaning": "đại lý giao nhận"},
+    {"word": "customs clearance", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmz ˈklɪərəns/", "meaning": "thông quan"},
+    {"word": "incoterms", "partOfSpeech": "n.", "ipa": "/ˈɪŋkəʊtɜːmz/", "meaning": "điều kiện thương mại quốc tế"},
+    {"word": "container shortage", "partOfSpeech": "n. phr.", "ipa": "/kənˈteɪnə ˈʃɔːtɪdʒ/", "meaning": "thiếu container"},
+    {"word": "supplier scorecard", "partOfSpeech": "n. phr.", "ipa": "/səˈplaɪə ˈskɔːkɑːd/", "meaning": "thẻ điểm nhà cung cấp"},
+    {"word": "order fulfillment", "partOfSpeech": "n. phr.", "ipa": "/ˈɔːdə fʊlˈfɪlmənt/", "meaning": "thực hiện đơn hàng"},
+    {"word": "expedite", "partOfSpeech": "v.", "ipa": "/ˈekspədaɪt/", "meaning": "đẩy nhanh"},
+    {"word": "resilience", "partOfSpeech": "n.", "ipa": "/rɪˈzɪliəns/", "meaning": "khả năng chống chịu"},
+    {"word": "risk mitigation", "partOfSpeech": "n. phr.", "ipa": "/rɪsk ˌmɪtɪˈɡeɪʃn/", "meaning": "giảm thiểu rủi ro"},
+    {"word": "vendor-managed inventory", "partOfSpeech": "n. phr.", "ipa": "/ˈvendə ˈmænɪdʒd ˈɪnvəntɔːri/", "meaning": "tồn kho do nhà cung cấp quản lý"},
+    {"word": "supply disruption", "partOfSpeech": "n. phr.", "ipa": "/səˈplaɪ dɪsˈrʌpʃn/", "meaning": "gián đoạn nguồn cung"},
+    {"word": "contingency plan", "partOfSpeech": "n. phr.", "ipa": "/kənˈtɪndʒənsi plæn/", "meaning": "kế hoạch dự phòng"}
+  ]
+}
