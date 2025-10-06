@@ -7,6 +7,8 @@
   --text-dark: #e5e7eb;
   --primary: #2563eb;
   --primary-dark: #60a5fa;
+  --secondary: #0e4797;
+  --secondary-dark: #779bcc;
   --card-bg: #ffffffcc;
   --card-border: rgba(15, 23, 42, 0.08);
   --muted: #6b7280;
@@ -88,7 +90,6 @@ header .subtitle {
 }
 
 .language-selector select {
-  border-radius: 999px;
   border: 1px solid var(--card-border);
   padding: 4px 10px;
   font-size: 0.85rem;
@@ -235,7 +236,7 @@ table.vocabulary {
   border-radius: 14px;
   overflow: hidden;
   box-shadow: var(--shadow);
-  min-width: 520px;
+  min-width: 480px;
   table-layout: fixed;
 }
 
@@ -262,7 +263,7 @@ table.vocabulary col.col-word {
 }
 
 table.vocabulary col.col-pos {
-  width: 13%;
+  width: 8%;
 }
 
 table.vocabulary col.col-ipa {
@@ -270,7 +271,7 @@ table.vocabulary col.col-ipa {
 }
 
 table.vocabulary col.col-meaning {
-  width: 45%;
+  width: 48%;
 }
 
 table.vocabulary td:nth-child(2) {
@@ -302,7 +303,7 @@ table.vocabulary tr:last-child td {
 }
 
 .layout-header h2 a {
-  color: inherit;
+  color: var(--secondary);
   text-decoration: none;
   display: inline-flex;
   padding-bottom: 6px;
@@ -690,4 +691,13 @@ table.vocabulary tr:last-child td {
   table.vocabulary td {
     padding: 7px 9px;
   }
+}
+a{
+  text-decoration: none;
+}
+/* a:visited {
+  color: inherit;
+} */
+.text-secondary {
+  color: var(--secondary);
 }

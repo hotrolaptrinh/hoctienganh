@@ -37,7 +37,7 @@ function formatPartOfSpeech(value = '') {
 }
 
 function getLessonButtonLabel(status) {
-  return status === 'đang học' ? 'Đang học' : 'Học tiếp';
+  return status === 'đang học' ? 'Đang học' : 'Bắt đầu';
 }
 
 const state = {
@@ -174,12 +174,6 @@ function getLanguageLabel(languageKey) {
   return language?.label || languageKey;
 }
 
-function renderLanguageSubtitle() {
-  if (!state.language) return '';
-  const label = getLanguageLabel(state.language);
-  return `<p class="subtitle">Đang học: ${escapeHtml(label)}</p>`;
-}
-
 function renderLanguageSelector() {
   const languages = state.data?.languages || {};
   const entries = Object.entries(languages);
@@ -192,22 +186,19 @@ function renderLanguageSelector() {
     .join('');
   return `
     <div class="language-selector">
-      <label for="language-select">Ngôn ngữ</label>
       <select id="language-select">${options}</select>
     </div>
   `;
 }
 
 function renderHeader(title, extras = '') {
-  const subtitle = renderLanguageSubtitle();
   const languageSelector = renderLanguageSelector();
   const actions = [languageSelector, extras].filter(Boolean).join('');
   const actionsBlock = actions ? `<div class="header-actions">${actions}</div>` : '';
   return `
     <header>
       <div>
-        <h1>${escapeHtml(title)}</h1>
-        ${subtitle}
+        <h1><a href="#/" class="text-secondary">${escapeHtml(title)}</a></h1>
       </div>
       ${actionsBlock}
     </header>
@@ -278,7 +269,7 @@ function renderTOC() {
     .join('');
 
   appEl.innerHTML = `
-    ${renderHeader('Ứng dụng học ngoại ngữ')}
+    ${renderHeader('LinguaBox')}
     ${renderBreadcrumb([{ label: 'Mục lục' }])}
     ${categoryBlocks || '<div class="empty"><p>Chưa có bài học nào.</p></div>'}
   `;
@@ -312,9 +303,8 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
       <tr>
         <td>${item.word}</td>
         <td>${formatPartOfSpeech(item.partOfSpeech)}</td>
-        <td>${item.ipa}</td>
+        <td><a data-say="${encodeURIComponent(item.word)}" href="javascript:void(0)">${item.ipa}</a></td>
         <td>${item.meaning}</td>
-        <td><button class="button secondary" data-say="${encodeURIComponent(item.word)}">Đọc</button></td>
       </tr>
     `,
     )
@@ -333,15 +323,13 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
             <col class="col-pos" />
             <col class="col-ipa" />
             <col class="col-meaning" />
-            <col class="col-audio" />
           </colgroup>
           <thead>
             <tr>
               <th>Từ vựng</th>
-              <th>Từ loại</th>
+              <th>Loại</th>
               <th>IPA</th>
               <th>Nghĩa</th>
-              <th>Phát âm</th>
             </tr>
           </thead>
           <tbody>${tableRows}</tbody>
@@ -460,7 +448,7 @@ async function renderLesson(category, lessonId) {
     }
 
     appEl.innerHTML = `
-      ${renderHeader('Ứng dụng học ngoại ngữ')}
+      ${renderHeader('LinguaBox')}
       ${renderBreadcrumb([
         { label: 'Mục lục', href: '#/' },
         { label: state.index.labels?.[category] || category, href: `#/category/${category}` },
@@ -491,7 +479,7 @@ function attachLessonInteractions(category, lesson) {
   }
 
   if (category === 'vocabulary') {
-    container.querySelectorAll('button[data-say]').forEach((button) => {
+    container.querySelectorAll('a[data-say]').forEach((button) => {
       button.addEventListener('click', () => {
         const text = decodeURIComponent(button.getAttribute('data-say'));
         if ('speechSynthesis' in window) {
@@ -613,7 +601,7 @@ function renderCategoryOverview(category) {
     .join('');
 
   appEl.innerHTML = `
-    ${renderHeader('Ứng dụng học ngoại ngữ')}
+    ${renderHeader('LinguaBox')}
     ${renderBreadcrumb([
       { label: 'Mục lục', href: '#/' },
       { label: state.index.labels?.[category] || category },
