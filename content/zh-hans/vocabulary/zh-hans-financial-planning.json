@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "财务规划", "partOfSpeech": "noun", "ipa": "cáiwù guīhuà", "meaning": "lập kế hoạch tài chính" },
+    { "word": "预算", "partOfSpeech": "noun", "ipa": "yùsuàn", "meaning": "ngân sách" },
+    { "word": "现金流", "partOfSpeech": "noun", "ipa": "xiànjīnliú", "meaning": "dòng tiền" },
+    { "word": "盈亏", "partOfSpeech": "noun", "ipa": "yíngkuī", "meaning": "lãi lỗ" },
+    { "word": "收益", "partOfSpeech": "noun", "ipa": "shōuyì", "meaning": "doanh thu" },
+    { "word": "成本", "partOfSpeech": "noun", "ipa": "chéngběn", "meaning": "chi phí" },
+    { "word": "折旧", "partOfSpeech": "noun", "ipa": "zhéjiù", "meaning": "khấu hao" },
+    { "word": "资产", "partOfSpeech": "noun", "ipa": "zīchǎn", "meaning": "tài sản" },
+    { "word": "负债", "partOfSpeech": "noun", "ipa": "fùzhài", "meaning": "nợ phải trả" },
+    { "word": "权益", "partOfSpeech": "noun", "ipa": "quányì", "meaning": "vốn chủ sở hữu" },
+    { "word": "报表", "partOfSpeech": "noun", "ipa": "bàobiǎo", "meaning": "báo cáo tài chính" },
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự báo" },
+    { "word": "资金池", "partOfSpeech": "noun", "ipa": "zījīn chí", "meaning": "quỹ tiền" },
+    { "word": "拨款", "partOfSpeech": "verb", "ipa": "bōkuǎn", "meaning": "cấp kinh phí" },
+    { "word": "审计", "partOfSpeech": "noun", "ipa": "shěnjì", "meaning": "kiểm toán" },
+    { "word": "税务", "partOfSpeech": "noun", "ipa": "shuìwù", "meaning": "thuế vụ" },
+    { "word": "净利润", "partOfSpeech": "noun", "ipa": "jìng lìrùn", "meaning": "lợi nhuận ròng" },
+    { "word": "资本开支", "partOfSpeech": "noun", "ipa": "zīběn kāizhī", "meaning": "chi phí vốn" },
+    { "word": "营运资金", "partOfSpeech": "noun", "ipa": "yíngyùn zījīn", "meaning": "vốn lưu động" },
+    { "word": "偿债能力", "partOfSpeech": "noun", "ipa": "chángzhài nénglì", "meaning": "khả năng thanh toán nợ" },
+    { "word": "敏感性分析", "partOfSpeech": "noun", "ipa": "mǐngǎnxìng fēnxī", "meaning": "phân tích độ nhạy" },
+    { "word": "情景规划", "partOfSpeech": "noun", "ipa": "qíngjǐng guīhuà", "meaning": "lập kế hoạch kịch bản" },
+    { "word": "对标", "partOfSpeech": "verb", "ipa": "duìbiāo", "meaning": "so sánh chuẩn" },
+    { "word": "预算执行", "partOfSpeech": "noun", "ipa": "yùsuàn zhíxíng", "meaning": "thực thi ngân sách" },
+    { "word": "滚动预测", "partOfSpeech": "noun", "ipa": "gǔndòng yùcè", "meaning": "dự báo cuốn chiếu" }
+  ]
+}

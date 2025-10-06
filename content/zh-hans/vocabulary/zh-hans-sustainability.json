@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "可持续", "partOfSpeech": "adjective", "ipa": "kěchíxù", "meaning": "bền vững" },
+    { "word": "节能", "partOfSpeech": "noun", "ipa": "jiénéng", "meaning": "tiết kiệm năng lượng" },
+    { "word": "减排", "partOfSpeech": "verb", "ipa": "jiǎnpái", "meaning": "giảm phát thải" },
+    { "word": "碳足迹", "partOfSpeech": "noun", "ipa": "tàn zújì", "meaning": "dấu chân carbon" },
+    { "word": "可再生能源", "partOfSpeech": "noun", "ipa": "kězàishēng néngyuán", "meaning": "năng lượng tái tạo" },
+    { "word": "回收", "partOfSpeech": "verb", "ipa": "huíshōu", "meaning": "tái chế" },
+    { "word": "分类", "partOfSpeech": "verb", "ipa": "fēnlèi", "meaning": "phân loại" },
+    { "word": "绿色供应链", "partOfSpeech": "noun", "ipa": "lǜsè gōngyìngliàn", "meaning": "chuỗi cung ứng xanh" },
+    { "word": "审核", "partOfSpeech": "verb", "ipa": "shěnhé", "meaning": "thẩm định" },
+    { "word": "认证", "partOfSpeech": "noun", "ipa": "rènzhèng", "meaning": "chứng nhận" },
+    { "word": "指标", "partOfSpeech": "noun", "ipa": "zhǐbiāo", "meaning": "chỉ số" },
+    { "word": "报告", "partOfSpeech": "noun", "ipa": "bàogào", "meaning": "báo cáo" },
+    { "word": "透明度", "partOfSpeech": "noun", "ipa": "tòumíngdù", "meaning": "tính minh bạch" },
+    { "word": "社会责任", "partOfSpeech": "noun", "ipa": "shèhuì zérèn", "meaning": "trách nhiệm xã hội" },
+    { "word": "公益", "partOfSpeech": "noun", "ipa": "gōngyì", "meaning": "công ích" },
+    { "word": "志愿者", "partOfSpeech": "noun", "ipa": "zhìyuànzhě", "meaning": "tình nguyện viên" },
+    { "word": "培训", "partOfSpeech": "noun", "ipa": "péixùn", "meaning": "đào tạo" },
+    { "word": "宣传", "partOfSpeech": "verb", "ipa": "xuānchuán", "meaning": "tuyên truyền" },
+    { "word": "改进", "partOfSpeech": "verb", "ipa": "gǎijìn", "meaning": "cải thiện" },
+    { "word": "目标值", "partOfSpeech": "noun", "ipa": "mùbiāozhí", "meaning": "giá trị mục tiêu" },
+    { "word": "成效", "partOfSpeech": "noun", "ipa": "chéngxiào", "meaning": "hiệu quả" },
+    { "word": "评估", "partOfSpeech": "verb", "ipa": "pínggū", "meaning": "đánh giá" },
+    { "word": "伙伴", "partOfSpeech": "noun", "ipa": "huǒbàn", "meaning": "đối tác" },
+    { "word": "合作", "partOfSpeech": "verb", "ipa": "hézuò", "meaning": "hợp tác" },
+    { "word": "创新", "partOfSpeech": "noun", "ipa": "chuàngxīn", "meaning": "đổi mới" }
+  ]
+}

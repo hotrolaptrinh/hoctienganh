@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "战略", "partOfSpeech": "noun", "ipa": "zhànlüè", "meaning": "chiến lược" },
+    { "word": "愿景", "partOfSpeech": "noun", "ipa": "yuànjǐng", "meaning": "tầm nhìn" },
+    { "word": "使命", "partOfSpeech": "noun", "ipa": "shǐmìng", "meaning": "sứ mệnh" },
+    { "word": "目标", "partOfSpeech": "noun", "ipa": "mùbiāo", "meaning": "mục tiêu" },
+    { "word": "定位", "partOfSpeech": "noun", "ipa": "dìngwèi", "meaning": "định vị" },
+    { "word": "竞争力", "partOfSpeech": "noun", "ipa": "jìngzhēnglì", "meaning": "năng lực cạnh tranh" },
+    { "word": "优势", "partOfSpeech": "noun", "ipa": "yōushì", "meaning": "lợi thế" },
+    { "word": "差异化", "partOfSpeech": "noun", "ipa": "chāyìhuà", "meaning": "khác biệt hóa" },
+    { "word": "增长", "partOfSpeech": "noun", "ipa": "zēngzhǎng", "meaning": "tăng trưởng" },
+    { "word": "布局", "partOfSpeech": "noun", "ipa": "bùjú", "meaning": "bố cục" },
+    { "word": "并购", "partOfSpeech": "noun", "ipa": "bìnggòu", "meaning": "mua bán sáp nhập" },
+    { "word": "联盟", "partOfSpeech": "noun", "ipa": "liánméng", "meaning": "liên minh" },
+    { "word": "投资", "partOfSpeech": "noun", "ipa": "tóuzī", "meaning": "đầu tư" },
+    { "word": "回报", "partOfSpeech": "noun", "ipa": "huíbào", "meaning": "lợi tức" },
+    { "word": "风险", "partOfSpeech": "noun", "ipa": "fēngxiǎn", "meaning": "rủi ro" },
+    { "word": "资源配置", "partOfSpeech": "noun", "ipa": "zīyuán pèizhì", "meaning": "phân bổ nguồn lực" },
+    { "word": "关键举措", "partOfSpeech": "noun", "ipa": "guānjiàn jǔcuò", "meaning": "hành động trọng tâm" },
+    { "word": "执行", "partOfSpeech": "verb", "ipa": "zhíxíng", "meaning": "thực thi" },
+    { "word": "监测", "partOfSpeech": "verb", "ipa": "jiāncè", "meaning": "theo dõi" },
+    { "word": "评估", "partOfSpeech": "verb", "ipa": "pínggū", "meaning": "đánh giá" },
+    { "word": "转型", "partOfSpeech": "verb", "ipa": "zhuǎnxíng", "meaning": "chuyển đổi" },
+    { "word": "创新", "partOfSpeech": "noun", "ipa": "chuàngxīn", "meaning": "đổi mới" },
+    { "word": "路线图", "partOfSpeech": "noun", "ipa": "lùxiàntú", "meaning": "lộ trình" },
+    { "word": "利益相关者", "partOfSpeech": "noun", "ipa": "lìyì xiāngguān zhě", "meaning": "các bên liên quan" },
+    { "word": "年度计划", "partOfSpeech": "noun", "ipa": "niándù jìhuà", "meaning": "kế hoạch năm" }
+  ]
+}

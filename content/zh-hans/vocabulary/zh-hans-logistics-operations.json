@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "物流", "partOfSpeech": "noun", "ipa": "wùliú", "meaning": "logistics" },
+    { "word": "仓库", "partOfSpeech": "noun", "ipa": "cāngkù", "meaning": "kho hàng" },
+    { "word": "库存", "partOfSpeech": "noun", "ipa": "kùcún", "meaning": "tồn kho" },
+    { "word": "货物", "partOfSpeech": "noun", "ipa": "huòwù", "meaning": "hàng hóa" },
+    { "word": "包装", "partOfSpeech": "noun", "ipa": "bāozhuāng", "meaning": "đóng gói" },
+    { "word": "装载", "partOfSpeech": "verb", "ipa": "zhuāngzài", "meaning": "xếp hàng" },
+    { "word": "卸货", "partOfSpeech": "verb", "ipa": "xièhuò", "meaning": "dỡ hàng" },
+    { "word": "配送", "partOfSpeech": "verb", "ipa": "pèisòng", "meaning": "giao phát" },
+    { "word": "路线", "partOfSpeech": "noun", "ipa": "lùxiàn", "meaning": "tuyến đường" },
+    { "word": "司机", "partOfSpeech": "noun", "ipa": "sījī", "meaning": "tài xế" },
+    { "word": "车次", "partOfSpeech": "noun", "ipa": "chēcì", "meaning": "chuyến xe" },
+    { "word": "延误", "partOfSpeech": "noun", "ipa": "yánwù", "meaning": "trễ hẹn" },
+    { "word": "签收", "partOfSpeech": "verb", "ipa": "qiānshōu", "meaning": "ký nhận" },
+    { "word": "仓管", "partOfSpeech": "noun", "ipa": "cāngguǎn", "meaning": "quản lý kho" },
+    { "word": "条码", "partOfSpeech": "noun", "ipa": "tiáomǎ", "meaning": "mã vạch" },
+    { "word": "扫描", "partOfSpeech": "verb", "ipa": "sǎomiáo", "meaning": "quét" },
+    { "word": "盘点", "partOfSpeech": "verb", "ipa": "pándiǎn", "meaning": "kiểm kê" },
+    { "word": "安全", "partOfSpeech": "noun", "ipa": "ānquán", "meaning": "an toàn" },
+    { "word": "保管", "partOfSpeech": "verb", "ipa": "bǎoguǎn", "meaning": "bảo quản" },
+    { "word": "冷链", "partOfSpeech": "noun", "ipa": "lěngliàn", "meaning": "chuỗi lạnh" },
+    { "word": "运费", "partOfSpeech": "noun", "ipa": "yùnfèi", "meaning": "cước vận chuyển" },
+    { "word": "装运单", "partOfSpeech": "noun", "ipa": "zhuāngyùn dān", "meaning": "vận đơn" },
+    { "word": "调度", "partOfSpeech": "verb", "ipa": "diàodù", "meaning": "điều phối" },
+    { "word": "堆放", "partOfSpeech": "verb", "ipa": "duīfàng", "meaning": "xếp chồng" },
+    { "word": "保质期", "partOfSpeech": "noun", "ipa": "bǎozhìqī", "meaning": "hạn sử dụng" }
+  ]
+}

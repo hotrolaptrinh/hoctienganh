@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 40 - Banking & Insurance",
+  "words": [
+    {"word": "savings account", "partOfSpeech": "n. phr.", "ipa": "/ˈseɪvɪŋz əˈkaʊnt/", "meaning": "tài khoản tiết kiệm"},
+    {"word": "checking account", "partOfSpeech": "n. phr.", "ipa": "/ˈtʃekɪŋ əˈkaʊnt/", "meaning": "tài khoản thanh toán"},
+    {"word": "interest rate", "partOfSpeech": "n. phr.", "ipa": "/ˈɪntrəst reɪt/", "meaning": "lãi suất"},
+    {"word": "compound interest", "partOfSpeech": "n. phr.", "ipa": "/ˌkɒmpaʊnd ˈɪntrəst/", "meaning": "lãi kép"},
+    {"word": "credit limit", "partOfSpeech": "n. phr.", "ipa": "/ˈkredɪt ˈlɪmɪt/", "meaning": "hạn mức tín dụng"},
+    {"word": "loan officer", "partOfSpeech": "n. phr.", "ipa": "/ləʊn ˈɒfɪsə/", "meaning": "chuyên viên tín dụng"},
+    {"word": "underwriting", "partOfSpeech": "n.", "ipa": "/ˈʌndəˌraɪtɪŋ/", "meaning": "thẩm định"},
+    {"word": "collateral", "partOfSpeech": "n.", "ipa": "/kəˈlætərəl/", "meaning": "tài sản thế chấp"},
+    {"word": "installment", "partOfSpeech": "n.", "ipa": "/ɪnˈstɔːlmənt/", "meaning": "khoản trả góp"},
+    {"word": "mortgage", "partOfSpeech": "n.", "ipa": "/ˈmɔːɡɪdʒ/", "meaning": "thế chấp nhà"},
+    {"word": "amortization", "partOfSpeech": "n.", "ipa": "/ˌæmɔːtaɪˈzeɪʃn/", "meaning": "khấu hao/khấu trừ dần"},
+    {"word": "premium", "partOfSpeech": "n.", "ipa": "/ˈpriːmiəm/", "meaning": "phí bảo hiểm"},
+    {"word": "deductible", "partOfSpeech": "n.", "ipa": "/dɪˈdʌktəbl/", "meaning": "mức khấu trừ"},
+    {"word": "claim", "partOfSpeech": "n.", "ipa": "/kleɪm/", "meaning": "yêu cầu bồi thường"},
+    {"word": "policyholder", "partOfSpeech": "n.", "ipa": "/ˈpɒlɪsihəʊldə/", "meaning": "người giữ hợp đồng bảo hiểm"},
+    {"word": "coverage", "partOfSpeech": "n.", "ipa": "/ˈkʌvərɪdʒ/", "meaning": "phạm vi bảo hiểm"},
+    {"word": "risk profile", "partOfSpeech": "n. phr.", "ipa": "/rɪsk ˈprəʊfaɪl/", "meaning": "hồ sơ rủi ro"},
+    {"word": "creditworthiness", "partOfSpeech": "n.", "ipa": "/ˈkredɪtwɜːðinəs/", "meaning": "độ tín nhiệm"},
+    {"word": "balance sheet", "partOfSpeech": "n. phr.", "ipa": "/ˈbælən(t)s ʃiːt/", "meaning": "bảng cân đối kế toán"},
+    {"word": "liquidity", "partOfSpeech": "n.", "ipa": "/lɪˈkwɪdəti/", "meaning": "tính thanh khoản"},
+    {"word": "wire transfer", "partOfSpeech": "n. phr.", "ipa": "/ˈwaɪə ˈtrænsfɜː/", "meaning": "chuyển khoản điện tử"},
+    {"word": "online banking", "partOfSpeech": "n. phr.", "ipa": "/ˈɒnlaɪn ˈbæŋkɪŋ/", "meaning": "ngân hàng trực tuyến"},
+    {"word": "fraud detection", "partOfSpeech": "n. phr.", "ipa": "/frɔːd dɪˈtekʃn/", "meaning": "phát hiện gian lận"},
+    {"word": "grace period", "partOfSpeech": "n. phr.", "ipa": "/ɡreɪs ˈpɪəriəd/", "meaning": "thời gian ân hạn"},
+    {"word": "revolving credit", "partOfSpeech": "n. phr.", "ipa": "/rɪˈvɒlvɪŋ ˈkredɪt/", "meaning": "tín dụng quay vòng"}
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "财务", "partOfSpeech": "noun", "ipa": "cáiwù", "meaning": "tài chính" },
+    { "word": "预算", "partOfSpeech": "noun", "ipa": "yùsuàn", "meaning": "ngân sách" },
+    { "word": "成本", "partOfSpeech": "noun", "ipa": "chéngběn", "meaning": "chi phí" },
+    { "word": "收益", "partOfSpeech": "noun", "ipa": "shōuyì", "meaning": "doanh thu" },
+    { "word": "利润", "partOfSpeech": "noun", "ipa": "lìrùn", "meaning": "lợi nhuận" },
+    { "word": "报表", "partOfSpeech": "noun", "ipa": "bàobiǎo", "meaning": "báo cáo" },
+    { "word": "现金流", "partOfSpeech": "noun", "ipa": "xiànjīnliú", "meaning": "dòng tiền" },
+    { "word": "资产", "partOfSpeech": "noun", "ipa": "zīchǎn", "meaning": "tài sản" },
+    { "word": "负债", "partOfSpeech": "noun", "ipa": "fùzhài", "meaning": "nợ phải trả" },
+    { "word": "折旧", "partOfSpeech": "noun", "ipa": "zhéjiù", "meaning": "khấu hao" },
+    { "word": "发票", "partOfSpeech": "noun", "ipa": "fāpiào", "meaning": "hóa đơn" },
+    { "word": "报销", "partOfSpeech": "verb", "ipa": "bàoxiāo", "meaning": "hoàn ứng" },
+    { "word": "审计", "partOfSpeech": "noun", "ipa": "shěnjì", "meaning": "kiểm toán" },
+    { "word": "税率", "partOfSpeech": "noun", "ipa": "shuìlǜ", "meaning": "thuế suất" },
+    { "word": "增值税", "partOfSpeech": "noun", "ipa": "zēngzhíshuì", "meaning": "thuế giá trị gia tăng" },
+    { "word": "应收账款", "partOfSpeech": "noun", "ipa": "yīngshōu zhàngkuǎn", "meaning": "công nợ phải thu" },
+    { "word": "应付账款", "partOfSpeech": "noun", "ipa": "yīngfù zhàngkuǎn", "meaning": "công nợ phải trả" },
+    { "word": "对账", "partOfSpeech": "verb", "ipa": "duìzhàng", "meaning": "đối soát" },
+    { "word": "利润率", "partOfSpeech": "noun", "ipa": "lìrùnlǜ", "meaning": "tỷ suất lợi nhuận" },
+    { "word": "季度", "partOfSpeech": "noun", "ipa": "jìdù", "meaning": "quý" },
+    { "word": "年报", "partOfSpeech": "noun", "ipa": "niánbào", "meaning": "báo cáo năm" },
+    { "word": "预测", "partOfSpeech": "verb", "ipa": "yùcè", "meaning": "dự báo" },
+    { "word": "盈亏平衡", "partOfSpeech": "noun", "ipa": "yíngkuī pínghéng", "meaning": "điểm hòa vốn" },
+    { "word": "资金", "partOfSpeech": "noun", "ipa": "zījīn", "meaning": "nguồn vốn" },
+    { "word": "审批", "partOfSpeech": "verb", "ipa": "shěnpī", "meaning": "phê duyệt" }
+  ]
+}

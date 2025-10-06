@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "prompt": "Từ nào có nghĩa là 'chia sẻ màn hình'?",
+      "options": ["麦克风", "屏幕共享", "附件", "静音"],
+      "answer": 1
+    },
+    {
+      "prompt": "Chọn pinyin đúng của từ '议程'.",
+      "options": ["yìchéng", "yìchéngg", "yìzhéng", "yǐchéng"],
+      "answer": 0
+    },
+    {
+      "prompt": "Câu nào sử dụng đúng cấu trúc '正在'?",
+      "options": ["我们正在开视频会议。", "我们正正在开会。", "我们在正在讨论。", "我们没正在准备。"],
+      "answer": 0
+    },
+    {
+      "prompt": "Để nói 'xác nhận đã nhận', bạn dùng cụm nào?",
+      "options": ["确认收悉", "抄送", "回复", "邀请"],
+      "answer": 0
+    },
+    {
+      "prompt": "Từ nào thuộc loại động từ?",
+      "options": ["总结", "资料", "反馈", "会议室"],
+      "answer": 0
+    },
+    {
+      "prompt": "Với câu '请把资料发给客户', từ nào đứng sau '把'?",
+      "options": ["请", "资料", "发给", "客户"],
+      "answer": 1
+    },
+    {
+      "prompt": "Câu nào thể hiện phủ định đúng của '正在'?",
+      "options": ["他们不正在讨论。", "他们没在讨论。", "他们没有正在讨论着。", "他们在没讨论。"],
+      "answer": 1
+    },
+    {
+      "prompt": "'附件' dùng trong tình huống nào?",
+      "options": ["Tổ chức họp", "Gửi email", "Đặt lịch hẹn", "Gọi điện"],
+      "answer": 1
+    },
+    {
+      "prompt": "Chọn nghĩa đúng của '改期'.",
+      "options": ["Hủy cuộc họp", "Dời lịch", "Thêm người", "Gửi báo cáo"],
+      "answer": 1
+    },
+    {
+      "prompt": "Trong đoạn đọc về khách hàng, câu nào phù hợp với nội dung?",
+      "options": ["王磊忘记带资料。", "采购经理拒绝了提案。", "双方约定周五前确认报价。", "没有人提到售后服务。"],
+      "answer": 2
+    }
+  ]
+}
