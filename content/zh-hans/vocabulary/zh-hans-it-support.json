@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "工单", "partOfSpeech": "noun", "ipa": "gōngdān", "meaning": "phiếu hỗ trợ" },
+    { "word": "报障", "partOfSpeech": "verb", "ipa": "bàozhàng", "meaning": "báo lỗi" },
+    { "word": "排查", "partOfSpeech": "verb", "ipa": "páichá", "meaning": "kiểm tra loại trừ" },
+    { "word": "重启", "partOfSpeech": "verb", "ipa": "chóngqǐ", "meaning": "khởi động lại" },
+    { "word": "补丁", "partOfSpeech": "noun", "ipa": "bǔdīng", "meaning": "bản vá" },
+    { "word": "权限", "partOfSpeech": "noun", "ipa": "quánxiàn", "meaning": "quyền truy cập" },
+    { "word": "工位", "partOfSpeech": "noun", "ipa": "gōngwèi", "meaning": "chỗ làm việc" },
+    { "word": "远程", "partOfSpeech": "adjective", "ipa": "yuǎnchéng", "meaning": "từ xa" },
+    { "word": "网络延迟", "partOfSpeech": "noun", "ipa": "wǎngluò yánchí", "meaning": "độ trễ mạng" },
+    { "word": "带宽", "partOfSpeech": "noun", "ipa": "dàikuān", "meaning": "băng thông" },
+    { "word": "备份", "partOfSpeech": "verb", "ipa": "bèifèn", "meaning": "sao lưu" },
+    { "word": "恢复", "partOfSpeech": "verb", "ipa": "huīfù", "meaning": "khôi phục" },
+    { "word": "监控", "partOfSpeech": "verb", "ipa": "jiānkòng", "meaning": "giám sát" },
+    { "word": "日志", "partOfSpeech": "noun", "ipa": "rìzhì", "meaning": "log" },
+    { "word": "诊断", "partOfSpeech": "verb", "ipa": "zhěnduàn", "meaning": "chẩn đoán" },
+    { "word": "告警", "partOfSpeech": "noun", "ipa": "gàojǐng", "meaning": "cảnh báo" },
+    { "word": "值班", "partOfSpeech": "verb", "ipa": "zhíbān", "meaning": "trực ca" },
+    { "word": "响应时间", "partOfSpeech": "noun", "ipa": "xiǎngyìng shíjiān", "meaning": "thời gian phản hồi" },
+    { "word": "升级", "partOfSpeech": "verb", "ipa": "shēngjí", "meaning": "nâng cấp" },
+    { "word": "故障单", "partOfSpeech": "noun", "ipa": "gùzhàng dān", "meaning": "phiếu sự cố" },
+    { "word": "知识库", "partOfSpeech": "noun", "ipa": "zhīshìkù", "meaning": "kho tri thức" },
+    { "word": "标准操作", "partOfSpeech": "noun", "ipa": "biāozhǔn cāozuò", "meaning": "quy trình chuẩn" },
+    { "word": "优先级", "partOfSpeech": "noun", "ipa": "yōuxiānjí", "meaning": "mức ưu tiên" },
+    { "word": "远程桌面", "partOfSpeech": "noun", "ipa": "yuǎnchéng zhuōmiàn", "meaning": "desktop từ xa" },
+    { "word": "服务水平协议", "partOfSpeech": "noun", "ipa": "fúwù shuǐpíng xiéyì", "meaning": "SLA" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "words": [
+    { "word": "绩效", "partOfSpeech": "noun", "ipa": "jìxiào", "meaning": "hiệu suất" },
+    { "word": "考核", "partOfSpeech": "noun", "ipa": "kǎohé", "meaning": "đánh giá" },
+    { "word": "指标", "partOfSpeech": "noun", "ipa": "zhǐbiāo", "meaning": "chỉ số" },
+    { "word": "目标", "partOfSpeech": "noun", "ipa": "mùbiāo", "meaning": "mục tiêu" },
+    { "word": "权重", "partOfSpeech": "noun", "ipa": "quánzhòng", "meaning": "trọng số" },
+    { "word": "达成", "partOfSpeech": "verb", "ipa": "dáchéng", "meaning": "đạt được" },
+    { "word": "晋升", "partOfSpeech": "verb", "ipa": "jìnshēng", "meaning": "thăng chức" },
+    { "word": "反馈", "partOfSpeech": "noun", "ipa": "fǎnkuì", "meaning": "phản hồi" },
+    { "word": "自评", "partOfSpeech": "noun", "ipa": "zìpíng", "meaning": "tự đánh giá" },
+    { "word": "述职", "partOfSpeech": "verb", "ipa": "shùzhí", "meaning": "báo cáo công việc" },
+    { "word": "改进", "partOfSpeech": "verb", "ipa": "gǎijìn", "meaning": "cải thiện" },
+    { "word": "潜力", "partOfSpeech": "noun", "ipa": "qiánlì", "meaning": "tiềm năng" },
+    { "word": "激励", "partOfSpeech": "verb", "ipa": "jīlì", "meaning": "khích lệ" },
+    { "word": "奖金", "partOfSpeech": "noun", "ipa": "jiǎngjīn", "meaning": "tiền thưởng" },
+    { "word": "绩点", "partOfSpeech": "noun", "ipa": "jìdiǎn", "meaning": "điểm hiệu suất" },
+    { "word": "同级", "partOfSpeech": "noun", "ipa": "tóngjí", "meaning": "cùng cấp" },
+    { "word": "强项", "partOfSpeech": "noun", "ipa": "qiángxiàng", "meaning": "thế mạnh" },
+    { "word": "弱项", "partOfSpeech": "noun", "ipa": "ruòxiàng", "meaning": "điểm yếu" },
+    { "word": "标准", "partOfSpeech": "noun", "ipa": "biāozhǔn", "meaning": "tiêu chuẩn" },
+    { "word": "周期", "partOfSpeech": "noun", "ipa": "zhōuqī", "meaning": "chu kỳ" },
+    { "word": "数据佐证", "partOfSpeech": "noun", "ipa": "shùjù zuǒzhèng", "meaning": "chứng cứ dữ liệu" },
+    { "word": "共识", "partOfSpeech": "noun", "ipa": "gòngshí", "meaning": "đồng thuận" },
+    { "word": "发展计划", "partOfSpeech": "noun", "ipa": "fāzhǎn jìhuà", "meaning": "kế hoạch phát triển" },
+    { "word": "跟进", "partOfSpeech": "verb", "ipa": "gēnjìn", "meaning": "theo dõi" },
+    { "word": "落地", "partOfSpeech": "verb", "ipa": "luòdì", "meaning": "triển khai thực tế" }
+  ]
+}
