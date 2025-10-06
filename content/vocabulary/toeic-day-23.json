@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 23 - Product Development & Innovation",
+  "words": [
+    {"word": "concept", "partOfSpeech": "n.", "ipa": "/ˈkɒnsept/", "meaning": "ý tưởng sản phẩm"},
+    {"word": "prototype", "partOfSpeech": "n.", "ipa": "/ˈprəʊtətaɪp/", "meaning": "mẫu thử"},
+    {"word": "feasibility study", "partOfSpeech": "n. phr.", "ipa": "/ˌfiːzəˈbɪləti ˈstʌdi/", "meaning": "nghiên cứu khả thi"},
+    {"word": "user persona", "partOfSpeech": "n. phr.", "ipa": "/ˈjuːzə pəˈsəʊnə/", "meaning": "chân dung người dùng"},
+    {"word": "requirement gathering", "partOfSpeech": "n. phr.", "ipa": "/rɪˈkwaɪəmənt ˈɡæðərɪŋ/", "meaning": "thu thập yêu cầu"},
+    {"word": "product backlog", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒdʌkt ˈbæklɒɡ/", "meaning": "danh sách tồn đọng sản phẩm"},
+    {"word": "iteration", "partOfSpeech": "n.", "ipa": "/ˌɪtəˈreɪʃn/", "meaning": "vòng lặp phát triển"},
+    {"word": "sprint review", "partOfSpeech": "n. phr.", "ipa": "/sprɪnt rɪˈvjuː/", "meaning": "đánh giá sprint"},
+    {"word": "feature roadmap", "partOfSpeech": "n. phr.", "ipa": "/ˈfiːtʃə ˈrəʊdmæp/", "meaning": "lộ trình tính năng"},
+    {"word": "wireframe", "partOfSpeech": "n.", "ipa": "/ˈwaɪəfreɪm/", "meaning": "khung giao diện"},
+    {"word": "usability testing", "partOfSpeech": "n. phr.", "ipa": "/ˌjuːzəˈbɪləti ˈtestɪŋ/", "meaning": "kiểm thử khả dụng"},
+    {"word": "beta release", "partOfSpeech": "n. phr.", "ipa": "/ˈbiːtə rɪˈliːs/", "meaning": "phát hành beta"},
+    {"word": "pilot launch", "partOfSpeech": "n. phr.", "ipa": "/ˈpaɪlət lɔːntʃ/", "meaning": "ra mắt thí điểm"},
+    {"word": "change request", "partOfSpeech": "n. phr.", "ipa": "/tʃeɪndʒ rɪˈkwest/", "meaning": "yêu cầu thay đổi"},
+    {"word": "integration testing", "partOfSpeech": "n. phr.", "ipa": "/ˌɪntɪˈɡreɪʃn ˈtestɪŋ/", "meaning": "kiểm thử tích hợp"},
+    {"word": "regression test", "partOfSpeech": "n. phr.", "ipa": "/rɪˈɡreʃn test/", "meaning": "kiểm thử hồi quy"},
+    {"word": "innovation funnel", "partOfSpeech": "n. phr.", "ipa": "/ˌɪnəˈveɪʃn ˈfʌnl/", "meaning": "phễu đổi mới"},
+    {"word": "intellectual property", "partOfSpeech": "n. phr.", "ipa": "/ˌɪntəˈlektʃuəl ˈprɒpəti/", "meaning": "sở hữu trí tuệ"},
+    {"word": "patent filing", "partOfSpeech": "n. phr.", "ipa": "/ˈpætnt ˈfaɪlɪŋ/", "meaning": "nộp bằng sáng chế"},
+    {"word": "product lifecycle", "partOfSpeech": "n. phr.", "ipa": "/ˈprɒdʌkt ˈlaɪksaɪkl/", "meaning": "vòng đời sản phẩm"},
+    {"word": "sunset decision", "partOfSpeech": "n. phr.", "ipa": "/ˈsʌnset dɪˈsɪʒn/", "meaning": "quyết định khai tử sản phẩm"},
+    {"word": "upgrade path", "partOfSpeech": "n. phr.", "ipa": "/ˈʌpɡreɪd pɑːθ/", "meaning": "lộ trình nâng cấp"},
+    {"word": "cross-functional team", "partOfSpeech": "n. phr.", "ipa": "/ˌkrɒs ˈfʌŋkʃənl tiːm/", "meaning": "đội đa chức năng"},
+    {"word": "stakeholder alignment", "partOfSpeech": "n. phr.", "ipa": "/ˈsteɪkˌhəʊldə əˈlaɪnmənt/", "meaning": "đồng thuận các bên liên quan"},
+    {"word": "product-market fit", "partOfSpeech": "n. phr.", "ipa": "/ˌprɒdʌkt ˈmɑːkɪt fɪt/", "meaning": "độ phù hợp sản phẩm - thị trường"}
+  ]
+}
