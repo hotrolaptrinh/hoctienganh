@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 64 - Banking & Investment Services",
+  "words": [
+    {
+      "word": "retail banking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈriːteɪl ˈbæŋkɪŋ/",
+      "meaning": "ngân hàng bán lẻ"
+    },
+    {
+      "word": "corporate banking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɔːpərət ˈbæŋkɪŋ/",
+      "meaning": "ngân hàng doanh nghiệp"
+    },
+    {
+      "word": "treasury service",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtreʒəri ˈsɜːvɪs/",
+      "meaning": "dịch vụ ngân quỹ"
+    },
+    {
+      "word": "cash management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kæʃ ˈmænɪdʒmənt/",
+      "meaning": "quản lý tiền mặt"
+    },
+    {
+      "word": "line of credit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/laɪn əv ˈkredɪt/",
+      "meaning": "hạn mức tín dụng"
+    },
+    {
+      "word": "syndicated loan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɪndɪkeɪtɪd ləʊn/",
+      "meaning": "khoản vay hợp vốn"
+    },
+    {
+      "word": "letter of credit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈletər əv ˈkredɪt/",
+      "meaning": "thư tín dụng"
+    },
+    {
+      "word": "trade finance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/treɪd faɪˈnæns/",
+      "meaning": "tài trợ thương mại"
+    },
+    {
+      "word": "foreign exchange",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌfɒrən ɪksˈtʃeɪndʒ/",
+      "meaning": "ngoại hối"
+    },
+    {
+      "word": "interest rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪntrəst reɪt/",
+      "meaning": "lãi suất"
+    },
+    {
+      "word": "yield curve",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/jiːld kɜːv/",
+      "meaning": "đường cong lợi suất"
+    },
+    {
+      "word": "asset allocation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈæset ˌæləˈkeɪʃn/",
+      "meaning": "phân bổ tài sản"
+    },
+    {
+      "word": "portfolio diversification",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɔːtˈfəʊliəʊ daɪˌvɜːsɪfɪˈkeɪʃn/",
+      "meaning": "đa dạng hóa danh mục"
+    },
+    {
+      "word": "mutual fund",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmjuːtʃuəl fʌnd/",
+      "meaning": "quỹ tương hỗ"
+    },
+    {
+      "word": "exchange-traded fund",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪksˈtʃeɪndʒ ˈtreɪdɪd fʌnd/",
+      "meaning": "quỹ hoán đổi danh mục"
+    },
+    {
+      "word": "risk tolerance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈtɒlərəns/",
+      "meaning": "khả năng chịu rủi ro"
+    },
+    {
+      "word": "wealth management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/welθ ˈmænɪdʒmənt/",
+      "meaning": "quản lý tài sản"
+    },
+    {
+      "word": "private banking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpraɪvət ˈbæŋkɪŋ/",
+      "meaning": "ngân hàng cá nhân"
+    },
+    {
+      "word": "custody service",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstədi ˈsɜːvɪs/",
+      "meaning": "dịch vụ lưu ký"
+    },
+    {
+      "word": "settlement date",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsetlmənt deɪt/",
+      "meaning": "ngày thanh toán"
+    },
+    {
+      "word": "margin requirement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːdʒɪn rɪˈkwaɪəmənt/",
+      "meaning": "yêu cầu ký quỹ"
+    },
+    {
+      "word": "compliance check",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns tʃek/",
+      "meaning": "kiểm tra tuân thủ"
+    },
+    {
+      "word": "investment mandate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈvestmənt ˈmæn.deɪt/",
+      "meaning": "ủy thác đầu tư"
+    },
+    {
+      "word": "research coverage",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈsɜːtʃ ˈkʌvərɪdʒ/",
+      "meaning": "phạm vi phân tích"
+    },
+    {
+      "word": "market commentary",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪt ˈkɒməntri/",
+      "meaning": "bình luận thị trường"
+    }
+  ]
+}

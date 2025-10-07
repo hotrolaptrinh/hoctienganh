@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "公关团队与合作品牌在直播间排练联合发布会。",
+      "translation": "Đội truyền thông phối hợp với thương hiệu đối tác diễn tập buổi ra mắt chung trong phòng livestream."
+    },
+    {
+      "text": "灯光师调整舞台灯，让双方产品都能清晰呈现。",
+      "translation": "Kỹ thuật viên ánh sáng điều chỉnh đèn để cả hai sản phẩm hiện rõ."
+    },
+    {
+      "text": "主持人确认互相提问的顺序，避免抢话。",
+      "translation": "MC xác nhận thứ tự đặt câu hỏi lẫn nhau để tránh nói chồng."
+    },
+    {
+      "text": "市场负责人同步社交媒体倒计时与折扣代码。",
+      "translation": "Trưởng nhóm marketing đồng bộ đếm ngược trên mạng xã hội và mã giảm giá."
+    },
+    {
+      "text": "彩排结束后，团队一起录制幕后花絮供粉丝观看。",
+      "translation": "Kết thúc tổng duyệt, cả đội quay clip hậu trường cho người hâm mộ xem."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "为什么要调整舞台灯光?",
+      "answer": "为了让双方产品都能清晰呈现。"
+    },
+    {
+      "prompt": "主持人确认了哪项流程?",
+      "answer": "确认互相提问的顺序以避免抢话。"
+    },
+    {
+      "prompt": "彩排结束后团队做了什么?",
+      "answer": "录制幕后花絮供粉丝观看。"
+    }
+  ]
+}

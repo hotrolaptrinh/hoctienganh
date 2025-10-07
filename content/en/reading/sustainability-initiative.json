@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "During the lunchtime town hall, the CEO introduces a new sustainability initiative for all offices.",
+      "translation": "Trong buổi tọa đàm giờ trưa, CEO giới thiệu sáng kiến phát triển bền vững mới cho toàn bộ văn phòng."
+    },
+    {
+      "text": "Employees submit ideas via a shared dashboard covering energy savings and waste reduction.",
+      "translation": "Nhân viên gửi ý tưởng qua bảng điều khiển chung bao gồm tiết kiệm năng lượng và giảm rác thải."
+    },
+    {
+      "text": "Minh presents a pilot program to replace disposable cups with branded tumblers at every pantry.",
+      "translation": "Minh trình bày chương trình thí điểm thay cốc dùng một lần bằng bình giữ nhiệt có logo tại mỗi phòng nghỉ."
+    },
+    {
+      "text": "A cross-functional committee sets quarterly targets and assigns ambassadors in each department.",
+      "translation": "Một ủy ban liên phòng ban đặt mục tiêu theo quý và phân công đại sứ tại mỗi bộ phận."
+    },
+    {
+      "text": "The session ends with a pledge wall where participants sign their commitment to greener habits.",
+      "translation": "Buổi họp kết thúc với bức tường cam kết nơi mọi người ký tên khẳng định thói quen xanh hơn."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "How can employees contribute ideas to the initiative?",
+      "answer": "They submit their suggestions through a shared dashboard."
+    },
+    {
+      "prompt": "What change does Minh propose for office pantries?",
+      "answer": "Replacing disposable cups with branded tumblers."
+    },
+    {
+      "prompt": "What happens at the pledge wall?",
+      "answer": "Participants sign to show their commitment to greener habits."
+    }
+  ]
+}

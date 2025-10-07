@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 61 - Manufacturing & Quality Control",
+  "words": [
+    {
+      "word": "production line",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈdʌkʃn laɪn/",
+      "meaning": "dây chuyền sản xuất"
+    },
+    {
+      "word": "workstation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈwɜːksteɪʃn/",
+      "meaning": "trạm làm việc"
+    },
+    {
+      "word": "standard operating procedure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstændəd ˈɒpəreɪtɪŋ prəˈsiːdʒə/",
+      "meaning": "quy trình vận hành chuẩn"
+    },
+    {
+      "word": "bill of materials",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪl əv məˈtɪəriəlz/",
+      "meaning": "danh mục nguyên vật liệu"
+    },
+    {
+      "word": "work in process",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/wɜːk ɪn ˈprəʊses/",
+      "meaning": "sản phẩm dở dang"
+    },
+    {
+      "word": "throughput",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈθruːpʊt/",
+      "meaning": "năng suất đầu ra"
+    },
+    {
+      "word": "bottleneck",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈbɒtlnek/",
+      "meaning": "nút thắt"
+    },
+    {
+      "word": "overall equipment effectiveness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌəʊvərˈrɔːl ɪˈkwɪpmənt ɪˈfektɪvnəs/",
+      "meaning": "hiệu suất tổng thể thiết bị"
+    },
+    {
+      "word": "downtime",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈdaʊntaɪm/",
+      "meaning": "thời gian ngừng máy"
+    },
+    {
+      "word": "preventive maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈventɪv ˈmeɪntənəns/",
+      "meaning": "bảo trì phòng ngừa"
+    },
+    {
+      "word": "predictive maintenance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prɪˈdɪktɪv ˈmeɪntənəns/",
+      "meaning": "bảo trì dự đoán"
+    },
+    {
+      "word": "quality assurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti əˈʃʊərəns/",
+      "meaning": "đảm bảo chất lượng"
+    },
+    {
+      "word": "quality control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkwɒləti kənˈtrəʊl/",
+      "meaning": "kiểm soát chất lượng"
+    },
+    {
+      "word": "inspection checklist",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈspekʃn ˈtʃeklɪst/",
+      "meaning": "danh sách kiểm tra"
+    },
+    {
+      "word": "nonconformity",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌnɒnkənˈfɔːməti/",
+      "meaning": "sai lệch"
+    },
+    {
+      "word": "corrective action",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəˈrektɪv ˈækʃn/",
+      "meaning": "hành động khắc phục"
+    },
+    {
+      "word": "root cause",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz/",
+      "meaning": "nguyên nhân gốc"
+    },
+    {
+      "word": "process capability",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprəʊses ˌkeɪpəˈbɪləti/",
+      "meaning": "năng lực quá trình"
+    },
+    {
+      "word": "statistical process control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/stəˈtɪstɪkl ˈprəʊses kənˈtrəʊl/",
+      "meaning": "kiểm soát quá trình bằng thống kê"
+    },
+    {
+      "word": "first-pass yield",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɜːst pɑːs jiːld/",
+      "meaning": "tỷ lệ đạt ngay lần đầu"
+    },
+    {
+      "word": "scrap rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/skræp reɪt/",
+      "meaning": "tỷ lệ phế phẩm"
+    },
+    {
+      "word": "5S audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/faɪv ˈes ˈɔːdɪt/",
+      "meaning": "đánh giá 5S"
+    },
+    {
+      "word": "lean manufacturing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːn ˌmænjuˈfæktʃərɪŋ/",
+      "meaning": "sản xuất tinh gọn"
+    },
+    {
+      "word": "kanban",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈkænbæn/",
+      "meaning": "thẻ kéo"
+    },
+    {
+      "word": "continuous improvement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈtɪnjuəs ɪmˈpruːvmənt/",
+      "meaning": "cải tiến liên tục"
+    }
+  ]
+}

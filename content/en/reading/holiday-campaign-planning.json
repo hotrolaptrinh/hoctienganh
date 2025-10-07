@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "In the creative lab, designers pin colorful mockups for the company's holiday campaign on the board.",
+      "translation": "Tại phòng sáng tạo, các nhà thiết kế ghim bản mẫu đầy màu sắc cho chiến dịch dịp lễ của công ty lên bảng."
+    },
+    {
+      "text": "The content lead tests slogans that balance festive excitement with the brand's warm tone.",
+      "translation": "Trưởng nhóm nội dung thử nghiệm khẩu hiệu vừa sôi động ngày lễ vừa giữ giọng điệu ấm áp của thương hiệu."
+    },
+    {
+      "text": "Meanwhile, the analytics specialist projects sales forecasts based on last year's performance.",
+      "translation": "Trong khi đó, chuyên viên phân tích lập dự báo doanh số dựa trên kết quả năm ngoái."
+    },
+    {
+      "text": "Everyone votes on the hero image before sending assets to the legal team for review.",
+      "translation": "Mọi người bỏ phiếu chọn hình ảnh chủ đạo trước khi chuyển tài liệu sang bộ phận pháp lý duyệt."
+    },
+    {
+      "text": "They wrap up with a checklist to coordinate printing deadlines and social media rollouts.",
+      "translation": "Cuộc họp kết thúc bằng danh sách việc cần làm để phối hợp thời hạn in ấn và lịch đăng mạng xã hội."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What are designers preparing in the creative lab?",
+      "answer": "Colorful mockups for the company's holiday campaign."
+    },
+    {
+      "prompt": "Which data does the analytics specialist use for forecasts?",
+      "answer": "Last year's performance results."
+    },
+    {
+      "prompt": "Why do they send assets to the legal team?",
+      "answer": "To have the legal team review the campaign materials."
+    }
+  ]
+}

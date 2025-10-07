@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "产品团队在创新工作坊开始前围成一圈分享最近的灵感。",
+      "translation": "Nhóm sản phẩm đứng thành vòng tròn trước khi xưởng đổi mới bắt đầu để chia sẻ cảm hứng gần đây."
+    },
+    {
+      "text": "主持人给每个人发放便利贴，邀请大家写下客户遇到的痛点。",
+      "translation": "Người điều phối phát giấy nhớ và mời mọi người ghi lại những điểm đau của khách hàng."
+    },
+    {
+      "text": "小组随后使用设计思维画布，把想法贴在不同的步骤上。",
+      "translation": "Các nhóm sau đó sử dụng khung tư duy thiết kế và dán ý tưởng lên từng bước."
+    },
+    {
+      "text": "午休前，成员们投票选出最具影响力的三个解决方案。",
+      "translation": "Trước giờ nghỉ trưa, các thành viên bỏ phiếu chọn ba giải pháp có ảnh hưởng lớn nhất."
+    },
+    {
+      "text": "团队最后排定原型制作时间，并指定负责人跟进。",
+      "translation": "Cuối buổi, nhóm sắp lịch làm nguyên mẫu và chỉ định người phụ trách theo dõi."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "工作坊开始前团队做了什么?",
+      "answer": "他们围成一圈分享最近的灵感。"
+    },
+    {
+      "prompt": "便利贴被用来记录什么?",
+      "answer": "用来写下客户遇到的痛点。"
+    },
+    {
+      "prompt": "团队如何决定接下来的重点方案?",
+      "answer": "成员投票选出最具影响力的三个解决方案并安排原型制作。"
+    }
+  ]
+}

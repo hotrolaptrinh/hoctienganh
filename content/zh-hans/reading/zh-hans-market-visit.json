@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "销售团队清晨抵达批发市场，与商户讨论新品陈列。",
+      "translation": "Đội kinh doanh đến chợ sỉ từ sớm để trao đổi cách trưng bày sản phẩm mới với các tiểu thương."
+    },
+    {
+      "text": "阿明记录每家店对促销活动的需求，并拍照留存。",
+      "translation": "A Minh ghi lại nhu cầu khuyến mãi của từng cửa hàng và chụp ảnh lưu trữ."
+    },
+    {
+      "text": "市场经理向商户演示如何使用移动下单系统。",
+      "translation": "Quản lý thị trường hướng dẫn các chủ cửa hàng cách dùng hệ thống đặt hàng trên di động."
+    },
+    {
+      "text": "午餐前，团队汇总订单数据并发送回总部仓库。",
+      "translation": "Trước bữa trưa, nhóm tổng hợp dữ liệu đơn hàng và gửi về kho trung tâm."
+    },
+    {
+      "text": "他们离开时确认下周将安排物流配送培训。",
+      "translation": "Khi rời đi, họ xác nhận sẽ tổ chức đào tạo giao nhận vào tuần tới."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "团队为何前往批发市场?",
+      "answer": "为了和商户讨论新品陈列并收集需求。"
+    },
+    {
+      "prompt": "市场经理现场演示了什么?",
+      "answer": "演示如何使用移动下单系统。"
+    },
+    {
+      "prompt": "团队离开前做了什么安排?",
+      "answer": "确认下周进行物流配送培训。"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "At eight o'clock, An connects to the company VPN and checks overnight messages on chat.",
+      "translation": "Lúc tám giờ, An kết nối VPN của công ty và kiểm tra tin nhắn qua đêm trên ứng dụng chat."
+    },
+    {
+      "text": "She joins a video stand-up where teammates share quick updates from their home offices.",
+      "translation": "Cô tham dự cuộc họp stand-up trực tuyến nơi đồng đội cập nhật nhanh từ văn phòng tại nhà."
+    },
+    {
+      "text": "Between tasks, An stretches and refills her water bottle to maintain energy.",
+      "translation": "Giữa các đầu việc, An vươn vai và châm thêm nước để giữ sức."
+    },
+    {
+      "text": "An afternoon thunderstorm briefly interrupts power, but her backup hotspot keeps projects online.",
+      "translation": "Cơn giông buổi chiều khiến mất điện trong chốc lát, nhưng điểm phát Wi-Fi dự phòng giúp công việc vẫn trực tuyến."
+    },
+    {
+      "text": "She ends the day by summarizing progress in the shared tracker before logging off.",
+      "translation": "Cô kết thúc ngày làm việc bằng cách tóm tắt tiến độ vào bảng theo dõi chung trước khi đăng xuất."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "How does An start her remote workday?",
+      "answer": "She connects to the company VPN and checks overnight messages."
+    },
+    {
+      "prompt": "What keeps the projects online during the thunderstorm?",
+      "answer": "Her backup hotspot."
+    },
+    {
+      "prompt": "What does An do before she finishes work?",
+      "answer": "She summarizes her progress in the shared tracker." 
+    }
+  ]
+}

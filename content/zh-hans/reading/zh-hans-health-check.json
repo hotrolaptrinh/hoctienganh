@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "公司在多功能厅举行年度健康检查日。",
+      "translation": "Công ty tổ chức ngày khám sức khỏe định kỳ tại hội trường đa năng."
+    },
+    {
+      "text": "医护人员为员工测量血压并记录生活习惯。",
+      "translation": "Nhân viên y tế đo huyết áp và ghi lại thói quen sinh hoạt của nhân viên."
+    },
+    {
+      "text": "营养师讲解午餐搭配建议，并发放食谱。",
+      "translation": "Chuyên gia dinh dưỡng hướng dẫn gợi ý bữa trưa và phát thực đơn mẫu."
+    },
+    {
+      "text": "下午安排瑜伽体验课，帮助大家舒展身体。",
+      "translation": "Buổi chiều có lớp trải nghiệm yoga giúp mọi người giãn cơ."
+    },
+    {
+      "text": "活动结束时，员工领取报告并预约复诊时间。",
+      "translation": "Kết thúc sự kiện, nhân viên nhận báo cáo và đặt lịch tái khám."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "健康检查日有哪些服务?",
+      "answer": "有血压测量、生活习惯记录和营养建议等服务。"
+    },
+    {
+      "prompt": "下午安排了什么活动?",
+      "answer": "安排了瑜伽体验课帮助大家舒展身体。"
+    },
+    {
+      "prompt": "员工离开前需要做什么?",
+      "answer": "领取健康报告并预约复诊时间。"
+    }
+  ]
+}

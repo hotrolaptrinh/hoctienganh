@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "At the innovation hub, Lan rehearses her startup pitch in front of a mentor.",
+      "translation": "Tại trung tâm đổi mới, Lan luyện tập phần giới thiệu startup trước mặt một người cố vấn."
+    },
+    {
+      "text": "Her slides outline a mobile app that helps freelancers manage proposals and invoices.",
+      "translation": "Các slide trình bày một ứng dụng di động giúp freelancer quản lý đề xuất và hóa đơn."
+    },
+    {
+      "text": "Investors ask about data security, prompting Lan to explain the encryption standards used.",
+      "translation": "Nhà đầu tư hỏi về bảo mật dữ liệu, khiến Lan giải thích các tiêu chuẩn mã hóa mà ứng dụng áp dụng."
+    },
+    {
+      "text": "A live demo shows how automatic reminders reduce late payments for users.",
+      "translation": "Phần demo trực tiếp cho thấy cách các lời nhắc tự động giảm tình trạng thanh toán trễ cho người dùng."
+    },
+    {
+      "text": "Lan finishes with a confident request for seed funding to expand the development team.",
+      "translation": "Lan kết thúc bằng lời đề nghị vốn hạt giống đầy tự tin để mở rộng đội phát triển."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What problem does Lan's app solve?",
+      "answer": "It helps freelancers manage proposals, invoices, and reduce late payments."
+    },
+    {
+      "prompt": "Why do investors ask about security?",
+      "answer": "They want to know the data encryption standards used by the app."
+    },
+    {
+      "prompt": "How does Lan conclude her pitch?",
+      "answer": "She confidently requests seed funding to expand the development team." 
+    }
+  ]
+}

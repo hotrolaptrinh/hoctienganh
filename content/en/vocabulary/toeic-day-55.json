@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 55 - Corporate Governance & Compliance",
+  "words": [
+    {
+      "word": "board charter",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/bɔːd ˈtʃɑːtə/",
+      "meaning": "điều lệ hội đồng quản trị"
+    },
+    {
+      "word": "fiduciary duty",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɪˈdjuːʃəri ˈdjuːti/",
+      "meaning": "nghĩa vụ ủy thác"
+    },
+    {
+      "word": "independent director",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪndɪˈpendənt dɪˈrektə/",
+      "meaning": "thành viên HĐQT độc lập"
+    },
+    {
+      "word": "audit committee",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdɪt kəˈmɪti/",
+      "meaning": "ủy ban kiểm toán"
+    },
+    {
+      "word": "remuneration policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˌmjuːnəˈreɪʃn ˈpɒləsi/",
+      "meaning": "chính sách thù lao"
+    },
+    {
+      "word": "code of conduct",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəʊd əv ˈkɒndʌkt/",
+      "meaning": "bộ quy tắc ứng xử"
+    },
+    {
+      "word": "conflict of interest",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkɒnflɪkt əv ˈɪntrəst/",
+      "meaning": "xung đột lợi ích"
+    },
+    {
+      "word": "related-party transaction",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈleɪtɪd ˈpɑːti trænˈzækʃn/",
+      "meaning": "giao dịch với bên liên quan"
+    },
+    {
+      "word": "risk appetite",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪsk ˈæpɪtaɪt/",
+      "meaning": "khẩu vị rủi ro"
+    },
+    {
+      "word": "compliance framework",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˈfreɪmwɜːk/",
+      "meaning": "khung tuân thủ"
+    },
+    {
+      "word": "internal control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˈtɜːnl kənˈtrəʊl/",
+      "meaning": "kiểm soát nội bộ"
+    },
+    {
+      "word": "segregation of duties",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌseɡrɪˈɡeɪʃn əv ˈdjuːtiz/",
+      "meaning": "phân tách nhiệm vụ"
+    },
+    {
+      "word": "compliance monitoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˈmɒnɪtərɪŋ/",
+      "meaning": "giám sát tuân thủ"
+    },
+    {
+      "word": "regulatory filing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjʊlətəri ˈfaɪlɪŋ/",
+      "meaning": "hồ sơ nộp cơ quan quản lý"
+    },
+    {
+      "word": "statutory report",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈstætʃətəri rɪˈpɔːt/",
+      "meaning": "báo cáo theo luật định"
+    },
+    {
+      "word": "insider trading",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪnˌsaɪdə ˈtreɪdɪŋ/",
+      "meaning": "giao dịch nội gián"
+    },
+    {
+      "word": "whistleblower",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈwɪslˌbləʊə/",
+      "meaning": "người tố cáo"
+    },
+    {
+      "word": "ethics hotline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈeθɪks ˈhɒtlaɪn/",
+      "meaning": "đường dây đạo đức"
+    },
+    {
+      "word": "regulatory sandbox",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjʊlətəri ˈsændbɒks/",
+      "meaning": "khung thử nghiệm pháp lý"
+    },
+    {
+      "word": "sanction",
+      "partOfSpeech": "n./v.",
+      "ipa": "/ˈsæŋkʃn/",
+      "meaning": "chế tài"
+    },
+    {
+      "word": "consent decree",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈsent dɪˈkriː/",
+      "meaning": "lệnh đồng thuận"
+    },
+    {
+      "word": "remediation plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˌmiːdiˈeɪʃn plæn/",
+      "meaning": "kế hoạch khắc phục"
+    },
+    {
+      "word": "compliance attestation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈplaɪəns ˌætɛsˈteɪʃn/",
+      "meaning": "chứng nhận tuân thủ"
+    },
+    {
+      "word": "regulatory liaison",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈreɡjʊlətəri liˈeɪzɒn/",
+      "meaning": "đầu mối làm việc với cơ quan quản lý"
+    },
+    {
+      "word": "governance scorecard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡʌvənəns ˈskɔːkɑːd/",
+      "meaning": "thẻ điểm quản trị"
+    }
+  ]
+}

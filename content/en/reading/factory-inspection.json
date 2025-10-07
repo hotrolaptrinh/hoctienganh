@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Inspectors arrive at the factory floor wearing safety helmets and reflective vests.",
+      "translation": "Các thanh tra đến khu nhà xưởng với mũ bảo hộ và áo phản quang."
+    },
+    {
+      "text": "The plant manager guides them past robotic arms assembling packaging components.",
+      "translation": "Quản lý nhà máy dẫn họ đi qua dãy cánh tay robot đang lắp ráp linh kiện bao bì."
+    },
+    {
+      "text": "They review maintenance logs to confirm machines are serviced on schedule.",
+      "translation": "Họ xem sổ bảo trì để xác nhận máy móc được bảo dưỡng đúng lịch."
+    },
+    {
+      "text": "A brief alarm drill demonstrates how staff evacuate in under three minutes.",
+      "translation": "Một cuộc diễn tập báo động ngắn cho thấy nhân viên sơ tán trong chưa đến ba phút."
+    },
+    {
+      "text": "Satisfied with the safety standards, the team signs the compliance certificate before leaving.",
+      "translation": "Hài lòng với tiêu chuẩn an toàn, đoàn ký giấy chứng nhận tuân thủ trước khi rời đi."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What protective gear do the inspectors wear?",
+      "answer": "Safety helmets and reflective vests."
+    },
+    {
+      "prompt": "Why do the inspectors review maintenance logs?",
+      "answer": "To confirm machines are serviced on schedule."
+    },
+    {
+      "prompt": "What happens after the alarm drill?",
+      "answer": "The team signs the compliance certificate once satisfied with safety standards." 
+    }
+  ]
+}

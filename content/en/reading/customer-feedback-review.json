@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The support team gathers in the huddle room to analyze customer feedback from the latest survey.",
+      "translation": "Nhóm hỗ trợ tập trung tại phòng họp nhỏ để phân tích phản hồi khách hàng từ khảo sát mới nhất."
+    },
+    {
+      "text": "Mai highlights common praise for the new live chat feature and its quick response times.",
+      "translation": "Mai nêu bật những lời khen phổ biến dành cho tính năng trò chuyện trực tuyến mới và tốc độ phản hồi nhanh."
+    },
+    {
+      "text": "However, several comments mention confusion about the returns policy on the website.",
+      "translation": "Tuy nhiên, một số nhận xét cho biết họ bối rối về chính sách trả hàng trên trang web."
+    },
+    {
+      "text": "The team drafts a plan to rewrite the FAQ article and record a tutorial video.",
+      "translation": "Nhóm lập kế hoạch viết lại bài FAQ và quay video hướng dẫn."
+    },
+    {
+      "text": "Before leaving, they assign owners for each action item and set a follow-up call for next week.",
+      "translation": "Trước khi ra về, họ phân công người phụ trách cho từng đầu việc và hẹn cuộc gọi theo dõi vào tuần tới."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What positive feedback did the team notice?",
+      "answer": "Customers praised the new live chat feature for its quick responses."
+    },
+    {
+      "prompt": "Which policy caused confusion for customers?",
+      "answer": "The returns policy on the website."
+    },
+    {
+      "prompt": "What actions will the team take to clarify the policy?",
+      "answer": "They will rewrite the FAQ article and record a tutorial video."
+    }
+  ]
+}
