@@ -326,10 +326,10 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
           </colgroup>
           <thead>
             <tr>
-              <th>Từ vựng</th>
-              <th>Loại</th>
+              <th>Word</th>
+              <th>Pos</th>
               <th>IPA</th>
-              <th>Nghĩa</th>
+              <th>meaning</th>
             </tr>
           </thead>
           <tbody>${tableRows}</tbody>
