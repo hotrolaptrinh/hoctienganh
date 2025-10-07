@@ -331,9 +331,8 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
           />
         </td>
         <td>${partOfSpeech}</td>
-        <td>${ipa}</td>
+        <td><a data-say="${encodeURIComponent(item.word)}" href="javascript:void(0)">${ipa}</a></td>
         <td>${meaning}</td>
-        <td><button class="button secondary" data-say="${encodeURIComponent(item.word)}">Đọc</button></td>
       </tr>
     `;
       },
@@ -359,14 +358,14 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
             <col class="col-word" />
             <col class="col-pos" />
             <col class="col-ipa" />
-            <col class="col-meaning" />
+          <col class="col-meaning" />
           </colgroup>
           <thead>
             <tr>
               <th>Word</th>
               <th>Pos</th>
               <th>IPA</th>
-              <th>meaning</th>
+              <th>Nghĩa</th>
             </tr>
           </thead>
           <tbody>${tableRows}</tbody>
@@ -637,9 +636,10 @@ function attachLessonInteractions(category, lesson) {
       });
     });
 
-    container.querySelectorAll('button[data-say]').forEach((button) => {
-      button.addEventListener('click', () => {
-        const text = decodeURIComponent(button.getAttribute('data-say'));
+    container.querySelectorAll('[data-say]').forEach((element) => {
+      element.addEventListener('click', (event) => {
+        event.preventDefault();
+        const text = decodeURIComponent(element.getAttribute('data-say'));
         if ('speechSynthesis' in window) {
           const utterance = new SpeechSynthesisUtterance(text);
           const speechLang = speechLanguageMap[state.language] || 'en-US';
