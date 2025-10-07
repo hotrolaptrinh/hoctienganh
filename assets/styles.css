@@ -129,7 +129,7 @@ nav.breadcrumb a {
 
 .card-grid.vertical {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
   gap: 14px;
   overflow-x: visible;
   overflow-y: auto;
@@ -152,7 +152,7 @@ nav.breadcrumb a {
 }
 
 .card-grid .card {
-  flex: 0 0 220px;
+  flex: 0 0 200px;
   scroll-snap-align: start;
 }
 
@@ -235,7 +235,7 @@ table.vocabulary {
   border-radius: 14px;
   overflow: hidden;
   box-shadow: var(--shadow);
-  min-width: 480px;
+  /* min-width: 480px; */
   table-layout: fixed;
 }
 
@@ -258,7 +258,7 @@ table.vocabulary th:nth-child(2) {
 }
 
 table.vocabulary col.col-word {
-  width: 21%;
+  width: 20%;
 }
 
 table.vocabulary col.col-pos {
@@ -266,11 +266,11 @@ table.vocabulary col.col-pos {
 }
 
 table.vocabulary col.col-ipa {
-  width: 21%;
+  width: 25%;
 }
 
 table.vocabulary col.col-meaning {
-  width: 48%;
+  width: 45%;
 }
 
 table.vocabulary td:nth-child(2) {
@@ -524,7 +524,8 @@ table.vocabulary tr:last-child td {
   }
 
   .card-grid.vertical {
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 8px;
   }
   table.vocabulary {
     font-size: 0.78rem;
@@ -631,11 +632,11 @@ table.vocabulary tr:last-child td {
     font-size: clamp(1.3rem, 6vw, 1.8rem);
   }
 
-  .layout-header {
+  /* .layout-header {
     flex-direction: column;
     align-items: flex-start;
     gap: 4px;
-  }
+  } */
 
   .lesson-controls {
     flex-direction: column;
