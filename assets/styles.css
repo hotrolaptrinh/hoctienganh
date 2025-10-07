@@ -130,7 +130,7 @@ nav.breadcrumb a {
 
 .card-grid.vertical {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
   gap: 14px;
   overflow-x: visible;
   overflow-y: auto;
@@ -619,11 +619,11 @@ table.vocabulary tr:last-child td {
     padding: 16px 12px 28px;
   }
 
-  header {
+  /* header {
     flex-direction: column;
     align-items: flex-start;
     margin-bottom: 14px;
-  }
+  } */
 
   h1 {
     font-size: clamp(1.3rem, 6vw, 1.8rem);
@@ -700,4 +700,8 @@ a{
 } */
 .text-secondary {
   color: var(--secondary);
+}
+
+section {
+  margin: 10px 0;
 }
