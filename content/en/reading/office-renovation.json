@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The facilities team walks through the office to review renovation plans taped along each wall.",
+      "translation": "Đội cơ sở vật chất đi một vòng văn phòng để xem lại kế hoạch cải tạo được dán dọc các bức tường."
+    },
+    {
+      "text": "Lan notes which departments will move to temporary desks while construction crews replace the flooring.",
+      "translation": "Lan ghi chú những phòng ban sẽ chuyển sang bàn làm việc tạm thời trong lúc đội xây dựng thay sàn."
+    },
+    {
+      "text": "Engineers coordinate with IT to schedule the relocation of network cables and server racks.",
+      "translation": "Các kỹ sư phối hợp với bộ phận IT để lên lịch di chuyển cáp mạng và tủ máy chủ."
+    },
+    {
+      "text": "To reduce noise, the project manager assigns weekend shifts for tasks that require drilling.",
+      "translation": "Để giảm tiếng ồn, quản lý dự án sắp xếp ca cuối tuần cho các hạng mục cần khoan cắt."
+    },
+    {
+      "text": "Before leaving, the team prepares an email update detailing timelines and safety reminders for all staff.",
+      "translation": "Trước khi rời đi, nhóm chuẩn bị email cập nhật nêu rõ thời gian và nhắc nhở an toàn cho toàn bộ nhân viên."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Why do some departments need temporary desks?",
+      "answer": "Because construction crews will replace the flooring in their areas."
+    },
+    {
+      "prompt": "How do the engineers support the renovation?",
+      "answer": "They coordinate with IT to relocate network cables and server racks."
+    },
+    {
+      "prompt": "What information does the final email include?",
+      "answer": "It details renovation timelines and safety reminders for staff."
+    }
+  ]
+}

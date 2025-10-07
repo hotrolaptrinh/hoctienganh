@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The logistics coordinator hosts a video call to share the latest supply chain updates with regional managers.",
+      "translation": "Điều phối viên hậu cần tổ chức cuộc gọi video để chia sẻ cập nhật chuỗi cung ứng mới nhất với các quản lý khu vực."
+    },
+    {
+      "text": "A new warehouse partner in Da Nang promises faster delivery times for central Vietnam.",
+      "translation": "Đối tác kho mới tại Đà Nẵng hứa hẹn rút ngắn thời gian giao hàng cho khu vực miền Trung."
+    },
+    {
+      "text": "The team reviews a heat map highlighting routes affected by seasonal storms.",
+      "translation": "Nhóm xem bản đồ nhiệt làm nổi bật các tuyến đường bị ảnh hưởng bởi bão theo mùa."
+    },
+    {
+      "text": "To stay prepared, each manager updates contingency plans and emergency contacts.",
+      "translation": "Để chủ động, mỗi quản lý cập nhật kế hoạch dự phòng và danh sách liên hệ khẩn cấp."
+    },
+    {
+      "text": "They close the call by confirming inventory levels ahead of the holiday rush.",
+      "translation": "Cuộc họp kết thúc với việc xác nhận mức tồn kho trước mùa cao điểm lễ hội."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What benefit does the new warehouse partner offer?",
+      "answer": "It promises faster delivery times for central Vietnam."
+    },
+    {
+      "prompt": "Why does the team examine a heat map?",
+      "answer": "To identify routes affected by seasonal storms."
+    },
+    {
+      "prompt": "What do managers update to stay prepared?",
+      "answer": "Their contingency plans and emergency contacts."
+    }
+  ]
+}

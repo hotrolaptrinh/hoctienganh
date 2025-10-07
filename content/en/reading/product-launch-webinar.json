@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The marketing studio buzzes as the team rehearses for tomorrow's product launch webinar.",
+      "translation": "Phòng marketing trở nên nhộn nhịp khi nhóm diễn tập cho buổi webinar ra mắt sản phẩm vào ngày mai."
+    },
+    {
+      "text": "Quân adjusts the lighting so the prototype shines clearly on camera.",
+      "translation": "Quân điều chỉnh ánh sáng để mẫu thử hiện rõ trên máy quay."
+    },
+    {
+      "text": "Trang finalizes the slide deck while the copywriter polishes the Q&A script.",
+      "translation": "Trang hoàn thiện bộ slide trong khi người viết nội dung chỉnh sửa kịch bản phần hỏi đáp."
+    },
+    {
+      "text": "They run through a mock session to test microphone levels and streaming software.",
+      "translation": "Họ diễn thử một phiên giả định để kiểm tra âm lượng micro và phần mềm phát trực tuyến."
+    },
+    {
+      "text": "Satisfied with the rehearsal, the host records a teaser clip to share on social media.",
+      "translation": "Khi buổi luyện tập hoàn tất, MC ghi hình đoạn giới thiệu ngắn để đăng lên mạng xã hội."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Why is the team rehearsing in the marketing studio?",
+      "answer": "They are preparing for the product launch webinar happening the next day."
+    },
+    {
+      "prompt": "What does Trang focus on during the rehearsal?",
+      "answer": "She finalizes the slide deck for the presentation."
+    },
+    {
+      "prompt": "How do they promote the upcoming event after the run-through?",
+      "answer": "The host records a teaser clip to share on social media."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "质量团队早会上复盘昨晚测试中发现的关键缺陷。",
+      "translation": "Đội chất lượng trong buổi họp sáng xem lại các lỗi quan trọng phát hiện trong lần kiểm thử tối qua."
+    },
+    {
+      "text": "工程师展示错误日志，并解释触发问题的用户路径。",
+      "translation": "Kỹ sư trình chiếu nhật ký lỗi và giải thích lộ trình người dùng gây ra sự cố."
+    },
+    {
+      "text": "测试主管分配紧急修复任务，并标记需要回归验证的场景。",
+      "translation": "Trưởng nhóm kiểm thử phân công nhiệm vụ sửa lỗi khẩn và đánh dấu các kịch bản cần kiểm tra hồi quy."
+    },
+    {
+      "text": "为了避免重复，团队更新自动化脚本并加上新的断言。",
+      "translation": "Để tránh lặp lại, nhóm cập nhật kịch bản tự động và thêm các điều kiện kiểm tra mới."
+    },
+    {
+      "text": "会议最后确定今夜加班的轮值名单。",
+      "translation": "Cuối cuộc họp, họ chốt danh sách trực đêm nay."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "会议上首先讨论了什么?",
+      "answer": "讨论昨晚测试中发现的关键缺陷。"
+    },
+    {
+      "prompt": "团队怎样防止问题再次发生?",
+      "answer": "通过更新自动化脚本并加入新的断言。"
+    },
+    {
+      "prompt": "会议结束时决定了哪项安排?",
+      "answer": "确定了今夜加班的轮值名单。"
+    }
+  ]
+}

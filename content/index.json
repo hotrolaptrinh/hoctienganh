@@ -674,6 +674,66 @@
             "title": "Hoạt động thiện nguyện cuối tuần",
             "description": "Cùng nhân viên tham gia ngày hội hướng dẫn kỹ năng số cho cộng đồng địa phương.",
             "source": "content/en/reading/community-outreach.json"
+          },
+          {
+            "id": "office-renovation",
+            "title": "Cải tạo văn phòng",
+            "description": "Câu chuyện về nhóm cơ sở vật chất chuẩn bị nâng cấp không gian làm việc.",
+            "source": "content/en/reading/office-renovation.json"
+          },
+          {
+            "id": "sustainability-initiative",
+            "title": "Sáng kiến bền vững",
+            "description": "Buổi tọa đàm giới thiệu chương trình phát triển xanh và cam kết của nhân viên.",
+            "source": "content/en/reading/sustainability-initiative.json"
+          },
+          {
+            "id": "customer-feedback-review",
+            "title": "Phân tích phản hồi khách hàng",
+            "description": "Cuộc họp rà soát khảo sát dịch vụ và kế hoạch cải thiện nội dung hỗ trợ.",
+            "source": "content/en/reading/customer-feedback-review.json"
+          },
+          {
+            "id": "product-launch-webinar",
+            "title": "Webinar ra mắt sản phẩm",
+            "description": "Nhóm marketing diễn tập cho buổi phát trực tuyến giới thiệu sản phẩm mới.",
+            "source": "content/en/reading/product-launch-webinar.json"
+          },
+          {
+            "id": "supply-chain-update",
+            "title": "Cập nhật chuỗi cung ứng",
+            "description": "Cuộc gọi hậu cần chia sẻ đối tác kho mới và phương án ứng phó bão.",
+            "source": "content/en/reading/supply-chain-update.json"
+          },
+          {
+            "id": "holiday-campaign-planning",
+            "title": "Lên kế hoạch chiến dịch lễ hội",
+            "description": "Phòng sáng tạo lựa chọn thông điệp, hình ảnh và lịch triển khai dịp lễ.",
+            "source": "content/en/reading/holiday-campaign-planning.json"
+          },
+          {
+            "id": "intern-orientation",
+            "title": "Định hướng thực tập sinh",
+            "description": "Ngày đầu tiên chào đón thực tập sinh với giới thiệu văn hóa và tour văn phòng.",
+            "source": "content/en/reading/intern-orientation.json"
+          },
+          {
+            "id": "budget-negotiation",
+            "title": "Đàm phán ngân sách",
+            "description": "Lãnh đạo tài chính và vận hành thương lượng phân bổ đầu tư quý tới.",
+            "source": "content/en/reading/budget-negotiation.json"
+          },
+          {
+            "id": "community-volunteering-day",
+            "title": "Ngày tình nguyện cộng đồng",
+            "description": "Hoạt động CSR dọn dẹp khu phố và xây dựng kế hoạch hợp tác với dân cư.",
+            "source": "content/en/reading/community-volunteering-day.json"
+          },
+          {
+            "id": "post-project-retrospective",
+            "title": "Tổng kết sau dự án",
+            "description": "Buổi retrospective ghi nhận bài học, phản hồi người dùng và hành động cải tiến.",
+            "source": "content/en/reading/post-project-retrospective.json"
           }
         ],
         "quiz": [
@@ -1174,6 +1234,66 @@
             "title": "线上培训日",
             "description": "Đoạn văn về buổi đào tạo trực tuyến và hoạt động tương tác nhóm.",
             "source": "content/zh-hans/reading/zh-hans-online-training.json"
+          },
+          {
+            "id": "zh-hans-innovation-workshop",
+            "title": "创新工作坊日记",
+            "description": "Buổi workshop tiếng Trung về chia sẻ ý tưởng và lên kế hoạch làm nguyên mẫu.",
+            "source": "content/zh-hans/reading/zh-hans-innovation-workshop.json"
+          },
+          {
+            "id": "zh-hans-market-visit",
+            "title": "市场走访记录",
+            "description": "Câu chuyện đội bán hàng thăm chợ sỉ, thu thập đơn hàng và huấn luyện đặt hàng di động.",
+            "source": "content/zh-hans/reading/zh-hans-market-visit.json"
+          },
+          {
+            "id": "zh-hans-qa-briefing",
+            "title": "质检早会纪要",
+            "description": "Buổi họp chất lượng rà soát lỗi, phân công sửa chữa và cập nhật kiểm thử.",
+            "source": "content/zh-hans/reading/zh-hans-qa-briefing.json"
+          },
+          {
+            "id": "zh-hans-remote-onboarding",
+            "title": "远程入职第一天",
+            "description": "Quy trình chào đón nhân viên làm việc từ xa với hỗ trợ IT và hoạt động gắn kết.",
+            "source": "content/zh-hans/reading/zh-hans-remote-onboarding.json"
+          },
+          {
+            "id": "zh-hans-brand-collaboration",
+            "title": "联名直播彩排",
+            "description": "Đội PR phối hợp thương hiệu đối tác chuẩn bị phát sóng và nội dung khuyến mãi.",
+            "source": "content/zh-hans/reading/zh-hans-brand-collaboration.json"
+          },
+          {
+            "id": "zh-hans-health-check",
+            "title": "企业健康日",
+            "description": "Sự kiện khám sức khỏe tại công ty cùng tư vấn dinh dưỡng và lớp yoga.",
+            "source": "content/zh-hans/reading/zh-hans-health-check.json"
+          },
+          {
+            "id": "zh-hans-community-forum",
+            "title": "社区合作论坛",
+            "description": "Cuộc gặp gỡ cộng đồng thảo luận giao thông, môi trường và ký kết hợp tác.",
+            "source": "content/zh-hans/reading/zh-hans-community-forum.json"
+          },
+          {
+            "id": "zh-hans-data-analysis-night",
+            "title": "数据夜班笔记",
+            "description": "Ca làm đêm của đội dữ liệu kiểm soát script, xử lý bất thường và gửi báo cáo.",
+            "source": "content/zh-hans/reading/zh-hans-data-analysis-night.json"
+          },
+          {
+            "id": "zh-hans-product-maintenance",
+            "title": "设备保养实录",
+            "description": "Chuyến bảo dưỡng tại nhà máy với hướng dẫn điều chỉnh tham số vận hành.",
+            "source": "content/zh-hans/reading/zh-hans-product-maintenance.json"
+          },
+          {
+            "id": "zh-hans-spring-fair",
+            "title": "春季招聘会",
+            "description": "Bài đọc về hội chợ việc làm tại trường đại học và hoạt động định hướng kỹ năng số.",
+            "source": "content/zh-hans/reading/zh-hans-spring-fair.json"
           }
         ],
         "quiz": [

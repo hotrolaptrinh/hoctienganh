@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "人力资源团队通过视频会议迎接第一批远程新人。",
+      "translation": "Đội nhân sự chào đón nhóm nhân viên từ xa đầu tiên thông qua cuộc họp video."
+    },
+    {
+      "text": "屏幕共享展示公司文化手册和线上福利指南。",
+      "translation": "Họ chia sẻ màn hình để giới thiệu sổ tay văn hóa và hướng dẫn phúc lợi trực tuyến."
+    },
+    {
+      "text": "IT 支持远程协助安装安全登录工具并测试摄像头。",
+      "translation": "Bộ phận IT hỗ trợ từ xa cài đặt công cụ đăng nhập an toàn và kiểm tra webcam."
+    },
+    {
+      "text": "导师安排一对一时间，帮助新人熟悉项目管理平台。",
+      "translation": "Người hướng dẫn sắp lịch 1-1 để giúp nhân viên mới làm quen nền tảng quản lý dự án."
+    },
+    {
+      "text": "最后大家在线享用外卖午餐并玩破冰游戏。",
+      "translation": "Cuối buổi mọi người cùng ăn trưa đặt giao tận nơi và chơi trò phá băng trực tuyến."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "视频会议中分享了哪些资料?",
+      "answer": "公司文化手册和线上福利指南。"
+    },
+    {
+      "prompt": "IT 团队如何支持新人?",
+      "answer": "远程协助安装安全登录工具并测试设备。"
+    },
+    {
+      "prompt": "活动最后进行了什么?",
+      "answer": "大家在线一起享用外卖午餐并玩破冰游戏。"
+    }
+  ]
+}

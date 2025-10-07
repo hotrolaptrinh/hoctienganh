@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "After launching the app, the project team holds a retrospective to reflect on lessons learned.",
+      "translation": "Sau khi ra mắt ứng dụng, nhóm dự án tổ chức buổi tổng kết để rút kinh nghiệm."
+    },
+    {
+      "text": "They write highlights and challenges on sticky notes before grouping themes on the whiteboard.",
+      "translation": "Mọi người viết điểm nổi bật và khó khăn lên giấy nhớ rồi gom thành các chủ đề trên bảng trắng."
+    },
+    {
+      "text": "Users praised the intuitive interface but requested more onboarding tips inside the app.",
+      "translation": "Người dùng khen giao diện trực quan nhưng đề nghị thêm hướng dẫn khởi động trong ứng dụng."
+    },
+    {
+      "text": "The operations lead suggests creating a shared playbook to capture best practices for future launches.",
+      "translation": "Trưởng nhóm vận hành đề xuất tạo sổ tay chung để ghi lại các thực tiễn tốt cho những lần ra mắt sau."
+    },
+    {
+      "text": "They end by assigning owners to improvement actions and celebrating with cupcakes from a local bakery.",
+      "translation": "Buổi họp kết thúc khi mọi người phân công phụ trách các hạng mục cải tiến và cùng ăn bánh cupcake của tiệm gần công ty."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What activity does the team conduct after launching the app?",
+      "answer": "They hold a retrospective meeting to reflect on lessons learned."
+    },
+    {
+      "prompt": "What feedback did users provide about the app?",
+      "answer": "They liked the intuitive interface but wanted more onboarding tips."
+    },
+    {
+      "prompt": "How does the team plan to document best practices?",
+      "answer": "By creating a shared playbook for future launches."
+    }
+  ]
+}
