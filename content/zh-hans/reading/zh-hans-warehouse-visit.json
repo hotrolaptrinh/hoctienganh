@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "下午三点，运营主管陈颖来到物流中心检查库存。",
+      "translation": "Ba giờ chiều, trưởng bộ phận vận hành Trần Ánh đến trung tâm logistics để kiểm tra tồn kho."
+    },
+    {
+      "text": "她扫描入口的二维码，立刻看到本周的到货情况。",
+      "translation": "Cô quét mã QR ở lối vào và xem ngay tình hình hàng về trong tuần."
+    },
+    {
+      "text": "仓库同事汇报最新订单已完成入库并上传电子签收单。",
+      "translation": "Đồng nghiệp phụ trách kho báo cáo đơn hàng mới nhất đã nhập kho và tải lên biên nhận điện tử."
+    },
+    {
+      "text": "陈颖发现两件产品包装破损，立即拍照并要求团队重新包装。",
+      "translation": "Trần Ánh phát hiện hai sản phẩm bị rách bao bì, lập tức chụp ảnh và yêu cầu đội ngũ đóng gói lại."
+    },
+    {
+      "text": "离开前，她更新库存报告并通过企业微信通知销售团队库存余量。",
+      "translation": "Trước khi rời đi, cô cập nhật báo cáo tồn kho và thông báo lượng hàng còn lại cho đội bán hàng qua WeChat doanh nghiệp."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "入口的二维码提供了什么信息？",
+      "answer": "显示本周的到货情况。"
+    },
+    {
+      "prompt": "陈颖如何处理发现的破损包装？",
+      "answer": "她拍照记录并要求团队重新包装再发货。"
+    },
+    {
+      "prompt": "陈颖离开仓库前完成了哪些工作？",
+      "answer": "更新库存报告并通知销售团队当前库存余量。"
+    }
+  ]
+}

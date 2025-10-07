@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Finance and operations leaders meet to negotiate next quarter's budget allocations.",
+      "translation": "Lãnh đạo tài chính và vận hành họp để thương lượng phân bổ ngân sách cho quý tới."
+    },
+    {
+      "text": "The finance director presents projected revenue alongside cost-saving recommendations.",
+      "translation": "Giám đốc tài chính trình bày doanh thu dự kiến cùng các đề xuất tiết kiệm chi phí."
+    },
+    {
+      "text": "Operations requests additional funds to automate inventory tracking at two warehouses.",
+      "translation": "Bộ phận vận hành đề nghị thêm ngân sách để tự động hóa theo dõi tồn kho tại hai kho hàng."
+    },
+    {
+      "text": "After reviewing risk scenarios, both teams agree to phase the investment over six months.",
+      "translation": "Sau khi xem xét các kịch bản rủi ro, hai bên thống nhất giải ngân từng giai đoạn trong sáu tháng."
+    },
+    {
+      "text": "They finalize the meeting with a revised spreadsheet and an approval timeline for executives.",
+      "translation": "Họ kết thúc cuộc họp với bảng tính chỉnh sửa và lịch phê duyệt gửi ban điều hành."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What does the finance director bring to the negotiation?",
+      "answer": "Projected revenue numbers and cost-saving recommendations."
+    },
+    {
+      "prompt": "Why does the operations team request more funds?",
+      "answer": "To automate inventory tracking at two warehouses."
+    },
+    {
+      "prompt": "How do the teams handle the investment after reviewing risks?",
+      "answer": "They agree to phase the investment over six months."
+    }
+  ]
+}

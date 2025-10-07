@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "上午九点，全体成员登录视频会议室参加客服系统培训。",
+      "translation": "Chín giờ sáng, toàn bộ thành viên đăng nhập phòng họp trực tuyến để tham gia đào tạo hệ thống chăm sóc khách hàng."
+    },
+    {
+      "text": "讲师介绍新系统的主要功能并播放操作演示。",
+      "translation": "Giảng viên giới thiệu các chức năng chính của hệ thống mới và phát video thao tác."
+    },
+    {
+      "text": "员工在聊天框提问，讲师通过屏幕共享逐步回答。",
+      "translation": "Nhân viên đặt câu hỏi trong khung chat và giảng viên chia sẻ màn hình để trả lời từng bước."
+    },
+    {
+      "text": "课程结束时，大家完成在线测验并立即获得反馈。",
+      "translation": "Kết thúc buổi học, mọi người làm bài kiểm tra trực tuyến và nhận phản hồi ngay lập tức."
+    },
+    {
+      "text": "团队负责人要求成员写下使用心得并在周会上分享困难与解决方案。",
+      "translation": "Trưởng nhóm yêu cầu mỗi người viết lại cảm nhận sử dụng và chia sẻ khó khăn cùng cách giải quyết trong cuộc họp tuần."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "培训在几点开始？",
+      "answer": "上午九点开始。"
+    },
+    {
+      "prompt": "员工通过什么方式提问？",
+      "answer": "他们在聊天框中提问，由讲师通过屏幕共享解答。"
+    },
+    {
+      "prompt": "课程结束后团队负责人提出了什么要求？",
+      "answer": "要求成员撰写使用心得，并在周会上分享困难与解决方案。"
+    }
+  ]
+}

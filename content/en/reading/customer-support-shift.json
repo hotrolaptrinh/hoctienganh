@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Trang logs into the support dashboard and scans overnight tickets for urgent issues.",
+      "translation": "Trang đăng nhập bảng điều khiển hỗ trợ và xem các phiếu phát sinh qua đêm để tìm vấn đề khẩn cấp."
+    },
+    {
+      "text": "She greets callers with a calm tone, confirming order numbers before troubleshooting.",
+      "translation": "Cô chào khách bằng giọng điềm tĩnh và xác nhận mã đơn hàng trước khi xử lý sự cố."
+    },
+    {
+      "text": "A recurring payment error prompts Trang to escalate the case to the billing specialist.",
+      "translation": "Một lỗi thanh toán lặp lại khiến Trang chuyển vụ việc lên chuyên viên phụ trách hóa đơn."
+    },
+    {
+      "text": "After lunch, she updates the knowledge base with a clearer guide for new team members.",
+      "translation": "Sau giờ trưa, cô cập nhật kho kiến thức với hướng dẫn rõ ràng hơn cho thành viên mới."
+    },
+    {
+      "text": "Her shift ends with a satisfied customer survey thanking her for patient explanations.",
+      "translation": "Ca làm việc kết thúc bằng một khảo sát khách hàng cảm ơn cô vì những giải thích kiên nhẫn."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What does Trang do first when she starts her shift?",
+      "answer": "She checks the overnight tickets on the support dashboard for urgent issues."
+    },
+    {
+      "prompt": "Why does Trang escalate a case to the billing specialist?",
+      "answer": "Because she encounters a recurring payment error."
+    },
+    {
+      "prompt": "How does the customer respond at the end of Trang's shift?",
+      "answer": "A survey thanks her for her patient explanations." 
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "周二上午，销售经理王磊带着最新的样品来到客户公司。",
+      "translation": "Sáng thứ Ba, quản lý kinh doanh Vương Lôi mang những mẫu mới nhất đến công ty khách hàng."
+    },
+    {
+      "text": "前台请他在会议室等待，他趁机整理好投影资料。",
+      "translation": "Lễ tân mời anh chờ trong phòng họp và anh tranh thủ sắp xếp tài liệu trình chiếu."
+    },
+    {
+      "text": "采购经理刘敏进来寒暄后，双方立刻进入正式议程。",
+      "translation": "Sau khi chào hỏi, quản lý thu mua Lưu Mẫn cùng anh nhanh chóng bước vào nội dung chính."
+    },
+    {
+      "text": "王磊介绍产品的升级亮点，并现场演示远程监控系统。",
+      "translation": "Vương Lôi giới thiệu các điểm nâng cấp của sản phẩm và trình diễn trực tiếp hệ thống giám sát từ xa."
+    },
+    {
+      "text": "会议结束前，双方约定周五前确认最终报价与交期。",
+      "translation": "Trước khi kết thúc, hai bên thống nhất xác nhận báo giá và thời hạn giao hàng trước thứ Sáu."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "王磊在等待客户时做了什么？",
+      "answer": "他整理好投影资料，确保演示顺利。"
+    },
+    {
+      "prompt": "刘敏重点关注哪些问题？",
+      "answer": "她关注交期与售后支持等细节。"
+    },
+    {
+      "prompt": "双方约定了什么时间节点？",
+      "answer": "在周五前确认最终报价与交期。"
+    }
+  ]
+}

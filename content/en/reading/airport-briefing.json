@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The project team meets in the airport lounge to review travel documents before boarding.",
+      "translation": "Nhóm dự án gặp nhau tại phòng chờ sân bay để rà soát giấy tờ trước khi lên máy bay."
+    },
+    {
+      "text": "Mai distributes printed agendas outlining client visits, demo times, and key deliverables.",
+      "translation": "Mai phát lịch trình in sẵn nêu rõ các buổi gặp khách hàng, thời gian demo và các đầu việc chính."
+    },
+    {
+      "text": "Bình double-checks presentation files saved on both the laptop and a backup drive.",
+      "translation": "Bình kiểm tra lại tệp thuyết trình được lưu cả trên laptop lẫn ổ cứng dự phòng."
+    },
+    {
+      "text": "An reminds everyone to keep receipts for expense reports after the client meetings.",
+      "translation": "An nhắc mọi người giữ lại hóa đơn để làm báo cáo chi phí sau các buổi gặp."
+    },
+    {
+      "text": "When boarding begins, the team assigns seats so they can rehearse together during the flight.",
+      "translation": "Khi bắt đầu lên máy bay, nhóm phân chia chỗ ngồi để có thể luyện tập cùng nhau trên chuyến bay."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Why does the team gather in the airport lounge?",
+      "answer": "To review travel documents and plans before boarding."
+    },
+    {
+      "prompt": "What does Bình check before the flight?",
+      "answer": "He ensures the presentation files are saved on the laptop and a backup drive."
+    },
+    {
+      "prompt": "How do they plan to use the flight time?",
+      "answer": "They assign seats so they can rehearse together during the flight." 
+    }
+  ]
+}

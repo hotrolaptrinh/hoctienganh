@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "数据团队在夜间加班处理季度报表。",
+      "translation": "Đội dữ liệu làm thêm buổi tối để xử lý báo cáo quý."
+    },
+    {
+      "text": "分析师轮流监控脚本运行情况，确保没有遗漏。",
+      "translation": "Các nhà phân tích thay phiên giám sát việc chạy script để đảm bảo không bỏ sót."
+    },
+    {
+      "text": "一旦发现异常，他们立即召开短会讨论原因。",
+      "translation": "Khi phát hiện bất thường, họ họp ngắn để bàn nguyên nhân ngay lập tức."
+    },
+    {
+      "text": "咖啡和夜宵摆在会议桌上，帮助团队保持专注。",
+      "translation": "Cà phê và đồ ăn đêm được đặt trên bàn họp giúp cả nhóm tỉnh táo."
+    },
+    {
+      "text": "凌晨前，所有图表完成校对并发送给管理层。",
+      "translation": "Trước rạng sáng, mọi biểu đồ được rà soát xong và gửi cho ban lãnh đạo."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "团队加班的目标是什么?",
+      "answer": "处理季度报表并完成图表校对。"
+    },
+    {
+      "prompt": "如果脚本出现异常会怎么做?",
+      "answer": "立即召开短会讨论原因。"
+    },
+    {
+      "prompt": "团队如何保持专注?",
+      "answer": "准备咖啡和夜宵以补充体力。"
+    }
+  ]
+}

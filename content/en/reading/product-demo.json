@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Sophie arranges three prototype tablets on the conference table before the clients arrive.",
+      "translation": "Sophie sắp xếp ba mẫu máy tính bảng lên bàn họp trước khi khách hàng đến."
+    },
+    {
+      "text": "She opens her slide deck to a dashboard that highlights recent user engagement data.",
+      "translation": "Cô mở bộ slide ở trang bảng điều khiển làm nổi bật dữ liệu tương tác người dùng gần đây."
+    },
+    {
+      "text": "During the demonstration, Sophie invites each client to test the stylus responsiveness.",
+      "translation": "Trong phần trình diễn, Sophie mời từng khách thử độ phản hồi của bút cảm ứng."
+    },
+    {
+      "text": "Questions about battery life lead to a discussion of the new fast-charging accessory.",
+      "translation": "Các câu hỏi về thời lượng pin dẫn tới cuộc trao đổi về phụ kiện sạc nhanh mới."
+    },
+    {
+      "text": "The meeting ends with smiles as the clients agree to pilot the devices at two branches.",
+      "translation": "Cuộc họp kết thúc trong niềm vui khi khách hàng đồng ý chạy thử thiết bị tại hai chi nhánh."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What does Sophie set up before the clients arrive?",
+      "answer": "She arranges three prototype tablets on the conference table."
+    },
+    {
+      "prompt": "Which feature do clients test during the demo?",
+      "answer": "They test the responsiveness of the stylus."
+    },
+    {
+      "prompt": "What outcome concludes the meeting?",
+      "answer": "The clients agree to pilot the devices at two branches." 
+    }
+  ]
+}

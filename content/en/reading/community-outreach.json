@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Volunteers gather at the community center to pack school supply kits for local students.",
+      "translation": "Tình nguyện viên tập trung tại trung tâm cộng đồng để đóng gói bộ dụng cụ học tập cho học sinh địa phương."
+    },
+    {
+      "text": "Huy records donations on a tablet while Mai organizes notebooks, pens, and art sets.",
+      "translation": "Huy ghi nhận các khoản quyên góp trên máy tính bảng trong khi Mai sắp xếp vở, bút và bộ đồ mỹ thuật."
+    },
+    {
+      "text": "A short presentation from the school counselor explains how the kits support attendance.",
+      "translation": "Một bài thuyết trình ngắn của cố vấn học đường giải thích các bộ dụng cụ giúp duy trì sĩ số như thế nào."
+    },
+    {
+      "text": "Families stop by to share thanks and sign up for the next financial literacy workshop.",
+      "translation": "Các gia đình ghé qua bày tỏ lời cảm ơn và đăng ký workshop kiến thức tài chính tiếp theo."
+    },
+    {
+      "text": "By sunset, the team delivers the packed boxes to the school bus for morning distribution.",
+      "translation": "Khi trời xế chiều, nhóm chuyển các thùng đã đóng gói lên xe buýt trường để phát vào sáng hôm sau."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What are the volunteers preparing at the community center?",
+      "answer": "School supply kits for local students."
+    },
+    {
+      "prompt": "Who explains the impact of the kits?",
+      "answer": "The school counselor gives a short presentation about their impact."
+    },
+    {
+      "prompt": "What happens to the boxes at the end of the day?",
+      "answer": "They are delivered to the school bus for distribution the next morning." 
+    }
+  ]
+}

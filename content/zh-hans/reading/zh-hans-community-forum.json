@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "社区论坛在文化中心举办，邀请企业代表分享合作计划。",
+      "translation": "Diễn đàn cộng đồng được tổ chức tại trung tâm văn hóa, mời đại diện doanh nghiệp chia sẻ kế hoạch hợp tác."
+    },
+    {
+      "text": "居民提出对交通和环境的关切，并写在建议板上。",
+      "translation": "Người dân nêu lo ngại về giao thông và môi trường, rồi viết lên bảng góp ý."
+    },
+    {
+      "text": "企业承诺资助植树活动，并派志愿者参与。",
+      "translation": "Doanh nghiệp cam kết tài trợ chương trình trồng cây và cử tình nguyện viên tham gia."
+    },
+    {
+      "text": "市政府代表说明下季度的道路改善时间表。",
+      "translation": "Đại diện chính quyền trình bày lịch cải thiện đường sá cho quý tới."
+    },
+    {
+      "text": "会议结束时双方签署合作备忘录。",
+      "translation": "Kết thúc buổi họp, hai bên ký biên bản ghi nhớ hợp tác."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "居民关注的议题是什么?",
+      "answer": "主要是交通和环境问题。"
+    },
+    {
+      "prompt": "企业承诺采取哪些行动?",
+      "answer": "资助植树活动并派志愿者参与。"
+    },
+    {
+      "prompt": "论坛最后完成了什么手续?",
+      "answer": "双方签署合作备忘录。"
+    }
+  ]
+}

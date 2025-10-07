@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "早上八点半，李娜到达公司并向前台问好。",
+      "translation": "Lúc tám giờ ba mươi, Lý Na đến công ty và chào hỏi lễ tân."
+    },
+    {
+      "text": "她先打开电脑检查夜间收到的邮件。",
+      "translation": "Cô mở máy tính và kiểm tra các email nhận được qua đêm."
+    },
+    {
+      "text": "九点的团队例会上，她确认当天的项目优先级。",
+      "translation": "Trong cuộc họp nhóm lúc chín giờ, cô xác nhận các ưu tiên dự án trong ngày."
+    },
+    {
+      "text": "午休后，李娜给客户打电话确认订单细节并发送报价。",
+      "translation": "Sau giờ trưa, Lý Na gọi cho khách hàng để xác nhận chi tiết đơn hàng và gửi báo giá."
+    },
+    {
+      "text": "下班前，她整理第二天的日程并关灯离开。",
+      "translation": "Trước khi tan ca, cô sắp xếp lịch cho ngày hôm sau rồi tắt đèn rời đi."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "李娜到公司后做的第一件事是什么？",
+      "answer": "她打开电脑检查夜间收到的邮件。"
+    },
+    {
+      "prompt": "团队例会在几点开始？",
+      "answer": "上午九点。"
+    },
+    {
+      "prompt": "李娜为什么致电客户？",
+      "answer": "为了确认订单细节并发送新的报价。"
+    }
+  ]
+}

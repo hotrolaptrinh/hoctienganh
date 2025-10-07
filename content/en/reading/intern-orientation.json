@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "New interns gather in the training room for their first-day orientation session.",
+      "translation": "Các thực tập sinh mới tập trung tại phòng đào tạo cho buổi định hướng ngày đầu tiên."
+    },
+    {
+      "text": "The HR representative explains company values and shares a welcome video from the founders.",
+      "translation": "Đại diện nhân sự trình bày các giá trị của công ty và phát video chào mừng từ những người sáng lập."
+    },
+    {
+      "text": "Each mentor introduces their project and invites interns to ask questions about expectations.",
+      "translation": "Mỗi người cố vấn giới thiệu dự án của mình và mời các bạn thực tập đặt câu hỏi về kỳ vọng."
+    },
+    {
+      "text": "After a tour of the workspace, the group completes paperwork for system access.",
+      "translation": "Sau chuyến tham quan không gian làm việc, cả nhóm hoàn tất giấy tờ để được cấp quyền truy cập hệ thống."
+    },
+    {
+      "text": "They finish the morning with a team lunch organized by last year's intern cohort.",
+      "translation": "Buổi sáng kết thúc bằng bữa trưa cùng đội ngũ được tổ chức bởi khóa thực tập năm ngoái."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Who greets the interns at the orientation?",
+      "answer": "An HR representative who explains company values and plays a welcome video."
+    },
+    {
+      "prompt": "What do mentors do during the session?",
+      "answer": "They introduce their projects and invite questions about expectations."
+    },
+    {
+      "prompt": "How does the group end the morning?",
+      "answer": "With a team lunch organized by last year's interns."
+    }
+  ]
+}

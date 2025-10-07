@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The finance director opens the quarterly review with a slide showing revenue growth by region.",
+      "translation": "Giám đốc tài chính mở cuộc họp tổng kết quý bằng một slide thể hiện tăng trưởng doanh thu theo khu vực."
+    },
+    {
+      "text": "Department heads share two-minute highlights covering wins, risks, and upcoming priorities.",
+      "translation": "Trưởng các bộ phận lần lượt chia sẻ trong hai phút về thành công, rủi ro và ưu tiên sắp tới."
+    },
+    {
+      "text": "Questions about rising logistics costs lead to a plan for negotiating new supplier contracts.",
+      "translation": "Các câu hỏi về chi phí logistics tăng cao dẫn tới kế hoạch đàm phán hợp đồng nhà cung cấp mới."
+    },
+    {
+      "text": "The HR manager announces a mentorship program to support the expanding sales team.",
+      "translation": "Trưởng phòng nhân sự công bố chương trình cố vấn nhằm hỗ trợ đội ngũ bán hàng đang mở rộng."
+    },
+    {
+      "text": "They end the review by assigning follow-up actions and confirming the next check-in date.",
+      "translation": "Cuộc họp kết thúc với việc phân công các hành động tiếp theo và chốt ngày rà soát tiếp theo."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What information does the finance director share first?",
+      "answer": "A slide showing revenue growth by region."
+    },
+    {
+      "prompt": "Which issue prompts a plan to negotiate new contracts?",
+      "answer": "Concerns about rising logistics costs."
+    },
+    {
+      "prompt": "What program does HR announce during the meeting?",
+      "answer": "A mentorship program for the expanding sales team." 
+    }
+  ]
+}

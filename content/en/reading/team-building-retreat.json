@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The marketing team arrives at a lakeside lodge for their annual team-building retreat.",
+      "translation": "Đội marketing đến một nhà nghỉ bên hồ cho chuyến dã ngoại gắn kết hằng năm."
+    },
+    {
+      "text": "Morning workshops focus on communication styles and active listening exercises.",
+      "translation": "Các buổi workshop buổi sáng tập trung vào phong cách giao tiếp và bài tập lắng nghe chủ động."
+    },
+    {
+      "text": "After lunch, small groups design mini campaigns using only recycled materials.",
+      "translation": "Sau bữa trưa, các nhóm nhỏ thiết kế mini campaign chỉ bằng vật liệu tái chế."
+    },
+    {
+      "text": "An evening hike ends at a campfire where teammates share highlights from the year.",
+      "translation": "Cuộc đi bộ chiều tối kết thúc bên đống lửa trại nơi các thành viên chia sẻ những điểm sáng trong năm."
+    },
+    {
+      "text": "They leave the next morning energized with new ideas for the brand launch.",
+      "translation": "Sáng hôm sau họ ra về đầy hứng khởi với nhiều ý tưởng mới cho đợt ra mắt thương hiệu."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "Where does the team hold their retreat?",
+      "answer": "At a lakeside lodge."
+    },
+    {
+      "prompt": "What creative activity happens after lunch?",
+      "answer": "Teams design mini campaigns using recycled materials."
+    },
+    {
+      "prompt": "How do participants feel when they leave the retreat?",
+      "answer": "They feel energized with new ideas for the brand launch." 
+    }
+  ]
+}

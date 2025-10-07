@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "The CSR committee briefs volunteers before they depart for the community clean-up day.",
+      "translation": "Ủy ban trách nhiệm xã hội phổ biến thông tin cho tình nguyện viên trước khi xuất phát cho ngày dọn vệ sinh cộng đồng."
+    },
+    {
+      "text": "Each team receives gloves, reusable bags, and a map marking priority streets.",
+      "translation": "Mỗi đội được phát găng tay, túi tái sử dụng và bản đồ đánh dấu các tuyến đường ưu tiên."
+    },
+    {
+      "text": "Local residents join in, sharing stories about how the neighborhood has changed over the years.",
+      "translation": "Người dân địa phương cùng tham gia và kể những câu chuyện về sự đổi thay của khu phố qua các năm."
+    },
+    {
+      "text": "At noon, everyone gathers for a brief workshop on waste sorting and recycling tips.",
+      "translation": "Đến trưa, mọi người tập trung để tham dự buổi hướng dẫn ngắn về phân loại rác và mẹo tái chế."
+    },
+    {
+      "text": "The day concludes with a group photo and plans for future projects with the community leaders.",
+      "translation": "Ngày hoạt động kết thúc bằng bức ảnh tập thể và kế hoạch các dự án tương lai cùng lãnh đạo khu phố."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What supplies do volunteers receive before starting?",
+      "answer": "Gloves, reusable bags, and a map of priority streets."
+    },
+    {
+      "prompt": "Who joins the teams during the clean-up?",
+      "answer": "Local residents who share stories about the neighborhood."
+    },
+    {
+      "prompt": "What happens at noon?",
+      "answer": "Everyone attends a workshop on waste sorting and recycling tips."
+    }
+  ]
+}

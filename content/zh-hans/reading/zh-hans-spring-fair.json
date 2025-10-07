@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "春季招聘会在大学体育馆热闹展开。",
+      "translation": "Hội chợ việc làm mùa xuân diễn ra sôi động tại nhà thi đấu đại học."
+    },
+    {
+      "text": "企业代表布置展位，展示实习与培训项目。",
+      "translation": "Đại diện doanh nghiệp trang trí gian hàng và giới thiệu chương trình thực tập, đào tạo."
+    },
+    {
+      "text": "学生排队投递简历，并与人事顾问模拟面试。",
+      "translation": "Sinh viên xếp hàng nộp hồ sơ và phỏng vấn thử với chuyên viên nhân sự."
+    },
+    {
+      "text": "志愿者在入口派发活动手册和场地图。",
+      "translation": "Tình nguyện viên phát sổ tay sự kiện và sơ đồ khu vực ngay lối vào."
+    },
+    {
+      "text": "傍晚举办圆桌论坛，讨论数字技能的未来趋势。",
+      "translation": "Buổi chiều tối có tọa đàm bàn tròn thảo luận xu hướng tương lai của kỹ năng số."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "招聘会上企业主要展示什么?",
+      "answer": "展示各类实习和培训项目。"
+    },
+    {
+      "prompt": "学生在现场参与了哪些活动?",
+      "answer": "他们投递简历并与人事顾问模拟面试。"
+    },
+    {
+      "prompt": "傍晚的议程重点是什么?",
+      "answer": "举办圆桌论坛讨论数字技能的未来趋势。"
+    }
+  ]
+}

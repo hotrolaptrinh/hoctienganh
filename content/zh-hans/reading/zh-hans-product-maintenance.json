@@ -1,0 +1,39 @@
+{
+  "language": "zh-hans",
+  "sentences": [
+    {
+      "text": "售后工程师前往客户工厂进行设备保养。",
+      "translation": "Kỹ sư hậu mãi đến nhà máy khách hàng để bảo dưỡng thiết bị."
+    },
+    {
+      "text": "他们先检查运行记录，确认机器最近的警报。",
+      "translation": "Họ kiểm tra nhật ký vận hành để xác nhận cảnh báo gần đây của máy."
+    },
+    {
+      "text": "随后拆卸滤芯并更换磨损零件。",
+      "translation": "Sau đó tháo lõi lọc và thay các bộ phận bị mòn."
+    },
+    {
+      "text": "为了培训操作员，工程师示范如何设置新参数。",
+      "translation": "Để huấn luyện người vận hành, kỹ sư trình diễn cách cài đặt tham số mới."
+    },
+    {
+      "text": "完成后双方在维护报告上签字。",
+      "translation": "Hoàn tất xong, hai bên ký vào biên bản bảo trì."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "工程师首先检查了什么?",
+      "answer": "检查设备的运行记录和警报。"
+    },
+    {
+      "prompt": "培训环节的重点是什么?",
+      "answer": "示范如何设置新的操作参数。"
+    },
+    {
+      "prompt": "保养结束后需要完成哪项手续?",
+      "answer": "双方在维护报告上签字确认。"
+    }
+  ]
+}
