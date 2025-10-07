@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 58 - Marketing Analytics & Campaigns",
+  "words": [
+    {
+      "word": "campaign brief",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kæmˈpeɪn briːf/",
+      "meaning": "bản tóm tắt chiến dịch"
+    },
+    {
+      "word": "target audience",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtɑːɡɪt ˈɔːdiəns/",
+      "meaning": "khách hàng mục tiêu"
+    },
+    {
+      "word": "customer journey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni/",
+      "meaning": "hành trình khách hàng"
+    },
+    {
+      "word": "touchpoint",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈtʌtʃpɔɪnt/",
+      "meaning": "điểm chạm"
+    },
+    {
+      "word": "channel mix",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃænəl mɪks/",
+      "meaning": "phối hợp kênh"
+    },
+    {
+      "word": "media plan",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmiːdiə plæn/",
+      "meaning": "kế hoạch truyền thông"
+    },
+    {
+      "word": "impression",
+      "partOfSpeech": "n.",
+      "ipa": "/ɪmˈpreʃn/",
+      "meaning": "lượt hiển thị"
+    },
+    {
+      "word": "click-through rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/klɪk θruː reɪt/",
+      "meaning": "tỷ lệ nhấp"
+    },
+    {
+      "word": "conversion rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːʒn reɪt/",
+      "meaning": "tỷ lệ chuyển đổi"
+    },
+    {
+      "word": "cost per acquisition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɒst pə ˌækwɪˈzɪʃn/",
+      "meaning": "chi phí cho mỗi khách hàng"
+    },
+    {
+      "word": "return on ad spend",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtɜːn ɒn æd spend/",
+      "meaning": "tỷ suất lợi nhuận quảng cáo"
+    },
+    {
+      "word": "attribution model",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌætrɪˈbjuːʃn ˈmɒdl/",
+      "meaning": "mô hình phân bổ"
+    },
+    {
+      "word": "marketing automation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪtɪŋ ˌɔːtəˈmeɪʃn/",
+      "meaning": "tự động hóa marketing"
+    },
+    {
+      "word": "lead scoring",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/liːd ˈskɔːrɪŋ/",
+      "meaning": "điểm số tiềm năng"
+    },
+    {
+      "word": "segmentation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌseɡmenˈteɪʃn/",
+      "meaning": "phân khúc"
+    },
+    {
+      "word": "lookalike audience",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlʊkəlaɪk ˈɔːdiəns/",
+      "meaning": "tệp tương tự"
+    },
+    {
+      "word": "retargeting",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌriːˈtɑːɡɪtɪŋ/",
+      "meaning": "tiếp thị bám đuổi"
+    },
+    {
+      "word": "A/B testing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/eɪ biː ˈtestɪŋ/",
+      "meaning": "thử nghiệm A/B"
+    },
+    {
+      "word": "lift",
+      "partOfSpeech": "n.",
+      "ipa": "/lɪft/",
+      "meaning": "mức tăng"
+    },
+    {
+      "word": "incrementality",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌɪŋkrɪmenˈtælɪti/",
+      "meaning": "tính gia tăng"
+    },
+    {
+      "word": "marketing mix modeling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɑːkɪtɪŋ mɪks ˈmɒdəlɪŋ/",
+      "meaning": "mô hình hóa phối thức marketing"
+    },
+    {
+      "word": "brand awareness",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/brænd əˈweənəs/",
+      "meaning": "nhận biết thương hiệu"
+    },
+    {
+      "word": "social listening",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsəʊʃl ˈlɪsənɪŋ/",
+      "meaning": "lắng nghe mạng xã hội"
+    },
+    {
+      "word": "sentiment analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsentɪmənt əˈnæləsɪs/",
+      "meaning": "phân tích cảm xúc"
+    },
+    {
+      "word": "campaign wrap-up",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kæmˈpeɪn ˈræp ʌp/",
+      "meaning": "tổng kết chiến dịch"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 66 - Aviation & Airport Operations",
+  "words": [
+    {
+      "word": "air traffic control",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/eə ˈtræfɪk kənˈtrəʊl/",
+      "meaning": "kiểm soát không lưu"
+    },
+    {
+      "word": "runway",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈrʌnweɪ/",
+      "meaning": "đường băng"
+    },
+    {
+      "word": "apron",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈeɪprən/",
+      "meaning": "sân đỗ máy bay"
+    },
+    {
+      "word": "boarding gate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɔːdɪŋ ɡeɪt/",
+      "meaning": "cổng lên máy bay"
+    },
+    {
+      "word": "departure hall",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈpɑːtʃə hɔːl/",
+      "meaning": "sảnh khởi hành"
+    },
+    {
+      "word": "baggage carousel",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbæɡɪdʒ ˌkærəˈsel/",
+      "meaning": "băng chuyền hành lý"
+    },
+    {
+      "word": "ground handling",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡraʊnd ˈhændlɪŋ/",
+      "meaning": "dịch vụ mặt đất"
+    },
+    {
+      "word": "check-in counter",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtʃek ɪn ˈkaʊntə/",
+      "meaning": "quầy làm thủ tục"
+    },
+    {
+      "word": "security screening",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/sɪˈkjʊərəti ˈskriːnɪŋ/",
+      "meaning": "kiểm tra an ninh"
+    },
+    {
+      "word": "customs inspection",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ɪnˈspekʃn/",
+      "meaning": "kiểm tra hải quan"
+    },
+    {
+      "word": "boarding pass",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɔːdɪŋ pɑːs/",
+      "meaning": "thẻ lên máy bay"
+    },
+    {
+      "word": "on-time performance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɒn taɪm pəˈfɔːməns/",
+      "meaning": "tỷ lệ đúng giờ"
+    },
+    {
+      "word": "slot allocation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/slɒt ˌæləˈkeɪʃn/",
+      "meaning": "phân bổ giờ cất hạ cánh"
+    },
+    {
+      "word": "load factor",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ləʊd ˈfæktə/",
+      "meaning": "hệ số tải"
+    },
+    {
+      "word": "cabin crew",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkæbɪn kruː/",
+      "meaning": "tiếp viên"
+    },
+    {
+      "word": "flight manifest",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/flaɪt ˈmænɪfest/",
+      "meaning": "danh sách hành khách"
+    },
+    {
+      "word": "maintenance hangar",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmeɪntənəns ˈhæŋə/",
+      "meaning": "nhà chứa bảo dưỡng"
+    },
+    {
+      "word": "fueling",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈfjuːəlɪŋ/",
+      "meaning": "tiếp nhiên liệu"
+    },
+    {
+      "word": "pushback",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈpʊʃbæk/",
+      "meaning": "đẩy lùi máy bay"
+    },
+    {
+      "word": "de-icing",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌdiːˈaɪsɪŋ/",
+      "meaning": "khử băng"
+    },
+    {
+      "word": "airside",
+      "partOfSpeech": "adj./adv.",
+      "ipa": "/ˈeəsaɪd/",
+      "meaning": "khu vực sau kiểm soát an ninh"
+    },
+    {
+      "word": "landside",
+      "partOfSpeech": "adj./adv.",
+      "ipa": "/ˈlændsaɪd/",
+      "meaning": "khu vực trước kiểm soát an ninh"
+    },
+    {
+      "word": "safety briefing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɪfti ˈbriːfɪŋ/",
+      "meaning": "hướng dẫn an toàn"
+    },
+    {
+      "word": "turbulence",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈtɜːbjələns/",
+      "meaning": "nhiễu động"
+    },
+    {
+      "word": "weather delay",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈweðə dɪˈleɪ/",
+      "meaning": "trễ chuyến do thời tiết"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 56 - Financial Reporting & Analysis",
+  "words": [
+    {
+      "word": "balance sheet",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbæl.əns ʃiːt/",
+      "meaning": "bảng cân đối kế toán"
+    },
+    {
+      "word": "income statement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnkʌm ˈsteɪtmənt/",
+      "meaning": "báo cáo kết quả kinh doanh"
+    },
+    {
+      "word": "cash flow statement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kæʃ fləʊ ˈsteɪtmənt/",
+      "meaning": "báo cáo lưu chuyển tiền tệ"
+    },
+    {
+      "word": "accrual basis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/əˈkruːəl ˈbeɪsɪs/",
+      "meaning": "cơ sở dồn tích"
+    },
+    {
+      "word": "revenue recognition",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈrevənjuː ˌrekəɡˈnɪʃn/",
+      "meaning": "ghi nhận doanh thu"
+    },
+    {
+      "word": "cost of goods sold",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌkɒst əv ɡʊdz ˈsəʊld/",
+      "meaning": "giá vốn hàng bán"
+    },
+    {
+      "word": "gross margin",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɡrəʊs ˈmɑːdʒɪn/",
+      "meaning": "biên lợi nhuận gộp"
+    },
+    {
+      "word": "operating expense",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒpəreɪtɪŋ ɪkˈspens/",
+      "meaning": "chi phí hoạt động"
+    },
+    {
+      "word": "EBITDA",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌiːbiːˈtiːˈdeɪ/",
+      "meaning": "lợi nhuận trước lãi vay, thuế, khấu hao"
+    },
+    {
+      "word": "net profit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/net ˈprɒfɪt/",
+      "meaning": "lợi nhuận ròng"
+    },
+    {
+      "word": "earnings per share",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɜːnɪŋz pə ʃeə/",
+      "meaning": "lợi nhuận trên mỗi cổ phần"
+    },
+    {
+      "word": "return on equity",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtɜːn ɒn ˈekwɪti/",
+      "meaning": "tỷ suất sinh lời vốn chủ"
+    },
+    {
+      "word": "depreciation",
+      "partOfSpeech": "n.",
+      "ipa": "/dɪˌpriːʃiˈeɪʃn/",
+      "meaning": "khấu hao"
+    },
+    {
+      "word": "amortization",
+      "partOfSpeech": "n.",
+      "ipa": "/əˌmɔːtaɪˈzeɪʃn/",
+      "meaning": "khấu hao tài sản vô hình"
+    },
+    {
+      "word": "impairment",
+      "partOfSpeech": "n.",
+      "ipa": "/ɪmˈpeəmənt/",
+      "meaning": "giảm giá trị"
+    },
+    {
+      "word": "segment reporting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈseɡmənt rɪˈpɔːtɪŋ/",
+      "meaning": "báo cáo theo phân khúc"
+    },
+    {
+      "word": "footnote disclosure",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfʊtnəʊt dɪsˈkləʊʒə/",
+      "meaning": "thuyết minh báo cáo"
+    },
+    {
+      "word": "variance analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈveəriəns əˈnæləsɪs/",
+      "meaning": "phân tích chênh lệch"
+    },
+    {
+      "word": "trend line",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/trend laɪn/",
+      "meaning": "đường xu hướng"
+    },
+    {
+      "word": "financial ratio",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/faɪˈnænʃl ˈreɪʃiəʊ/",
+      "meaning": "tỷ số tài chính"
+    },
+    {
+      "word": "benchmarking",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈbentʃmɑːkɪŋ/",
+      "meaning": "đối sánh"
+    },
+    {
+      "word": "material misstatement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈtɪəriəl mɪsˈsteɪtmənt/",
+      "meaning": "sai sót trọng yếu"
+    },
+    {
+      "word": "audit opinion",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdɪt əˈpɪnjən/",
+      "meaning": "ý kiến kiểm toán"
+    },
+    {
+      "word": "going concern",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɡəʊɪŋ kənˈsɜːn/",
+      "meaning": "hoạt động liên tục"
+    },
+    {
+      "word": "financial consolidation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/faɪˈnænʃl kənˌsɒlɪˈdeɪʃn/",
+      "meaning": "hợp nhất tài chính"
+    }
+  ]
+}

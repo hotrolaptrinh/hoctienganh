@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 43 - Digital Transformation & Innovation",
+  "words": [
+    {
+      "word": "digital transformation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdɪdʒɪtl ˌtrænsfəˈmeɪʃn/",
+      "meaning": "chuyển đổi số"
+    },
+    {
+      "word": "innovation pipeline",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃn ˈpaɪplaɪn/",
+      "meaning": "chuỗi ý tưởng đổi mới"
+    },
+    {
+      "word": "disruption",
+      "partOfSpeech": "n.",
+      "ipa": "/dɪsˈrʌpʃn/",
+      "meaning": "sự đột phá"
+    },
+    {
+      "word": "legacy system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɛɡəsi ˈsɪstəm/",
+      "meaning": "hệ thống cũ"
+    },
+    {
+      "word": "cloud migration",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/klaʊd maɪˈɡreɪʃn/",
+      "meaning": "di trú lên đám mây"
+    },
+    {
+      "word": "automation",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌɔːtəˈmeɪʃn/",
+      "meaning": "tự động hóa"
+    },
+    {
+      "word": "machine learning",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/məˈʃiːn ˈlɜːnɪŋ/",
+      "meaning": "học máy"
+    },
+    {
+      "word": "artificial intelligence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɑːtɪˈfɪʃl ɪnˈtelɪdʒəns/",
+      "meaning": "trí tuệ nhân tạo"
+    },
+    {
+      "word": "internet of things",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪntənɛt əv ˈθɪŋz/",
+      "meaning": "internet vạn vật"
+    },
+    {
+      "word": "blockchain",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈblɒktʃeɪn/",
+      "meaning": "chuỗi khối"
+    },
+    {
+      "word": "agile methodology",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈædʒaɪl ˌmeθəˈdɒlədʒi/",
+      "meaning": "phương pháp agile"
+    },
+    {
+      "word": "scrum master",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/skrʌm ˈmɑːstə/",
+      "meaning": "người điều phối scrum"
+    },
+    {
+      "word": "minimum viable product",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈmɪnɪməm ˈvaɪəbl ˈprɒdʌkt/",
+      "meaning": "sản phẩm khả dụng tối thiểu"
+    },
+    {
+      "word": "prototype",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈprəʊtətaɪp/",
+      "meaning": "nguyên mẫu"
+    },
+    {
+      "word": "user adoption",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈjuːzə əˈdɒpʃn/",
+      "meaning": "mức độ chấp nhận của người dùng"
+    },
+    {
+      "word": "change management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/tʃeɪndʒ ˈmænɪdʒmənt/",
+      "meaning": "quản trị thay đổi"
+    },
+    {
+      "word": "stakeholder alignment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsteɪkˌhəʊldə əˈlaɪnmənt/",
+      "meaning": "đồng thuận các bên liên quan"
+    },
+    {
+      "word": "product roadmap",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt ˈrəʊdmæp/",
+      "meaning": "lộ trình sản phẩm"
+    },
+    {
+      "word": "pilot program",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpaɪlət ˈprəʊɡræm/",
+      "meaning": "chương trình thí điểm"
+    },
+    {
+      "word": "scalability",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌskeɪləˈbɪləti/",
+      "meaning": "khả năng mở rộng"
+    },
+    {
+      "word": "data governance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdeɪtə ˈɡʌvənəns/",
+      "meaning": "quản trị dữ liệu"
+    },
+    {
+      "word": "cybersecurity",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌsaɪbəˌsɪˈkjʊərəti/",
+      "meaning": "an ninh mạng"
+    },
+    {
+      "word": "customer journey",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈdʒɜːni/",
+      "meaning": "hành trình khách hàng"
+    },
+    {
+      "word": "design thinking",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈzaɪn ˈθɪŋkɪŋ/",
+      "meaning": "tư duy thiết kế"
+    },
+    {
+      "word": "innovation hub",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌɪnəˈveɪʃn hʌb/",
+      "meaning": "trung tâm đổi mới"
+    }
+  ]
+}
