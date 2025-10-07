@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Minh squeezes onto the metro just before the doors close on the busy Monday morning.",
+      "translation": "Minh kịp chen lên tàu điện ngầm ngay trước khi cửa đóng vào sáng thứ Hai đông đúc."
+    },
+    {
+      "text": "He listens to a productivity podcast while the train glides past the river skyline.",
+      "translation": "Anh nghe một podcast về năng suất trong lúc tàu lướt qua đường chân trời bên dòng sông."
+    },
+    {
+      "text": "A notification reminds Minh to confirm a supplier call scheduled for nine o'clock.",
+      "translation": "Một thông báo nhắc Minh xác nhận cuộc gọi với nhà cung cấp được lên lịch lúc chín giờ."
+    },
+    {
+      "text": "When the train arrives, he thanks the attendant and navigates the crowd toward the office plaza.",
+      "translation": "Khi tàu đến, anh cảm ơn nhân viên nhà ga và len qua đám đông hướng về quảng trường văn phòng."
+    },
+    {
+      "text": "Minh reaches his desk with five minutes to spare, ready to lead the weekly status meeting.",
+      "translation": "Minh đến bàn làm việc trước năm phút và sẵn sàng điều hành cuộc họp cập nhật hằng tuần."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What does Minh listen to during his commute?",
+      "answer": "He listens to a productivity podcast."
+    },
+    {
+      "prompt": "What reminder does Minh receive on the train?",
+      "answer": "He is reminded to confirm a supplier call scheduled for nine o'clock."
+    },
+    {
+      "prompt": "How does Minh feel when he arrives at his desk?",
+      "answer": "He is ready to lead the weekly status meeting." 
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "language": "en",
+  "sentences": [
+    {
+      "text": "Linh wakes up at six-thirty and prepares oatmeal with fresh fruit for breakfast.",
+      "translation": "Linh thức dậy lúc sáu giờ rưỡi và chuẩn bị bữa sáng với cháo yến mạch cùng trái cây tươi."
+    },
+    {
+      "text": "She reviews her class schedule on her phone while the coffee maker finishes brewing.",
+      "translation": "Cô xem lại thời khóa biểu trên điện thoại trong lúc máy pha cà phê hoàn tất."
+    },
+    {
+      "text": "After a quick stretching routine, she packs her laptop and notebooks into a tidy backpack.",
+      "translation": "Sau vài động tác giãn cơ nhanh, cô xếp laptop và vở ghi vào ba lô gọn gàng."
+    },
+    {
+      "text": "Before leaving, Linh feeds the family cat and checks that the windows are securely closed.",
+      "translation": "Trước khi ra khỏi nhà, Linh cho mèo ăn và kiểm tra các cửa sổ đã đóng chắc chưa."
+    },
+    {
+      "text": "She catches the early bus to campus feeling calm and ready for her group presentation.",
+      "translation": "Cô bắt chuyến xe buýt sớm đến trường với tâm trạng bình tĩnh và sẵn sàng cho bài thuyết trình nhóm."
+    }
+  ],
+  "questions": [
+    {
+      "prompt": "What does Linh prepare for breakfast?",
+      "answer": "She makes oatmeal with fresh fruit."
+    },
+    {
+      "prompt": "How does Linh review her schedule in the morning?",
+      "answer": "She checks it on her phone while the coffee brews."
+    },
+    {
+      "prompt": "Why does Linh feel ready for her day when she leaves home?",
+      "answer": "Because she has completed her routine and packed everything for the group presentation."
+    }
+  ]
+}

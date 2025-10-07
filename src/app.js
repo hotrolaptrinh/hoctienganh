@@ -36,6 +36,14 @@ function formatPartOfSpeech(value = '') {
   return partOfSpeechMap[key] || value;
 }
 
+function normalizeVocabularyValue(value = '') {
+  return String(value || '')
+    .normalize('NFC')
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, '');
+}
+
 function getLessonButtonLabel(status) {
   return status === 'đang học' ? 'Đang học' : 'Học tiếp';
 }
@@ -308,15 +316,36 @@ function renderNavigation(category, lessonId) {
 function renderVocabularyLayout(category, lesson, data, markdown) {
   const tableRows = data
     .map(
-      (item) => `
+      (item, index) => {
+        const rawWord = item.word || '';
+        const word = escapeHtml(rawWord);
+        const encodedAnswer = encodeURIComponent(rawWord);
+        const partOfSpeech = escapeHtml(formatPartOfSpeech(item.partOfSpeech));
+        const ipa = escapeHtml(item.ipa || '');
+        const meaning = escapeHtml(item.meaning || '');
+        const inputId = `practice-word-${lesson.id}-${index}`;
+        return `
       <tr>
-        <td>${item.word}</td>
-        <td>${formatPartOfSpeech(item.partOfSpeech)}</td>
-        <td>${item.ipa}</td>
-        <td>${item.meaning}</td>
+        <td class="word-cell" data-answer="${encodedAnswer}">
+          <span class="word-display">${word}</span>
+          <label class="sr-only" for="${inputId}">Nhập từ vựng</label>
+          <input
+            class="word-input"
+            id="${inputId}"
+            type="text"
+            autocomplete="off"
+            autocapitalize="none"
+            spellcheck="false"
+            hidden
+          />
+        </td>
+        <td>${partOfSpeech}</td>
+        <td>${ipa}</td>
+        <td>${meaning}</td>
         <td><button class="button secondary" data-say="${encodeURIComponent(item.word)}">Đọc</button></td>
       </tr>
-    `,
+    `;
+      },
     )
     .join('');
 
@@ -326,6 +355,13 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
         <h2>${lesson.title}</h2>
       </div>
       <p>${lesson.description || ''}</p>
+      <div class="practice-controls">
+        <label class="practice-switch">
+          <input type="checkbox" id="practice-toggle" />
+          <span>Luyện tập nhập từ vựng</span>
+        </label>
+        <button class="button" type="button" data-action="check-answers">Kiểm tra</button>
+      </div>
       <div class="table-scroll">
         <table class="vocabulary">
           <colgroup>
@@ -366,14 +402,70 @@ function renderGrammarLayout(category, lesson, markdown) {
   `;
 }
 
-function renderReadingLayout(category, lesson, markdown) {
+function renderReadingLayout(category, lesson, readingData) {
+  const sentences = readingData?.sentences || [];
+  const questions = readingData?.questions || [];
+  const hasSentences = sentences.length > 0;
+
+  const sentenceItems = sentences
+    .map(
+      (sentence) => `
+        <li class="reading-line">
+          <p class="reading-sentence">${escapeHtml(sentence.text || '')}</p>
+          <p class="reading-translation" hidden>${escapeHtml(sentence.translation || '')}</p>
+        </li>
+      `,
+    )
+    .join('');
+
+  const passageHtml = hasSentences
+    ? sentenceItems
+    : `
+        <li class="reading-line reading-line--empty">
+          <p class="reading-sentence">Chưa có nội dung bài đọc cho ngôn ngữ này.</p>
+        </li>
+      `;
+
+  const questionItems = questions
+    .map(
+      (question, index) => `
+        <li class="reading-question" data-question-index="${index}">
+          <p class="question-prompt"><strong>Câu ${index + 1}:</strong> ${escapeHtml(question.prompt || '')}</p>
+          <textarea class="reading-response" rows="3" aria-label="Câu trả lời ${index + 1}"></textarea>
+          <div class="question-answer" hidden><strong>Đáp án:</strong> ${escapeHtml(question.answer || '')}</div>
+        </li>
+      `,
+    )
+    .join('');
+
   return `
     <section>
       <div class="layout-header">
         <h2>${lesson.title}</h2>
       </div>
       <p>${lesson.description || ''}</p>
-      <div class="markdown reading">${renderMarkdown(markdown)}</div>
+      ${hasSentences || questions.length
+        ? `<div class="reading-controls">
+            ${hasSentences
+              ? `<label class="bilingual-switch">
+                  <input type="checkbox" id="bilingual-toggle" />
+                  <span>Song ngữ</span>
+                </label>`
+              : ''}
+            ${questions.length
+              ? '<button class="button" type="button" data-action="reveal-answers">Kiểm tra</button>'
+              : ''}
+          </div>`
+        : ''}
+      <ol class="reading-passage" aria-live="polite">${passageHtml}</ol>
+      ${questions.length
+        ? `
+          <section class="reading-questions">
+            <h3>Câu hỏi</h3>
+            <ol>${questionItems}</ol>
+          </section>
+        `
+        : ''}
       ${renderNavigation(category, lesson.id)}
     </section>
   `;
@@ -452,8 +544,11 @@ async function renderLesson(category, lessonId) {
       const markdown = await fetchText(lesson.markdown);
       html = renderGrammarLayout(category, lesson, markdown);
     } else if (category === 'reading') {
-      const markdown = await fetchText(lesson.markdown);
-      html = renderReadingLayout(category, lesson, markdown);
+      if (!lesson.source) {
+        throw new Error('Không tìm thấy dữ liệu bài đọc.');
+      }
+      const readingData = await fetchJSON(lesson.source);
+      html = renderReadingLayout(category, lesson, readingData);
     } else if (category === 'quiz') {
       const quiz = await fetchJSON(lesson.source);
       html = renderQuizLayout(category, lesson, quiz.questions || []);
@@ -491,6 +586,68 @@ function attachLessonInteractions(category, lesson) {
   }
 
   if (category === 'vocabulary') {
+    const practiceToggle = container.querySelector('#practice-toggle');
+    const checkAnswersButton = container.querySelector('button[data-action="check-answers"]');
+    const wordDisplays = container.querySelectorAll('.word-display');
+    const wordInputs = container.querySelectorAll('.word-input');
+
+    const setPracticeMode = (enabled) => {
+      wordDisplays.forEach((display) => {
+        display.hidden = enabled;
+      });
+      wordInputs.forEach((input) => {
+        input.hidden = !enabled;
+      });
+      container.classList.toggle('practice-mode', Boolean(enabled));
+      if (enabled) {
+        const firstInput = wordInputs[0];
+        if (firstInput) {
+          firstInput.focus();
+        }
+      }
+    };
+
+    if (practiceToggle) {
+      practiceToggle.addEventListener('change', (event) => {
+        setPracticeMode(event.target.checked);
+      });
+      setPracticeMode(practiceToggle.checked);
+    } else {
+      setPracticeMode(false);
+    }
+
+    if (checkAnswersButton) {
+      checkAnswersButton.addEventListener('click', () => {
+        wordInputs.forEach((input) => {
+          const cell = input.closest('.word-cell');
+          if (!cell) return;
+          const answer = cell.getAttribute('data-answer') || '';
+          const normalizedInput = normalizeVocabularyValue(input.value);
+          let decodedAnswer = '';
+          try {
+            decodedAnswer = decodeURIComponent(answer);
+          } catch (error) {
+            decodedAnswer = answer;
+          }
+          const normalizedAnswer = normalizeVocabularyValue(decodedAnswer);
+          if (normalizedInput === normalizedAnswer && normalizedAnswer) {
+            cell.classList.remove('is-incorrect');
+          } else {
+            cell.classList.add('is-incorrect');
+          }
+        });
+      });
+    }
+
+    wordInputs.forEach((input) => {
+      input.addEventListener('input', () => {
+        const cell = input.closest('.word-cell');
+        if (cell) {
+          cell.classList.remove('is-incorrect');
+        }
+      });
+    });
+
     container.querySelectorAll('button[data-say]').forEach((button) => {
       button.addEventListener('click', () => {
         const text = decodeURIComponent(button.getAttribute('data-say'));
@@ -504,6 +661,36 @@ function attachLessonInteractions(category, lesson) {
         }
       });
     });
+  }
+
+  if (category === 'reading') {
+    const bilingualToggle = container.querySelector('#bilingual-toggle');
+    const translations = container.querySelectorAll('.reading-translation');
+    const checkButton = container.querySelector('button[data-action="reveal-answers"]');
+    const answers = container.querySelectorAll('.question-answer');
+
+    const setBilingual = (enabled) => {
+      translations.forEach((translation) => {
+        translation.hidden = !enabled;
+      });
+      container.classList.toggle('bilingual-mode', Boolean(enabled));
+    };
+
+    if (bilingualToggle) {
+      bilingualToggle.addEventListener('change', (event) => {
+        setBilingual(event.target.checked);
+      });
+      setBilingual(bilingualToggle.checked);
+    }
+
+    if (checkButton) {
+      checkButton.addEventListener('click', () => {
+        answers.forEach((answer) => {
+          answer.hidden = false;
+        });
+        container.classList.add('showing-reading-answers');
+      });
+    }
   }
 
   if (category === 'grammar') {

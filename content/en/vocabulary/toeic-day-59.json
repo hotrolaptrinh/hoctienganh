@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 59 - Customer Service Excellence",
+  "words": [
+    {
+      "word": "service standard",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈstændəd/",
+      "meaning": "tiêu chuẩn dịch vụ"
+    },
+    {
+      "word": "customer touchpoint",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈtʌtʃpɔɪnt/",
+      "meaning": "điểm tương tác khách hàng"
+    },
+    {
+      "word": "service level agreement",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈlevl əˈɡriːmənt/",
+      "meaning": "cam kết mức dịch vụ"
+    },
+    {
+      "word": "first contact resolution",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fɜːst ˈkɒntækt ˌrezəˈluːʃn/",
+      "meaning": "giải quyết ngay lần đầu"
+    },
+    {
+      "word": "average handling time",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈævərɪdʒ ˈhændlɪŋ taɪm/",
+      "meaning": "thời gian xử lý trung bình"
+    },
+    {
+      "word": "customer satisfaction",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˌsætɪsˈfækʃn/",
+      "meaning": "mức độ hài lòng"
+    },
+    {
+      "word": "net promoter score",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/net prəˈməʊtə skɔː/",
+      "meaning": "chỉ số khuyến nghị"
+    },
+    {
+      "word": "customer effort score",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈefət skɔː/",
+      "meaning": "chỉ số nỗ lực khách hàng"
+    },
+    {
+      "word": "service recovery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs rɪˈkʌvəri/",
+      "meaning": "khôi phục dịch vụ"
+    },
+    {
+      "word": "complaint escalation",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kəmˈpleɪnt ˌeskəˈleɪʃn/",
+      "meaning": "leo thang khiếu nại"
+    },
+    {
+      "word": "call scripting",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kɔːl ˈskrɪptɪŋ/",
+      "meaning": "soạn kịch bản cuộc gọi"
+    },
+    {
+      "word": "empathetic listening",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌempəˈθetɪk ˈlɪsənɪŋ/",
+      "meaning": "lắng nghe thấu cảm"
+    },
+    {
+      "word": "tone of voice",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/təʊn əv vɔɪs/",
+      "meaning": "giọng điệu"
+    },
+    {
+      "word": "active assurance",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈæktɪv əˈʃʊərəns/",
+      "meaning": "trấn an chủ động"
+    },
+    {
+      "word": "ticketing system",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈtɪkɪtɪŋ ˈsɪstəm/",
+      "meaning": "hệ thống quản lý yêu cầu"
+    },
+    {
+      "word": "knowledge base",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈnɒlɪdʒ beɪs/",
+      "meaning": "kho kiến thức"
+    },
+    {
+      "word": "omnichannel",
+      "partOfSpeech": "adj.",
+      "ipa": "/ˈɒmnɪˌtʃænəl/",
+      "meaning": "đa kênh đồng nhất"
+    },
+    {
+      "word": "feedback loop",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈfiːdbæk luːp/",
+      "meaning": "vòng lặp phản hồi"
+    },
+    {
+      "word": "root cause analysis",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt kɔːz əˈnæləsɪs/",
+      "meaning": "phân tích nguyên nhân gốc"
+    },
+    {
+      "word": "customer churn",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə tʃɜːn/",
+      "meaning": "khách hàng rời bỏ"
+    },
+    {
+      "word": "retention strategy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtenʃn ˈstrætədʒi/",
+      "meaning": "chiến lược giữ chân"
+    },
+    {
+      "word": "loyalty tier",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈlɔɪəlti tɪə/",
+      "meaning": "hạng thành viên"
+    },
+    {
+      "word": "voice of customer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/vɔɪs əv ˈkʌstəmə/",
+      "meaning": "tiếng nói khách hàng"
+    },
+    {
+      "word": "experience audit",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ɪkˈspɪəriəns ˈɔːdɪt/",
+      "meaning": "đánh giá trải nghiệm"
+    },
+    {
+      "word": "service excellence",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsɜːvɪs ˈeksələns/",
+      "meaning": "xuất sắc dịch vụ"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "topic": "TOEIC Day 45 - Data Analytics & Business Intelligence",
+  "words": [
+    {"word": "data analytics", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˌænəˈlɪtɪks/", "meaning": "phân tích dữ liệu"},
+    {"word": "business intelligence", "partOfSpeech": "n. phr.", "ipa": "/ˈbɪznəs ɪnˈtelɪdʒəns/", "meaning": "trí tuệ doanh nghiệp"},
+    {"word": "dashboard", "partOfSpeech": "n.", "ipa": "/ˈdæʃbɔːd/", "meaning": "bảng điều khiển"},
+    {"word": "key performance indicator", "partOfSpeech": "n. phr.", "ipa": "/ˌkiː pəˈfɔːməns ˈɪndɪkeɪtə/", "meaning": "chỉ số hiệu suất chính"},
+    {"word": "data pipeline", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈpaɪplaɪn/", "meaning": "chuỗi xử lý dữ liệu"},
+    {"word": "data warehouse", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈweəhaʊs/", "meaning": "kho dữ liệu"},
+    {"word": "data lake", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə leɪk/", "meaning": "hồ dữ liệu"},
+    {"word": "ETL process", "partOfSpeech": "n. phr.", "ipa": "/ˌiː tiː ˈɛl ˈprəʊsɛs/", "meaning": "quy trình trích xuất-biến đổi-nạp"},
+    {"word": "data cleansing", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈklɛnzɪŋ/", "meaning": "làm sạch dữ liệu"},
+    {"word": "data enrichment", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ɪnˈrɪtʃmənt/", "meaning": "bổ sung dữ liệu"},
+    {"word": "data modeling", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈmɒdəlɪŋ/", "meaning": "mô hình hóa dữ liệu"},
+    {"word": "data visualization", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˌvɪʒuəlaɪˈzeɪʃn/", "meaning": "trực quan hóa dữ liệu"},
+    {"word": "predictive analytics", "partOfSpeech": "n. phr.", "ipa": "/prɪˈdɪktɪv ˌænəˈlɪtɪks/", "meaning": "phân tích dự đoán"},
+    {"word": "descriptive analytics", "partOfSpeech": "n. phr.", "ipa": "/dɪˈskrɪptɪv ˌænəˈlɪtɪks/", "meaning": "phân tích mô tả"},
+    {"word": "prescriptive analytics", "partOfSpeech": "n. phr.", "ipa": "/prɪˈskrɪptɪv ˌænəˈlɪtɪks/", "meaning": "phân tích đề xuất"},
+    {"word": "real-time data", "partOfSpeech": "n. phr.", "ipa": "/ˈrɪəl taɪm ˈdeɪtə/", "meaning": "dữ liệu thời gian thực"},
+    {"word": "data mining", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈmaɪnɪŋ/", "meaning": "khai phá dữ liệu"},
+    {"word": "exploratory analysis", "partOfSpeech": "n. phr.", "ipa": "/ɪkˈsplɒrətəri əˈnæləsɪs/", "meaning": "phân tích khám phá"},
+    {"word": "cohort analysis", "partOfSpeech": "n. phr.", "ipa": "/ˈkəʊhɔːt əˈnæləsɪs/", "meaning": "phân tích nhóm"},
+    {"word": "customer segmentation", "partOfSpeech": "n. phr.", "ipa": "/ˈkʌstəmə ˌsɛɡmɛnˈteɪʃn/", "meaning": "phân khúc khách hàng"},
+    {"word": "churn rate", "partOfSpeech": "n. phr.", "ipa": "/tʃɜːn reɪt/", "meaning": "tỷ lệ rời bỏ"},
+    {"word": "anomaly detection", "partOfSpeech": "n. phr.", "ipa": "/əˈnɒməli dɪˈtɛkʃn/", "meaning": "phát hiện bất thường"},
+    {"word": "SQL query", "partOfSpeech": "n. phr.", "ipa": "/ˌɛs kjuː ˈɛl ˈkwɪəri/", "meaning": "truy vấn SQL"},
+    {"word": "self-service analytics", "partOfSpeech": "n. phr.", "ipa": "/self ˈsɜːvɪs ˌænəˈlɪtɪks/", "meaning": "phân tích tự phục vụ"},
+    {"word": "data storytelling", "partOfSpeech": "n. phr.", "ipa": "/ˈdeɪtə ˈstɔːrɪˌtɛlɪŋ/", "meaning": "kể chuyện bằng dữ liệu"}
+  ]
+}

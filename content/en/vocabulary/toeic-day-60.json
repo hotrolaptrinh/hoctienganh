@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 60 - Logistics & Distribution",
+  "words": [
+    {
+      "word": "distribution network",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌdɪstrɪˈbjuːʃn ˈnetwɜːk/",
+      "meaning": "mạng lưới phân phối"
+    },
+    {
+      "word": "warehouse management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈweəhaʊs ˈmænɪdʒmənt/",
+      "meaning": "quản lý kho"
+    },
+    {
+      "word": "slotting",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈslɒtɪŋ/",
+      "meaning": "bố trí vị trí hàng"
+    },
+    {
+      "word": "pick and pack",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pɪk ænd pæk/",
+      "meaning": "soạn và đóng gói"
+    },
+    {
+      "word": "order fulfillment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdə fʊlˈfɪlmənt/",
+      "meaning": "hoàn tất đơn hàng"
+    },
+    {
+      "word": "cycle count",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈsaɪkl kaʊnt/",
+      "meaning": "kiểm kê luân phiên"
+    },
+    {
+      "word": "bill of lading",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɪl əv ˈleɪdɪŋ/",
+      "meaning": "vận đơn"
+    },
+    {
+      "word": "freight forwarder",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/freɪt ˈfɔːwədə/",
+      "meaning": "đại lý giao nhận"
+    },
+    {
+      "word": "less-than-truckload",
+      "partOfSpeech": "adj.",
+      "ipa": "/ˌles ðən ˈtrʌkləʊd/",
+      "meaning": "chở ghép"
+    },
+    {
+      "word": "full truckload",
+      "partOfSpeech": "adj.",
+      "ipa": "/fʊl ˈtrʌkləʊd/",
+      "meaning": "chở nguyên xe"
+    },
+    {
+      "word": "route optimization",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ruːt ˌɒptɪmaɪˈzeɪʃn/",
+      "meaning": "tối ưu tuyến đường"
+    },
+    {
+      "word": "dispatch",
+      "partOfSpeech": "n./v.",
+      "ipa": "/dɪˈspætʃ/",
+      "meaning": "điều phối"
+    },
+    {
+      "word": "loading dock",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈləʊdɪŋ dɒk/",
+      "meaning": "bến bốc dỡ"
+    },
+    {
+      "word": "pallet",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈpælɪt/",
+      "meaning": "tấm kê hàng"
+    },
+    {
+      "word": "shrink wrap",
+      "partOfSpeech": "n./v.",
+      "ipa": "/ʃrɪŋk ræp/",
+      "meaning": "màng co"
+    },
+    {
+      "word": "customs broker",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmz ˈbrəʊkə/",
+      "meaning": "đại lý hải quan"
+    },
+    {
+      "word": "duty drawback",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdjuːti ˈdrɔːbæk/",
+      "meaning": "hoàn thuế nhập khẩu"
+    },
+    {
+      "word": "bonded warehouse",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbɒndɪd ˈweəhaʊs/",
+      "meaning": "kho ngoại quan"
+    },
+    {
+      "word": "delivery manifest",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈlɪvəri ˈmænɪfest/",
+      "meaning": "bảng kê giao hàng"
+    },
+    {
+      "word": "proof of delivery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/pruːf əv dɪˈlɪvəri/",
+      "meaning": "biên bản giao nhận"
+    },
+    {
+      "word": "fleet management",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fliːt ˈmænɪdʒmənt/",
+      "meaning": "quản lý đội xe"
+    },
+    {
+      "word": "telematics",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌtelɪˈmætɪks/",
+      "meaning": "viễn thông vận tải"
+    },
+    {
+      "word": "backhaul",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈbækˌhɔːl/",
+      "meaning": "chuyến quay đầu"
+    },
+    {
+      "word": "delivery window",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/dɪˈlɪvəri ˈwɪndəʊ/",
+      "meaning": "khung giờ giao"
+    },
+    {
+      "word": "damage claim",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈdæmɪdʒ kleɪm/",
+      "meaning": "khiếu nại hư hỏng"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "topic": "TOEIC Day 50 - Retail & E-commerce Operations",
+  "words": [
+    {
+      "word": "omnichannel",
+      "partOfSpeech": "adj.",
+      "ipa": "/ˈɒmnɪˌtʃænəl/",
+      "meaning": "đa kênh"
+    },
+    {
+      "word": "e-commerce platform",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌiː ˈkɒmɜːs ˈplætfɔːm/",
+      "meaning": "nền tảng thương mại điện tử"
+    },
+    {
+      "word": "online storefront",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɒnlaɪn ˈstɔːfrʌnt/",
+      "meaning": "gian hàng trực tuyến"
+    },
+    {
+      "word": "shopping cart",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈʃɒpɪŋ kɑːt/",
+      "meaning": "giỏ mua hàng"
+    },
+    {
+      "word": "conversion rate",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/kənˈvɜːʃn reɪt/",
+      "meaning": "tỷ lệ chuyển đổi"
+    },
+    {
+      "word": "average order value",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈævərɪdʒ ˈɔːdə ˈvæljuː/",
+      "meaning": "giá trị đơn hàng trung bình"
+    },
+    {
+      "word": "customer lifetime value",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈlaɪftaɪm ˈvæljuː/",
+      "meaning": "giá trị vòng đời khách hàng"
+    },
+    {
+      "word": "inventory turnover",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɪnvəntri ˈtɜːnəʊvə/",
+      "meaning": "vòng quay hàng tồn kho"
+    },
+    {
+      "word": "SKU",
+      "partOfSpeech": "n.",
+      "ipa": "/ˌes keɪ ˈjuː/",
+      "meaning": "mã sản phẩm"
+    },
+    {
+      "word": "replenishment",
+      "partOfSpeech": "n.",
+      "ipa": "/rɪˈplɛnɪʃmənt/",
+      "meaning": "bổ sung hàng hóa"
+    },
+    {
+      "word": "fulfillment center",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/fʊlˈfɪlmənt ˈsentə/",
+      "meaning": "trung tâm hoàn tất đơn hàng"
+    },
+    {
+      "word": "order processing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈɔːdə ˈprəʊsɛsɪŋ/",
+      "meaning": "xử lý đơn hàng"
+    },
+    {
+      "word": "last-mile delivery",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/lɑːst maɪl dɪˈlɪvəri/",
+      "meaning": "giao hàng chặng cuối"
+    },
+    {
+      "word": "click-and-collect",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˌklɪk ən kəˈlekt/",
+      "meaning": "đặt online nhận tại cửa hàng"
+    },
+    {
+      "word": "payment gateway",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈpeɪmənt ˈɡeɪtweɪ/",
+      "meaning": "cổng thanh toán"
+    },
+    {
+      "word": "fraud prevention",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/frɔːd prɪˈvenʃn/",
+      "meaning": "phòng chống gian lận"
+    },
+    {
+      "word": "return policy",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/rɪˈtɜːn ˈpɒləsi/",
+      "meaning": "chính sách đổi trả"
+    },
+    {
+      "word": "customer loyalty program",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈkʌstəmə ˈlɔɪəlti ˈprəʊɡræm/",
+      "meaning": "chương trình khách hàng thân thiết"
+    },
+    {
+      "word": "promotion calendar",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/prəˈməʊʃn ˈkælɪndə/",
+      "meaning": "lịch khuyến mãi"
+    },
+    {
+      "word": "merchandising",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈmɜːtʃəndaɪzɪŋ/",
+      "meaning": "trưng bày bán hàng"
+    },
+    {
+      "word": "planogram",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈplænəɡræm/",
+      "meaning": "sơ đồ trưng bày"
+    },
+    {
+      "word": "product assortment",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈprɒdʌkt əˈsɔːtmənt/",
+      "meaning": "cơ cấu mặt hàng"
+    },
+    {
+      "word": "dynamic pricing",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/daɪˈnæmɪk ˈpraɪsɪŋ/",
+      "meaning": "định giá linh hoạt"
+    },
+    {
+      "word": "bundle offer",
+      "partOfSpeech": "n. phr.",
+      "ipa": "/ˈbʌndl ˈɒfə/",
+      "meaning": "ưu đãi gộp"
+    },
+    {
+      "word": "markdown",
+      "partOfSpeech": "n.",
+      "ipa": "/ˈmɑːkdaʊn/",
+      "meaning": "giảm giá"
+    }
+  ]
+}
