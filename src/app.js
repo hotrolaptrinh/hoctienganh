@@ -36,6 +36,14 @@ function formatPartOfSpeech(value = '') {
   return partOfSpeechMap[key] || value;
 }
 
+function normalizeVocabularyValue(value = '') {
+  return String(value || '')
+    .normalize('NFC')
+    .trim()
+    .toLowerCase()
+    .replace(/\s+/g, '');
+}
+
 function getLessonButtonLabel(status) {
   return status === 'đang học' ? 'Đang học' : 'Bắt đầu';
 }
@@ -299,14 +307,36 @@ function renderNavigation(category, lessonId) {
 function renderVocabularyLayout(category, lesson, data, markdown) {
   const tableRows = data
     .map(
-      (item) => `
+      (item, index) => {
+        const rawWord = item.word || '';
+        const word = escapeHtml(rawWord);
+        const encodedAnswer = encodeURIComponent(rawWord);
+        const partOfSpeech = escapeHtml(formatPartOfSpeech(item.partOfSpeech));
+        const ipa = escapeHtml(item.ipa || '');
+        const meaning = escapeHtml(item.meaning || '');
+        const inputId = `practice-word-${lesson.id}-${index}`;
+        return `
       <tr>
-        <td>${item.word}</td>
-        <td>${formatPartOfSpeech(item.partOfSpeech)}</td>
-        <td><a data-say="${encodeURIComponent(item.word)}" href="javascript:void(0)">${item.ipa}</a></td>
-        <td>${item.meaning}</td>
+        <td class="word-cell" data-answer="${encodedAnswer}">
+          <span class="word-display">${word}</span>
+          <label class="sr-only" for="${inputId}">Nhập từ vựng</label>
+          <input
+            class="word-input"
+            id="${inputId}"
+            type="text"
+            autocomplete="off"
+            autocapitalize="none"
+            spellcheck="false"
+            hidden
+          />
+        </td>
+        <td>${partOfSpeech}</td>
+        <td>${ipa}</td>
+        <td>${meaning}</td>
+        <td><button class="button secondary" data-say="${encodeURIComponent(item.word)}">Đọc</button></td>
       </tr>
-    `,
+    `;
+      },
     )
     .join('');
 
@@ -316,6 +346,13 @@ function renderVocabularyLayout(category, lesson, data, markdown) {
         <h2>${lesson.title}</h2>
       </div>
       <p>${lesson.description || ''}</p>
+      <div class="practice-controls">
+        <label class="practice-switch">
+          <input type="checkbox" id="practice-toggle" />
+          <span>Luyện tập nhập từ vựng</span>
+        </label>
+        <button class="button" type="button" data-action="check-answers">Kiểm tra</button>
+      </div>
       <div class="table-scroll">
         <table class="vocabulary">
           <colgroup>
@@ -479,7 +516,69 @@ function attachLessonInteractions(category, lesson) {
   }
 
   if (category === 'vocabulary') {
-    container.querySelectorAll('a[data-say]').forEach((button) => {
+    const practiceToggle = container.querySelector('#practice-toggle');
+    const checkAnswersButton = container.querySelector('button[data-action="check-answers"]');
+    const wordDisplays = container.querySelectorAll('.word-display');
+    const wordInputs = container.querySelectorAll('.word-input');
+
+    const setPracticeMode = (enabled) => {
+      wordDisplays.forEach((display) => {
+        display.hidden = enabled;
+      });
+      wordInputs.forEach((input) => {
+        input.hidden = !enabled;
+      });
+      container.classList.toggle('practice-mode', Boolean(enabled));
+      if (enabled) {
+        const firstInput = wordInputs[0];
+        if (firstInput) {
+          firstInput.focus();
+        }
+      }
+    };
+
+    if (practiceToggle) {
+      practiceToggle.addEventListener('change', (event) => {
+        setPracticeMode(event.target.checked);
+      });
+      setPracticeMode(practiceToggle.checked);
+    } else {
+      setPracticeMode(false);
+    }
+
+    if (checkAnswersButton) {
+      checkAnswersButton.addEventListener('click', () => {
+        wordInputs.forEach((input) => {
+          const cell = input.closest('.word-cell');
+          if (!cell) return;
+          const answer = cell.getAttribute('data-answer') || '';
+          const normalizedInput = normalizeVocabularyValue(input.value);
+          let decodedAnswer = '';
+          try {
+            decodedAnswer = decodeURIComponent(answer);
+          } catch (error) {
+            decodedAnswer = answer;
+          }
+          const normalizedAnswer = normalizeVocabularyValue(decodedAnswer);
+          if (normalizedInput === normalizedAnswer && normalizedAnswer) {
+            cell.classList.remove('is-incorrect');
+          } else {
+            cell.classList.add('is-incorrect');
+          }
+        });
+      });
+    }
+
+    wordInputs.forEach((input) => {
+      input.addEventListener('input', () => {
+        const cell = input.closest('.word-cell');
+        if (cell) {
+          cell.classList.remove('is-incorrect');
+        }
+      });
+    });
+
+    container.querySelectorAll('button[data-say]').forEach((button) => {
       button.addEventListener('click', () => {
         const text = decodeURIComponent(button.getAttribute('data-say'));
         if ('speechSynthesis' in window) {
