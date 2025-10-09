@@ -5,15 +5,27 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>LinguaBox</title>
     <link rel="stylesheet" href="assets/styles.css" />
-  <link rel="manifest" href="/manifest.json" />
-  <meta name="theme-color" content="#0d6efd" />
-  <meta name="mobile-web-app-capable" content="yes" />
-  <link rel="apple-touch-icon" href="/assets/icons/icon-192.svg" />
-    <meta name="description" content="App học ngoại ngữ mã nguồn mở, không quảng cáo, miễn phí cho mục đích phi thương mại. Bài học ngắn, luyện tập từ vựng, ngữ pháp và đọc hiểu — phù hợp cho người bận rộn muốn cải thiện tiếng Anh hàng ngày." />
-    <meta name="keywords" content="học tiếng anh, app học ngoại ngữ, học từ vựng, ngữ pháp, đọc hiểu, offline, mã nguồn mở, không quảng cáo" />
+    <link rel="manifest" href="/manifest.json" />
+    <meta name="theme-color" content="#0d6efd" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <link rel="apple-touch-icon" href="/assets/icons/icon-192.svg" />
+    <meta
+      name="description"
+      content="App học ngoại ngữ mã nguồn mở, không quảng cáo, miễn phí cho mục đích phi thương mại. Bài học ngắn, luyện tập từ vựng, ngữ pháp và đọc hiểu — phù hợp cho người bận rộn muốn cải thiện tiếng Anh hàng ngày."
+    />
+    <meta
+      name="keywords"
+      content="học tiếng anh, app học ngoại ngữ, học từ vựng, ngữ pháp, đọc hiểu, offline, mã nguồn mở, không quảng cáo"
+    />
     <link rel="canonical" href="/" />
-    <meta property="og:title" content="LinguaBox - Ứng dụng học ngoại ngữ mã nguồn mở" />
-    <meta property="og:description" content="App học ngoại ngữ mã nguồn mở, không quảng cáo và miễn phí cho mục đích phi thương mại. Hàng trăm bài học từ vựng, ngữ pháp và bài đọc—học offline với PWA." />
+    <meta
+      property="og:title"
+      content="LinguaBox - Ứng dụng học ngoại ngữ mã nguồn mở"
+    />
+    <meta
+      property="og:description"
+      content="App học ngoại ngữ mã nguồn mở, không quảng cáo và miễn phí cho mục đích phi thương mại. Hàng trăm bài học từ vựng, ngữ pháp và bài đọc—học offline với PWA."
+    />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="/" />
     <meta property="og:image" content="/assets/icons/icon-512.svg" />
@@ -21,8 +33,31 @@
   <body>
     <div class="app">
       <div id="app" class="container"></div>
-      <footer style="text-align:center; margin-top:18px; font-size:0.9rem; color:var(--muted);">
-        <div>Licensing: This project is available under a Creative Commons Attribution-NonCommercial 4.0 International License. <a href="/LICENSE">View license</a>.</div>
+      <footer
+        style="
+          text-align: center;
+          margin-top: 18px;
+          font-size: 0.9rem;
+          color: var(--muted);
+        "
+      >
+        <div>
+          <svg
+            aria-hidden="true"
+            height="24"
+            viewBox="0 0 24 24"
+            version="1.1"
+            width="24"
+            data-view-component="true"
+            style="vertical-align: text-bottom; fill: var(--muted); width: 24px;"
+          >
+            <path
+              d="M12 1C5.923 1 1 5.923 1 12c0 4.867 3.149 8.979 7.521 10.436.55.096.756-.233.756-.522 0-.262-.013-1.128-.013-2.049-2.764.509-3.479-.674-3.699-1.292-.124-.317-.66-1.293-1.127-1.554-.385-.207-.936-.715-.014-.729.866-.014 1.485.797 1.691 1.128.99 1.663 2.571 1.196 3.204.907.096-.715.385-1.196.701-1.471-2.448-.275-5.005-1.224-5.005-5.432 0-1.196.426-2.186 1.128-2.956-.111-.275-.496-1.402.11-2.915 0 0 .921-.288 3.024 1.128a10.193 10.193 0 0 1 2.75-.371c.936 0 1.871.123 2.75.371 2.104-1.43 3.025-1.128 3.025-1.128.605 1.513.221 2.64.111 2.915.701.77 1.127 1.747 1.127 2.956 0 4.222-2.571 5.157-5.019 5.432.399.344.743 1.004.743 2.035 0 1.471-.014 2.654-.014 3.025 0 .289.206.632.756.522C19.851 20.979 23 16.854 23 12c0-6.077-4.922-11-11-11Z"
+            ></path>
+          </svg>
+          <a href="https://github.com/hotrolaptrinh/LinguaBox">HoTroLapTrinh</a
+          >.
+        </div>
       </footer>
     </div>
     <template id="loading-template">
