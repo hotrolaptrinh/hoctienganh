@@ -43,6 +43,6 @@ Bạn có thể chỉnh sửa hoặc bổ sung thêm bài học bằng cách c�
 
 Dự án này phân phối theo giấy phép Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0). Bạn có thể sao chép, chia sẻ và tùy biến mã nguồn cho mục đích phi thương mại khi vẫn giữ ghi nhận tác giả gốc. Xem file `LICENSE` để biết chi tiết.
 
-## Miêu tả SEO (tùy chỉnh)
+## Mô tả
 
 App học ngoại ngữ mã nguồn mở, không quảng cáo và miễn phí cho mục đích phi thương mại. LinguaBox cung cấp các bài học ngắn gọn về từ vựng, ngữ pháp, bài đọc và bài kiểm tra; hỗ trợ học offline qua PWA, thân thiện với người mới bắt đầu và người dùng bận rộn. Không có theo dõi người dùng hoặc quảng cáo, ưu tiên trải nghiệm học tập thuần túy.
