@@ -45,7 +45,17 @@ function normalizeVocabularyValue(value = '') {
 }
 
 function getLessonButtonLabel(status) {
-  return status === 'đang học' ? 'Đang học' : 'Bắt đầu';
+  if (status === 'hoàn thành') return 'Hoàn thành';
+  if (status === 'đang học') return 'Đang học';
+  return 'Bắt đầu';
+}
+
+function getButtonClassForStatus(status) {
+  // status can be '', 'đang học', 'hoàn thành'
+  if (!status) return 'status-start';
+  if (status === 'đang học') return 'status-inprogress';
+  if (status === 'hoàn thành') return 'status-complete';
+  return 'status-start';
 }
 
 const state = {
@@ -249,15 +259,13 @@ function renderTOC() {
       const cards = lessons
         .map((lesson) => {
           const status = getLessonStatus(categoryKey, lesson.id);
-          const badge = status === 'hoàn thành' ? '<span class="status">Hoàn thành</span>' : '';
-          const buttonLabel = getLessonButtonLabel(status);
+          const btnClass = getButtonClassForStatus(status);
           return `
             <article class="card">
-              ${badge ? badge : ''}
               <h3>${lesson.title}</h3>
               <p>${lesson.description || ''}</p>
               <div class="lesson-controls">
-                <a class="button" href="#/lesson/${categoryKey}/${lesson.id}">${buttonLabel}</a>
+                <a class="button ${btnClass}" href="#/lesson/${categoryKey}/${lesson.id}">${status === 'hoàn thành' ? 'Hoàn thành' : (status === 'đang học' ? 'Đang học' : 'Bắt đầu')}</a>
               </div>
             </article>
           `;
@@ -291,12 +299,17 @@ function renderNavigation(category, lessonId) {
   );
   const prev = state.flatLessons[currentIndex - 1];
   const next = state.flatLessons[currentIndex + 1];
+  const status = getLessonStatus(category, lessonId);
+  const centerClass = getButtonClassForStatus(status);
+  // center button is an action: if lesson is completed, show "Chưa hoàn thành" to allow unmarking;
+  // otherwise show "Hoàn thành" to mark it complete.
+  const centerLabel = status === 'hoàn thành' ? 'Chưa hoàn thành' : 'Hoàn thành';
   return `
     <div class="lesson-controls nav-controls">
       <a class="button secondary" href="${prev ? `#/lesson/${prev.category}/${prev.lesson.id}` : '#/'}" ${
         prev ? '' : 'aria-disabled="true" style="pointer-events:none; opacity:0.6;"'
       }>Prev</a>
-      <button class="button" data-action="complete">Hoàn thành</button>
+      <button class="button ${centerClass}" data-action="complete">${centerLabel}</button>
       <a class="button" href="${next ? `#/lesson/${next.category}/${next.lesson.id}` : '#/'}" ${
         next ? '' : 'aria-disabled="true" style="pointer-events:none; opacity:0.6;"'
       }>Next</a>
@@ -515,7 +528,9 @@ async function renderLesson(category, lessonId) {
     renderError('Không tìm thấy bài học.');
     return;
   }
-  updateProgress(category, lessonId, 'đang học');
+  // Only set 'đang học' if there's no existing status (don't overwrite 'hoàn thành')
+  const existingStatus = getLessonStatus(category, lessonId);
+  if (!existingStatus) updateProgress(category, lessonId, 'đang học');
   state.current = { category, lesson };
 
   renderLoading();
@@ -567,8 +582,15 @@ function attachLessonInteractions(category, lesson) {
   const completeButton = container.querySelector('button[data-action="complete"]');
   if (completeButton) {
     completeButton.addEventListener('click', () => {
-      updateProgress(category, lesson.id, 'hoàn thành');
-      alert('Đã đánh dấu hoàn thành!');
+      const current = getLessonStatus(category, lesson.id);
+      if (current === 'hoàn thành') {
+        // unmark completed -> clear status (set to empty)
+        updateProgress(category, lesson.id, '');
+        alert('Đã bỏ đánh dấu hoàn thành.');
+      } else {
+        updateProgress(category, lesson.id, 'hoàn thành');
+        alert('Đã đánh dấu hoàn thành!');
+      }
       renderLesson(category, lesson.id);
     });
   }
@@ -773,15 +795,14 @@ function renderCategoryOverview(category) {
   const cards = lessons
     .map((lesson) => {
       const status = getLessonStatus(category, lesson.id);
-      const badge = status === 'hoàn thành' ? '<span class="status">Hoàn thành</span>' : '';
-      const buttonLabel = getLessonButtonLabel(status);
+      const btnClass = getButtonClassForStatus(status);
+      const label = status === 'hoàn thành' ? 'Hoàn thành' : (status === 'đang học' ? 'Đang học' : 'Bắt đầu');
       return `
         <article class="card">
-          ${badge ? badge : ''}
           <h3>${lesson.title}</h3>
           <p>${lesson.description || ''}</p>
           <div class="lesson-controls">
-            <a class="button" href="#/lesson/${category}/${lesson.id}">${buttonLabel}</a>
+            <a class="button ${btnClass}" href="#/lesson/${category}/${lesson.id}">${label}</a>
           </div>
         </article>
       `;
@@ -823,3 +844,17 @@ async function init() {
 }
 
 init();
+
+// Register service worker for PWA support
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', () => {
+    navigator.serviceWorker
+      .register('/service-worker.js')
+      .then((reg) => {
+        console.log('Service worker registered.', reg);
+      })
+      .catch((err) => {
+        console.warn('Service worker registration failed:', err);
+      });
+  });
+}

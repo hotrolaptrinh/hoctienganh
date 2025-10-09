@@ -21,6 +21,12 @@
   --danger: #dc2626;
   --danger-bg: #fee2e2;
   --danger-bg-dark: rgba(252, 165, 165, 0.18);
+  --status-start: #2563eb; /* primary */
+  --status-start-hover: #1e40af;
+  --status-inprogress: #f59e0b; /* amber */
+  --status-inprogress-hover: #d97706;
+  --status-complete: #10b981; /* green */
+  --status-complete-hover: #059669;
 }
 
 * {
@@ -230,6 +236,34 @@ button.button {
   transition: background 0.2s ease;
 }
 
+/* Button variants based on lesson state */
+.button.status-start,
+.button.status-start:hover {
+  background: var(--status-start);
+  color: white;
+}
+.button.status-start:hover {
+  background: var(--status-start-hover);
+}
+
+.button.status-inprogress,
+.button.status-inprogress:hover {
+  background: var(--status-inprogress);
+  color: white;
+}
+.button.status-inprogress:hover {
+  background: var(--status-inprogress-hover);
+}
+
+.button.status-complete,
+.button.status-complete:hover {
+  background: var(--status-complete);
+  color: white;
+}
+.button.status-complete:hover {
+  background: var(--status-complete-hover);
+}
+
 a.button.secondary,
 button.button.secondary {
   background: #e5e7eb;
@@ -376,7 +410,7 @@ table.vocabulary td.word-cell {
 .word-input {
   width: 100%;
   padding: 6px 10px;
-  font-size: 0.95rem;
+  font-size: 0.85rem;
   border-radius: 8px;
   border: 1px solid var(--card-border);
   box-shadow: var(--shadow-soft);
